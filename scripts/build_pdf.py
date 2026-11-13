@@ -504,7 +504,7 @@ def postprocess_html_fragment(frag: str, link_citations: bool = True) -> str:
                     r"\[(\d{1,3})\]",
                     lambda cm: (
                         f'<a class="cite-ref" dir="ltr" href="#ref-{cm.group(1)}">[{cm.group(1)}]</a>'
-                        if 1 <= int(cm.group(1)) <= 130
+                        if 1 <= int(cm.group(1)) <= 137
                         else cm.group(0)
                     ),
                     part,
@@ -679,7 +679,7 @@ def colophon_card_html(cover_font_note: str) -> str:
     <ul>
       <li><strong>رسالة الوفاء والحياد:</strong> يفتتح هذا الكتاب أبوابه بفاتحة شكر وعرفان لجميع المعرِّبين العرب عبر أكثر من ثلاثة عقود (١٩٩٣ – ١٢ نوفمبر ٢٠٢٦)، ملتزماً بنقل القصة الكاملة لتعريب الألعاب وخلافاتها بحيادٍ تامٍّ دون انتصار لطرف على طرف.</li>
       <li><strong>البناء السردي الواضح:</strong> يسير الكتاب في بابين مستقلين: <strong>الباب الأول لرواية قصة البناء والمنجزات أولاً</strong> بتسلسلها الزمني الطبيعي، يليه <strong>الباب الثاني لتشريح الخلافات والإشكالات</strong> في سياقها التاريخي حتى لا يضلَّ القارئ في تشابك الأحداث.</li>
-      <li><strong>الفصل الصارم بين الوقائع والادعاءات:</strong> تُسند كل معلومة إلى مرجعها المرقَّم <span class="code-ltr" dir="ltr">[n]</span> في الثبت الببليوغرافي المكوَّن من ١٣٠ مرجعاً، مع التمييز الصريح بين <strong>الوقائع الثابتة بالوثائق الأولية</strong> و<strong>الادعاءات المنسوبة لأصحابها</strong>.</li>
+      <li><strong>الفصل الصارم بين الوقائع والادعاءات:</strong> تُسند كل معلومة إلى مرجعها المرقَّم <span class="code-ltr" dir="ltr">[n]</span> في الثبت الببليوغرافي المكوَّن من ١٣٧ مرجعاً، مع التمييز الصريح بين <strong>الوقائع الثابتة بالوثائق الأولية</strong> و<strong>الادعاءات المنسوبة لأصحابها</strong>.</li>
       <li><strong>دقة التوصيف:</strong> التزم الكتاب بتحرير طبيعة كل فاعل بدقة (التمييز بين الفرق الجماعية البشرية مثل «الحلم المتجدد» و«خارقو العادة» و«آفاق التعريب»، والصنّاع الأفراد في المنهج الهجين مثل عذبي <span class="code-ltr" dir="ltr">@athbistudio</span> مؤسس <span class="code-ltr" dir="ltr">2dq8</span> و<span class="code-ltr" dir="ltr">AthbiStudio</span>، والمطورين الأفراد العاملين بالذكاء الاصطناعي الكامل مثل هشام <span class="code-ltr" dir="ltr">@Arabic_Hesham</span> و«ص» <span class="code-ltr" dir="ltr">@sbalhatlani</span> الذي أعاد عام ٢٠٢٢ تأسيس «شبكة ترس» في طورها الحديث <span class="code-ltr" dir="ltr">Ters.co</span> بعد أن أسّس عذبي طورها القديم <span class="code-ltr" dir="ltr">TersNetwork</span>).</li>
     </ul>
     <dl class="colophon-facts">
@@ -796,10 +796,10 @@ def collect_book_parts(plate_src=None):
         "refs", "sec_references", "appendix", "قائمة المراجع والمصادر الموثقة",
         text_section(
             "refs", "sec_references", "الثبت الببليوغرافي", "قائمة المراجع والمصادر الموثقة",
-            "١٣٠ مرجعاً أولياً وثانوياً مع الروابط الكاملة ونسخ الأرشيف وتاريخ التحقق (١٢ نوفمبر ٢٠٢٦)",
+            "١٣٧ مرجعاً أولياً وثانوياً مع الروابط الكاملة ونسخ الأرشيف وتاريخ التحقق (١٢–١٣ نوفمبر ٢٠٢٦)",
             format_references_html(ref_body), "references-section",
         ),
-        "المراجع", "قائمة المراجع والمصادر الموثقة ([1] – [130])", "قائمة المراجع والمصادر الموثقة", ref_h2,
+        "المراجع", "قائمة المراجع والمصادر الموثقة ([1] – [137])", "قائمة المراجع والمصادر الموثقة", ref_h2,
     )
 
     return sections, outline, chunks

@@ -1,0 +1,169 @@
+URL: https://github.com/DiNaSoR/WoWAR_Chat
+Captured: 2026-11-13 22:58 (Asia/Kuwait)
+HTTP: 200
+
+Skip to content
+Navigation Menu
+Products
+Developers
+Businesses
+Resources
+Pricing
+Search
+/
+Sign in
+Sign up
+DiNaSoR
+WoWAR_Chat
+Repository navigation
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security and quality
+Insights
+WoWAR_Chat
+Public
+Notifications
+Fork0
+ (0)
+Star0
+ (0)
+main
+1 Branch
+1 Tag
+Code
+Latest commit
+DiNaSoR
+Update spaces variable to include additional characters
+4b1180c
+ · 
+History
+43 Commits
+Folders and files
+Name	Last commit message	Last commit date
+
+.github
+	
+Create release-notes.yml
+	
+
+
+Fonts
+	
+0.3 ready
+	
+
+
+Img
+	
+Delete unnecessary files and update addon name
+	
+
+
+Others
+	
+Delete unnecessary files and update addon name
+	
+
+
+.gitattributes
+	
+Initial commit
+	
+
+
+README.md
+	
+Delete unnecessary files and update addon name
+	
+
+
+WoWAR_ARLib.lua
+	
+Delete unnecessary files and update addon name
+	
+
+
+WoWAR_Chat.lua
+	
+Update spaces variable to include additional characters
+	
+
+
+WoWAR_Chat.toc
+	
+Delete unnecessary files and update addon name
+	
+Repository files navigation
+README
+WoWAR_Chat
+
+This is an addon for the MMORPG World of Warcraft that supports chat in Arabic.
+
+Features
+The addon allows players to enter and display messages in Arabic
+The addon is equipped with special fonts that display Arabic characters correctly
+The chat text is aligned to the right side, as per the traditional writing style of the Arabic language
+The cursor is shifted to the right after entering each letter to reflect the traditional typing style for Arabic text
+Author
+Platine (email: platine.wow@gmail.com)
+Special thanks to DragonArab for helping to create letter reshaping rules
+Version
+Version: 10.00, released on 2023.02.07
+Technical Details
+
+The addon is implemented in Lua and makes use of the following functions:
+
+CH_Check_Arabic_Letters(txt): checks if a given text string contains Arabic letters
+CH_ChatFilter(self, event, arg1, arg2, arg3, _, arg5, ...): filters chat messages and displays them in the desired format, using the specified font and alignment
+Limitations
+
+The current version of the addon has the following limitations:
+
+Only works in World of Warcraft
+Supports only the Arabic language
+Conclusion
+
+This addon provides a convenient way for World of Warcraft players who prefer to communicate in Arabic to do so within the game. It is simple to use and enhances the player's overall gaming experience.
+
+About
+
+Addon for WoW to display & enter Arabic chat messages.
+
+Resources
+Readme
+Activity
+Stars
+0 stars
+Watchers
+0 watching
+Forks
+0 forks
+Report repository
+Releases
+1
+ (1)
+WoWinArabic-Chat
+Latest
+Contributors
+1
+ (1)
+DiNaSoRBuYousef
+Languages
+Lua
+100%
+Footer
+© 2026 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Community
+Docs
+Contact
+Manage cookies
+Do not share my personal information

@@ -1,0 +1,151 @@
+URL: https://github.com/DiNaSoR/alm3rb
+Captured: 2026-11-13 22:30 (Asia/Kuwait)
+HTTP: 200
+
+Skip to content
+Navigation Menu
+Products
+Developers
+Businesses
+Resources
+Pricing
+Search
+/
+Sign in
+Sign up
+DiNaSoR
+alm3rb
+Repository navigation
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security and quality
+Insights
+alm3rb
+Public
+Notifications
+Fork0
+ (0)
+Star0
+ (0)
+main
+1 Branch
+0 Tags
+Code
+Latest commit
+DiNaSoR
+Trying to update to windows 11
+71ecf14
+ · 
+History
+3 Commits
+Folders and files
+Name	Last commit message	Last commit date
+
+.vs/Converter4/v17
+	
+Trying to update to windows 11
+	
+
+
+Backup
+	
+v1.0
+	
+
+
+Backup1
+	
+Trying to update to windows 11
+	
+
+
+Converter4
+	
+Trying to update to windows 11
+	
+
+
+_UpgradeReport_Files
+	
+v1.0
+	
+
+
+Converter4.sln
+	
+Trying to update to windows 11
+	
+
+
+README.md
+	
+Initial commit
+	
+
+
+UpgradeLog.XML
+	
+v1.0
+	
+
+
+UpgradeLog.htm
+	
+Trying to update to windows 11
+	
+
+
+UpgradeLog2.XML
+	
+v1.0
+	
+Repository files navigation
+README
+alm3rb
+
+Software to help translate Console games into Arabic a fast way.
+
+About
+
+Software to help translate Console games into Arabic a fast way.
+
+Resources
+Readme
+Activity
+Stars
+0 stars
+Watchers
+1 watching
+Forks
+0 forks
+Report repository
+Releases
+No releases published
+Contributors
+1
+ (1)
+DiNaSoRBuYousef
+Languages
+C#
+50.3%
+HTML
+37.5%
+XSLT
+9.7%
+CSS
+2.5%
+Footer
+© 2026 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Community
+Docs
+Contact
+Manage cookies
+Do not share my personal information

@@ -1,0 +1,215 @@
+URL: https://github.com/DiNaSoR/WoWLang
+Captured: 2026-11-13 23:58 (Asia/Kuwait)
+HTTP: 200
+Redacted: personal e-mail address hidden ([محجوب]) at the subject's request
+
+Skip to content
+Navigation Menu
+Products
+Developers
+Businesses
+Resources
+Pricing
+Search
+/
+Sign in
+Sign up
+DiNaSoR
+WoWLang
+Repository navigation
+Code
+Issues
+Pull requests
+1
+ (1)
+Actions
+Projects
+Wiki
+Security and quality
+Insights
+WoWLang
+Public
+Notifications
+Fork0
+ (0)
+Star1
+ (1)
+main
+6 Branches
+17 Tags
+Code
+Latest commit
+DiNaSoR
+feat: add utility functions for FontString layout and Bronze Timekeep…
+6129fbf
+ · 
+History
+429 Commits
+Folders and files
+Name	Last commit message	Last commit date
+
+.github/workflows
+	
+[fix] fix release BOM char
+	
+
+
+WoWAR
+	
+Merge pull request #6 from DiNaSoR/46pnil-codex/modularize-wow_quests…
+	
+
+
+WoWHU
+	
+refactor: move quest addon integrations into plugins
+	
+
+
+WoWJP
+	
+refactor: move quest addon integrations into plugins
+	
+
+
+WoWPL
+	
+refactor: move quest addon integrations into plugins
+	
+
+
+WoWTR
+	
+refactor: move quest addon integrations into plugins
+	
+
+
+WoWUA
+	
+refactor: move quest addon integrations into plugins
+	
+
+
+common
+	
+feat: add utility functions for FontString layout and Bronze Timekeep…
+	
+
+
+.gitignore
+	
+[up] NEW FEATURE PLUGINs
+	
+
+
+LICENSE
+	
+Initial commit
+	
+
+
+README.md
+	
+[test] Add sparkle emoji to supported languages heading
+	
+Repository files navigation
+README
+GPL-3.0 license
+WoW-Lang - Experience WoW in Your Language! 🌍🎮
+🌍 Supported Languages [AR,PL,TR,UA,HU,JP] ✨
+⚠️ Not supported by Blizzard ⚠️
+
+Welcome to the official repository for WoW-Lang, a comprehensive project dedicated to translating World of Warcraft's vast content into multiple languages, not supported by Blizzard. Our goal is to make the game accessible and enjoyable for players around the world, no matter what language they speak.
+
+Features 🌟
+
+WoW-Lang offers a suite of modules that translate various aspects of the game, including:
+
+🗺️ Quests: Fully translated quest titles, descriptions, objectives, and rewards.
+💬 Speech Bubbles: Understand what NPCs are saying with translated speech bubbles.
+🎥 Movie Subtitles: Enjoy cinematics and in-game movies with translated subtitles.
+📚 Tutorials: Learn the game mechanics with translated tutorials and help tips.
+🖥️ User Interface: Navigate menus and tooltips with translated text.
+📖 Books: Immerse yourself in the lore with translated in-game books.
+
+Installation 📥
+Download the specific language addon you need (such as WoWAR for Arabic, WoWPL for Polish, or WoWTR for Turkish) from CurseForge or from the Releases page on GitHub.
+Extract the downloaded zip file into your WoW Interface/AddOns directory.
+Launch World of Warcraft and enable the specific language addon (WoWAR, WoWPL, WoWTR, etc.) in the AddOns menu.
+Configuration ⚙️
+
+Each language addon offers a comprehensive configuration panel accessible through the game's interface options. You can customize:
+
+Addon activation for different modules (quests, bubbles, subtitles, etc.)
+Font size for translated text
+Saving untranslated texts to contribute to the project
+Integration with other popular addons like Immersion, StoryLine, and Classic Quest Log
+Contributing 🤝
+
+We encourage everyone to contribute to WoW-Lang! Here are some ways you can help:
+
+🌐 Translate missing texts: Help us complete the translation database by translating untranslated texts saved by the addon.
+🐛 Report bugs: If you encounter any issues or errors, please report them in the Issues section of this repository.
+📢 Spread the word: Help us reach more players by sharing WoW-Lang with your friends and communities.
+
+Support 💬
+Discord: Join our WoWpoPolsku, WoWTR, WoWAR discord servers for discussions, help, and updates.
+Email: Contact us at platine.wow@gmail.com / hknylmz@gmail.com / [محجوب] for any questions or inquiries.
+Credits 🌟
+Platine: Lead developer and author.
+Dragonarab: Co-author and Arabic reshaper for Lua creator.
+Hakan YILMAZ: Co-author.
+All our testers and contributors: Thank you for your valuable contributions to the project.
+License 📜
+
+This project is licensed under the MIT License.
+
+Releases 📥
+
+Check out the latest releases on our Releases page on GitHub.
+
+Happy questing! 🌟
+
+About
+
+WoWLang is a unified World of Warcraft addon repository designed to support multiple languages seamlessly.
+
+Resources
+Readme
+GPL-3.0 license
+Activity
+Stars
+1 star
+Watchers
+2 watching
+Forks
+0 forks
+Report repository
+Releases
+17
+ (17)
+Release v11.0.14
+Latest
++ 16 releases
+Contributors
+4
+ (4)
+DiNaSoRBuYousef
+hknylmz-wowHakan YILMAZ
+Platine-WOW
+devin-ai-integration[bot]
+Languages
+Lua
+100%
+Footer
+© 2026 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Community
+Docs
+Contact
+Manage cookies
+Do not share my personal information

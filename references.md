@@ -1,6 +1,6 @@
 # قائمة المراجع والمصادر الموثقة (`references.md`)
 
-تضم هذه القائمة الببليوغرافية المرقمة **`130` مرجعاً أولياً وثانوياً** استُند إليها في جميع فصول الكتاب، والجدول الزمني (`timeline.md`)، ودليل الفاعلين والفرق (`people-and-teams.md`). تشير الأرقام بين المعقوفتين `[n]` في المتن إلى الرقم المقابل في هذه القائمة.
+تضم هذه القائمة الببليوغرافية المرقمة **`137` مرجعاً أولياً وثانوياً** استُند إليها في جميع فصول الكتاب، والجدول الزمني (`timeline.md`)، ودليل الفاعلين والفرق (`people-and-teams.md`). تشير الأرقام بين المعقوفتين `[n]` في المتن إلى الرقم المقابل في هذه القائمة.
 
 - **تاريخ التحقق والاطلاع لجميع الروابط الحية والمؤرشفة:** `2026-11-12` (12 نوفمبر 2026).
 - **ملاحظة منهجية:** أُرفقت مع المصادر الحساسة أو المعرضة للحذف مسارات النسخ المحفوظة محلياً داخل مجلد [`evidence/`](evidence/INDEX.md) وروابط أرشيف الإنترنت (Wayback Machine) متى توفرت.
@@ -331,7 +331,7 @@
     - الروابط المؤرشفة: http://web.archive.org/web/20080824222422/http://www.2dq8.com:80/ و http://web.archive.org/web/20090127031247/http://www.2dq8.com:80/  
     - نسخة محلية: [`evidence/pages/2008-2026-athbistudio-tersnetwork-and-ecosystem.md`](evidence/pages/2008-2026-athbistudio-tersnetwork-and-ecosystem.md) — تاريخ الاطلاع: `2026-11-12`.
 
-74. **[74]** قاعدة بيانات *ROMhacking.net* ومستودع GitHub لـ `q8fft` (`2dq8` / عذبي): تعريب *Dementium: The Ward* لجهاز Nintendo DS (`23 مارس 2009`)، وأداة **`Alm3rb Convert Script` («أداة المعرب»)** لتحويل الحروف العربية (`15 أبريل 2009`، ومصدرها بلغة `C#` المنشور في 11 مايو 2017)، وتوثيق تعريب *WALL-E* لجهاز PSP عام 2010 في فهرس `Dorando`.  
+74. **[74]** قاعدة بيانات *ROMhacking.net* ومستودع GitHub لـ `q8fft` (`2dq8` / عذبي): تعريب *Dementium: The Ward* لجهاز Nintendo DS (`23 مارس 2009`)، ورفعه برنامج **`Alm3rb Convert Script` («المعرب»)** لتحويل الحروف العربية (`15 أبريل 2009`، ومصدره بلغة `C#` المنشور في 11 مايو 2017) — وهو من صنع **ص** (`DragonArab`) فكرةً وبرمجةً لموقع `2dq8.com` كما تنص نافذة «نبذة» فيه، انظر [131]، وتوثيق تعريب *WALL-E* لجهاز PSP عام 2010 في فهرس `Dorando`.  
     - الروابط: https://www.romhacking.net/community/4208/ ، https://www.romhacking.net/forum/index.php?topic=10036.0 ، https://github.com/q8fft/Alm3rb ، و http://dorando.emuverse.com/html/translations.html?noscript=true  
     - تاريخ الاطلاع: `2026-11-12`.
 
@@ -359,7 +359,7 @@
     - الروابط: https://github.com/tersnetwork ، https://rpgmaker.net/users/tersnetwork/ ، https://forum.treeofsaviorgame.com/user-1693.html ، و https://x.com/sbalhatlani/status/794945185692188672  
     - تاريخ الاطلاع: `2026-11-12`.
 
-81. **[81]** حساب `@TersNetwork` («شبكة ترس - صورة وصوت عربي»، أُنشئ في 7 ديسمبر 2018) وحساب `@Dragonarab`، نماذج الدبلجة الذكية المبكرة عام 2024 (*Red Dead Redemption* و*Elden Ring*) وإطلاق حزمة `WoWAR` على `CurseForge` لتعريب *World of Warcraft* (أغسطس–سبتمبر 2024).  
+81. **[81]** حساب `@TersNetwork` («شبكة ترس - صورة وصوت عربي»، أُنشئ في 7 ديسمبر 2018) وحساب `@Dragonarab` (الحساب القديم لـ**ص** نفسه)، نماذج الدبلجة الذكية المبكرة عام 2024 (*Red Dead Redemption* و*Elden Ring*) وإطلاق حزمة `WoWAR` على `CurseForge` لتعريب *World of Warcraft* (أغسطس–سبتمبر 2024).  
     - الروابط: https://x.com/TersNetwork/status/1760342875055808803 ، https://x.com/TersNetwork/status/1767138990711312766 ، و https://x.com/Dragonarab/status/1829994534006374889  
     - تاريخ الاطلاع: `2026-11-12`.
 
@@ -562,3 +562,39 @@
 130. **[130]** قاعدة بيانات *ROMhacking.net*، ثلاثية التعريبات الكلاسيكية الحديثة للمعرّب **`Albees_Gaming`** في خريف 2026: *Astyanax* (`NES`، `26 Oct 2026`)، و*Mafat Conspiracy: Golgo 13* (`NES`، `30 Oct 2026`)، و*Ninja Gaiden Trilogy* (`SNES`، `04 Nov 2026`).  
      - الروابط: https://www.romhacking.net/translations/7960/ ، https://www.romhacking.net/translations/7992/ ، و https://www.romhacking.net/translations/8055/  
      - تاريخ الاطلاع: `2026-11-12`.
+
+## ثامناً: سجل `DragonArab` («التنين العربي») — الاسم القديم لـ«ص» (2008–2024)
+
+> هذه المراجع تخص **ص** نفسه باسمه القديم `DragonArab` (انظر ح٦ وح٧ في [`FACTS.md`](FACTS.md))، ونصوصها الحرفية في [`evidence/pages/2008-2024-dragonarab-record.md`](evidence/pages/2008-2024-dragonarab-record.md)، ولقطاتها في [`evidence/screenshots/INDEX.md`](evidence/screenshots/INDEX.md) (البنود 311–347). تاريخ الاطلاع: `2026-11-13`.
+
+131. **[131]** برنامج «المعرب» (`Alm3rb`، الإصدار 1.0، 2009) لموقع «عالم ثنائي الأبعاد»: نافذة «نبذة» في البرنامج («الفكرة: التنين العربي Dragonarab … شكر خاص: Juza مدير موقع عالم ثنائي الأبعاد … الإصدار: 1.0 سنة: 2009») وعنوان نافذته (`"Dragonarab [2DQ8.com] عالم ثنائي الأبعاد"`) في المستودع الذي رفعه `q8fft` (11 مايو 2017)، ومستودع **ص** للمشروع نفسه (`DiNaSoR/alm3rb`، 5 مايو 2022)، وصفحة المشروع في موقعه، وصفحة «المعرب» في `2dq8.com` (أبريل 2010).  
+     - الروابط: https://github.com/q8fft/Alm3rb/blob/master/Converter4/Resources/Us1.bmp ، https://github.com/q8fft/Alm3rb/blob/master/Converter4/Form1.Designer.cs#L191 ، https://github.com/DiNaSoR/alm3rb ، و https://sites.google.com/site/dragonarab/مشاريعي/المعرب-alm3rb  
+     - أرشيف Wayback Machine: http://web.archive.org/web/20251216010403/https://github.com/q8fft/Alm3rb و https://web.archive.org/web/20100429143933/http://www.2dq8.com/?page_id=969  
+     - تاريخ الاطلاع: `2026-11-13`.
+
+132. **[132]** أرشيف «عالم ثنائي الأبعاد» (`2dq8.com`) لمشاركات `Dragonarab`: موضوع «[English] أختصارات لايوجد لها معاني» في منتدى «الترجمة» (ديسمبر 2008)، وقسم «ألعاب عربية» شاملاً «رجناروك السيرفر العربي الأن حي !!» (12 يوليو 2009) وتدوينتي `Juza` عن رقعة مشاهد *Warcraft 3* (7 أبريل 2009، «وشكر خاص جداً إلى:- Dragonarab Fnk RuRu عبدالعزيز») و«RPG Maker VX – يدعم الحروف العربية» (4 أبريل 2009، «تعديل المبدع Dragonarab»)، وتدوينة «vbulletin vs phpBB3 – شارك بخبرتك» في «أخبار الموقع» (17 فبراير 2010).  
+     - أرشيف Wayback Machine: https://web.archive.org/web/20081206232943/http://www.2dq8.com:80/forum/viewforum.php?f=8 ، https://web.archive.org/web/20090720195008/http://www.2dq8.com/?cat=5 ، و https://web.archive.org/web/20100305094114/http://www.2dq8.com/?p=1276  
+     - تاريخ الاطلاع: `2026-11-13`.
+
+133. **[133]** موقع **ص** الشخصي على Google Sites (`Dragonarab`، مصدر ذاتي): الصفحة الرئيسية («يعتبر المعرب من قبل التنين العربي أول إضافة عربية للعبة والد أوف واركرافت»)، وصفحة خادم *Ragnarok Online* العربي الخاص (`aRO`)، وسجل مشروع `arabicwow` («فكرة المشروع كانت في سنة 2008 … حتى سنة 2014 تم عمل اول اضافة (Addon) عربي للمهام»، مع الإشادة بالمطور `Platine`).  
+     - الروابط: https://sites.google.com/site/dragonarab/ ، https://sites.google.com/site/dragonarab/مشاريعي/arabic-ragnarok-online ، و https://sites.google.com/site/dragonarab/مشاريعي/arabicwow/arwow-changelog  
+     - أرشيف Wayback Machine: لا توجد نسخ سابقة لهذه الصفحات عند الفحص.  
+     - تاريخ الاطلاع: `2026-11-13`.
+
+134. **[134]** «موقع التنين العربي» (`dragonarab.com`، 2010–2011): صفحة الكاتب الثاني `q8fft` (سبتمبر 2010)، وصفحة «إتصل بي» وتذييل «جميع حقوق النشر التعليمي محفوظة لموقع التنين العربي … 2004 -2011» (سبتمبر 2011).  
+     - أرشيف Wayback Machine: https://web.archive.org/web/20100918030222/http://www.dragonarab.com/?author=2 و https://web.archive.org/web/20110909181234/http://www.dragonarab.com/?page_id=513  
+     - تاريخ الاطلاع: `2026-11-13`.
+
+135. **[135]** منصة *CurseForge*، إضافة «Aw» (`arabicwow`، المعرّف 82274، المالك `Dragonarab`، يوليو 2014): «Translate World of Warcraft into Arabic language … Original code credit to : Milaisan — إضافة والد أوف وار كرافت العربية هي إضافة لإضافة اللغة العربية على المهام, الأدوات, المهارات و الإنجازات»، وصفحة مشاريع `Dragonarab` على المنصة.  
+     - الروابط: https://www.curseforge.com/wow/addons/arabicwow و https://www.curseforge.com/members/dragonarab/projects  
+     - أرشيف Wayback Machine: http://web.archive.org/web/20221006225142/https://www.curseforge.com/wow/addons/arabicwow و http://web.archive.org/web/20241010045819/https://www.curseforge.com/members/dragonarab/projects  
+     - تاريخ الاطلاع: `2026-11-13`.
+
+136. **[136]** حزمة `WoWinArabic` (يناير–فبراير 2023) للمطور البولندي `Platine` و`Dragonarab`: صفحة `WoWInterface` («WoWinArabic-Quests … by: Dragonarab, Platine»)، ومنشور في منتديات `Blizzard` الأوروبية (17 فبراير 2023)، وتوزيع الأدوار في مستودعي `WoWLang` («Platine: Lead developer and author. Dragonarab: Co-author and Arabic reshaper for Lua creator.») و`WoWAR_Chat` («Special thanks to DragonArab for helping to create letter reshaping rules»)، ومنشورات `@Dragonarab` بين 1 يناير و24 فبراير 2023.  
+     - الروابط: https://www.wowinterface.com/downloads/info26532-WoWinArabic-Quests.html ، https://eu.forums.blizzard.com/en/wow/t/world-of-warcraft-addon-enables-arabic-chat-filling-a-gap-in-the-game/431943 ، https://github.com/DiNaSoR/WoWLang ، https://github.com/DiNaSoR/WoWAR_Chat ، https://x.com/Dragonarab/status/1609395547755921408 ، https://x.com/Dragonarab/status/1616911537876398080 ، https://x.com/Dragonarab/status/1616912287377330177 ، https://x.com/Dragonarab/status/1617937270170091521 ، https://x.com/Dragonarab/status/1618643817137307651 ، https://x.com/Dragonarab/status/1626272358288748549 ، و https://x.com/Dragonarab/status/1629077882428354566  
+     - أرشيف Wayback Machine: لا توجد نسخ سابقة لهذه الصفحات عند الفحص (منشورات X لا يقبلها Wayback عادةً).  
+     - تاريخ الاطلاع: `2026-11-13`.
+
+137. **[137]** منشورات `@Dragonarab` في العودة إلى تعريب *World of Warcraft* (3 و6 مايو 2022)، وتجارب الأصوات العربية بالذكاء الاصطناعي (28 أبريل و14 نوفمبر 2023)، وتحديث الإضافات لإصدار `10.2` والكلاسيك وطلب المتطوعين (25 نوفمبر 2023)، والعرض الترويجي لـ`WoWvo` (8 يوليو 2024)، والاسم الجديد `WoWAR` (22 أغسطس 2024)؛ مع منشوري `@abodora2` و`@a2k20` (11 أكتوبر 2023) عن تجربة الدبلجة، ورد `@sbalhatlani` (6 ديسمبر 2023).  
+     - الروابط: https://x.com/Dragonarab/status/1521331131819438080 ، https://x.com/Dragonarab/status/1522400320751554561 ، https://x.com/Dragonarab/status/1651751026779729921 ، https://x.com/Dragonarab/status/1724190566911488135 ، https://x.com/Dragonarab/status/1728491492459663755 ، https://x.com/Dragonarab/status/1810397096828350881 ، https://x.com/Dragonarab/status/1826693484339966230 ، https://x.com/abodora2/status/1712007807749283866 ، https://x.com/a2k20/status/1712021089520357479 ، و https://x.com/sbalhatlani/status/1732490404228972654  
+     - تاريخ الاطلاع: `2026-11-13`.

@@ -13,7 +13,7 @@
   - تضمن الموقع في يناير 2009 أقسام «المنتدى، المشاريع، ألعاب عربية، تعديل الألعاب» ومقالات بتوقيع `Juza`؛ وفي مقالة مؤرخة في `25-01-2009` وثّق الموقع أسبقية عدنان لعام 1995 نصاً: *«حصلت بلعبة الكابتن ماجد 2: الهدف الخارق على منصة ننتندو "العائلة" تعريب عدنان "Adnan" الأسطورة المعرب الأصلي للعبة»*.
 - **سجل `q8fft` على `ROMhacking.net` ومستودع `Alm3rb`:**
   - ملف المجتمع: https://www.romhacking.net/community/4208/ وخبر الإطلاق: https://www.romhacking.net/forum/index.php?topic=10036.0 (23 ديسمبر 2009).
-  - يوثق إصدار تعريب *Dementium: The Ward* على `Nintendo DS` في `23 مارس 2009`، وأداة **`Alm3rb Convert Script` («المعرب»)** في `15 أبريل 2009` (التي نُشر مصدرها لاحقاً بلغة `C#` على `https://github.com/q8fft/Alm3rb` في 11 مايو 2017)، كما يوثق أرشيف `Dorando` إصدار `2DQ8` لتعريب *WALL-E* على `PSP` عام 2010 (`http://dorando.emuverse.com/html/translations.html?noscript=true`).
+  - يوثق إصدار تعريب *Dementium: The Ward* على `Nintendo DS` في `23 مارس 2009`، ورفع برنامج **`Alm3rb Convert Script` («المعرب»)** في `15 أبريل 2009` (الذي نُشر مصدره لاحقاً بلغة `C#` على `https://github.com/q8fft/Alm3rb` في 11 مايو 2017). والبرنامج من صنع **ص** (`DragonArab`) فكرةً وبرمجةً لموقع `2dq8.com`، لا من عمل عذبي، كما تنص نافذة «نبذة» فيه وعنوان نافذته (`"Dragonarab [2DQ8.com] عالم ثنائي الأبعاد"`)؛ انظر ح٧ في `FACTS.md` و[`2008-2024-dragonarab-record.md`](2008-2024-dragonarab-record.md)، كما يوثق أرشيف `Dorando` إصدار `2DQ8` لتعريب *WALL-E* على `PSP` عام 2010 (`http://dorando.emuverse.com/html/translations.html?noscript=true`).
 
 ### ب. مرحلة `AthbiStudio` وعكس اتجاه النص على `NES` وموقفه في سجال نوفمبر 2026
 - **الموقع الرسمي وصفحة التعريف:** https://athbistudio.pages.dev/ و https://athbistudio.pages.dev/about/ و https://athbistudio.pages.dev/projects/dqi/
@@ -38,7 +38,7 @@
   - الحساب البرمجي التاريخي على GitHub (`https://github.com/tersnetwork`، أُنشئ في `12 سبتمبر 2013`، الكويت): يوثق مستودع `tersnetwork/rpgmvxaarabic` لدعم العربية في محرك `RPG Maker VX Ace`، ومستودع `tersnetwork/TreeofSaviorAR` («ترجمة شجرة المخلص» للعبة الـ MMORPG الكورية *Tree of Savior*، مارس 2015: `https://forum.treeofsaviorgame.com/user-1693.html`)، وملف `Ters Studio` على `https://rpgmaker.net/users/tersnetwork/` (`11 نوفمبر 2013`).
 - **الطور الحديث — `Ters.co` والمنصات الشقيقة لـ «ص» (`@sbalhatlani`):**
   - `https://ters.co/` («شبكة ترس · عوالم نصنعها بالعربية»)
-  - `https://wowar.co/` (إضافة `WoWAR` المجانية على `CurseForge` لتعريب *World of Warcraft* عبر 12 توسعة وأكثر من 150,000 نص ودردشة عربية `RTL`، أُطلقت ونُشرت تحديثاتها بالتكامل مع حساب `@Dragonarab` في أغسطس–سبتمبر 2024: `https://x.com/Dragonarab/status/1829994534006374889`).
+  - `https://wowar.co/` (إضافة `WoWAR` المجانية على `CurseForge` لتعريب *World of Warcraft* عبر 12 توسعة وأكثر من 150,000 نص ودردشة عربية `RTL`، أُطلقت ونُشرت تحديثاتها من حساب **ص** القديم `@Dragonarab` في أغسطس–سبتمبر 2024: `https://x.com/Dragonarab/status/1829994534006374889`).
   - `https://wowvo.co/ar` (إضافة `WoWvo` للقراءة الصوتية الذكية لمهام *World of Warcraft* في 31 منطقة).
   - `https://arabicsubs.com/` («أكبر فهرس عربي للترجمات» للأفلام والمسلسلات).
 

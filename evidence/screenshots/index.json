@@ -7249,5 +7249,759 @@
   "status": "live",
   "captured": "2026-11-13 02:04",
   "wayback_save": null
+ },
+ {
+  "n": "311",
+  "url": "https://github.com/q8fft/Alm3rb/blob/master/Converter4/Resources/Us1.bmp",
+  "refs": [
+   "131"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [
+   "About box image (Us1.bmp) extracted from the q8fft upload; the partly shown personal e-mail line is blacked out at the subject's request"
+  ],
+  "shot": "evidence/screenshots/311-github-com-q8fft-alm3rb-converter4-resources-us1-bmp.png",
+  "sha256": "548379cf8486c21a7e848975581b3c564ff852f3651fee6d2883e2938b34817d",
+  "text": "evidence/snapshots/311-github-com-q8fft-alm3rb-converter4-resources-us1-bmp.txt",
+  "html": "evidence/snapshots/311-github-com-q8fft-alm3rb-converter4-resources-us1-bmp.html",
+  "captured": "2026-11-13 23:58",
+  "wayback_save": null,
+  "status": "live",
+  "wayback_existing": "http://web.archive.org/web/20251216010403/https://github.com/q8fft/Alm3rb"
+ },
+ {
+  "n": "312",
+  "url": "https://github.com/q8fft/Alm3rb/blob/master/Converter4/Form1.Designer.cs#L191",
+  "refs": [
+   "131"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [
+   "line 191: this.Text = \"Dragonarab [2DQ8.com] عالم ثنائي الأبعاد\" (source file is Windows-1256)"
+  ],
+  "shot": "evidence/screenshots/312-github-com-q8fft-alm3rb-converter4-form1-designer-cs.png",
+  "sha256": "455f933cab6ad2cef557aebaa145715666ce898e258c26b3271dce74367003ac",
+  "text": "evidence/snapshots/312-github-com-q8fft-alm3rb-converter4-form1-designer-cs.txt",
+  "html": "evidence/snapshots/312-github-com-q8fft-alm3rb-converter4-form1-designer-cs.html",
+  "captured": "2026-11-13 22:57",
+  "wayback_save": null,
+  "status": "live",
+  "wayback_existing": "http://web.archive.org/web/20251216010403/https://github.com/q8fft/Alm3rb"
+ },
+ {
+  "n": "313",
+  "url": "https://github.com/q8fft/Alm3rb/blob/master/Converter4/Resources/splash.jpg",
+  "refs": [
+   "131"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [
+   "splash image of Alm3rb v1.0 with the DRAGONARAB watermark, extracted from the q8fft upload"
+  ],
+  "shot": "evidence/screenshots/313-github-com-q8fft-alm3rb-converter4-resources-splash-jpg.png",
+  "sha256": "58d34e38788b460cb336dcd3f1d30e5bc1ee290397732adb40a567159d18119b",
+  "captured": "2026-11-13 22:29",
+  "wayback_save": null,
+  "status": "live",
+  "wayback_existing": "http://web.archive.org/web/20251216010403/https://github.com/q8fft/Alm3rb"
+ },
+ {
+  "n": "314",
+  "url": "https://github.com/DiNaSoR/alm3rb",
+  "refs": [
+   "131"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [],
+  "shot": "evidence/screenshots/314-github-com-dinasor-alm3rb.png",
+  "sha256": "adf2b14a8883e2f136277777485bbc691788ead18846ac446902b20959ee9eaf",
+  "text": "evidence/snapshots/314-github-com-dinasor-alm3rb.txt",
+  "html": "evidence/snapshots/314-github-com-dinasor-alm3rb.html",
+  "captured": "2026-11-13 22:30",
+  "wayback_save": null,
+  "status": "live"
+ },
+ {
+  "n": "315",
+  "url": "https://sites.google.com/site/dragonarab/مشاريعي/المعرب-alm3rb",
+  "refs": [
+   "131",
+   "133"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [],
+  "shot": "evidence/screenshots/315-sites-google-com-site-dragonarab-alm3rb.png",
+  "sha256": "a41d95cd21fadb2e7d905a23de0e250513de22e72674270e6c0b047c9007308c",
+  "text": "evidence/snapshots/315-sites-google-com-site-dragonarab-alm3rb.txt",
+  "html": "evidence/snapshots/315-sites-google-com-site-dragonarab-alm3rb.html",
+  "captured": "2026-11-13 22:28",
+  "wayback_save": null,
+  "status": "live"
+ },
+ {
+  "n": "316",
+  "url": "https://web.archive.org/web/20100429143933/http://www.2dq8.com/?page_id=969",
+  "refs": [
+   "131"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [],
+  "shot": "evidence/screenshots/316-wayback-2dq8-com-page-id-969-2010.png",
+  "sha256": "f5ae2e4111538a6e2be884d3efd13f83aca2416a54f58512ada370d978e93839",
+  "text": "evidence/snapshots/316-wayback-2dq8-com-page-id-969-2010.txt",
+  "html": "evidence/snapshots/316-wayback-2dq8-com-page-id-969-2010.html",
+  "captured": "2026-11-13 22:57",
+  "wayback_save": null,
+  "status": "wayback copy (source link is already an archive)"
+ },
+ {
+  "n": "317",
+  "url": "https://web.archive.org/web/20081206232943/http://www.2dq8.com:80/forum/viewforum.php?f=8",
+  "refs": [
+   "132"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [],
+  "shot": "evidence/screenshots/317-wayback-2dq8-com-forum-viewforum-f8-2008.png",
+  "sha256": "a5a73948b7edee91a05a70ab41e1670fa1f598a814f1fd88189402f99dedbf5c",
+  "text": "evidence/snapshots/317-wayback-2dq8-com-forum-viewforum-f8-2008.txt",
+  "html": "evidence/snapshots/317-wayback-2dq8-com-forum-viewforum-f8-2008.html",
+  "captured": "2026-11-13 23:59",
+  "wayback_save": null,
+  "status": "wayback copy (source link is already an archive)"
+ },
+ {
+  "n": "318",
+  "url": "https://web.archive.org/web/20090720195008/http://www.2dq8.com/?cat=5",
+  "refs": [
+   "132"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [],
+  "shot": "evidence/screenshots/318-wayback-2dq8-com-cat-5-2009.png",
+  "sha256": "27054ad0c63a15928f25b195a7853a91878470314ed55a1e0120f81ea88de3a9",
+  "text": "evidence/snapshots/318-wayback-2dq8-com-cat-5-2009.txt",
+  "html": "evidence/snapshots/318-wayback-2dq8-com-cat-5-2009.html",
+  "captured": "2026-11-13 23:11",
+  "wayback_save": null,
+  "status": "wayback copy (source link is already an archive)"
+ },
+ {
+  "n": "319",
+  "url": "https://web.archive.org/web/20100305094114/http://www.2dq8.com/?p=1276",
+  "refs": [
+   "132"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [],
+  "shot": "evidence/screenshots/319-wayback-2dq8-com-p-1276-2010.png",
+  "sha256": "430e04848a7c36c506e03bedf0a82b0754ac22ba16fa590b730b23ebb64fb2a3",
+  "text": "evidence/snapshots/319-wayback-2dq8-com-p-1276-2010.txt",
+  "html": "evidence/snapshots/319-wayback-2dq8-com-p-1276-2010.html",
+  "captured": "2026-11-13 23:12",
+  "wayback_save": null,
+  "status": "wayback copy (source link is already an archive)"
+ },
+ {
+  "n": "320",
+  "url": "https://sites.google.com/site/dragonarab/",
+  "refs": [
+   "133"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [
+   "personal e-mail address hidden ([محجوب]) at the subject's request"
+  ],
+  "shot": "evidence/screenshots/320-sites-google-com-site-dragonarab.png",
+  "sha256": "de826fc805ad54602d71980bc4bb4236a8e3b461009ae7a129e2841f9eb8d5af",
+  "text": "evidence/snapshots/320-sites-google-com-site-dragonarab.txt",
+  "html": "evidence/snapshots/320-sites-google-com-site-dragonarab.html",
+  "captured": "2026-11-13 23:58",
+  "wayback_save": null,
+  "status": "live"
+ },
+ {
+  "n": "321",
+  "url": "https://sites.google.com/site/dragonarab/مشاريعي/arabic-ragnarok-online",
+  "refs": [
+   "133"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [],
+  "shot": "evidence/screenshots/321-sites-google-com-site-dragonarab-arabic-ragnarok-online.png",
+  "sha256": "3db9a96fa94986f86947369739539d9805a627ceff61c8faa85efaf013d6f61e",
+  "text": "evidence/snapshots/321-sites-google-com-site-dragonarab-arabic-ragnarok-online.txt",
+  "html": "evidence/snapshots/321-sites-google-com-site-dragonarab-arabic-ragnarok-online.html",
+  "captured": "2026-11-13 22:28",
+  "wayback_save": null,
+  "status": "live"
+ },
+ {
+  "n": "322",
+  "url": "https://sites.google.com/site/dragonarab/مشاريعي/arabicwow/arwow-changelog",
+  "refs": [
+   "133",
+   "135",
+   "136"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [],
+  "shot": "evidence/screenshots/322-sites-google-com-site-dragonarab-arwow-changelog.png",
+  "sha256": "b85857d82dc731b1560192347649b86c95a828bfdc9dce70e492930e67357f8b",
+  "text": "evidence/snapshots/322-sites-google-com-site-dragonarab-arwow-changelog.txt",
+  "html": "evidence/snapshots/322-sites-google-com-site-dragonarab-arwow-changelog.html",
+  "captured": "2026-11-13 22:27",
+  "wayback_save": null,
+  "status": "live"
+ },
+ {
+  "n": "323",
+  "url": "https://web.archive.org/web/20100918030222/http://www.dragonarab.com/?author=2",
+  "refs": [
+   "134"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [],
+  "shot": "evidence/screenshots/323-wayback-dragonarab-com-author-2-2010.png",
+  "sha256": "0de9998cb5af8b10398cbadbeadc9366d89c00c39c8574ec71744bb84be22862",
+  "text": "evidence/snapshots/323-wayback-dragonarab-com-author-2-2010.txt",
+  "html": "evidence/snapshots/323-wayback-dragonarab-com-author-2-2010.html",
+  "captured": "2026-11-13 22:54",
+  "wayback_save": null,
+  "status": "wayback copy (source link is already an archive)"
+ },
+ {
+  "n": "324",
+  "url": "https://web.archive.org/web/20110909181234/http://www.dragonarab.com/?page_id=513",
+  "refs": [
+   "134"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [],
+  "shot": "evidence/screenshots/324-wayback-dragonarab-com-page-id-513-2011.png",
+  "sha256": "97bb13334eeb17807447242c3bc87e2be0da0c9cd2d681ea315cee9e2150a837",
+  "text": "evidence/snapshots/324-wayback-dragonarab-com-page-id-513-2011.txt",
+  "html": "evidence/snapshots/324-wayback-dragonarab-com-page-id-513-2011.html",
+  "captured": "2026-11-13 22:55",
+  "wayback_save": null,
+  "status": "wayback copy (source link is already an archive)"
+ },
+ {
+  "n": "325",
+  "url": "https://www.curseforge.com/wow/addons/arabicwow",
+  "refs": [
+   "135"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [],
+  "shot": "evidence/screenshots/325-curseforge-com-wow-addons-arabicwow.png",
+  "sha256": "1be2c5103241cd3e4a107118481102868893dfb39b91272cd4d843c306f02228",
+  "text": "evidence/snapshots/325-curseforge-com-wow-addons-arabicwow.txt",
+  "html": "evidence/snapshots/325-curseforge-com-wow-addons-arabicwow.html",
+  "captured": "2026-11-13 22:27",
+  "wayback_save": null,
+  "status": "live",
+  "wayback_existing": "http://web.archive.org/web/20221006225142/https://www.curseforge.com/wow/addons/arabicwow"
+ },
+ {
+  "n": "326",
+  "url": "https://www.curseforge.com/members/dragonarab/projects",
+  "refs": [
+   "135",
+   "136"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [],
+  "shot": "evidence/screenshots/326-curseforge-com-members-dragonarab-projects.png",
+  "sha256": "0da0e8be7bf9d3dc203eaa13cd16f34bddfb520eff899f6e8784342441a5e8a3",
+  "text": "evidence/snapshots/326-curseforge-com-members-dragonarab-projects.txt",
+  "html": "evidence/snapshots/326-curseforge-com-members-dragonarab-projects.html",
+  "captured": "2026-11-13 22:27",
+  "wayback_save": null,
+  "status": "live",
+  "wayback_existing": "http://web.archive.org/web/20241010045819/https://www.curseforge.com/members/dragonarab/projects"
+ },
+ {
+  "n": "327",
+  "url": "https://www.wowinterface.com/downloads/info26532-WoWinArabic-Quests.html",
+  "refs": [
+   "136"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [],
+  "shot": "evidence/screenshots/327-wowinterface-com-downloads-info26532-wowinarabic-quests.png",
+  "sha256": "aaf84c13541429e2315a814a1b999f04efe775953d25183d57e19baaf7bd0e3c",
+  "text": "evidence/snapshots/327-wowinterface-com-downloads-info26532-wowinarabic-quests.txt",
+  "html": "evidence/snapshots/327-wowinterface-com-downloads-info26532-wowinarabic-quests.html",
+  "captured": "2026-11-13 22:42",
+  "wayback_save": null,
+  "status": "live"
+ },
+ {
+  "n": "328",
+  "url": "https://eu.forums.blizzard.com/en/wow/t/world-of-warcraft-addon-enables-arabic-chat-filling-a-gap-in-the-game/431943",
+  "refs": [
+   "136"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [],
+  "shot": "evidence/screenshots/328-eu-forums-blizzard-com-wow-t-431943.png",
+  "sha256": "4c083ad12a2f24b778b7dabc0f1d6cb379e8505cbbcde2efdc921ad62d6aeb7d",
+  "text": "evidence/snapshots/328-eu-forums-blizzard-com-wow-t-431943.txt",
+  "html": "evidence/snapshots/328-eu-forums-blizzard-com-wow-t-431943.html",
+  "captured": "2026-11-13 22:41",
+  "wayback_save": null,
+  "status": "live"
+ },
+ {
+  "n": "329",
+  "url": "https://github.com/DiNaSoR/WoWLang",
+  "refs": [
+   "136"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [
+   "personal e-mail addresses and a commit co-author line hidden ([محجوب]) at the subject's request"
+  ],
+  "shot": "evidence/screenshots/329-github-com-dinasor-wowlang.png",
+  "sha256": "ce989d121e5ca2231f67a06a1f3cd413e8e6f79ad8799a83c916771176720332",
+  "text": "evidence/snapshots/329-github-com-dinasor-wowlang.txt",
+  "html": "evidence/snapshots/329-github-com-dinasor-wowlang.html",
+  "captured": "2026-11-13 23:58",
+  "wayback_save": null,
+  "status": "live"
+ },
+ {
+  "n": "330",
+  "url": "https://github.com/DiNaSoR/WoWAR_Chat",
+  "refs": [
+   "136"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [],
+  "shot": "evidence/screenshots/330-github-com-dinasor-wowar-chat.png",
+  "sha256": "b7e6b39971331c75d36b838f7e621f64cf78e323834f7bc5e648ccc228594949",
+  "text": "evidence/snapshots/330-github-com-dinasor-wowar-chat.txt",
+  "html": "evidence/snapshots/330-github-com-dinasor-wowar-chat.html",
+  "captured": "2026-11-13 22:58",
+  "wayback_save": null,
+  "status": "live"
+ },
+ {
+  "n": "331",
+  "url": "https://x.com/Dragonarab/status/1521331131819438080",
+  "refs": [
+   "137"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [
+   "official Twitter/X embed (platform.twitter.com)"
+  ],
+  "shot": "evidence/screenshots/331-x-com-dragonarab-status-1521331131819438080.png",
+  "sha256": "34b6be2fce8019abc29c95f5d9bf1bcacdad1ca118199e6dc515d96ff67c4a07",
+  "text": "evidence/snapshots/331-x-com-dragonarab-status-1521331131819438080.txt",
+  "captured": "2026-11-13 22:48",
+  "wayback_save": null,
+  "status": "live",
+  "shot_source": "official Twitter/X embed (platform.twitter.com)"
+ },
+ {
+  "n": "332",
+  "url": "https://x.com/Dragonarab/status/1522400320751554561",
+  "refs": [
+   "137"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [
+   "official Twitter/X embed (platform.twitter.com)"
+  ],
+  "shot": "evidence/screenshots/332-x-com-dragonarab-status-1522400320751554561.png",
+  "sha256": "f19aaeb2aed6b464f0be564c60817e538b095eb6844a08a649c5c7af1f4fa313",
+  "text": "evidence/snapshots/332-x-com-dragonarab-status-1522400320751554561.txt",
+  "captured": "2026-11-13 22:50",
+  "wayback_save": null,
+  "status": "live",
+  "shot_source": "official Twitter/X embed (platform.twitter.com)"
+ },
+ {
+  "n": "333",
+  "url": "https://x.com/Dragonarab/status/1609395547755921408",
+  "refs": [
+   "136"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [
+   "official Twitter/X embed (platform.twitter.com)"
+  ],
+  "shot": "evidence/screenshots/333-x-com-dragonarab-status-1609395547755921408.png",
+  "sha256": "af3d31c9c89daf7a40bfc906714220426c67868cee25fcbf659cfe70ff2264b0",
+  "text": "evidence/snapshots/333-x-com-dragonarab-status-1609395547755921408.txt",
+  "captured": "2026-11-13 22:48",
+  "wayback_save": null,
+  "status": "live",
+  "shot_source": "official Twitter/X embed (platform.twitter.com)"
+ },
+ {
+  "n": "334",
+  "url": "https://x.com/Dragonarab/status/1616911537876398080",
+  "refs": [
+   "136"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [
+   "official Twitter/X embed (platform.twitter.com)"
+  ],
+  "shot": "evidence/screenshots/334-x-com-dragonarab-status-1616911537876398080.png",
+  "sha256": "562282c176c782df52a90185efcfd2fdb823e38b71b5942cd7c5b9e5fdda9c7a",
+  "text": "evidence/snapshots/334-x-com-dragonarab-status-1616911537876398080.txt",
+  "captured": "2026-11-13 22:48",
+  "wayback_save": null,
+  "status": "live",
+  "shot_source": "official Twitter/X embed (platform.twitter.com)"
+ },
+ {
+  "n": "335",
+  "url": "https://x.com/Dragonarab/status/1616912287377330177",
+  "refs": [
+   "136"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [
+   "official Twitter/X embed (platform.twitter.com)"
+  ],
+  "shot": "evidence/screenshots/335-x-com-dragonarab-status-1616912287377330177.png",
+  "sha256": "f8a5d680014c9cbc354811ded8271f93b984e83e0eed07028b12de2e9e98a193",
+  "text": "evidence/snapshots/335-x-com-dragonarab-status-1616912287377330177.txt",
+  "captured": "2026-11-13 22:48",
+  "wayback_save": null,
+  "status": "live",
+  "shot_source": "official Twitter/X embed (platform.twitter.com)"
+ },
+ {
+  "n": "336",
+  "url": "https://x.com/Dragonarab/status/1617937270170091521",
+  "refs": [
+   "136"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [
+   "official Twitter/X embed (platform.twitter.com)"
+  ],
+  "shot": "evidence/screenshots/336-x-com-dragonarab-status-1617937270170091521.png",
+  "sha256": "c30cb13a59fb0dc6143b2ba6758d27609b5290f23eff6bbc1c42c9bef836218e",
+  "text": "evidence/snapshots/336-x-com-dragonarab-status-1617937270170091521.txt",
+  "captured": "2026-11-13 22:48",
+  "wayback_save": null,
+  "status": "live",
+  "shot_source": "official Twitter/X embed (platform.twitter.com)"
+ },
+ {
+  "n": "337",
+  "url": "https://x.com/Dragonarab/status/1618643817137307651",
+  "refs": [
+   "136"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [
+   "official Twitter/X embed (platform.twitter.com)"
+  ],
+  "shot": "evidence/screenshots/337-x-com-dragonarab-status-1618643817137307651.png",
+  "sha256": "2599e3cd1814f027cf3de1d9c9820bfea05192a49fda9db5c28cac39e59a6a12",
+  "text": "evidence/snapshots/337-x-com-dragonarab-status-1618643817137307651.txt",
+  "captured": "2026-11-13 22:48",
+  "wayback_save": null,
+  "status": "live",
+  "shot_source": "official Twitter/X embed (platform.twitter.com)"
+ },
+ {
+  "n": "338",
+  "url": "https://x.com/Dragonarab/status/1626272358288748549",
+  "refs": [
+   "136"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [
+   "official Twitter/X embed (platform.twitter.com)"
+  ],
+  "shot": "evidence/screenshots/338-x-com-dragonarab-status-1626272358288748549.png",
+  "sha256": "30ca579622932632abc3c33eb433d13f1f318a6e3c684ca5758756a15dd00df0",
+  "text": "evidence/snapshots/338-x-com-dragonarab-status-1626272358288748549.txt",
+  "captured": "2026-11-13 22:48",
+  "wayback_save": null,
+  "status": "live",
+  "shot_source": "official Twitter/X embed (platform.twitter.com)"
+ },
+ {
+  "n": "339",
+  "url": "https://x.com/Dragonarab/status/1629077882428354566",
+  "refs": [
+   "136"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [
+   "official Twitter/X embed (platform.twitter.com)"
+  ],
+  "shot": "evidence/screenshots/339-x-com-dragonarab-status-1629077882428354566.png",
+  "sha256": "94322f09b3296932c792d12e21bfa78751f1c0bdd09a11960327259febddb4a3",
+  "text": "evidence/snapshots/339-x-com-dragonarab-status-1629077882428354566.txt",
+  "captured": "2026-11-13 22:48",
+  "wayback_save": null,
+  "status": "live",
+  "shot_source": "official Twitter/X embed (platform.twitter.com)"
+ },
+ {
+  "n": "340",
+  "url": "https://x.com/Dragonarab/status/1651751026779729921",
+  "refs": [
+   "137"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [
+   "official Twitter/X embed (platform.twitter.com)"
+  ],
+  "shot": "evidence/screenshots/340-x-com-dragonarab-status-1651751026779729921.png",
+  "sha256": "5acd5513ccad622f3e149f9bfd4bf421eb4d39e1b1c965d835ab5ecb104b50d5",
+  "text": "evidence/snapshots/340-x-com-dragonarab-status-1651751026779729921.txt",
+  "captured": "2026-11-13 22:48",
+  "wayback_save": null,
+  "status": "live",
+  "shot_source": "official Twitter/X embed (platform.twitter.com)"
+ },
+ {
+  "n": "341",
+  "url": "https://x.com/abodora2/status/1712007807749283866",
+  "refs": [
+   "137"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [
+   "official Twitter/X embed (platform.twitter.com)"
+  ],
+  "shot": "evidence/screenshots/341-x-com-abodora2-status-1712007807749283866.png",
+  "sha256": "43d69c766ce54d5098050fd80ae833bf14ed30dd04c0ee8f61b3e4f50c3b8abc",
+  "text": "evidence/snapshots/341-x-com-abodora2-status-1712007807749283866.txt",
+  "captured": "2026-11-13 22:49",
+  "wayback_save": null,
+  "status": "live",
+  "shot_source": "official Twitter/X embed (platform.twitter.com)"
+ },
+ {
+  "n": "342",
+  "url": "https://x.com/a2k20/status/1712021089520357479",
+  "refs": [
+   "137"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [
+   "official Twitter/X embed (platform.twitter.com)"
+  ],
+  "shot": "evidence/screenshots/342-x-com-a2k20-status-1712021089520357479.png",
+  "sha256": "36f7d4d4a56592d3d416ce0a7e9bddcf735d53b253a99417d460df79deba4409",
+  "text": "evidence/snapshots/342-x-com-a2k20-status-1712021089520357479.txt",
+  "captured": "2026-11-13 22:49",
+  "wayback_save": null,
+  "status": "live",
+  "shot_source": "official Twitter/X embed (platform.twitter.com)"
+ },
+ {
+  "n": "343",
+  "url": "https://x.com/Dragonarab/status/1724190566911488135",
+  "refs": [
+   "137"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [
+   "official Twitter/X embed (platform.twitter.com)"
+  ],
+  "shot": "evidence/screenshots/343-x-com-dragonarab-status-1724190566911488135.png",
+  "sha256": "909eb6f4c94d58b5850c107fad2fa962f1969780b25b66027a3cb34637861974",
+  "text": "evidence/snapshots/343-x-com-dragonarab-status-1724190566911488135.txt",
+  "captured": "2026-11-13 22:49",
+  "wayback_save": null,
+  "status": "live",
+  "shot_source": "official Twitter/X embed (platform.twitter.com)"
+ },
+ {
+  "n": "344",
+  "url": "https://x.com/Dragonarab/status/1728491492459663755",
+  "refs": [
+   "137"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [
+   "official Twitter/X embed (platform.twitter.com)"
+  ],
+  "shot": "evidence/screenshots/344-x-com-dragonarab-status-1728491492459663755.png",
+  "sha256": "9c0c84ed25c3426e7e1cb855858a67104bd3b3648b4f546c530eaabb01a8f44e",
+  "text": "evidence/snapshots/344-x-com-dragonarab-status-1728491492459663755.txt",
+  "captured": "2026-11-13 22:49",
+  "wayback_save": null,
+  "status": "live",
+  "shot_source": "official Twitter/X embed (platform.twitter.com)"
+ },
+ {
+  "n": "345",
+  "url": "https://x.com/sbalhatlani/status/1732490404228972654",
+  "refs": [
+   "137"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [
+   "official Twitter/X embed (platform.twitter.com)"
+  ],
+  "shot": "evidence/screenshots/345-x-com-sbalhatlani-status-1732490404228972654.png",
+  "sha256": "a950b0d71efb7dc743933de8a39ad9334f1b1d75e05941700e34d5aecd53c03b",
+  "text": "evidence/snapshots/345-x-com-sbalhatlani-status-1732490404228972654.txt",
+  "captured": "2026-11-13 22:50",
+  "wayback_save": null,
+  "status": "live",
+  "shot_source": "official Twitter/X embed (platform.twitter.com)"
+ },
+ {
+  "n": "346",
+  "url": "https://x.com/Dragonarab/status/1810397096828350881",
+  "refs": [
+   "137"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [
+   "official Twitter/X embed (platform.twitter.com)"
+  ],
+  "shot": "evidence/screenshots/346-x-com-dragonarab-status-1810397096828350881.png",
+  "sha256": "ca5fdec08911c48aba4b6d5c0a391a6800bb254ad2548d23d694f1063227c243",
+  "text": "evidence/snapshots/346-x-com-dragonarab-status-1810397096828350881.txt",
+  "captured": "2026-11-13 22:49",
+  "wayback_save": null,
+  "status": "live",
+  "shot_source": "official Twitter/X embed (platform.twitter.com)"
+ },
+ {
+  "n": "347",
+  "url": "https://x.com/Dragonarab/status/1826693484339966230",
+  "refs": [
+   "137"
+  ],
+  "files": [
+   "references.md",
+   "evidence/pages/2008-2024-dragonarab-record.md"
+  ],
+  "notes": [
+   "official Twitter/X embed (platform.twitter.com)"
+  ],
+  "shot": "evidence/screenshots/347-x-com-dragonarab-status-1826693484339966230.png",
+  "sha256": "180cf00eb3fcfae47d3ac837819b79008d84ce5b1ab3972d1c7cc6c0f120f0d7",
+  "text": "evidence/snapshots/347-x-com-dragonarab-status-1826693484339966230.txt",
+  "captured": "2026-11-13 22:49",
+  "wayback_save": null,
+  "status": "live",
+  "shot_source": "official Twitter/X embed (platform.twitter.com)"
  }
 ]
