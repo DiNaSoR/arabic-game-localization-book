@@ -33,7 +33,7 @@
 
 ## 2. تاريخ `TersNetwork` القديمة (`2012–2021`) والتحول إلى `Ters.co` الحديثة (`2023–2026`)
 
-- **الطور التأسيسي الأول — `TersNetwork` (`tersnetwork.com`) — أسسه وأداره عذبي (`q8fft` / `Juza` / `2dq8` / `AthbiStudio`)، وكل ما صدر باسم `TersNetwork` قبل عام 2022 يعود إليه:**
+- **الطور التأسيسي الأول — `TersNetwork` (`tersnetwork.com`) — أسسه وأداره عذبي (`q8fft` / `Juza` / `2dq8` / `AthbiStudio`)، وكل ما صدر باسم `TersNetwork` قبل عام 2022 يعود إليه، عدا سكربت `RPG Maker` الذي كتبه **ص** باسم `Dragonarab`:**
   - لقطات Wayback Machine الموثقة لنطاق `tersnetwork.com`: من `2012-11-28` (`http://web.archive.org/web/20121128022739/http://www.tersnetwork.com:80/`)، و`2013-05-29`، و`2015-04-07` (`http://web.archive.org/web/20150407222152/http://tersnetwork.com:80/` تحت عنوان `TERS MMO` لتغطية أخبار ألعاب الأونلاين الجماعية الكورية والصينية واليابانية والعالمية مع قسم `المنتدى`)، وحتى `2021-09-14` (`http://web.archive.org/web/20211228165146/https://tersnetwork.com/`).
   - الحساب البرمجي التاريخي على GitHub (`https://github.com/tersnetwork`، أُنشئ في `12 سبتمبر 2013`، الكويت): يوثق مستودع `tersnetwork/rpgmvxaarabic` لدعم العربية في محرك `RPG Maker VX Ace`، ومستودع `tersnetwork/TreeofSaviorAR` («ترجمة شجرة المخلص» للعبة الـ MMORPG الكورية *Tree of Savior*، مارس 2015: `https://forum.treeofsaviorgame.com/user-1693.html`)، وملف `Ters Studio` على `https://rpgmaker.net/users/tersnetwork/` (`11 نوفمبر 2013`).
 - **الطور الحديث — `Ters.co` والمنصات الشقيقة لـ «ص» (`@sbalhatlani`):**

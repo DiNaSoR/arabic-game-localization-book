@@ -1,6 +1,6 @@
 # قائمة المراجع والمصادر الموثقة (`references.md`)
 
-تضم هذه القائمة الببليوغرافية المرقمة **`134` مرجعاً أولياً وثانوياً** استُند إليها في جميع فصول الكتاب، والجدول الزمني (`timeline.md`)، ودليل الفاعلين والفرق (`people-and-teams.md`). تشير الأرقام بين المعقوفتين `[n]` في المتن إلى الرقم المقابل في هذه القائمة.
+تضم هذه القائمة الببليوغرافية المرقمة **`135` مرجعاً أولياً وثانوياً** استُند إليها في جميع فصول الكتاب، والجدول الزمني (`timeline.md`)، ودليل الفاعلين والفرق (`people-and-teams.md`). تشير الأرقام بين المعقوفتين `[n]` في المتن إلى الرقم المقابل في هذه القائمة.
 
 - **تاريخ التحقق والاطلاع لجميع الروابط الحية والمؤرشفة:** `2026-11-12` (12 نوفمبر 2026).
 - **ملاحظة منهجية:** أُرفقت مع المصادر الحساسة أو المعرضة للحذف مسارات النسخ المحفوظة محلياً داخل مجلد [`evidence/`](evidence/INDEX.md) وروابط أرشيف الإنترنت (Wayback Machine) متى توفرت.
@@ -331,7 +331,7 @@
     - الروابط المؤرشفة: http://web.archive.org/web/20080824222422/http://www.2dq8.com:80/ و http://web.archive.org/web/20090127031247/http://www.2dq8.com:80/  
     - نسخة محلية: [`evidence/pages/2008-2026-athbistudio-tersnetwork-and-ecosystem.md`](evidence/pages/2008-2026-athbistudio-tersnetwork-and-ecosystem.md) — تاريخ الاطلاع: `2026-11-12`.
 
-74. **[74]** قاعدة بيانات *ROMhacking.net* ومستودع GitHub لـ `q8fft` (`2dq8` / عذبي): تعريب *Dementium: The Ward* لجهاز Nintendo DS (`23 مارس 2009`)، وأداة **`Alm3rb Convert Script` («أداة المعرب»)** لتحويل الحروف العربية (`15 أبريل 2009`، ومصدرها بلغة `C#` المنشور في 11 مايو 2017)، وتوثيق تعريب *WALL-E* لجهاز PSP عام 2010 في فهرس `Dorando`.  
+74. **[74]** قاعدة بيانات *ROMhacking.net* ومستودع GitHub لـ `q8fft` (`2dq8` / عذبي): تعريب *Dementium: The Ward* لجهاز Nintendo DS (`23 مارس 2009`)، وأداة **`Alm3rb Convert Script` («أداة المعرب»)** لتحويل الحروف العربية (`15 أبريل 2009`، ومصدرها بلغة `C#` المنشور في 11 مايو 2017، وفي واجهتها عبارة «`Dragonarab [2DQ8.com]` عالم ثنائي الأبعاد» الدالة على مبرمجها)، وتوثيق تعريب *WALL-E* لجهاز PSP عام 2010 في فهرس `Dorando`.  
     - الروابط: https://www.romhacking.net/community/4208/ ، https://www.romhacking.net/forum/index.php?topic=10036.0 ، https://github.com/q8fft/Alm3rb ، و http://dorando.emuverse.com/html/translations.html?noscript=true  
     - تاريخ الاطلاع: `2026-11-12`.
 
@@ -355,7 +355,7 @@
     - الروابط: http://web.archive.org/web/20121128022739/http://www.tersnetwork.com:80/ ، http://web.archive.org/web/20150407222152/http://tersnetwork.com:80/ ، http://web.archive.org/web/20211228165146/https://tersnetwork.com/ ، و https://x.com/sbalhatlani/status/2051292037232619869  
     - نسخة محلية: [`evidence/pages/2008-2026-athbistudio-tersnetwork-and-ecosystem.md`](evidence/pages/2008-2026-athbistudio-tersnetwork-and-ecosystem.md) — تاريخ الاطلاع: `2026-11-12`.
 
-80. **[80]** المستودعات والملفات التأسيسية لـ `TersNetwork` القديمة (2013–2016) العائدة لمؤسسها عذبي: حساب `github.com/tersnetwork` (12 سبتمبر 2013) ومشروعا دعم العربية في `RPG Maker VX Ace` (`rpgmvxaarabic`) وترجمة *Tree of Savior* («شجرة المخلص» — `TreeofSaviorAR`، 2015)، وملف `RPGMaker.net` (11 نوفمبر 2013)، ومطالبة **ص** من حسابه الشخصي `@sbalhatlani` لشركة Blizzard بتعريب *World of Warcraft* و*Overwatch* في `BlizzCon 2016`.  
+80. **[80]** المستودعات والملفات التأسيسية لـ `TersNetwork` القديمة (2013–2016) العائدة لمؤسسها عذبي: حساب `github.com/tersnetwork` (12 سبتمبر 2013) ومشروعا دعم العربية في `RPG Maker VX Ace` (`rpgmvxaarabic`، وهو من عمل **ص** باسم `Dragonarab`؛ انظر [135]) وترجمة *Tree of Savior* («شجرة المخلص» — `TreeofSaviorAR`، 2015)، وملف `RPGMaker.net` (11 نوفمبر 2013)، ومطالبة **ص** من حسابه الشخصي `@sbalhatlani` لشركة Blizzard بتعريب *World of Warcraft* و*Overwatch* في `BlizzCon 2016`.  
     - الروابط: https://github.com/tersnetwork ، https://rpgmaker.net/users/tersnetwork/ ، https://forum.treeofsaviorgame.com/user-1693.html ، و https://x.com/sbalhatlani/status/794945185692188672  
     - تاريخ الاطلاع: `2026-11-12`.
 
@@ -565,7 +565,7 @@
 
 ---
 
-## ثامناً: مشروع «واركرافت بالعربي» باسم `Dragonarab` وشراكة `Platine` (2014–2026)
+## ثامناً: أعمال `Dragonarab`: «أداة المعرب»، سكربت `RPG Maker`، ومشروع «واركرافت بالعربي» مع `Platine` (2009–2026)
 
 131. **[131]** منصة *CurseForge*، صفحة المؤلف **`Dragonarab`** ومشاريعه لتعريب *World of Warcraft*: `Aw` / `ArabicWoW` (يوليو 2014، مع نسبة الشيفرة الأصلية إلى `Milaisan`)، وحزمة `WoW in Arabic` لعام 2023 (`Quests`، `Lib Arabic Reshaper`، `Bubbles`، `Movies`، `Chat`، ومعه `platine1` بصفة مؤلف)، و`WoWAr - Arabic` (أُنشئ في 25 أغسطس 2024)، و`WoWAR - Forever` (5 نوفمبر 2026)؛ مجموع التنزيلات المعلن في الصفحة `19.2K`.  
      - الروابط: https://www.curseforge.com/members/dragonarab/projects ، https://www.curseforge.com/wow/addons/arabicwow ، https://www.curseforge.com/wow/addons/wowinarabic-quests ، https://www.curseforge.com/wow/addons/wowinarabic-chat ، https://www.curseforge.com/wow/addons/wowar-arabic ، و https://www.curseforge.com/wow/addons/wowar-forever  
@@ -582,3 +582,7 @@
 134. **[134]** منصة *CurseForge*، إضافة القراءة الصوتية للمهام **`WoW Voice Lector`** (`wowvo.co`): المالك `platine1` ومعه `Dragonarab` بصفة مؤلف، أُنشئت في 30 يونيو 2024 وتدعم الإنجليزية والبولندية والعربية (`8,046` تنزيلاً)؛ ومستودع `WoWLang` متعدد اللغات (`AR` و`PL` و`TR` و`UA` و`HU` و`JP`، 2024–2025) بمشاركة `Platine`.  
      - الروابط: https://www.curseforge.com/wow/addons/wow-voice-lector ، https://wowvo.co/ar ، و https://github.com/DiNaSoR/WoWLang  
      - تاريخ الاطلاع: `2026-11-13`.
+
+135. **[135]** أرشيف *Google Code*، مشروع `support-arabic-in-rpg-maker-vx-ace` («سكربت دعم اللغة العربية في برامج Rpg Maker Vx و Rpg Maker Ace وسكربت عكس الحوارات»، أُنشئ في 22 أغسطس 2012 ويحيل وصفه إلى `forum.tersnetwork.com`) ونسخته المصدَّرة إلى `GitHub` في 3 يوليو 2015؛ وشيفرة «أداة المعرب» (`Alm3rb`، حقوق 2009) التي تحمل واجهتها في الملف `Form1.Designer.cs` عبارة «`Dragonarab [2DQ8.com]` عالم ثنائي الأبعاد».  
+     - الروابط: https://code.google.com/archive/p/support-arabic-in-rpg-maker-vx-ace ، https://github.com/DiNaSoR/support-arabic-in-rpg-maker-vx-ace ، و https://github.com/q8fft/Alm3rb/blob/master/Backup/Converter4/Form1.Designer.cs  
+     - نسخة محلية: [`evidence/pages/2014-2026-dragonarab-wow-in-arabic.md`](evidence/pages/2014-2026-dragonarab-wow-in-arabic.md) — تاريخ الاطلاع: `2026-11-13`.

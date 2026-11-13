@@ -1,4 +1,4 @@
-# أرشيف مشروع «واركرافت بالعربي» باسم `Dragonarab` وشراكة `Platine` (2014–2026)
+# أرشيف أعمال `Dragonarab`: «أداة المعرب»، سكربت `RPG Maker`، ومشروع «واركرافت بالعربي» مع `Platine` (2009–2026)
 
 - **موضوع الملف:** توثيق ما نُشر باسم **`Dragonarab`** — وهو الاسم الذي يستعمله **ص** (`@sbalhatlani`) على منصة X منذ مارس 2011 وفي منصة `CurseForge` (بإفادة ص المباشرة لهذا الكتاب في 13 نوفمبر 2026، ويعضدها أن نبذة حساب `@Dragonarab` تحيل إلى `Ters.co` و`wowar.co` و`wowvo.co`).
 - **تاريخ الاطلاع على جميع الروابط:** `2026-11-13`.
@@ -52,7 +52,16 @@
 
 - بيانات الحساب المحفوظة مع منشور إطلاق `WoWAR` (31 أغسطس 2024) في [`evidence/snapshots/176-x-com-dragonarab-status-1829994534006374889.json`](../snapshots/176-x-com-dragonarab-status-1829994534006374889.json): تاريخ الانضمام `20 مارس 2011`، والنبذة تحيل إلى `Ters.co` («شبكة ترس») و`wowvo.co` و`wowar.co`.
 
-## 6. ما لم يُضف إلى الكتاب ولماذا
+## 6. «أداة المعرب» (`Alm3rb`، 2009) وسكربت `RPG Maker` (2012) [74][135]
+
+- **إفادة ص (13 نوفمبر 2026):** «أداة المعرب» وسكربت دعم العربية في `RPG Maker VX/Ace` من عمله باسم `DragonArab`؛ وأسماؤه بالترتيب: `DragonArab` ثم `DiNaSoR` ثم `sbalhatlani` مع `DiNaSoR`.
+- **ما يعضدها في المصدر نفسه:** مستودع عذبي `q8fft/Alm3rb` (المنشور في 11 مايو 2017) يضم الملف `Backup/Converter4/Form1.Designer.cs`، وفيه نص نافذة البرنامج: `Dragonarab [2DQ8.com] عالم ثنائي الأبعاد`، ونص الرابط `www.2DQ8.com`؛ وملف `AssemblyInfo.cs` يحمل `Copyright © 2009`. الرابط: https://github.com/q8fft/Alm3rb/blob/master/Backup/Converter4/Form1.Designer.cs
+- **صفحة `q8fft` في `ROMhacking.net`** (لقطة محلية: [`evidence/snapshots/150-romhacking-net-community-4208.txt`](../snapshots/150-romhacking-net-community-4208.txt)) تدرج `Alm3rb Convert Script` ضمن أدوات الحساب بتاريخ `15 Apr 2009`؛ أي أن الإيداع تم عبر حساب عذبي والبرمجة لعضو منتداه `Dragonarab`.
+- **مشروع `Google Code`** `support-arabic-in-rpg-maker-vx-ace`: تاريخ الإنشاء في بيانات الأرشيف `1345624189000` (22 أغسطس 2012، 08:29 UTC)؛ الوصف: «سكربت دعم اللغة العربية في برامج Rpg Maker Vx / Rpg Maker Ace وسكربت عكس الحوارات من اليسار إلى اليمين — لمزيد من المعلومات زر شبكة ترس `http://forum.tersnetwork.com`»؛ الترخيص `gpl3`؛ الملفات: `rpg maker vx ace v2.txt`، `Rpg Maker Vx reverse text.txt`، `Rpg Maker Ace Font script.txt`، `Rpg Maker Vx Arabic Font script.txt`. الرابط: https://code.google.com/archive/p/support-arabic-in-rpg-maker-vx-ace — ونسخته المصدَّرة: https://github.com/DiNaSoR/support-arabic-in-rpg-maker-vx-ace (3 يوليو 2015، «Automatically exported from code.google.com»).
+- **مستودع `tersnetwork/rpgmvxaarabic`** (29 مارس 2015) يحمل السكربت نفسه منشوراً باسم الشبكة القديمة، وسجل إيداعات `tersnetwork/TreeofSaviorAR` (مايو 2016) يضم الحساب `q8fft`، مما يعضد أن حساب الشبكة لعذبي وأن مشروع *Tree of Savior* له.
+- **ترجمة *Ragnarok Online*:** يذكر ص أنها أولى تجاربه قبل أن يُعرف باسم `DragonArab`. لم يُعثر لها على أثر في البحث ولا في الأرشيف، فأُثبتت في الكتاب بإفادته وحدها مع التصريح بذلك.
+
+## 7. ما لم يُضف إلى الكتاب ولماذا
 
 - **عبارة «أول إضافة عربية للعبة»:** وصفٌ من أصحاب المشروع لأنفسهم، فأُثبت منسوباً إليهم.
 - **سنة 2008:** وردت في رواية موقع المشروع وحده، فأُثبتت منسوبةً إليه.
