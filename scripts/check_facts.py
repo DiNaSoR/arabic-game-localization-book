@@ -71,6 +71,14 @@ FACTS = [
         ],
     },
     {
+        "id": "ح٦",
+        "fact": "«ص» هو نفسه Dragonarab؛ لا يُكتب @Dragonarab كأنه طرف آخر، وإضافة WoWvo يملكها Platine وص شريك فيها.",
+        "forbidden": [
+            r"بالتكامل مع (?:حساب )?`@Dragonarab`",
+            r"اتبعها باضافة \*\*`WoWvo`",
+        ],
+    },
+    {
         "id": "ح٤",
         "fact": "لا يُسمّى الكتاب ولا ملفاته ولا مستودعه بكلمة disputes.",
         "forbidden": [r"disputes"],
@@ -87,8 +95,25 @@ def _plain(text: str) -> str:
     return text.translate(str.maketrans("أإآ", "ااا"))
 
 
-def run_checks() -> list[str]:
+def check_reference_count() -> list[str]:
+    """Fact ح٧: every stated number of references equals the number of entries in references.md."""
+    actual = len(re.findall(r"^\d+\. \*\*\[\d+\]\*\*", (ROOT / "references.md").read_text(encoding="utf-8"), flags=re.M))
+    to_int = lambda s: int(s.translate(str.maketrans("٠١٢٣٤٥٦٧٨٩", "0123456789")))
+    stated = re.compile(r"`?([0-9٠-٩]{2,3})`? مرجعا|\[1\]`? (?:الى|–) `?\[([0-9]{2,3})\]")
     problems = []
+    for path in sorted({p for g in SOURCES for p in ROOT.glob(g)}):
+        if path.name == "check_facts.py":
+            continue
+        for no, line in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
+            for m in stated.finditer(_plain(line)):
+                number = to_int(m.group(1) or m.group(2))
+                if number != actual and number > 100:   # smaller numbers are counts of other things
+                    problems.append(f"{path.relative_to(ROOT)}:{no}  يخالف ح٧: يذكر {number} مرجعاً والعدد الفعلي {actual}.")
+    return problems
+
+
+def run_checks() -> list[str]:
+    problems = check_reference_count()
     for fact in FACTS:
         files = sorted({p for g in fact.get("sources", SOURCES) for p in ROOT.glob(g)})
         patterns = [re.compile(_plain(pat)) for pat in fact["forbidden"]]
@@ -112,4 +137,4 @@ if __name__ == "__main__":
     if found:
         print("\n".join(found))
         sys.exit(f"\n{len(found)} موضع يخالف سجل الحقائق (FACTS.md).")
-    print(f"سجل الحقائق: {len(FACTS)} حقائق، لا مخالفات.")
+    print(f"سجل الحقائق: {len(FACTS) + 1} حقائق، لا مخالفات.")

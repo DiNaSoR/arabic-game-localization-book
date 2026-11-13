@@ -38,7 +38,7 @@
   - الحساب البرمجي التاريخي على GitHub (`https://github.com/tersnetwork`، أُنشئ في `12 سبتمبر 2013`، الكويت): يوثق مستودع `tersnetwork/rpgmvxaarabic` لدعم العربية في محرك `RPG Maker VX Ace`، ومستودع `tersnetwork/TreeofSaviorAR` («ترجمة شجرة المخلص» للعبة الـ MMORPG الكورية *Tree of Savior*، مارس 2015: `https://forum.treeofsaviorgame.com/user-1693.html`)، وملف `Ters Studio` على `https://rpgmaker.net/users/tersnetwork/` (`11 نوفمبر 2013`).
 - **الطور الحديث — `Ters.co` والمنصات الشقيقة لـ «ص» (`@sbalhatlani`):**
   - `https://ters.co/` («شبكة ترس · عوالم نصنعها بالعربية»)
-  - `https://wowar.co/` (إضافة `WoWAR` المجانية على `CurseForge` لتعريب *World of Warcraft* عبر 12 توسعة وأكثر من 150,000 نص ودردشة عربية `RTL`، أُطلقت ونُشرت تحديثاتها بالتكامل مع حساب `@Dragonarab` في أغسطس–سبتمبر 2024: `https://x.com/Dragonarab/status/1829994534006374889`).
+  - `https://wowar.co/` (إضافة `WoWAR` المجانية على `CurseForge` لتعريب *World of Warcraft* عبر 12 توسعة وأكثر من 150,000 نص ودردشة عربية `RTL`، أُطلقت ونُشرت تحديثاتها عبر حساب **ص** نفسه `@Dragonarab` في أغسطس–سبتمبر 2024: `https://x.com/Dragonarab/status/1829994534006374889`).
   - `https://wowvo.co/ar` (إضافة `WoWvo` للقراءة الصوتية الذكية لمهام *World of Warcraft* في 31 منطقة).
   - `https://arabicsubs.com/` («أكبر فهرس عربي للترجمات» للأفلام والمسلسلات).
 

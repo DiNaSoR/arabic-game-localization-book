@@ -1,6 +1,6 @@
 # قائمة المراجع والمصادر الموثقة (`references.md`)
 
-تضم هذه القائمة الببليوغرافية المرقمة **`130` مرجعاً أولياً وثانوياً** استُند إليها في جميع فصول الكتاب، والجدول الزمني (`timeline.md`)، ودليل الفاعلين والفرق (`people-and-teams.md`). تشير الأرقام بين المعقوفتين `[n]` في المتن إلى الرقم المقابل في هذه القائمة.
+تضم هذه القائمة الببليوغرافية المرقمة **`134` مرجعاً أولياً وثانوياً** استُند إليها في جميع فصول الكتاب، والجدول الزمني (`timeline.md`)، ودليل الفاعلين والفرق (`people-and-teams.md`). تشير الأرقام بين المعقوفتين `[n]` في المتن إلى الرقم المقابل في هذه القائمة.
 
 - **تاريخ التحقق والاطلاع لجميع الروابط الحية والمؤرشفة:** `2026-11-12` (12 نوفمبر 2026).
 - **ملاحظة منهجية:** أُرفقت مع المصادر الحساسة أو المعرضة للحذف مسارات النسخ المحفوظة محلياً داخل مجلد [`evidence/`](evidence/INDEX.md) وروابط أرشيف الإنترنت (Wayback Machine) متى توفرت.
@@ -359,7 +359,7 @@
     - الروابط: https://github.com/tersnetwork ، https://rpgmaker.net/users/tersnetwork/ ، https://forum.treeofsaviorgame.com/user-1693.html ، و https://x.com/sbalhatlani/status/794945185692188672  
     - تاريخ الاطلاع: `2026-11-12`.
 
-81. **[81]** حساب `@TersNetwork` («شبكة ترس - صورة وصوت عربي»، أُنشئ في 7 ديسمبر 2018) وحساب `@Dragonarab`، نماذج الدبلجة الذكية المبكرة عام 2024 (*Red Dead Redemption* و*Elden Ring*) وإطلاق حزمة `WoWAR` على `CurseForge` لتعريب *World of Warcraft* (أغسطس–سبتمبر 2024).  
+81. **[81]** حساب `@TersNetwork` («شبكة ترس - صورة وصوت عربي»، أُنشئ في 7 ديسمبر 2018) وحساب `@Dragonarab` (وهو حساب **ص** نفسه، منشأ في 20 مارس 2011)، نماذج الدبلجة الذكية المبكرة عام 2024 (*Red Dead Redemption* و*Elden Ring*) وإطلاق حزمة `WoWAR` على `CurseForge` لتعريب *World of Warcraft* (أغسطس–سبتمبر 2024).  
     - الروابط: https://x.com/TersNetwork/status/1760342875055808803 ، https://x.com/TersNetwork/status/1767138990711312766 ، و https://x.com/Dragonarab/status/1829994534006374889  
     - تاريخ الاطلاع: `2026-11-12`.
 
@@ -562,3 +562,23 @@
 130. **[130]** قاعدة بيانات *ROMhacking.net*، ثلاثية التعريبات الكلاسيكية الحديثة للمعرّب **`Albees_Gaming`** في خريف 2026: *Astyanax* (`NES`، `26 Oct 2026`)، و*Mafat Conspiracy: Golgo 13* (`NES`، `30 Oct 2026`)، و*Ninja Gaiden Trilogy* (`SNES`، `04 Nov 2026`).  
      - الروابط: https://www.romhacking.net/translations/7960/ ، https://www.romhacking.net/translations/7992/ ، و https://www.romhacking.net/translations/8055/  
      - تاريخ الاطلاع: `2026-11-12`.
+
+---
+
+## ثامناً: مشروع «واركرافت بالعربي» باسم `Dragonarab` وشراكة `Platine` (2014–2026)
+
+131. **[131]** منصة *CurseForge*، صفحة المؤلف **`Dragonarab`** ومشاريعه لتعريب *World of Warcraft*: `Aw` / `ArabicWoW` (يوليو 2014، مع نسبة الشيفرة الأصلية إلى `Milaisan`)، وحزمة `WoW in Arabic` لعام 2023 (`Quests`، `Lib Arabic Reshaper`، `Bubbles`، `Movies`، `Chat`، ومعه `platine1` بصفة مؤلف)، و`WoWAr - Arabic` (أُنشئ في 25 أغسطس 2024)، و`WoWAR - Forever` (5 نوفمبر 2026)؛ مجموع التنزيلات المعلن في الصفحة `19.2K`.  
+     - الروابط: https://www.curseforge.com/members/dragonarab/projects ، https://www.curseforge.com/wow/addons/arabicwow ، https://www.curseforge.com/wow/addons/wowinarabic-quests ، https://www.curseforge.com/wow/addons/wowinarabic-chat ، https://www.curseforge.com/wow/addons/wowar-arabic ، و https://www.curseforge.com/wow/addons/wowar-forever  
+     - نسخة محلية: [`evidence/pages/2014-2026-dragonarab-wow-in-arabic.md`](evidence/pages/2014-2026-dragonarab-wow-in-arabic.md) — تاريخ الاطلاع: `2026-11-13`.
+
+132. **[132]** موقع مشروع *WoW in Arabic* (`wowinarabic.com` — «مشروع والد-اوف-واركرافت بالعربي»، بحقوق محفوظة لـ«شبكة ترس»): صفحة «فكرة المشروع» التي تروي نشأة الفكرة عام 2008 وإضافة 2014 وعودة العمل عام 2023 وتنسب الفضل الأكبر إلى المطور البولندي `Platine` وحلّ مشكلة الكتابة وتشبيك الحروف العربية إلى `Dragonarab`؛ وصفحة الإضافة في *WoWInterface* (`WoWinArabic-Quests`، المؤلفان `Dragonarab` و`Platine`، أُنشئت في 25 يناير 2023)؛ ومستودعات المشروع البرمجية (2023–2024).  
+     - الروابط: http://web.archive.org/web/20240225090505/https://wowinarabic.com/ ، https://www.wowinterface.com/downloads/info26532-WoWinArabic-Quests.html ، https://github.com/DiNaSoR/WoWinArabic_Quests ، https://github.com/DiNaSoR/Arabic_Reshaper_LUA ، و https://github.com/DiNaSoR/WoWAR_Chat  
+     - نسخة محلية: [`evidence/pages/2014-2026-dragonarab-wow-in-arabic.md`](evidence/pages/2014-2026-dragonarab-wow-in-arabic.md) — تاريخ الاطلاع: `2026-11-13`.
+
+133. **[133]** منتديات *World of Warcraft* الرسمية الأوروبية (`Blizzard`)، موضوع «World of Warcraft Addon Enables Arabic Chat, Filling a Gap in the Game» للعضو `Jya`، نُشر في 17 فبراير 2023، وينسب إضافة الدردشة العربية إلى المطورَين `Platine` و`Dragonarab`.  
+     - الرابط: https://eu.forums.blizzard.com/en/wow/t/world-of-warcraft-addon-enables-arabic-chat-filling-a-gap-in-the-game/431943  
+     - تاريخ الاطلاع: `2026-11-13`.
+
+134. **[134]** منصة *CurseForge*، إضافة القراءة الصوتية للمهام **`WoW Voice Lector`** (`wowvo.co`): المالك `platine1` ومعه `Dragonarab` بصفة مؤلف، أُنشئت في 30 يونيو 2024 وتدعم الإنجليزية والبولندية والعربية (`8,046` تنزيلاً)؛ ومستودع `WoWLang` متعدد اللغات (`AR` و`PL` و`TR` و`UA` و`HU` و`JP`، 2024–2025) بمشاركة `Platine`.  
+     - الروابط: https://www.curseforge.com/wow/addons/wow-voice-lector ، https://wowvo.co/ar ، و https://github.com/DiNaSoR/WoWLang  
+     - تاريخ الاطلاع: `2026-11-13`.
