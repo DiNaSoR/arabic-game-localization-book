@@ -1,0 +1,160 @@
+URL: https://github.com/q8fft/Alm3rb
+Final: https://github.com/q8fft/Alm3rb
+Title: GitHub - q8fft/Alm3rb: This is first version Alm3rb Convert Arabic text any Values · GitHub
+HTTP: 200
+
+Skip to content
+Navigation Menu
+Products
+Developers
+Businesses
+Resources
+Pricing
+Search
+/
+Sign in
+Sign up
+q8fft
+Alm3rb
+Repository navigation
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security and quality
+Insights
+Alm3rb
+Public
+Notifications
+Fork0
+ (0)
+Star2
+ (2)
+master
+1 Branch
+0 Tags
+Code
+Latest commit
+q8fft
+Update README.md
+23c23ff
+ · 
+History
+8 Commits
+Folders and files
+Name	Last commit message	Last commit date
+
+.vs/Converter4/v14
+	
+Alm3rb Convert Script
+	
+
+
+Backup
+	
+Alm3rb Convert Script
+	
+
+
+Backup1
+	
+Alm3rb Convert Script
+	
+
+
+Converter4
+	
+Alm3rb Convert Script
+	
+
+
+_UpgradeReport_Files
+	
+Alm3rb Convert Script
+	
+
+
+Converter4.sln
+	
+Alm3rb Convert Script
+	
+
+
+Converter4.suo
+	
+Alm3rb Convert Script
+	
+
+
+README.md
+	
+Update README.md
+	
+
+
+UpgradeLog.XML
+	
+Alm3rb Convert Script
+	
+
+
+UpgradeLog.htm
+	
+Alm3rb Convert Script
+	
+
+
+UpgradeLog2.XML
+	
+Alm3rb Convert Script
+	
+Repository files navigation
+README
+Alm3rb - المعرب
+
+This is first version Alm3rb Convert Arabic text or to any Values you want.
+
+برنامج يحول لك أي قيمة تريد إلى أي قيمة تحب. وايضاً يساعدك في الكتابة بالعربية في البرامج التي لا تدعم العربية
+
+About
+
+This is first version Alm3rb Convert Arabic text any Values
+
+Resources
+Readme
+Activity
+Stars
+2 stars
+Watchers
+1 watching
+Forks
+0 forks
+Report repository
+Releases
+No releases published
+Contributors
+1
+ (1)
+q8fft
+Languages
+C#
+50%
+HTML
+38%
+XSLT
+9.6%
+CSS
+2.4%
+Footer
+© 2026 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Community
+Docs
+Contact
+Manage cookies
+Do not share my personal information

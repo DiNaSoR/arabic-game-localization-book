@@ -1,0 +1,11 @@
+URL: https://www.romhacking.net/translations/8055/
+Source: web search engine index (cached page text), retrieved 2026-11-13 04:59 Asia/Kuwait.
+The original page is blocked/unreachable from the capture box and has no Wayback Machine capture.
+
+Romhacking.net - Translations - Ninja Gaiden Trilogy Arabic
+https://www.romhacking.net/translations/8055/
+Translation Information — Ninja Ryukenden Tomoe
+Author: Albees_Gaming | Game: Ninja Gaiden Trilogy | Platform: Super Nintendo | Category: Fully Playable | Genre: Action > Platformer | Language: Arabic | Version: 1.0 | Release Date: 04 November 2026 | Downloads: 4 | Last Modified: 04 November 2026
+Description: Ninja Gaiden Trilogy V1.0 - ARABIC BETA. Joined Arabic text and right-to-left reveal for all seven identified opening/ending story blocks. Arabic main-menu prompt. Enjoy this classic SNES adventure in Arabic!
+ROM / ISO Information: Database match: Ninja Gaiden Trilogy (USA); No-Intro SNES (v. 20210222-050638); File SHA-1: A0BAFCE4A88C98B95A17AC70430086873D4CADB1; File CRC32: D99FABA6; ROM SHA-1: D65B3B940FCE0BFD493F783170C364DAC2EA198D; ROM CRC32: 66FE797
+Related (same index): Albees_Gaming community profile https://www.romhacking.net/community/9738/ lists 4 Arabic translations: Ninja Gaiden Trilogy (SNES, 04 Nov 2026), Mighty Final Fight (NES, 31 Oct 2026), Mafat Conspiracy: Golgo 13 (NES, 30 Oct 2026), Astyanax (NES, 26 Oct 2026).

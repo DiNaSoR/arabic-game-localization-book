@@ -1,0 +1,74 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/athbistudio/status/2120929242095788494",
+  "id": "2120929242095788494",
+  "text": "@9PAC0O هذا بالضبط أحد الأسباب اللي خلتني أكتب هالتغريدة، لأن فيه ظلم كبير، خصوصًا للمعربين الجدد، وهضم لحقوقهم. لو أنه أشار على الأقل للمعرب أو المعدل الأصلي وحسّن من مجهوده، ما أظن أحد يمانع، بالعكس هذا شيء يُحسب له ويكسبه احترام الآخرين، لكن اللي قاعد يصير الآن شيء محزن.",
+  "raw_text": {
+   "text": "@9PAC0O هذا بالضبط أحد الأسباب اللي خلتني أكتب هالتغريدة، لأن فيه ظلم كبير، خصوصًا للمعربين الجدد، وهضم لحقوقهم. لو أنه أشار على الأقل للمعرب أو المعدل الأصلي وحسّن من مجهوده، ما أظن أحد يمانع، بالعكس هذا شيء يُحسب له ويكسبه احترام الآخرين، لكن اللي قاعد يصير الآن شيء محزن.",
+   "display_text_range": [
+    8,
+    274
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      7
+     ],
+     "original": "9PAC0O",
+     "id": "2051562305641439232"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "athbistudio",
+   "url": "https://x.com/athbistudio",
+   "id": "1294692795698089985",
+   "followers": 1595,
+   "following": 3,
+   "likes": 39,
+   "media_count": 98,
+   "name": "AthbiStudio",
+   "description": "منصة لتعريب الألعاب وتطويعها لتجربة عربية أصيلة.\nعرّبنا ٣٠+ لعبة مجانًا 🎮 فاينل فانتسي • بوكيمون • ماذر • كاسلفانيا • سوبر روبوت وورز. طبّق التعريب من المتصفح",
+   "raw_description": {
+    "text": "منصة لتعريب الألعاب وتطويعها لتجربة عربية أصيلة.\nعرّبنا ٣٠+ لعبة مجانًا 🎮 فاينل فانتسي • بوكيمون • ماذر • كاسلفانيا • سوبر روبوت وورز. طبّق التعريب من المتصفح",
+    "facets": []
+   },
+   "location": "خلف أفق الحدث",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1294692795698089985/1792260440",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1708880442546442241/c_lnF0dm_200x200.jpg",
+   "joined": "Sat Aug 15 17:50:03 +0000 2020",
+   "protected": false,
+   "website": {
+    "url": "https://athbistudio.pages.dev",
+    "display_url": "athbistudio.pages.dev"
+   },
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 1,
+  "retweets": 0,
+  "likes": 0,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Thu Nov 12 17:18:30 +0000 2026",
+  "created_timestamp": 1794503910,
+  "views": 38,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": "9PAC0O",
+  "replying_to_status": "2120907955830968820",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

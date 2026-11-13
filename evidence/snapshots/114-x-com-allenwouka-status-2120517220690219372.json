@@ -1,0 +1,167 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/AllenWouka/status/2120517220690219372",
+  "id": "2120517220690219372",
+  "text": "الحرامي أعطاني بلوك 😭😭😭",
+  "raw_text": {
+   "text": "الحرامي أعطاني بلوك 😭😭😭 https://t.co/krHZc3BwTO",
+   "display_text_range": [
+    0,
+    23
+   ],
+   "facets": [
+    {
+     "type": "media",
+     "indices": [
+      24,
+      47
+     ],
+     "id": "2120517212511387648",
+     "display": "pic.x.com/krHZc3BwTO",
+     "original": "https://t.co/krHZc3BwTO",
+     "replacement": "https://x.com/AllenWouka/status/2120517220690219372/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "AllenWouka",
+   "url": "https://x.com/AllenWouka",
+   "id": "912035038094557184",
+   "followers": 674,
+   "following": 44,
+   "likes": 2014,
+   "media_count": 200,
+   "name": "Allen Wouka 🇵🇸🇱🇾",
+   "description": "(علّان ووكا)\nCo-Director \n@EternalDreamAR",
+   "raw_description": {
+    "text": "(علّان ووكا)\nCo-Director \n@EternalDreamAR",
+    "facets": []
+   },
+   "location": "ℕ𝕠!",
+   "banner_url": "https://pbs.twimg.com/profile_banners/912035038094557184/1743438885",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2091451709713235968/x0dOV4Ec_200x200.jpg",
+   "joined": "Sun Sep 24 19:24:32 +0000 2017",
+   "protected": false,
+   "website": {
+    "url": "https://www.arabicpotato.com",
+    "display_url": "arabicpotato.com"
+   },
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 3,
+  "retweets": 3,
+  "likes": 18,
+  "bookmarks": 4,
+  "quotes": 0,
+  "created_at": "Wed Nov 11 14:01:17 +0000 2026",
+  "created_timestamp": 1794405677,
+  "possibly_sensitive": false,
+  "views": 2188,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "2120517212511387648",
+     "url": "https://pbs.twimg.com/media/HW2XK3fXwAAHBcD.jpg?name=orig",
+     "width": 1075,
+     "height": 1420
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "2120517212511387648",
+     "url": "https://pbs.twimg.com/media/HW2XK3fXwAAHBcD.jpg?name=orig",
+     "width": 1075,
+     "height": 1420
+    }
+   ]
+  },
+  "quote": {
+   "url": "https://x.com/AllenWouka/status/2120514377593893326",
+   "id": "2120514377593893326",
+   "text": "شلت يمينك\nأشرفت على ترجمات أكثر من مئة شخص، وترجمت ملايين الكلمات بنفسي. خط @TheAdamSaeed صمم ليلائم اللعبة، وشاركت 4 فرق بمساعدة أشخاص من كوريا والبرتغال وروسيا لهذا المشروع.\n\nواليوم يعاد رفع العمل بعد حذف حقوقنا وأسمائنا وإرفاق ترجمات آلية.\nلا أندم على مغادرة هذه الساحة القذرة.",
+   "raw_text": {
+    "text": "شلت يمينك\nأشرفت على ترجمات أكثر من مئة شخص، وترجمت ملايين الكلمات بنفسي. خط @TheAdamSaeed صمم ليلائم اللعبة، وشاركت 4 فرق بمساعدة أشخاص من كوريا والبرتغال وروسيا لهذا المشروع.\n\nواليوم يعاد رفع العمل بعد حذف حقوقنا وأسمائنا وإرفاق ترجمات آلية.\nلا أندم على مغادرة هذه الساحة القذرة.",
+    "display_text_range": [
+     0,
+     280
+    ],
+    "facets": [
+     {
+      "type": "mention",
+      "indices": [
+       76,
+       89
+      ],
+      "original": "TheAdamSaeed",
+      "id": "1241849048"
+     }
+    ]
+   },
+   "author": {
+    "screen_name": "AllenWouka",
+    "url": "https://x.com/AllenWouka",
+    "id": "912035038094557184",
+    "followers": 674,
+    "following": 44,
+    "likes": 2014,
+    "media_count": 200,
+    "name": "Allen Wouka 🇵🇸🇱🇾",
+    "description": "(علّان ووكا)\nCo-Director \n@EternalDreamAR",
+    "raw_description": {
+     "text": "(علّان ووكا)\nCo-Director \n@EternalDreamAR",
+     "facets": []
+    },
+    "location": "ℕ𝕠!",
+    "banner_url": "https://pbs.twimg.com/profile_banners/912035038094557184/1743438885",
+    "avatar_url": "https://pbs.twimg.com/profile_images/2091451709713235968/x0dOV4Ec_200x200.jpg",
+    "joined": "Sun Sep 24 19:24:32 +0000 2017",
+    "protected": false,
+    "website": {
+     "url": "https://www.arabicpotato.com",
+     "display_url": "arabicpotato.com"
+    },
+    "verification": {
+     "verified": false,
+     "verified_at": null,
+     "type": null
+    },
+    "avatar_color": null
+   },
+   "replies": 17,
+   "retweets": 33,
+   "likes": 653,
+   "bookmarks": 228,
+   "quotes": 4,
+   "created_at": "Wed Nov 11 13:49:59 +0000 2026",
+   "created_timestamp": 1794404999,
+   "views": 75596,
+   "is_note_tweet": false,
+   "community_note": null,
+   "lang": "ar",
+   "replying_to": null,
+   "replying_to_status": null,
+   "twitter_card": "tweet",
+   "color": null,
+   "provider": "twitter",
+   "reposted_by": null
+  },
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

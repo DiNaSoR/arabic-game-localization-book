@@ -1,0 +1,93 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/PRO128XD/status/2117277298831380532",
+  "id": "2117277298831380532",
+  "text": "@i_mohanad سلام عليكم أخي مهند \nكيف حالك\nحاب ابشرك ان تعريب آفاق التعريب تم نقله بنجاح الى نسخة ريماستر\n\nاستخدمت صورتك مع ذكر حقوقك عليها\nرابط المنشور خاص بي :\nhttps://www.reddit.com/r/Arabic_Games/s/CTNZegTF5k",
+  "raw_text": {
+   "text": "@i_mohanad سلام عليكم أخي مهند \nكيف حالك\nحاب ابشرك ان تعريب آفاق التعريب تم نقله بنجاح الى نسخة ريماستر\n\nاستخدمت صورتك مع ذكر حقوقك عليها\nرابط المنشور خاص بي :\nhttps://t.co/g1BmLKVDQy",
+   "display_text_range": [
+    11,
+    183
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      10
+     ],
+     "original": "i_mohanad",
+     "id": "374031037"
+    },
+    {
+     "type": "url",
+     "indices": [
+      160,
+      183
+     ],
+     "original": "https://t.co/g1BmLKVDQy",
+     "replacement": "https://www.reddit.com/r/Arabic_Games/s/CTNZegTF5k",
+     "display": "reddit.com/r/Arabic_Games…"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "PRO128XD",
+   "url": "https://x.com/PRO128XD",
+   "id": "1352994877496307712",
+   "followers": 38,
+   "following": 149,
+   "likes": 45448,
+   "media_count": 188,
+   "name": "Taku",
+   "description": "Just a Normal Person",
+   "raw_description": {
+    "text": "Just a Normal Person",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1352994877496307712/1741154081",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1782866610019004417/Pq3a96vb_200x200.jpg",
+   "joined": "Sat Jan 23 15:01:42 +0000 2021",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 1,
+  "retweets": 0,
+  "likes": 0,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Mon Nov 02 15:26:59 +0000 2026",
+  "created_timestamp": 1793633219,
+  "possibly_sensitive": false,
+  "views": 30,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": "i_mohanad",
+  "replying_to_status": "2115468198807998913",
+  "card": {
+   "url": "https://www.reddit.com/r/Arabic_Games/s/CTNZegTF5k",
+   "title": "Reddit · r/Arabic_Games",
+   "description": "The Wolf among us Rremastered تعريب",
+   "domain": "www.reddit.com",
+   "image": {
+    "width": 800,
+    "height": 419,
+    "url": "https://pbs.twimg.com/card_img/2119897404447358976/qX4mVJ7B?format=jpg&name=800x419"
+   }
+  },
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

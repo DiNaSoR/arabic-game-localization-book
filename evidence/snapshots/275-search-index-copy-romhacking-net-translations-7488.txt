@@ -1,0 +1,8 @@
+URL: https://www.romhacking.net/translations/7488/
+Source: web search engine index (cached page text), retrieved 2026-11-13 04:59 Asia/Kuwait.
+The original page is blocked/unreachable from the capture box and has no Wayback Machine capture.
+
+Romhacking.net - Translations - Hebereke Arabic Translation
+https://www.romhacking.net/translations/7488/
+Search index summary (page body not returned by the index): Hebereke Arabic Translation (NES), fully playable; Author: R-K; translation, font design, artwork conversion and RTL programming credited to Mansour; technical modifications, text insertion, tile-map editing and programming credited to R-K; Release Date: 04 May 2020; applies to the Japanese NES ROM.
+Full mirror of the same entry: https://romhackplaza.org/translations/hebereke-arabic-translation-nes (see 275-mirror-* screenshots).

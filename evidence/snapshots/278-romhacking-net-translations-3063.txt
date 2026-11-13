@@ -1,0 +1,176 @@
+URL: https://www.romhacking.net/translations/3063/
+Archived copy: https://web.archive.org/web/20230714052127/https://www.romhacking.net/translations/3063/
+
+Home Forum Sections Community Submissions Changes Search Help   
+
+
+Sections
+Home
+Documents
+Utilities
+Translations
+ROM Hacks
+Games
+Homebrew
+Fonts
+Abandoned
+News Archive
+Community
+Forum
+Wiki
+History
+Chat
+Community Database
+Links
+Submissions
+Submit Files
+Submit News
+Queue Status
+Public Maintenance
+The Scratchpad
+Online ROM Patcher
+Online ROM Hasher
+Help
+About this Site
+Getting Started
+RHDN Policy
+Dictionary
+FAQ
+Contact Staff
+Newest Hacks
+   
+Secret of Mana Climate Crisis Edition
+Improvement | SNES
+Phantasy Star IV Enemy Restoration
+Improvement | GEN
+Fire Emblem - Unbreakable Items
+Improvement | GBA
+Digital Devil Saga - Less Grinding
+Improvement | PS2
+See More Hacks...
+Newest Translations
+   
+Resq
+Spanish | Fully Playable | GEN
+No Escape
+Spanish | Fully Playable | SNES
+No Escape
+Spanish | Fully Playable | GEN
+Legacy of the Wizard
+Chinese | Fully Playable | NES
+See More Translations...
+Newest Reviews
+   
+The Twist was in fact, the Dimensions
+Hacks | Metroid FreezeFlame 2: Twisted Dimensions
+Love Dark/Light Themes and 'Hell Run' Games, this is for you.
+Hacks | Metroid: FreezeFlame
+Well, it's better than nothing.
+Translations | Light Fantasy
+A welcome modernization
+Hacks | Fire Emblem - Unbreakable Items
+See More Reviews...
+Featured Hack Images
+ 
+Devil Bros.
+Improvement | NES
+Chrono Trigger Lavos' Awakening (Hardtype)
+Complete | SNES
+Featured Translation Images
+ 
+Star Wars (Namco)
+English | Fully Playable | NES
+Theme Park
+Swedish | Fully Playable | SNES
+Recent Forum Posts
+Mega Man X 1~3 Relocalization Project
+Personal Projects
+Today at 07:30:00 PM
+STREET FIGHTER 2 DELUXE NES
+Personal Projects
+Today at 07:17:59 PM
+Sonic 5 - Improvement Vol.2 (Nes)
+Personal Projects
+Today at 06:31:04 PM
+Hack Ideas and Requests: We still can't hack it in 2023
+ROM Hacking Discussion
+Today at 06:28:04 PM
+Tinkering with TMNT (NES)
+Personal Projects
+Today at 06:23:04 PM
+See More Forum Topics...
+Recent Updates
+Ace Combat 3: Electrosphere
+Translations
+Removed extraneous character from new ReadMe
+Ace Combat 3: Electrosphere
+Translations
+ReadMe for v0.9b
+Translations - Ace Combat 3: Electrosphere
+Credits
+Credits for version 0.9b
+Nakoruru: Anohito Kara no Okurimono
+Games
+Original game description does not mention ties to the Samurai Shodown series.
+Ariel Schnee
+Community
+Updating this page.
+See More Changes...
+Shatterhand
+Nintendo Entertainment System
+Translation Information
+Shatterhand
+
+Released By	Shadow501
+Language	Arabic
+Status	Fully Playable
+Platform	Nintendo Entertainment System
+License	N/A
+Patching Information	No Special Requirements
+Genre	Action > Platformer
+Published By	Angel Studios
+Game Date	26 October 1991
+Patch Version	2.0
+Release Date	01 June 2017
+Readme	
+Downloads	175
+Last Modified	30 November 2020
+EDIT TRANSLATION ENTRY
+EDIT GAME ENTRY
+EDIT CREDITS
+FLAG AS NONCOMPLIANT
+ Share  Tweet
+Game Description:
+
+Tokkyuu Shirei Solbrain (特救指令ソルブレイン Tokkyū Shirei Soruburein?, lit. Special Rescue Command Solbrain) is a video game based on the series of the same name which was released in Japan in 1991 for the Famicom, published by Angel and developed by Natsume. It was later modified into Shatterhand, which was published by Jaleco for the Nintendo Entertainment System in North America and Europe shortly after the Japanese release. The differences are mainly cosmetic (changing graphics and plot) but there were also several substantial changes, such as which boss appeared in which area. In addition, the theme-park stage from the Famicom version was replaced with a nuclear-submarine stage in the NES version.
+
+Translation Description:
+
+This is an Arabic translation of Tokkyuu Shirei: Solbrain for the Nintendo Entertainment System.
+
+ROM / ISO Information:
+Database match: Tokkyuu Shirei Solbrain (Japan)
+Database: No-Intro: Nintendo Entertainment System (v. 20180803-121122)
+File SHA-1: 811E64EA272265DF5D623238D5A02B1D781E4639
+File CRC32: 6A09E2BB
+ROM SHA-1: 5BD2FB8D783090D50357A3941C3B3433B3EB2B36
+ROM CRC32: B70129F4
+Links:
+News Articles for this Translation
+Download
+Screenshots:
+
+
+Credits:
+Credits
+Contributor	Type of contribution	Listed credit
+Shadow501	Hacking	Full Hacking & Translation to Arabic
+Gideon Zhi	Original Hacking	English translation
+User Review Information
+No User Reviews!
+ADD REVIEW
+﻿﻿
+©2005-2023 RHDN 3.0.0 by Nightcrawler. All Rights Reserved.
+Execution time - 0.0066 sec. - Number of Queries: 5
+About Us | RHDN Policy | HTML5 | CSS
+  

@@ -1,0 +1,71 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/MoTandG/status/2120813040077529319",
+  "id": "2120813040077529319",
+  "text": "@Arabic_Hesham والله إني درست قطر الندى وألفية ابن هشام وشرحها لابن مالك\nولا أدري وش معنى الركح !!\nالإغراب من العي وليس من الفصاحة\nوالبلاغة هي البيان وليس التعقيد",
+  "raw_text": {
+   "text": "@Arabic_Hesham والله إني درست قطر الندى وألفية ابن هشام وشرحها لابن مالك\nولا أدري وش معنى الركح !!\nالإغراب من العي وليس من الفصاحة\nوالبلاغة هي البيان وليس التعقيد",
+   "display_text_range": [
+    15,
+    162
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      14
+     ],
+     "original": "Arabic_Hesham",
+     "id": "2051213281419751424"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "MoTandG",
+   "url": "https://x.com/MoTandG",
+   "id": "1661713295454208001",
+   "followers": 586,
+   "following": 593,
+   "likes": 3556,
+   "media_count": 544,
+   "name": "MO",
+   "description": "ألعب 🎮 وأقرأ 📚 أبني بيسيات ومهتم بالهاردوير 🖥 وأشجع ريال مدريد والنصر ⚽️",
+   "raw_description": {
+    "text": "ألعب 🎮 وأقرأ 📚 أبني بيسيات ومهتم بالهاردوير 🖥 وأشجع ريال مدريد والنصر ⚽️",
+    "facets": []
+   },
+   "location": "Kingdom of Saudi Arabia",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1661713295454208001/1687814704",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1679615188226433025/ih6sfMzP_200x200.jpg",
+   "joined": "Thu May 25 12:38:28 +0000 2023",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 6,
+  "retweets": 1,
+  "likes": 84,
+  "bookmarks": 19,
+  "quotes": 0,
+  "created_at": "Thu Nov 12 09:36:46 +0000 2026",
+  "created_timestamp": 1794476206,
+  "views": 15054,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": "Arabic_Hesham",
+  "replying_to_status": "2120803455220551757",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

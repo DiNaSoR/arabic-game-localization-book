@@ -1,0 +1,214 @@
+URL: https://www.romhacking.net/community/4208/
+Archived copy: https://web.archive.org/web/20240728110043/https://www.romhacking.net/community/4208/
+
+Home
+Forum
+Sections
+Documents
+Utilities
+Translations
+ROM Hacks
+Games
+Homebrew
+Fonts
+Abandoned
+News Archive
+Community
+Forum
+Wiki
+Community History
+Chat
+Community Database
+Links
+Submissions
+Submit Files
+Submit News
+Queue Status
+Public Maintenance
+The Scratchpad
+Online ROM Patcher
+Online ROM Hasher
+Changes
+Change Log
+Latest Documents
+Latest Utilities
+Latest Translations
+Latest Hacks
+Latest Reviews
+Advanced Search
+Search
+ 
+Help
+About this Site
+Getting Started
+RHDN Policy
+Dictionary
+FAQ
+Chat
+Contact Staff
+
+
+Sections
+Home
+Documents
+Utilities
+Translations
+ROM Hacks
+Games
+Homebrew
+Fonts
+Abandoned
+News Archive
+Community
+Forum
+Wiki
+History
+Chat
+Community Database
+Links
+Submissions
+Submit Files
+Submit News
+Queue Status
+Public Maintenance
+The Scratchpad
+Online ROM Patcher
+Online ROM Hasher
+Help
+About this Site
+Getting Started
+RHDN Policy
+Dictionary
+FAQ
+Contact Staff
+Newest Hacks
+ 
+The Amazing Spider-Man in Streets of Rage 2
+Improvement | GEN
+X-Men MA [USA] - Costume Mod
+Improvement | PSX
+Grind Stormer Color Hack
+Improvement | GEN
+Jewel Master - Ring Expansion
+Improvement | GEN
+See More Hacks...
+Newest Translations
+ 
+Shuffle Fight
+English | Fully Playable | NES
+Fire Emblem: Thracia 776
+Italian | Fully Playable | SNES
+The Smurfs
+Portuguese | Fully Playable | SMS
+Final Fantasy V
+English | Addendum | SNES
+See More Translations...
+Newest Reviews
+ 
+Exactly the quality I would expect
+Hacks | Mega Man World 3 DX
+Here's an opportunity to finish the game 100% without having to do too much work.
+Hacks | Card Mode
+Absolutely GLORIOUS!!
+Hacks | Mega Man World 3 DX
+Why not make Select the Dash button?
+Hacks | Mega Man & Bass GBA New Controls
+See More Reviews...
+Featured Hack Images
+ 
+Metroid Deluxe
+Complete | NES
+Zelda3 Goddess of Wisdom
+Complete | SNES
+Featured Translation Images
+ 
+Game Boy Wars 2
+English | Unfinished | GB
+The world to reverse.
+English | Fully Playable | PC
+Recent Forum Posts
+Translations: It's time to Sh-sh-sh-sh-sh-Shuffle Fight!
+News Submissions
+July 27, 2024, 11:17:08 PM
+ROM Hacks: A new Sonic 1 hack is out
+News Submissions
+July 27, 2024, 11:16:44 PM
+How can I look for text pointers in SegaCD/MegaCD games?
+Newcomer's Board
+July 27, 2024, 08:19:46 PM
+Lufia I Restored 3.1 | Lufia II: Frue Trilogizer v6.0-T | Lufia III Complete 3.1
+Personal Projects
+July 27, 2024, 07:29:55 PM
+See More Forum Topics...
+Recent Updates
+Battle of Olympus: Item Randomizer
+Hacks
+Add section for related hacks.
+Battle of Olympus: Explorer Edition
+Hacks
+Add section for related hacks.
+SMW Returns 2
+Hacks
+Fixed description. (Yes, Japanese text REALLY should restrict gameplay.)
+Super Mario Bros.
+Games
+The Game Now Looks Like Japanese Game UPDATE
+See More Changes...
+q8fft
+Arabic
+Profile Information
+
+Name	q8fft
+Group	No
+Forum Account	q8fft
+Language	Arabic
+Last Modified	09 February 2018
+EDIT ENTRY
+FLAG AS NONCOMPLIANT
+Description:
+
+Translator Games into Arabic language.
+
+Links:
+https://sites.google.com/view/athbistudio/
+Releases:
+
+
+2 Utilities
+Title	Platform	Category	Date
+Alm3rb Convert Script	N/A	Script Extraction / Insertion	15 Apr 2009
+Dragon Warrior - Text Editor	NES	Script Extraction / Insertion	26 Apr 2017
+
+
+10 Translations
+Title	Platform	Category	Date
+Final Fantasy V Advance (AR)	GBA	Fully Playable	26 Jun 2020
+Dragon Ball Z: Super Saiya Densetsu (AR)	SNES	Unfinished	23 Nov 2019
+Castlevania III: Dracula’s Curse (AR)	NES	Fully Playable	09 Jun 2019
+Final Fantasy I & II: Dawn of Souls (AR)	GBA	Fully Playable	08 Nov 2019
+Final Fantasy Tactics: The War of the Lions (AR)	PSP	Unfinished	21 May 2020
+Final Fantasy III (AR)	SNES	Fully Playable	05 Feb 2018
+Dementium: The Ward (AR)	NDS	Fully Playable	23 Mar 2009
+Dragon Warrior (AR)	NES	Fully Playable	13 Jul 2017
+Kunio Kun no Nekketsu Soccer League (AR)	NES	Addendum	19 Mar 2017
+Nintendo World Cup (AR)	NES	Unfinished	05 Nov 2016
+
+
+Contributions:
+
+
+8 Translations
+Title	Role	Credit
+Dragon Warrior (PT)	Hacking	Creator of Text Editor
+Final Fantasy V Advance (AR)	Original Translation	
+Demon's Crest (AR)	Hacking	Text insertion, Additional Translations
+Final Fantasy III (AR)	Hacking	Hacking & Translation
+Dementium: The Ward (AR)	Hacking	Full Hacking & Translation to Arabic
+Dragon Warrior (AR)	Hacking	Full Hacking & Translation to Arabic
+Kunio Kun no Nekketsu Soccer League (AR)	Hacking	
+Nintendo World Cup (AR)	Hacking	Full Hacking & Translation
+﻿﻿
+©2005-2024 RHDN 3.0.0 by Nightcrawler. All Rights Reserved.
+Execution time - 0.0109 sec. - Number of Queries: 8
+About Us | RHDN Policy | HTML5 | CSS
+  

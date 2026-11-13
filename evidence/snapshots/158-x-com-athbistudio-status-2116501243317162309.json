@@ -1,0 +1,105 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/athbistudio/status/2116501243317162309",
+  "id": "2116501243317162309",
+  "text": "بعد تطوير أدواتي، وصلت منظومة التعريب لمرحلة أقدر أعتمد عليها 🎉🥳\n\nوللي ما يعرف، AthbiStudio مو فريق؛ أنا شخص واحد، والتعريب هوايتي بوقت فراغي.\n\nمن الآن راح أستخدم الذكاء الاصطناعي #AI أكثر، مع مراجعتي للنصوص واختبارها داخل اللعبة.\n\nالفكرة أنجز أسرع وأجرب تعريب ألعاب أكثر.",
+  "raw_text": {
+   "text": "بعد تطوير أدواتي، وصلت منظومة التعريب لمرحلة أقدر أعتمد عليها 🎉🥳\n\nوللي ما يعرف، AthbiStudio مو فريق؛ أنا شخص واحد، والتعريب هوايتي بوقت فراغي.\n\nمن الآن راح أستخدم الذكاء الاصطناعي #AI أكثر، مع مراجعتي للنصوص واختبارها داخل اللعبة.\n\nالفكرة أنجز أسرع وأجرب تعريب ألعاب أكثر. https://t.co/K8XYmzXROZ",
+   "display_text_range": [
+    0,
+    272
+   ],
+   "facets": [
+    {
+     "type": "hashtag",
+     "indices": [
+      180,
+      183
+     ],
+     "original": "AI"
+    },
+    {
+     "type": "media",
+     "indices": [
+      273,
+      296
+     ],
+     "id": "2116501229291364352",
+     "display": "pic.x.com/K8XYmzXROZ",
+     "original": "https://t.co/K8XYmzXROZ",
+     "replacement": "https://x.com/athbistudio/status/2116501243317162309/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "athbistudio",
+   "url": "https://x.com/athbistudio",
+   "id": "1294692795698089985",
+   "followers": 1595,
+   "following": 3,
+   "likes": 39,
+   "media_count": 98,
+   "name": "AthbiStudio",
+   "description": "منصة لتعريب الألعاب وتطويعها لتجربة عربية أصيلة.\nعرّبنا ٣٠+ لعبة مجانًا 🎮 فاينل فانتسي • بوكيمون • ماذر • كاسلفانيا • سوبر روبوت وورز. طبّق التعريب من المتصفح",
+   "raw_description": {
+    "text": "منصة لتعريب الألعاب وتطويعها لتجربة عربية أصيلة.\nعرّبنا ٣٠+ لعبة مجانًا 🎮 فاينل فانتسي • بوكيمون • ماذر • كاسلفانيا • سوبر روبوت وورز. طبّق التعريب من المتصفح",
+    "facets": []
+   },
+   "location": "خلف أفق الحدث",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1294692795698089985/1792260440",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1708880442546442241/c_lnF0dm_200x200.jpg",
+   "joined": "Sat Aug 15 17:50:03 +0000 2020",
+   "protected": false,
+   "website": {
+    "url": "https://athbistudio.pages.dev",
+    "display_url": "athbistudio.pages.dev"
+   },
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 9,
+  "retweets": 0,
+  "likes": 44,
+  "bookmarks": 10,
+  "quotes": 0,
+  "created_at": "Sat Oct 31 12:03:13 +0000 2026",
+  "created_timestamp": 1793448193,
+  "possibly_sensitive": false,
+  "views": 2283,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "2116501229291364352",
+     "url": "https://pbs.twimg.com/media/HV9Sp4KW4AADjSX.jpg?name=orig",
+     "width": 1672,
+     "height": 941
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "2116501229291364352",
+     "url": "https://pbs.twimg.com/media/HV9Sp4KW4AADjSX.jpg?name=orig",
+     "width": 1672,
+     "height": 941
+    }
+   ]
+  },
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

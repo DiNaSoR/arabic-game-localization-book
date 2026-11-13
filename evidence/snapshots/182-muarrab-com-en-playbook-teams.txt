@@ -1,0 +1,1657 @@
+URL: https://muarrab.com/en/playbook/teams/
+Final: https://muarrab.com/en/playbook/teams/
+Title: Which localization team to hire — Muarrab
+HTTP: 200
+
+Skip to content
+#مُـــعَــرَّبٌٌ
+Official
+Community
+Genres
+Series
+Teams
+Contribute
+For studios
+العربية
+Home
+For studios
+Teams
+
+CHOOSING A LOCALIZATION TEAM
+
+Who to hire, decided by what they have already shipped.
+
+11 localizers in Muarrab's index have shipped Arabic inside a released game — published by the studio that made the game, not handed out as a patch afterwards. Those are the only teams recommended on this page, and each is placed against the kind of project its own record actually supports.
+
+No studio pays to appear here. The order beneath every recommendation is the catalog's own count of official releases, and the one editorial judgement on the page — who leads each job class — is labelled as one.
+
+Skip to the recommendations
+↓
+Check the catalog yourself
+
+THE VETTED ROSTER
+
+01
+AR
+Arlation
+Flagship releases · Full pipeline · Arabic voice
+39
+OFFICIAL
+02
+ED
+Eternal Dream Arabization
+Mid-size releases · Repeat publisher work · Co-productions
+25
+OFFICIAL
+03
+L&
+Loc & Play
+Premium titles · Award-winning studio
+11
+OFFICIAL
+04
+loclait
+Boutique titles · Publisher delivery · First Arabic build
+9
+OFFICIAL
+05
+MP
+Manga Productions
+Regional studio · Console releases
+3
+OFFICIAL
+06
+L&
+Loc & More
+Long-running vendor · Back-catalogue titles
+2
+OFFICIAL
+07
+MA
+Majed Alotaibi
+Independent · In-house titles
+2
+OFFICIAL
+08
+GA
+Gameorabia
+Single release
+1
+OFFICIAL
+09
+IP
+Image Production House
+Arabic voice work
+1
+OFFICIAL
+10
+LO
+locpick
+New entrant
+1
+OFFICIAL
+11
+RI
+RIOTLOC
+Small catalogue
+1
+OFFICIAL
+
+Sorted by official releases. 95 official releases are behind these 11 teams, 3 of which have published Arabic voice work.
+
+teams with official experience
+11
+teams with official experience
+official releases behind them
+95
+official releases behind them
+with published Arabic voice
+3
+with published Arabic voice
+entries in the full index
+3826
+entries in the full index
+
+IF YOU ONLY READ ONE ROW
+
+AAA — 3 TEAMS
+Arlation
+39 official releases · 2015–2025
+A full-price flagship
+How this was decided ↓
+AA — 5 TEAMS
+loclait
+9 official releases · 2023–2026
+A mid-size premium release
+How this was decided ↓
+INDIE — 4 TEAMS
+loclait
+9 official releases · 2023–2026
+A first Arabic build
+How this was decided ↓
+
+How the leads were chosen. Arlation leads the flagship class on verified scale — 39 official releases across the largest publishers in the index. loclait leads the other two classes as the studio Muarrab would hand a mid-size release or a first Arabic build to. That second call is editorial; the counts beside it are not.
+
+THREE KINDS OF JOB
+
+Match the project, not the logo wall
+
+A studio that is right for a flagship is usually wrong for a three-person team's first Arabic build, and the reverse is just as true. Each class below states what the work actually involves, names the team Muarrab would approach first, and lists the rest of the field in the order the record puts them.
+
+WHAT GETS A TEAM ONTO THIS PAGE
+
+Proven, not promised
+One or more Arabic localizations shipped inside a released game and credited to the team by name in Muarrab's catalog. A studio with none is not recommended here, whatever its website says.
+Official, not a patch
+A community patch is a real achievement and the reason a lot of Arabic support exists, but it is not a commissioning reference. It does not count toward inclusion.
+Documented, not asserted
+Every figure comes from the catalog on this site, so the team can be checked entry by entry. Muarrab does not audit translation quality and does not rank on it.
+
+JOB CLASS 01
+
+AAA
+
+A full-price flagship
+
+A large game with a marketing date, a legal review, outsource vendors and a voice pipeline. The localization has to clear certification and cannot move the release date.
+
+TYPICALLY INCLUDES
+Full interface, subtitles and menus · Arabic voice recording and direction · publisher-side review and certification
+
+3 teams in the index carry this scale of official work.
+
+AR
+
+MUARRAB RECOMMENDS
+
+Arlation
+arlation.com ↗
+
+Nobody else in the index comes close on verified scale: sixteen official releases across Ubisoft, Capcom, Bandai Namco, Square Enix and Bethesda titles, and the only studio here with a credited Arabic voice pipeline beyond a single release.
+
+OFFICIAL RELEASES
+39
+ACCOUNT FOR
+39
+VOICE WORK
+4
+CREDITED
+2015–2025
+
+ARLATION'S RECORD
+Assassin's Creed Shadows
+·
+Dying Light: The Beast
+·
+ELDEN RING NIGHTREIGN
+
+The deepest credit list in the index: Assassin's Creed, Elden Ring, Final Fantasy XVI, Tekken 8, Resident Evil 4.
+
+ALSO SHOWN FOR FLAGSHIP WORK, ORDERED BY THE RECORD
+
+02
+L&
+Loc & Play
+Award-winning studio behind Cyberpunk 2077, Disco Elysium and Tales of Kenzera: ZAU.
+11
+OFFICIAL
+03
+LO
+locpick
+A single 2026 credit in the index — too new to rank, listed because it is real official work.
+1
+OFFICIAL
+
+JOB CLASS 02
+
+AA
+
+A mid-size premium release
+
+A funded title with a real audience but no dedicated localization department. Usually one language vendor, a fixed budget and a schedule that has already been agreed.
+
+TYPICALLY INCLUDES
+Interface, subtitles and menus · terminology and glossary ownership · QA passes and a patch cycle after launch
+
+5 teams in the index carry this scale of official work.
+
+MUARRAB RECOMMENDS
+
+loclait
+loclait.com ↗
+
+Muarrab's named partner and the studio this index would hand a mid-size release to first: it has shipped official Arabic into boutique and mid-size titles through a publisher relationship, which is exactly the tranche this band describes.
+
+OFFICIAL RELEASES
+9
+ACCOUNT FOR
+9
+VOICE WORK
+—
+CREDITED
+2023–2026
+
+LOCLAIT'S RECORD
+Penguin Colony
+·
+Resonance A Plague Tale Legacy
+·
+What's the Password?
+
+Muarrab's named partner. Four official releases in 2025, all of them boutique titles.
+
+ALSO SHOWN FOR MID-SIZE RELEASES, ORDERED BY THE RECORD
+
+02
+ED
+Eternal Dream Arabization
+The most consistent publisher-side credit list after Arlation, and the most frequent co-credit with loclait.
+25
+OFFICIAL
+03
+MP
+Manga Productions
+Riyadh-based studio; credited on Dynasty Warriors: Origins and Morkull Ragast's Rage in 2025.
+3
+OFFICIAL
+04
+L&
+Loc & More
+Long-running regional vendor; credited on The Witcher 3 and Indiana Jones and the Great Circle.
+2
+OFFICIAL
+05
+MA
+Majed Alotaibi
+Independent localizer; credited on Sherlock Holmes: The Devil's Daughter.
+2
+OFFICIAL
+
+JOB CLASS 03
+
+Indie
+
+A first Arabic build
+
+A small team, a limited string count and no in-house localization experience. The risk is not tone — it is font coverage, bidirectional layout and a build that has never seen right-to-left text.
+
+TYPICALLY INCLUDES
+Text-only localization · font and shaping fixes · layout and mirrored-UI checks · a scope that fits a first pass
+
+4 teams in the index carry this scale of official work.
+
+MUARRAB RECOMMENDS
+
+loclait
+loclait.com ↗
+
+The same studio that leads the premium tranche also leads this one, and that is the point of naming it twice: its 2025 slate is boutique work — Maze Mice, The House in Fata Morgana, Urban Myth Dissolution Center, To The Moon — and it is small enough that a first Arabic build is not a rounding error on its calendar.
+
+OFFICIAL RELEASES
+9
+ACCOUNT FOR
+9
+VOICE WORK
+—
+CREDITED
+2023–2026
+
+LOCLAIT'S RECORD
+Penguin Colony
+·
+Resonance A Plague Tale Legacy
+·
+What's the Password?
+
+Muarrab's named partner. Four official releases in 2025, all of them boutique titles.
+
+ALSO SHOWN FOR A FIRST ARABIC BUILD, ORDERED BY THE RECORD
+
+02
+GA
+Gameorabia
+One official release recorded, Herdling, in 2025.
+1
+OFFICIAL
+03
+IP
+Image Production House
+The only credit in the index with published Arabic voice work outside Arlation: Spyro Reignited Trilogy.
+1
+OFFICIAL
+04
+RI
+RIOTLOC
+Credited on REPLACED and Resonance: A Plague Tale Legacy, 2026.
+1
+OFFICIAL
+
+Reading the rows. Counts describe what Muarrab has documented, not a studio's entire output — one may have shipped more than the catalog records, and 2741 of 3826 entries in the index name no team at all. Teams with no official releases are not recommended here; they are still listed in the full index below, because a fan patch is how a lot of Arabic support started.
+
+THE WHOLE INDEX, FOR REFERENCE
+
+Every team the catalog credits
+
+Ordered by official releases, so the teams recommended above sit at the top and the community teams that carry the rest of the index follow. This table is the evidence the recommendations are drawn from — not a second set of recommendations.
+
+Every localization team credited in Muarrab's catalog, with official and community release counts, ordered by official releases.
+TEAM	OFFICIAL	COMMUNITY	VOICE	TOTAL	YEARS	RECENT TITLES
+
+Arlation
+OFFICIAL
+	39	—	4	39	2015–2025	
+Assassin's Creed Shadows
+·
+Dying Light: The Beast
+·
+ELDEN RING NIGHTREIGN
+
+
+Eternal Dream Arabization
+OFFICIAL
+	25	—	—	25	2010–2026	
+A Toast for the End Times
+·
+Farm Together 2
+·
+Maze Mice
+
+
+Loc & Play
+OFFICIAL
+	11	—	2	11	2019–2025	
+Amerzone The Explorer's Legacy
+·
+Empire of the Ants
+·
+Garden Witch Life
+
+
+loclait
+OFFICIAL
+	9	—	—	9	2023–2026	
+Penguin Colony
+·
+Resonance A Plague Tale Legacy
+·
+What's the Password?
+
+
+Manga Productions
+OFFICIAL
+	3	—	—	3	2024–2026	
+Fatal Frame II: Crimson Butterfly Remake
+·
+Dynasty Warriors Origins
+·
+Morkull Ragast's Rage
+
+
+Loc & More
+OFFICIAL
+	2	—	—	2	2015–2024	
+Indiana Jones and the Great Circle
+·
+The Witcher 3 Wild Hunt
+
+
+Majed Alotaibi
+OFFICIAL
+	2	—	—	2	2016–2019	
+The Sinking City
+·
+Sherlock Holmes The Devil's Daughter
+
+
+Abdulrahman Fayez
+unclassified
+	1	—	—	1	2020	
+Escape Room - Der kranke Kollege
+
+
+FlenderrAX
+unclassified
+	1	—	—	1	2022	
+Alchemistry
+
+
+Gameorabia
+OFFICIAL
+	1	—	—	1	2025	
+Herdling
+
+
+Image Production House
+OFFICIAL
+	1	—	1	1	2018	
+Spyro Reignited Trilogy
+
+
+Jordan Studio
+unclassified
+	1	—	1	1	2026	
+AlHajjah - الحجة
+
+
+Kafocado
+unclassified
+	1	—	—	1	2022	
+Who Stole My Sheep?
+
+
+Kurono Studios
+unclassified
+	1	—	—	1	2025	
+WolfQuest: Anniversary Edition
+
+
+Light Studio
+unclassified
+	1	—	—	1	2017	
+Wojdan - وجدان
+
+
+locpick
+OFFICIAL
+	1	—	—	1	2025	
+No I'm not a human
+
+
+Marc Yared (Wormhole Architecture)
+unclassified
+	1	—	1	1	2021	
+Baalbek Reborn: Temples
+
+
+Mohammad AlHilwani AlRefaei
+unclassified
+	1	—	—	1	2022	
+BrainBread 2
+
+
+RIOTLOC
+OFFICIAL
+	1	—	—	1	2026	
+REPLACED
+
+
+SEGA
+unclassified
+	1	—	—	1	2027	
+Stranger Than Heaven
+
+
+1Ellie
+	—	3	—	3	2003–2017	
+Unforgiving - A Northern Hymn
+·
+Just Cause 2
+·
+Manhunt
+
+
+1MHR
+	—	1	—	1	2023	
+MY HERO ULTRA RUMBLE
+
+
+2Pz
+	—	1	—	1	2024	
+No Rest for the Wicked
+
+
+9alih
+	—	1	—	1	2016	
+The Elder Scrolls V Skyrim Special Edition
+
+
+Abodora2
+	—	10	—	10	1996–2025	
+Hollow Knight Silksong
+·
+The Order: 1886
+·
+The 3rd Birthday
+
+
+ABOFLA7501
+	—	1	—	1	2010	
+Mount & Blade: Warband
+
+
+AboKlood
+	—	2	—	2	2024–2025	
+Dispatch
+·
+Still Wakes the Deep
+
+
+aboodedc
+	—	2	—	2	2018–2019	
+The Long Drive
+·
+Subnautica
+
+
+AboSaaD
+	—	1	—	1	2019	
+Sniper Ghost Warrior Contracts
+
+
+AboSami1s
+	—	2	—	2	2020–2024	
+Persona 3 Reload
+·
+Persona 5 Royal
+
+
+abrhem
+	—	2	—	2	2025	
+Fantasy Life i: The Girl Who Steals Time
+·
+Rune Factory: Guardians of Azuma
+
+
+abuda7mx
+	—	2	—	2	2022–2025	
+Tempest Rising
+·
+Mount & Blade II: Bannerlord
+
+
+abukarar
+	—	1	—	1	2025	
+Vampire The Masquerade Bloodlines 2
+
+
+AetiusTitell
+	—	2	—	2	2004–2017	
+UNO
+·
+Far Cry
+
+
+AG Group
+	—	2	—	2	2025	
+Hollow Knight Silksong
+·
+Silent Hill F
+
+
+AgumonQ8
+	—	1	—	1	2026	
+Dynasty Warriors 3: Complete Edition Remastered
+
+
+Ahmad Aqrbawi
+	—	1	—	1	2015	
+Resident Evil Revelations 2
+
+
+ahmadmotx
+	—	1	—	1	2023	
+Baldur's Gate 3
+
+
+ahmadplayer
+	—	1	—	1	2024	
+MiSide
+
+
+Ahmed Khaled
+	—	1	—	1	2021	
+Final Fantasy VII Remake Intergrade
+
+
+AhmedHus21
+	—	1	—	1	2025	
+Megabonk
+
+
+ahmedmatari
+	—	1	—	1	2019	
+60 Seconds! Reatomized
+
+
+ahmedzet
+	—	1	—	1	2021	
+Ratchet & Clank: Rift Apart
+
+
+Alasatirs
+	—	1	—	1	2026	
+Crimson Desert
+
+
+algammal
+	—	1	—	1	2023	
+Cities: Skylines II
+
+
+AliMeftah
+	—	1	—	1	2025	
+Kingdom Come: Deliverance II
+
+
+AlMLawati
+	—	2	—	2	2017–2022	
+LEGO Star Wars The Skywalker Saga
+·
+Hellblade Senua's Sacrifice
+
+
+Alseresi
+	—	1	—	1	2018	
+Fear & Hunger
+
+
+aly1230
+	—	1	—	1	2020	
+Crusader Kings III
+
+
+amrmigo
+	—	1	—	1	2018	
+Moonlighter
+
+
+Arabic Hashem
+	—	51	2	51	1998–2026	
+007 First Light
+·
+Castlevania: Belmont's Curse Demo
+·
+Forza Horizon 6
+
+
+Arabic L10 Hub
+	—	25	—	25	2009–2026	
+Beast of Reincarnation
+·
+Gothic 1 Remake
+·
+Kill The Shadow
+
+
+Arabic Subtitles
+	—	12	—	12	2002–2022	
+sifu
+·
+Mafia 2 Definitive Edition
+·
+Mafia Definitive Edition
+
+
+ARABICDUBBING
+	—	4	3	4	2022–2026	
+Phantom Blade Zero
+·
+Hogwarts Legacy
+·
+Resident Evil 4
+
+
+Arabize It
+	—	1	—	1	2021	
+Hitman: World of Assassination
+
+
+araldeg
+	—	1	—	1	2024	
+Brothers: A Tale of Two Sons Remake
+
+
+ArGamerz
+	—	7	—	7	2012–2015	
+Assassin's Creed Chronicles China
+·
+Murdered Soul Suspect
+·
+Batman Arkham Origins
+
+
+ArgusOs
+	—	46	1	46	1995–2026	
+Among the Trolls
+·
+Backseat
+·
+Castlevania: Belmont's Curse
+
+
+Ashen Knight
+	—	3	—	3	2024–2026	
+Mortal Shell II
+·
+The Blood of Dawnwalker
+·
+Witchfire
+
+
+AthbiStudio
+	—	32	2	32	1986–2022	
+Final Fantasy VI (Pixel Remaster)
+·
+Final Fantasy II (Pixel Remaster)
+·
+Final Fantasy III (Pixel Remaster)
+
+
+AzorAhai
+	—	1	—	1	2025	
+VEIN
+
+
+azox503x
+	—	13	1	13	2015–2026	
+Agefield High: Rock the School
+·
+Toy Story 3 Complete Edition
+·
+DSS 2: War Industry
+
+
+B52 Arabic
+	—	7	—	7	2006–2026	
+Silent Hill Townfall
+·
+Valor Mortis
+·
+Blacksad: Under the Skin
+
+
+Basmah Team
+	—	1	—	1	2010	
+Heavy Rain
+
+
+besofh
+	—	3	—	3	1998–1999	
+Metal Gear Solid: VR Missions
+·
+Resident Evil 3 Nemesis
+·
+Metal Gear Solid
+
+
+Black
+	—	1	—	1	2024	
+The Happyhills Homicide
+
+
+BLACKRAIN16
+	—	1	—	1	2024	
+Warhammer 40,000: Space Marine 2
+
+
+BSHNKi
+	—	1	—	1	2025	
+RuneScape: Dragonwilds
+
+
+bt213tl
+	—	23	—	23	1995–2026	
+5omeday
+·
+Seek
+·
+The Dark Queen of Mortholme
+
+
+Ceqk
+	—	1	—	1	2022	
+Knights of Honor II: Sovereign
+
+
+DarkWarriar
+	—	1	—	1	2013	
+ENSLAVED: Odyssey to the West
+
+
+deleted101277183
+	—	1	—	1	2019	
+I hate this game
+
+
+Dhahab Store
+	—	107	3	107	2008–2026	
+1666: Amsterdam
+·
+Agefield High: Rock the School
+·
+Beast of Reincarnation
+
+
+Enma World
+	—	25	1	25	2007–2026	
+Castlevania: Belmont's Curse
+·
+Control Resonant
+·
+Crimson Moon
+
+
+FBSM75
+	—	1	—	1	2010	
+Amnesia: The Dark Descent
+
+
+Feras
+	—	1	—	1	2023	
+Cities: Skylines II
+
+
+FL329
+	—	1	—	1	2014	
+The Binding of Isaac: Rebirth
+
+
+Fodosan
+	—	2	—	2	2019–2024	
+Elin
+·
+Bloodstained: Ritual of the Night
+
+
+Free War Gamer
+	—	3	—	3	2018–2025	
+ENDER MAGNOLIA Bloom in the Mist
+·
+Split Fiction
+·
+Red Dead Redemption 2
+
+
+GamDroid AR
+	—	5	—	5	2015–2023	
+Afterimage
+·
+Dredge
+·
+Undertale Yellow
+
+
+GAMING REPUBLIC
+	—	40	—	40	2009–2026	
+End of Abyss
+·
+Guns of Fury
+·
+Hollow Knight Silksong
+
+
+Grendizer88
+	—	1	—	1	2020	
+The Last of Us Part II
+
+
+H0BW
+	—	1	—	1	2025	
+Escape the Backrooms
+
+
+hamyowngrave
+	—	1	1	1	2014	
+Resident Evil 4 Ultimate HD Edition
+
+
+HussainV
+	—	1	—	1	2014	
+Metal Gear Solid V: Ground Zeroes
+
+
+husseinalsaker
+	—	2	—	2	2016–2020	
+Angels of Death Episode.Eddie
+·
+Angels of Death
+
+
+i3shabibi
+	—	1	—	1	2020	
+STORY OF SEASONS: Friends of Mineral Town
+
+
+iOsamai
+	—	21	—	21	2011–2026	
+Enshrouded
+·
+Ground Zero
+·
+Minecraft Dungeons II
+
+
+IPPYZ
+	—	2	—	2	2020–2025	
+RuneScape: Dragonwilds
+·
+The Walking Dead: Saints & Sinners
+
+
+iqcp1
+	—	2	—	2	2026	
+Palworld
+·
+Shift At Midnight
+
+
+j6roq
+	—	2	—	2	2016–2020	
+Crusader Kings III
+·
+Hearts of Iron IV
+
+
+Jehad21
+	—	1	—	1	2018	
+Red Dead Redemption 2
+
+
+jeson435ghgf
+	—	1	—	1	2026	
+Casualties: Unknown
+
+
+kab266
+	—	1	—	1	2016	
+No Man's Sky
+
+
+Kaitolight7
+	—	1	—	1	2021	
+Kingdom Hearts HD 1.5 + 2.5 ReMIX
+
+
+Kaliraxa
+	—	2	—	2	2024–2025	
+Supermarket Simulator
+·
+The Planet Crafter
+
+
+Khaled89u234
+	—	1	—	1	2024	
+Still Wakes the Deep
+
+
+khalid2542
+	—	1	—	1	2022	
+King Arthur: Knight's Tale
+
+
+KhalidSnake555
+	—	1	1	1	2026	
+Castlevania: Belmont's Curse
+
+
+Ko Games
+	—	1	—	1	2018	
+Red Dead Redemption 2
+
+
+KOBY
+	—	4	—	4	2022–2025	
+Sword of the Sea
+·
+Dredge
+·
+Ghostrunner 2
+
+
+ksa20122
+	—	1	—	1	2016	
+Killing Floor 2
+
+
+lub131
+	—	1	—	1	2022	
+Mount & Blade II: Bannerlord
+
+
+LuBu0
+	—	1	—	1	2019	
+Total War: THREE KINGDOMS
+
+
+M7mdGCC
+	—	1	1	1	2014	
+Resident Evil 4 Ultimate HD Edition
+
+
+mahdi12345
+	—	1	—	1	2024	
+Black Myth: Wukong
+
+
+Majood7
+	—	6	—	6	2020–2025	
+Clair Obscur Expedition 33
+·
+Lies of P Overture
+·
+Silent Hill F
+
+
+Makki Taqi
+	—	1	—	1	2018	
+Red Dead Redemption 2
+
+
+MeroIce
+	—	1	—	1	2024	
+Microsoft Flight Simulator 2024
+
+
+mido23dz
+	—	1	—	1	2016	
+Dark Souls III
+
+
+miyamotoeyad
+	—	5	—	5	2017–2025	
+Who's at the door?
+·
+MiSide
+·
+The Baby in Yellow
+
+
+mjh0L
+	—	1	—	1	2026	
+Hozy
+
+
+Moath
+	—	1	—	1	2018	
+State of Decay 2
+
+
+mrghozzi
+	—	1	—	1	2026	
+Transport Fever 3
+
+
+mshfm
+	—	6	—	6	2009–2025	
+The First Berserker Khazan
+·
+The Invincible
+·
+Spec Ops: The Line
+
+
+Muhammedroid
+	—	1	—	1	2010	
+LIMBO
+
+
+MushussuBabylon
+	—	1	—	1	2018	
+RimWorld
+
+
+Namnie0
+	—	3	—	3	2025	
+S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition
+·
+S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition
+·
+S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition
+
+
+Nasser262
+	—	1	—	1	2015	
+Grand Theft Auto V
+
+
+nbxplay
+	—	1	—	1	2022	
+Uncharted: Legacy of Thieves Collection
+
+
+Nova Quest
+	—	2	—	2	2014–2024	
+Dragon Age The Veilguard
+·
+Dragon Age: Inquisition
+
+
+OK SHOP
+	—	23	—	23	2010–2026	
+Crimson Desert
+·
+Enshrouded
+·
+Mortal Shell II
+
+
+Ouwaiss
+	—	1	—	1	2025	
+Abiotic Factor
+
+
+PICDIVER
+	—	1	—	1	2024	
+Pacific Drive
+
+
+Play in Arabic
+	—	36	—	36	2010–2026	
+007 First Light
+·
+Control Resonant
+·
+Family Secrets 1: Empty Plate
+
+
+q3rkz
+	—	2	—	2	2020–2026	
+Clive Barker's Hellraiser: Revival
+·
+The Walking Dead: The Telltale Definitive Series
+
+
+Qutaiba73
+	—	6	—	6	2024–2026	
+Eggstreme Farming
+·
+Food Processing Simulator
+·
+Mandate Order
+
+
+R I T O
+	—	1	—	1	2001	
+ICO
+
+
+Redemption Team
+	—	1	—	1	2018	
+Red Dead Redemption 2
+
+
+Remaid of Dreams
+	—	1	—	1	2021	
+The House in Fata Morgana Dreams of the Revenants
+
+
+RyanAthlawi
+	—	1	—	1	2015	
+Bloodborne
+
+
+SaadAlHomidan
+	—	1	—	1	2016	
+Cossacks 3
+
+
+Salehalmsmary209
+	—	2	—	2	2022–2024	
+Black Myth: Wukong
+·
+High on Life
+
+
+SalkorX
+	—	1	1	1	2018	
+Shadow of the Tomb Raider
+
+
+saudi305
+	—	1	—	1	2013	
+Papers, Please
+
+
+SeverusXI
+	—	1	1	1	2026	
+Toy Story 3 Complete Edition
+
+
+Shinigami3361
+	—	2	—	2	2024–2025	
+Endzone 2
+·
+Manor Lords
+
+
+Shyizer
+	—	11	—	11	2013–2024	
+Manor Lords
+·
+Knights of Honor II: Sovereign
+·
+Mount & Blade II: Bannerlord
+
+
+sliux12
+	—	6	3	6	2014–2021	
+The Life and Suffering of Sir Brante
+·
+Metro Exodus
+·
+Styx: Shards of Darkness
+
+
+SlouMa000
+	—	4	—	4	2025–2026	
+Clive Barker's Hellraiser: Revival
+·
+Control Resonant
+·
+Valor Mortis
+
+
+solidsnake7021
+	—	1	—	1	2018	
+Bloodstained: Curse of the Moon
+
+
+SORROW
+	—	1	—	1	2015	
+Grand Theft Auto V
+
+
+Ssmoon
+	—	2	—	2	2014–2026	
+Valheim
+·
+Middle-earth: Shadow of Mordor
+
+
+STARFOLK
+	—	10	1	10	2018–2026	
+Control Resonant
+·
+Graveyard Keeper 2
+·
+Silent Hill Townfall
+
+
+stvann
+	—	1	—	1	2018	
+Kenshi
+
+
+Templar444
+	—	1	—	1	2005	
+Total Overdose: A Gunslinger's Tale in Mexico
+
+
+Thamering
+	—	1	—	1	2016	
+Danganronpa 2: Goodbye Despair
+
+
+The Wolf Hack
+	—	7	—	7	2018–2026	
+Crimson Desert
+·
+Clair Obscur Expedition 33
+·
+Dispatch
+
+
+ThraggViltm
+	—	14	—	14	2008–2026	
+Silent Hill Townfall
+·
+Dispatch
+·
+Dragon Age The Veilguard
+
+
+TI2y
+	—	1	—	1	2025	
+Silent Hill F
+
+
+ToyoN4
+	—	1	—	1	2021	
+ENDER LILIES: Quietus of the Knights
+
+
+v7dt
+	—	8	—	8	2025–2026	
+Fogpiercer
+·
+Gambonanza
+·
+Slayblade
+
+
+Vaas993
+	—	4	3	4	2014–2026	
+007 First Light
+·
+Metro Exodus
+·
+Metro 2033 Redux
+
+
+Venom Hussein
+	—	2	—	2	1998–2015	
+Metal Gear Solid V The Phantom Pain
+·
+Metal Gear Solid
+
+
+Venom_Translations
+	—	1	—	1	2015	
+Metal Gear Solid V The Phantom Pain
+
+
+venus9990
+	—	1	—	1	2025	
+Hell is Us
+
+
+wlid81
+	—	1	—	1	2025	
+Kingdom Come: Deliverance II
+
+
+WOSF2005
+	—	1	—	1	2026	
+House 2
+
+
+x.5
+	—	1	—	1	2025	
+Silent Hill F
+
+
+xbeen
+	—	1	1	1	2026	
+Toy Story 3 Complete Edition
+
+
+xSKADOOSHx
+	—	8	—	8	2013–2026	
+DragonSword Awakening
+·
+Crysis 2 Remastered
+·
+Crysis 3 Remastered
+
+
+yahya48
+	—	1	—	1	2007	
+Assassin's Creed
+
+
+Yazed0071
+	—	1	—	1	2014	
+Metal Gear Solid V: Ground Zeroes
+
+
+yazeed5112
+	—	1	—	1	2025	
+Kingdom Come: Deliverance II
+
+
+YzN1
+	—	1	—	1	2026	
+Silent Hill Townfall
+
+
+zatona
+	—	1	1	1	2015	
+Rise of the Tomb Raider
+
+
+Zeen1ith
+	—	1	—	1	2026	
+Phantom Blade Zero
+
+
+zxsoszx
+	—	1	—	1	2023	
+Starfield
+
+
+آفاق التعريب
+	—	18	1	18	1999–2025	
+Lies of P Overture
+·
+Red dead Redemption
+·
+Silent Hill 2 Remake
+
+
+أبو سعود
+	—	3	—	3	2026	
+Control Resonant
+·
+Silent Hill Townfall
+·
+Tenebris Somnia
+
+
+أتاراكسيا
+	—	1	—	1	2017	
+Fate/stay night [Realta Nua]
+
+
+أسمر
+	—	66	—	66	2009–2026	
+007 First Light
+·
+Alabaster Dawn
+·
+Aniimo
+
+
+الحلم المتجدد للتعريب
+	—	121	—	121	1985–2026	
+Code Vein II
+·
+MOTORSLICE
+·
+Super Battle Golf
+
+
+الخناذيذ
+	—	1	—	1	2018	
+Deltarune
+
+
+الدبران
+	—	1	—	1	2009	
+STEINS;GATE
+
+
+الشظية العربيية
+	—	1	—	1	2017	
+Umineko When They Cry
+
+
+الوكر
+	—	1	—	1	2018	
+Yakuza 0
+
+
+بسكليت
+	—	1	1	1	2026	
+Graveyard Keeper 2
+
+
+تعريبات
+	—	1	—	1	2026	
+Phantom Blade Zero
+
+
+تعريبات Elite
+	—	1	—	1	2026	
+Phantom Blade Zero
+
+
+تعريبات Taku
+	—	1	—	1	2022	
+Needy Streamer Overdose
+
+
+تعريبات منسيات
+	—	6	1	6	2000–2025	
+Onimusha Warlords
+·
+Call of Duty: Advanced Warfare
+·
+Grand Theft Auto: San Andreas
+
+
+حسين
+	—	2	—	2	2019–2022	
+Total War: WARHAMMER III
+·
+Total War: THREE KINGDOMS
+
+
+حمزة الحمود
+	—	6	—	6	2002–2021	
+Grand Theft Auto: The Trilogy – The Definitive Edition
+·
+Grand Theft Auto V
+·
+Grand Theft Auto: Episodes from Liberty City
+
+
+خارقو العادة
+	—	2	—	2	2015–2016	
+Resident Evil 0 HD Remaster
+·
+Resident Evil HD Remaster
+
+
+رِواق للتعريب
+	—	2	—	2	2016	
+Danganronpa 2: Goodbye Despair
+·
+Danganronpa: Trigger Happy Havoc
+
+
+شبكة ترس
+	—	13	7	13	1996–2026	
+Castlevania: Belmont's Curse Demo
+·
+Castlevania: Belmont's Curse
+·
+Crimson Desert
+
+
+صاد
+	—	1	—	1	2014	
+The Banner Saga
+
+
+عباديوه
+	—	3	—	3	2026	
+Phantom Blade Zero
+·
+Silent Hill Townfall
+·
+The Blood of Dawnwalker
+
+
+عزام
+	—	1	—	1	2026	
+Mortal Shell II
+
+
+فريق الأندلس للتعريب
+	—	3	—	3	1995–2026	
+ZERO PARADES: Director's Cut
+·
+Chained Echoes
+·
+I Have No Mouth, and I Must Scream
+
+
+فريق الاندلس
+	—	9	—	9	2016–2026	
+STEINS;GATE RE:BOOT
+·
+The Legend of Heroes Trails to Azure
+·
+A Space for the Unbound
+
+
+كيريو تشان
+	—	5	—	5	2019–2026	
+Yakuza Kiwami 3 & Dark Ties
+·
+Judgement
+·
+Yakuza 3 Remastered
+
+
+ماجد العتيبي
+	—	19	1	19	2006–2021	
+Tales of Arise
+·
+Devil May Cry 4 Special Edition
+·
+The Park
+
+
+مبارك
+	—	4	—	4	2023–2026	
+Nivalis Nights
+·
+Bloodthief
+·
+VOIN
+
+
+مجد العروبة للتعريب
+	—	4	—	4	2003–2025	
+METAL GEAR SOLID Δ SNAKE EATER
+·
+Metal Gear Solid Peace Walker
+·
+Metal Gear Solid 4 Guns of the Patriots
+
+
+معاذ العدوان
+	—	3	—	3	2016–2025	
+ENDER MAGNOLIA Bloom in the Mist
+·
+Split Fiction
+·
+The Elder Scrolls V Skyrim Special Edition
+
+2741 of 3826 entries name no team. They are kept in the catalog and marked as not stated rather than attributed to someone. That is the honest state of attribution in this field, and it is the reason to work with a team whose record you can check before you sign anything.
+
+Browse all 3826 entries
+Correct or add a team
+SOURCES
+Arabic is supported by 7.8% of Steam's best-selling games; Korean reaches 49.9%.
+Steam's own store search filters, across 6,387 top-selling games, dated 27 Sep 2026. Source ↗
+MENA-3 revenue, player counts and revenue per player.
+Niko Partners, 2025 MENA Gamer Behavior & Market Insights, reported by PocketGamer.biz on 15 July 2025. Source ↗
+Wider Middle East market size, player population, platform split and growth.
+Analysys Mason, 20 August 2024. Source ↗
+Saudi market size projection, company and job targets.
+General Authority of Media Regulation, 2025 Media Sector Report, cited by playinarabic.com. Source ↗
+Gulf and Saudi player language preference.
+Regional player research and market surveys across GCC countries.
+Arab world ranks #13 of 239 in Steam global downloads (1.69%), ahead of Australia and Spain.
+Valve Steam Download Traffic by Country, archived 27 Sep 2024. Source ↗
+72 million gamers across Saudi Arabia, UAE, and Egypt exceed 7 European countries combined.
+Niko Partners (2024 MENA-3 Report) and Video Games Europe (2023 European country demographics). Source ↗
+PlayStation Arabic localization commercial impact on game and console sales.
+Jim Ryan (CEO/Global Sales, Sony Interactive Entertainment), IGN Middle East interview, 2016. Source ↗
+
+Catalog counts, voice coverage, team, genre and platform tallies — computed from Muarrab's own index on 2026-11-12. Page visits from Google Analytics (G-FVF8XZWNYQ).
+
+Muarrab (معرب) is a non-profit initiative documenting Arabic game localization. We don't re-host localizations and we credit every team by name.
+
+برعاية Seif Chaib / loclait
+
+ENGLISH
+Playbook
+MUARRAB
+النسخة العربية
+Contribute an entry
+Discord
+X
+Search all localizations

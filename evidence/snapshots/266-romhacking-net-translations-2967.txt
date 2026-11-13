@@ -1,0 +1,93 @@
+URL: https://www.romhacking.net/translations/2967/
+Archived copy: https://web.archive.org/web/20250821210623/https://www.romhacking.net/translations/2967/
+
+Home Forum Sections Community Submissions Changes Search Help
+
+
+Sections
+Home
+Documents
+Utilities
+Translations
+ROM Hacks
+Games
+Homebrew
+Fonts
+Abandoned
+News Archive
+Community
+Forum
+Wiki
+History
+Community Database
+Links
+Submissions
+Submit Files
+Submit News
+Queue Status
+Public Maintenance
+The Scratchpad
+Online ROM Patcher
+Online ROM Hasher
+Help
+About this Site
+Getting Started
+RHDN Policy
+Dictionary
+FAQ
+Contact Staff
+Dragon Warrior
+Nintendo Entertainment System
+Translation Information
+Dragon Warrior
+Dragon Quest
+
+Released By	q8fft
+Language	Arabic
+Status	Fully Playable
+Platform	Nintendo Entertainment System
+Patching Information	No Special Requirements
+Genre	Role Playing
+Published By	Enix
+Game Date	27 May 1986
+Patch Version	1.0.3
+Release Date	13 July 2017
+Downloads	560
+Last Modified	13 July 2017
+Game Description:
+
+The first in the long running series of games, beginning with the Nintendo Entertainment System and spanning the SNES, the Gameboy, and even the Playstation, as well as having mini-spinoffs which are a lot like Pokémon.
+
+This, the original Dragon Warrior, starts you off in the throne room of the King of Tantegel Castle. He names you the descendant of the legendary Erdrick, who once possessed the Ball of Light. It has been stolen, the Dragonlord’s minions roam the lands, and the Princess is kidnapped. You, the descendant of the legendary hero, must confront evil and save the continent.
+
+This game features a single-character interface with single-monster battles. Do not think this means it will be easy…you can easily go in over your head. You must make sure to buy equipment, as for some odd reason, trained descendants of heroes do not have any starting equipment.
+
+This game was once released by Nintendo along with subscriptions of Nintendo Power magazine, so it is not extremely rare. However, it is a good place to start learning of the series, as it began everything. Also, the rest of them are considered hard to find. If you get one, consider yourself lucky!
+
+Translation Description:
+
+This is an Arabic translation of great Popular RPG game, this Game is completely translation and Support Right to Left text (RTL).
+
+You need Lunar IPS to patch this game - http://www.romhacking.net/utilities/240/
+
+Don’t forget to Readme in rar file for info about updates.
+
+ROM / ISO Information:
+No-Intro Name: Dragon Warrior (USA) (Rev A)
+(No-Intro version 20130731-235630)
+File SHA-1: 1ECC63AAAC50A9612EAA8B69143858C3E48DD0AE
+ROM SHA-1: 240E445AB95C3A5AFBEF63E9239EACC9F9FE1E19
+Links:
+Download
+Screenshots:
+
+
+Credits:
+Credits
+Contributor	Type of contribution	Listed credit
+q8fft	Hacking	Full Hacking & Translation to Arabic
+User Review Information
+No User Reviews!
+©2005-2025 All Rights Reserved.
+Execution time - 0.0046 sec. - Number of Queries: 4
+About Us | RHDN Policy | HTML5 | CSS

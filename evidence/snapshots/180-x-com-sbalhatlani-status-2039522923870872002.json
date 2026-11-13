@@ -1,0 +1,230 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/sbalhatlani/status/2039522923870872002",
+  "id": "2039522923870872002",
+  "text": "🚨Crimson Desert Arabic 🚨\n\nاول إصدار لتعريب \"الصحراء القرمزية\" باللغة العربية الصحيحة\nو الكتابة من اليمين إلى اليسار للقراءة الصحيح.\n\nتعريب إحترافي يحافظ على روح المعنى و التناسق و الإستمرارية.\n\nتعريب: شبكة ترس\nالتحميل: http://ters.co/cd/CrimsonAR.zip\nالإصدار: 1.01.03 اخر إصدار\n\nتحياتي.",
+  "raw_text": {
+   "text": "🚨Crimson Desert Arabic 🚨\n\nاول إصدار لتعريب \"الصحراء القرمزية\" باللغة العربية الصحيحة\nو الكتابة من اليمين إلى اليسار للقراءة الصحيح.\n\nتعريب إحترافي يحافظ على روح المعنى و التناسق و الإستمرارية.\n\nتعريب: شبكة ترس\nالتحميل: https://t.co/qVmdNsUe21\nالإصدار: 1.01.03 اخر إصدار\n\nتحياتي. https://t.co/dhL7ncDXFR",
+   "display_text_range": [
+    0,
+    278
+   ],
+   "facets": [
+    {
+     "type": "url",
+     "indices": [
+      219,
+      242
+     ],
+     "original": "https://t.co/qVmdNsUe21",
+     "replacement": "http://ters.co/cd/CrimsonAR.zip",
+     "display": "ters.co/cd/CrimsonAR.z…"
+    },
+    {
+     "type": "media",
+     "indices": [
+      279,
+      302
+     ],
+     "id": "2039520779319336960",
+     "display": "pic.x.com/dhL7ncDXFR",
+     "original": "https://t.co/dhL7ncDXFR",
+     "replacement": "https://x.com/sbalhatlani/status/2039522923870872002/photo/1"
+    },
+    {
+     "type": "media",
+     "indices": [
+      279,
+      302
+     ],
+     "id": "2039520941776990208",
+     "display": "pic.x.com/dhL7ncDXFR",
+     "original": "https://t.co/dhL7ncDXFR",
+     "replacement": "https://x.com/sbalhatlani/status/2039522923870872002/photo/1"
+    },
+    {
+     "type": "media",
+     "indices": [
+      279,
+      302
+     ],
+     "id": "2039521025793122304",
+     "display": "pic.x.com/dhL7ncDXFR",
+     "original": "https://t.co/dhL7ncDXFR",
+     "replacement": "https://x.com/sbalhatlani/status/2039522923870872002/photo/1"
+    },
+    {
+     "type": "media",
+     "indices": [
+      279,
+      302
+     ],
+     "id": "2039521118415921152",
+     "display": "pic.x.com/dhL7ncDXFR",
+     "original": "https://t.co/dhL7ncDXFR",
+     "replacement": "https://x.com/sbalhatlani/status/2039522923870872002/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "sbalhatlani",
+   "url": "https://x.com/sbalhatlani",
+   "id": "228391413",
+   "followers": 5883,
+   "following": 1897,
+   "likes": 5258,
+   "media_count": 1079,
+   "name": "ص",
+   "description": "🍓Digital NoMad\nFounder:\nhttp://Ters.co | http://WoWAR.co | http://WoWVo.co | https://Arabicsubs.com\n\nودك تدعمني ؟ إشترلي كوب☕️قهوة👇",
+   "raw_description": {
+    "text": "🍓Digital NoMad\nFounder:\nhttps://t.co/GsYA7SZ1Fx | https://t.co/S2IoNwCSM9 | https://t.co/JyJm4npcnr | https://t.co/4iqSjrtAPV\n\nودك تدعمني ؟ إشترلي كوب☕️قهوة👇",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       24,
+       47
+      ],
+      "original": "https://t.co/GsYA7SZ1Fx",
+      "replacement": "http://Ters.co",
+      "display": "Ters.co"
+     },
+     {
+      "type": "url",
+      "indices": [
+       50,
+       73
+      ],
+      "original": "https://t.co/S2IoNwCSM9",
+      "replacement": "http://WoWAR.co",
+      "display": "WoWAR.co"
+     },
+     {
+      "type": "url",
+      "indices": [
+       76,
+       99
+      ],
+      "original": "https://t.co/JyJm4npcnr",
+      "replacement": "http://WoWVo.co",
+      "display": "WoWVo.co"
+     },
+     {
+      "type": "url",
+      "indices": [
+       102,
+       125
+      ],
+      "original": "https://t.co/4iqSjrtAPV",
+      "replacement": "https://Arabicsubs.com",
+      "display": "Arabicsubs.com"
+     }
+    ]
+   },
+   "location": "Valley",
+   "banner_url": "https://pbs.twimg.com/profile_banners/228391413/1680793335",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1643992510665195522/BVihbbDm_200x200.jpg",
+   "joined": "Sun Dec 19 15:48:32 +0000 2010",
+   "protected": false,
+   "website": {
+    "url": "https://www.paypal.com/donate/?hosted_button_id=28JAWVUEW9PEJ",
+    "display_url": "paypal.com/donate/?hosted…"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 65,
+  "retweets": 58,
+  "likes": 928,
+  "bookmarks": 1004,
+  "quotes": 16,
+  "created_at": "Thu Apr 02 01:58:52 +0000 2026",
+  "created_timestamp": 1775095132,
+  "possibly_sensitive": false,
+  "views": 237251,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "2039520779319336960",
+     "url": "https://pbs.twimg.com/media/HE3VV8tbYAArz22.jpg?name=orig",
+     "width": 1131,
+     "height": 618
+    },
+    {
+     "type": "photo",
+     "id": "2039520941776990208",
+     "url": "https://pbs.twimg.com/media/HE3VfZ6WcAAzGJ1.jpg?name=orig",
+     "width": 1211,
+     "height": 1264
+    },
+    {
+     "type": "photo",
+     "id": "2039521025793122304",
+     "url": "https://pbs.twimg.com/media/HE3VkS5W4AAsLGX.jpg?name=orig",
+     "width": 1480,
+     "height": 1232
+    },
+    {
+     "type": "photo",
+     "id": "2039521118415921152",
+     "url": "https://pbs.twimg.com/media/HE3Vpr8WoAAO1-o.jpg?name=orig",
+     "width": 3617,
+     "height": 1873
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "2039520779319336960",
+     "url": "https://pbs.twimg.com/media/HE3VV8tbYAArz22.jpg?name=orig",
+     "width": 1131,
+     "height": 618
+    },
+    {
+     "type": "photo",
+     "id": "2039520941776990208",
+     "url": "https://pbs.twimg.com/media/HE3VfZ6WcAAzGJ1.jpg?name=orig",
+     "width": 1211,
+     "height": 1264
+    },
+    {
+     "type": "photo",
+     "id": "2039521025793122304",
+     "url": "https://pbs.twimg.com/media/HE3VkS5W4AAsLGX.jpg?name=orig",
+     "width": 1480,
+     "height": 1232
+    },
+    {
+     "type": "photo",
+     "id": "2039521118415921152",
+     "url": "https://pbs.twimg.com/media/HE3Vpr8WoAAO1-o.jpg?name=orig",
+     "width": 3617,
+     "height": 1873
+    }
+   ],
+   "mosaic": {
+    "type": "mosaic_photo",
+    "formats": {
+     "jpeg": "https://mosaic.fxtwitter.com/jpeg/2039522923870872002/HE3VV8tbYAArz22/HE3VfZ6WcAAzGJ1/HE3VkS5W4AAsLGX/HE3Vpr8WoAAO1-o",
+     "webp": "https://mosaic.fxtwitter.com/webp/2039522923870872002/HE3VV8tbYAArz22/HE3VfZ6WcAAzGJ1/HE3VkS5W4AAsLGX/HE3Vpr8WoAAO1-o"
+    }
+   }
+  },
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

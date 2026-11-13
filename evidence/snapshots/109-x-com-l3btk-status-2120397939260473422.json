@@ -1,0 +1,134 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/L3btk/status/2120397939260473422",
+  "id": "2120397939260473422",
+  "text": "تبغى تلعب زيلدا أوكارينا أوف تايم ريميك بأصوات ونصوص عربية؟ \n\n سويت لكم شرح سريع ومختصر لطريقة التركيب!\n\nكل الشكر لفريق ترس @sbalhatlani  على هذا الإبداع \n\nالمقطع 👈  https://youtu.be/Rp9gKx_osU8",
+  "raw_text": {
+   "text": "تبغى تلعب زيلدا أوكارينا أوف تايم ريميك بأصوات ونصوص عربية؟ \n\n سويت لكم شرح سريع ومختصر لطريقة التركيب!\n\nكل الشكر لفريق ترس @sbalhatlani  على هذا الإبداع \n\nالمقطع 👈  https://t.co/JgFowYWPS8 https://t.co/8AGFDM0wyt",
+   "display_text_range": [
+    0,
+    189
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      124,
+      136
+     ],
+     "original": "sbalhatlani",
+     "id": "228391413"
+    },
+    {
+     "type": "url",
+     "indices": [
+      166,
+      189
+     ],
+     "original": "https://t.co/JgFowYWPS8",
+     "replacement": "https://youtu.be/Rp9gKx_osU8",
+     "display": "youtu.be/Rp9gKx_osU8"
+    },
+    {
+     "type": "media",
+     "indices": [
+      190,
+      213
+     ],
+     "id": "2120397790819880960",
+     "display": "pic.x.com/8AGFDM0wyt",
+     "original": "https://t.co/8AGFDM0wyt",
+     "replacement": "https://x.com/L3btk/status/2120397939260473422/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "L3btk",
+   "url": "https://x.com/L3btk",
+   "id": "1944460737847390208",
+   "followers": 1438,
+   "following": 11,
+   "likes": 927,
+   "media_count": 333,
+   "name": "لوعبتك",
+   "description": "حيث يلتقي شغف الألعاب بمجتمع مزدهر. هيا نلعب!\n\nاسكب لي كوب من القهوة ☕️   https://creators.sa/lo3btk",
+   "raw_description": {
+    "text": "حيث يلتقي شغف الألعاب بمجتمع مزدهر. هيا نلعب!\n\nاسكب لي كوب من القهوة ☕️   https://t.co/EV9mvLJwnq",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       74,
+       97
+      ],
+      "original": "https://t.co/EV9mvLJwnq",
+      "replacement": "https://creators.sa/lo3btk",
+      "display": "creators.sa/lo3btk"
+     }
+    ]
+   },
+   "location": "الرياض ",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1944460737847390208/1762333443",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1944460857162989568/7nVtDdaE_200x200.png",
+   "joined": "Sun Jul 13 18:16:09 +0000 2025",
+   "protected": false,
+   "website": {
+    "url": "https://www.youtube.com/@L3btk",
+    "display_url": "youtube.com/@L3btk"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 3,
+  "retweets": 9,
+  "likes": 73,
+  "bookmarks": 42,
+  "quotes": 0,
+  "created_at": "Wed Nov 11 06:07:18 +0000 2026",
+  "created_timestamp": 1794377238,
+  "possibly_sensitive": false,
+  "views": 3306,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "2120397790819880960",
+     "url": "https://pbs.twimg.com/media/HW0qjnBXkAAw9o1.jpg?name=orig",
+     "width": 2730,
+     "height": 1536
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "2120397790819880960",
+     "url": "https://pbs.twimg.com/media/HW0qjnBXkAAw9o1.jpg?name=orig",
+     "width": 2730,
+     "height": 1536
+    }
+   ],
+   "external": {
+    "type": "video",
+    "url": "https://www.youtube.com/embed/Rp9gKx_osU8",
+    "thumbnail_url": "https://img.youtube.com/vi/Rp9gKx_osU8/maxresdefault.jpg",
+    "width": 1280,
+    "height": 720
+   }
+  },
+  "twitter_card": "player",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

@@ -1,0 +1,1264 @@
+<!DOCTYPE html><html lang="en" style="--wm-toolbar-height: 67px;"><head><script src="https://web-static.archive.org/_static/js/athena.js" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app206.us.archive.org';v.server_ms=144;archive_analytics.send_pageview({});});</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=3grhEDQT" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=o9P2E1FK" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://wumdh.home.blog/blog-feed/","20261112223144","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1794522704");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3">
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv">
+<!-- End Wayback Rewrite JS Include -->
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+	<title>Blog Feed – مجتمع خارقو العادة – Extraordinary Society</title>
+<meta name="robots" content="max-image-preview:large">
+
+<!-- Async WordPress.com Remote Login -->
+<script id="wpcom_remote_login_js">
+var wpcom_remote_login_extra_auth = '';
+function wpcom_remote_login_remove_dom_node_id( element_id ) {
+	var dom_node = document.getElementById( element_id );
+	if ( dom_node ) { dom_node.parentNode.removeChild( dom_node ); }
+}
+function wpcom_remote_login_remove_dom_node_classes( class_name ) {
+	var dom_nodes = document.querySelectorAll( '.' + class_name );
+	for ( var i = 0; i < dom_nodes.length; i++ ) {
+		dom_nodes[ i ].parentNode.removeChild( dom_nodes[ i ] );
+	}
+}
+function wpcom_remote_login_final_cleanup() {
+	wpcom_remote_login_remove_dom_node_classes( "wpcom_remote_login_msg" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_key" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_validate" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_js" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_request_access_iframe" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_request_access_styles" );
+}
+
+// Watch for messages back from the remote login
+window.addEventListener( "message", function( e ) {
+	if ( e.origin === "https://web.archive.org/web/20261112223144/https://r-login.wordpress.com" ) {
+		var data = {};
+		try {
+			data = JSON.parse( e.data );
+		} catch( e ) {
+			wpcom_remote_login_final_cleanup();
+			return;
+		}
+
+		if ( data.msg === 'LOGIN' ) {
+			// Clean up the login check iframe
+			wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_key" );
+
+			var id_regex = new RegExp( /^[0-9]+$/ );
+			var token_regex = new RegExp( /^.*|.*|.*$/ );
+			if (
+				token_regex.test( data.token )
+				&& id_regex.test( data.wpcomid )
+			) {
+				// We have everything we need to ask for a login
+				var script = document.createElement( "script" );
+				script.setAttribute( "id", "wpcom_remote_login_validate" );
+				script.src = '/remote-login.php?wpcom_remote_login=validate'
+					+ '&wpcomid=' + data.wpcomid
+					+ '&token=' + encodeURIComponent( data.token )
+					+ '&host=' + window.location.protocol
+					+ '//' + window.location.hostname
+					+ '&postid=3'
+					+ '&is_singular=';
+				document.body.appendChild( script );
+			}
+
+			return;
+		}
+
+		// Safari ITP, not logged in, so redirect
+		if ( data.msg === 'LOGIN-REDIRECT' ) {
+			window.location = 'https://web.archive.org/web/20261112223144/https://wordpress.com/log-in?redirect_to=' + window.location.href;
+			return;
+		}
+
+		// Safari ITP, storage access failed, remove the request
+		if ( data.msg === 'LOGIN-REMOVE' ) {
+			var css_zap = 'html { -webkit-transition: margin-top 1s; transition: margin-top 1s; } /* 9001 */ html { margin-top: 0 !important; } * html body { margin-top: 0 !important; } @media screen and ( max-width: 782px ) { html { margin-top: 0 !important; } * html body { margin-top: 0 !important; } }';
+			var style_zap = document.createElement( 'style' );
+			style_zap.type = 'text/css';
+			style_zap.appendChild( document.createTextNode( css_zap ) );
+			document.body.appendChild( style_zap );
+
+			var e = document.getElementById( 'wpcom_request_access_iframe' );
+			e.parentNode.removeChild( e );
+
+			document.cookie = 'wordpress_com_login_access=denied; path=/; max-age=31536000';
+
+			return;
+		}
+
+		// Safari ITP
+		if ( data.msg === 'REQUEST_ACCESS' ) {
+			console.log( 'request access: safari' );
+
+			// Check ITP iframe enable/disable knob
+			if ( wpcom_remote_login_extra_auth !== 'safari_itp_iframe' ) {
+				return;
+			}
+
+			// If we are in a "private window" there is no ITP.
+			var private_window = false;
+			try {
+				var opendb = window.openDatabase( null, null, null, null );
+			} catch( e ) {
+				private_window = true;
+			}
+
+			if ( private_window ) {
+				console.log( 'private window' );
+				return;
+			}
+
+			var iframe = document.createElement( 'iframe' );
+			iframe.id = 'wpcom_request_access_iframe';
+			iframe.setAttribute( 'scrolling', 'no' );
+			iframe.setAttribute( 'sandbox', 'allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-top-navigation-by-user-activation' );
+			iframe.src = 'https://web.archive.org/web/20261112223144/https://r-login.wordpress.com/remote-login.php?wpcom_remote_login=request_access&origin=' + encodeURIComponent( data.origin ) + '&wpcomid=' + encodeURIComponent( data.wpcomid );
+
+			var css = 'html { -webkit-transition: margin-top 1s; transition: margin-top 1s; } /* 9001 */ html { margin-top: 46px !important; } * html body { margin-top: 46px !important; } @media screen and ( max-width: 660px ) { html { margin-top: 71px !important; } * html body { margin-top: 71px !important; } #wpcom_request_access_iframe { display: block; height: 71px !important; } } #wpcom_request_access_iframe { border: 0px; height: 46px; position: fixed; top: 0; left: 0; width: 100%; min-width: 100%; z-index: 99999; background: #23282d; } ';
+
+			var style = document.createElement( 'style' );
+			style.type = 'text/css';
+			style.id = 'wpcom_request_access_styles';
+			style.appendChild( document.createTextNode( css ) );
+			document.body.appendChild( style );
+
+			document.body.appendChild( iframe );
+		}
+
+		if ( data.msg === 'DONE' ) {
+			wpcom_remote_login_final_cleanup();
+		}
+	}
+}, false );
+
+// Inject the remote login iframe after the page has had a chance to load
+// more critical resources
+window.addEventListener( "DOMContentLoaded", function( e ) {
+	var iframe = document.createElement( "iframe" );
+	iframe.style.display = "none";
+	iframe.setAttribute( "scrolling", "no" );
+	iframe.setAttribute( "id", "wpcom_remote_login_key" );
+	iframe.src = "https://web.archive.org/web/20261112223144/https://r-login.wordpress.com/remote-login.php"
+		+ "?wpcom_remote_login=key"
+		+ "&origin=aHR0cHM6Ly93dW1kaC5ob21lLmJsb2c%3D"
+		+ "&wpcomid=164105916"
+		+ "&time=" + Math.floor( Date.now() / 1000 );
+	document.body.appendChild( iframe );
+}, false );
+</script>
+<link rel="dns-prefetch" href="//web.archive.org/web/20261112223144/https://s2.wp.com/">
+<link rel="dns-prefetch" href="//web.archive.org/web/20261112223144/https://fonts-api.wp.com/">
+<link rel="dns-prefetch" href="//web.archive.org/web/20261112223144/https://s0.wp.com/">
+<link rel="alternate" type="application/rss+xml" title="مجتمع خارقو العادة - Extraordinary Society » Feed" href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/feed/">
+<link rel="alternate" type="application/rss+xml" title="مجتمع خارقو العادة - Extraordinary Society » Comments Feed" href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/comments/feed/">
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+	<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link crossorigin="anonymous" rel="stylesheet" id="all-css-2-1" href="/web/20261112223144cs_/https://wumdh.home.blog/_static/??/wp-content/mu-plugins/jetpack-plugin/sun/modules/theme-tools/compat/twentynineteen.css,/wp-content/blog-plugins/marketing-bar/css/marketing-bar.css?m=1792760583j&amp;cssminify=yes" type="text/css" media="all">
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#3858e9;--wp-admin-theme-color--rgb:56,88,233;--wp-admin-theme-color-darker-10:#2145e6;--wp-admin-theme-color-darker-10--rgb:33.0384615385,68.7307692308,230.4615384615;--wp-admin-theme-color-darker-20:#183ad6;--wp-admin-theme-color-darker-20--rgb:23.6923076923,58.1538461538,214.3076923077;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}body.admin-color-fresh{--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){body.admin-color-fresh{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}:root .has-inline-color,:root .has-link-color a,:root .has-text-color{-webkit-text-fill-color:currentColor}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;overflow-wrap:normal!important;padding:0;position:absolute;width:1px;word-break:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style^=border-color],[style*=";border-color"],[style*="; border-color"]){border-style:solid}html :where([style^=border-top-color],[style*=";border-top-color"],[style*="; border-top-color"]){border-top-style:solid}html :where([style^=border-right-color],[style*=";border-right-color"],[style*="; border-right-color"]){border-right-style:solid}html :where([style^=border-bottom-color],[style*=";border-bottom-color"],[style*="; border-bottom-color"]){border-bottom-style:solid}html :where([style^=border-left-color],[style*=";border-left-color"],[style*="; border-left-color"]){border-left-style:solid}html :where([style^=border-width],[style*=";border-width"],[style*="; border-width"]){border-style:solid}html :where([style^=border-top-width],[style*=";border-top-width"],[style*="; border-top-width"]){border-top-style:solid}html :where([style^=border-right-width],[style*=";border-right-width"],[style*="; border-right-width"]){border-right-style:solid}html :where([style^=border-bottom-width],[style*=";border-bottom-width"],[style*="; border-bottom-width"]){border-bottom-style:solid}html :where([style^=border-left-width],[style*=";border-left-width"],[style*="; border-left-width"]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}@supports (not (-webkit-backdrop-filter:blur(1px))) and (not (-moz-appearance:none)){mtd[columnalign=right]{text-align:-webkit-right}mtd[columnalign=left]{text-align:-webkit-left}menclose[notation~=top]{border-top:.065em solid;padding-top:.1em}menclose[notation~=bottom]{border-bottom:.065em solid;padding-bottom:.1em}}
+
+/*# sourceURL=/wp-content/plugins/gutenberg-core/v24.3.1/build/styles/block-library/common.min.css */
+</style>
+<style id="wp-block-quote-inline-css">
+.wp-block-quote{box-sizing:border-box;overflow-wrap:break-word}.wp-block-quote.is-large:where(:not(.is-style-plain)),.wp-block-quote.is-style-large:where(:not(.is-style-plain)){margin-bottom:1em;padding:0 1em}.wp-block-quote.is-large:where(:not(.is-style-plain)) p,.wp-block-quote.is-style-large:where(:not(.is-style-plain)) p{font-size:1.5em;font-style:italic;line-height:1.6}.wp-block-quote.is-large:where(:not(.is-style-plain)) cite,.wp-block-quote.is-large:where(:not(.is-style-plain)) footer,.wp-block-quote.is-style-large:where(:not(.is-style-plain)) cite,.wp-block-quote.is-style-large:where(:not(.is-style-plain)) footer{font-size:1.125em;text-align:right}.wp-block-quote>cite{display:block}
+/*# sourceURL=/wp-content/plugins/gutenberg-core/v24.3.1/build/styles/block-library/quote/style.min.css */
+</style>
+<style id="wp-block-quote-theme-inline-css">
+.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote:where(.has-text-align-right){border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote:where(.has-text-align-center){border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote:where(.is-style-plain){border:none}
+/*# sourceURL=/wp-content/plugins/gutenberg-core/v24.3.1/build/styles/block-library/quote/theme.min.css */
+</style>
+<style id="wp-block-table-inline-css">
+.wp-block-table{overflow-x:auto}.wp-block-table table{border-collapse:collapse;width:100%}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{border:1px solid;padding:.5em}.wp-block-table .has-fixed-layout{table-layout:fixed;width:100%}.wp-block-table .has-fixed-layout td,.wp-block-table .has-fixed-layout th{overflow-wrap:anywhere;word-break:normal}.wp-block-table.aligncenter,.wp-block-table.alignleft,.wp-block-table.alignright{display:table;width:auto}.wp-block-table.aligncenter td,.wp-block-table.aligncenter th,.wp-block-table.alignleft td,.wp-block-table.alignleft th,.wp-block-table.alignright td,.wp-block-table.alignright th{overflow-wrap:anywhere;word-break:normal}.wp-block-table .has-subtle-light-gray-background-color{background-color:#f3f4f5}.wp-block-table .has-subtle-pale-green-background-color{background-color:#e9fbe5}.wp-block-table .has-subtle-pale-blue-background-color{background-color:#e7f5fe}.wp-block-table .has-subtle-pale-pink-background-color{background-color:#fcf0ef}.wp-block-table.is-style-stripes{background-color:transparent;border-collapse:inherit;border-spacing:0}.wp-block-table.is-style-stripes tbody tr:nth-child(odd){background-color:#f0f0f0}.wp-block-table.is-style-stripes.has-subtle-light-gray-background-color tbody tr:nth-child(odd){background-color:#f3f4f5}.wp-block-table.is-style-stripes.has-subtle-pale-green-background-color tbody tr:nth-child(odd){background-color:#e9fbe5}.wp-block-table.is-style-stripes.has-subtle-pale-blue-background-color tbody tr:nth-child(odd){background-color:#e7f5fe}.wp-block-table.is-style-stripes.has-subtle-pale-pink-background-color tbody tr:nth-child(odd){background-color:#fcf0ef}.wp-block-table.is-style-stripes td,.wp-block-table.is-style-stripes th{border-color:transparent}.wp-block-table.is-style-stripes{border-bottom:1px solid #f0f0f0}.wp-block-table .has-border-color td,.wp-block-table .has-border-color th,.wp-block-table .has-border-color tr,.wp-block-table .has-border-color>*{border-color:inherit}.wp-block-table table[style*=border-top-color] tr:first-child,.wp-block-table table[style*=border-top-color] tr:first-child td,.wp-block-table table[style*=border-top-color] tr:first-child th,.wp-block-table table[style*=border-top-color]>*,.wp-block-table table[style*=border-top-color]>* td,.wp-block-table table[style*=border-top-color]>* th{border-top-color:inherit}.wp-block-table table[style*=border-top-color] tr:not(:first-child){border-top-color:currentColor}.wp-block-table table[style*=border-right-color] td:last-child,.wp-block-table table[style*=border-right-color] th,.wp-block-table table[style*=border-right-color] tr,.wp-block-table table[style*=border-right-color]>*{border-right-color:inherit}.wp-block-table table[style*=border-bottom-color] tr:last-child,.wp-block-table table[style*=border-bottom-color] tr:last-child td,.wp-block-table table[style*=border-bottom-color] tr:last-child th,.wp-block-table table[style*=border-bottom-color]>*,.wp-block-table table[style*=border-bottom-color]>* td,.wp-block-table table[style*=border-bottom-color]>* th{border-bottom-color:inherit}.wp-block-table table[style*=border-bottom-color] tr:not(:last-child){border-bottom-color:currentColor}.wp-block-table table[style*=border-left-color] td:first-child,.wp-block-table table[style*=border-left-color] th,.wp-block-table table[style*=border-left-color] tr,.wp-block-table table[style*=border-left-color]>*{border-left-color:inherit}.wp-block-table table[style*=border-style] td,.wp-block-table table[style*=border-style] th,.wp-block-table table[style*=border-style] tr,.wp-block-table table[style*=border-style]>*{border-style:inherit}.wp-block-table table[style*=border-width] td,.wp-block-table table[style*=border-width] th,.wp-block-table table[style*=border-width] tr,.wp-block-table table[style*=border-width]>*{border-style:inherit;border-width:inherit}
+/*# sourceURL=/wp-content/plugins/gutenberg-core/v24.3.1/build/styles/block-library/table/style.min.css */
+</style>
+<style id="wp-block-table-theme-inline-css">
+.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table :where(figcaption){color:hsla(0,0%,100%,.65)}
+/*# sourceURL=/wp-content/plugins/gutenberg-core/v24.3.1/build/styles/block-library/table/theme.min.css */
+</style>
+<style id="wp-block-heading-inline-css">
+h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-background,h3:where(.wp-block-heading).has-background,h4:where(.wp-block-heading).has-background,h5:where(.wp-block-heading).has-background,h6:where(.wp-block-heading).has-background{padding:var(--wp--style--block-background-padding,1.25em 2.375em)}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}
+/*# sourceURL=/wp-content/plugins/gutenberg-core/v24.3.1/build/styles/block-library/heading/style.min.css */
+</style>
+<style id="wp-block-image-inline-css">
+.wp-block-image>a,.wp-block-image>figure>a{color:inherit;display:inline-block}.wp-block-image img{box-sizing:border-box;height:auto;max-width:100%;vertical-align:bottom}@media not (prefers-reduced-motion){.wp-block-image img.hide{visibility:hidden}.wp-block-image img.show{animation:show-content-image .4s}}.wp-block-image[style*=border-radius] img,.wp-block-image[style*=border-radius]>a{border-radius:inherit}.wp-block-image.has-custom-border img{box-sizing:border-box}.wp-block-image.aligncenter{text-align:center}.wp-block-image.alignfull>a,.wp-block-image.alignwide>a{width:100%}.wp-block-image.alignfull img,.wp-block-image.alignwide img{height:auto;width:100%}.wp-block-image .aligncenter,.wp-block-image .alignleft,.wp-block-image .alignright,.wp-block-image.aligncenter,.wp-block-image.alignleft,.wp-block-image.alignright{display:table}.wp-block-image .aligncenter>figcaption,.wp-block-image .alignleft>figcaption,.wp-block-image .alignright>figcaption,.wp-block-image.aligncenter>figcaption,.wp-block-image.alignleft>figcaption,.wp-block-image.alignright>figcaption{caption-side:bottom;display:table-caption}.wp-block-image .alignleft{float:left;margin:.5em 1em .5em 0}.wp-block-image .alignright{float:right;margin:.5em 0 .5em 1em}.wp-block-image .aligncenter{margin-left:auto;margin-right:auto}.wp-block-image :where(figcaption){margin-bottom:1em;margin-top:.5em}.wp-block-image.is-style-circle-mask img{border-radius:9999px}@supports (mask-image:none) or (-webkit-mask-image:none){.wp-block-image.is-style-circle-mask img{border-radius:0;mask-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='50'/%3E%3C/svg%3E");mask-mode:alpha;mask-position:center;mask-repeat:no-repeat;mask-size:contain}}:root :where(.wp-block-image.is-style-rounded img,.wp-block-image .is-style-rounded img){border-radius:9999px}.wp-block-image figure{margin:0}.wp-lightbox-container{display:flex;flex-direction:column;position:relative}.wp-lightbox-container img{cursor:zoom-in}.wp-lightbox-container:has(img:hover) button{opacity:1}.wp-lightbox-container button{align-items:center;backdrop-filter:blur(16px) saturate(180%);background-color:rgba(90,90,90,.25);border:none;border-radius:4px;cursor:zoom-in;display:flex;height:20px;justify-content:center;opacity:0;padding:0;position:absolute;right:16px;text-align:center;top:16px;width:20px;z-index:100}@media not (prefers-reduced-motion){.wp-lightbox-container button{transition:opacity .2s ease}}.wp-lightbox-container button:focus-visible{outline:3px auto rgba(90,90,90,.25);outline:3px auto -webkit-focus-ring-color;outline-offset:3px}.wp-lightbox-container button:hover{cursor:pointer;opacity:1}.wp-lightbox-container button:focus{opacity:1}.wp-lightbox-container button:focus,.wp-lightbox-container button:hover,.wp-lightbox-container button:not(:hover):not(:active):not(.has-background){background-color:rgba(90,90,90,.25);border:none}.wp-lightbox-overlay{box-sizing:border-box;cursor:zoom-out;height:100vh;left:0;overflow:hidden;position:fixed;top:0;visibility:hidden;width:100%;z-index:100000}.wp-lightbox-overlay .wp-lightbox-close-button{align-items:center;cursor:pointer;display:flex;font-family:inherit;gap:8px;justify-content:center;line-height:1;min-height:40px;min-width:40px;padding:0 4px;position:absolute;right:calc(env(safe-area-inset-right) + 16px);top:calc(env(safe-area-inset-top) + 16px);z-index:5000000}.wp-lightbox-overlay .wp-lightbox-close-button:focus,.wp-lightbox-overlay .wp-lightbox-close-button:hover,.wp-lightbox-overlay .wp-lightbox-close-button:not(:hover):not(:active):not(.has-background){background:none;border:none}.wp-lightbox-overlay .wp-lightbox-close-button:has(.wp-lightbox-close-text:not([hidden])) .wp-lightbox-close-icon svg{height:1em;width:1em}.wp-lightbox-overlay .wp-lightbox-close-icon svg{display:block}.wp-lightbox-overlay .wp-lightbox-navigation-button-next,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev{align-items:center;bottom:16px;cursor:pointer;display:flex;font-family:inherit;gap:4px;justify-content:center;line-height:1;min-height:40px;min-width:40px;padding:0 8px;position:absolute;z-index:2000002}.wp-lightbox-overlay .wp-lightbox-navigation-button-next[hidden],.wp-lightbox-overlay .wp-lightbox-navigation-button-prev[hidden]{display:none}@media (min-width:960px){.wp-lightbox-overlay .wp-lightbox-navigation-button-next,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev{bottom:50%;transform:translateY(-50%)}}.wp-lightbox-overlay .wp-lightbox-navigation-button-next:focus,.wp-lightbox-overlay .wp-lightbox-navigation-button-next:hover,.wp-lightbox-overlay .wp-lightbox-navigation-button-next:not(:hover):not(:active):not(.has-background),.wp-lightbox-overlay .wp-lightbox-navigation-button-prev:focus,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev:hover,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev:not(:hover):not(:active):not(.has-background){background:none;border:none;padding:0 8px}.wp-lightbox-overlay .wp-lightbox-navigation-button-next:has(.wp-lightbox-navigation-text:not([hidden])) .wp-lightbox-navigation-icon svg,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev:has(.wp-lightbox-navigation-text:not([hidden])) .wp-lightbox-navigation-icon svg{display:block;height:1.5em;width:1.5em}.wp-lightbox-overlay .wp-lightbox-navigation-button-prev{left:calc(env(safe-area-inset-left) + 16px)}.wp-lightbox-overlay .wp-lightbox-navigation-button-next{right:calc(env(safe-area-inset-right) + 16px)}.wp-lightbox-overlay .wp-lightbox-navigation-icon svg{vertical-align:middle}.wp-lightbox-overlay .lightbox-image-container{cursor:default;height:var(--wp--lightbox-container-height);left:50%;overflow:hidden;position:absolute;top:50%;transform:translate(calc(-50% + var(--wp--lightbox-drag-offset, 0px)),-50%);transform-origin:top left;width:var(--wp--lightbox-container-width);z-index:2000001}.wp-lightbox-overlay .wp-block-image{align-items:center;box-sizing:border-box;display:flex;height:100%;justify-content:center;margin:0;position:relative;transform-origin:0 0;width:100%;z-index:3000000}.wp-lightbox-overlay .wp-block-image img{height:var(--wp--lightbox-image-height);min-height:var(--wp--lightbox-image-height);min-width:var(--wp--lightbox-image-width);width:var(--wp--lightbox-image-width)}.wp-lightbox-overlay .wp-block-image figcaption{display:none}.wp-lightbox-overlay .lightbox-thumbnail-container{--wp--lightbox-image-width:var(--wp--lightbox-thumbnail-width);--wp--lightbox-image-height:var(--wp--lightbox-thumbnail-height)}.wp-lightbox-overlay button{background:none;border:none}.wp-lightbox-overlay .scrim{background-color:#fff;height:100%;opacity:.9;position:absolute;width:100%;z-index:2000000}.wp-lightbox-overlay.active{visibility:visible}@media not (prefers-reduced-motion){.wp-lightbox-overlay.active{animation:turn-on-visibility .25s both}.wp-lightbox-overlay.active img{animation:turn-on-visibility .35s both}.wp-lightbox-overlay.show-closing-animation:not(.active){animation:turn-off-visibility .35s both}.wp-lightbox-overlay.show-closing-animation:not(.active) img{animation:turn-off-visibility .25s both}.wp-lightbox-overlay.zoom.active{animation:none;opacity:1;visibility:visible}.wp-lightbox-overlay.zoom.active .lightbox-image-container{animation:lightbox-zoom-in .4s}.wp-lightbox-overlay.zoom.active .lightbox-image-container img{animation:none}.wp-lightbox-overlay.zoom.active .scrim{animation:turn-on-visibility .4s forwards}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active){animation:none}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .lightbox-image-container{animation:lightbox-zoom-out .4s}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .lightbox-image-container img{animation:none}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .scrim{animation:turn-off-visibility .4s forwards}}@keyframes show-content-image{0%{visibility:hidden}99%{visibility:hidden}to{visibility:visible}}@keyframes turn-on-visibility{0%{opacity:0}to{opacity:1}}@keyframes turn-off-visibility{0%{opacity:1;visibility:visible}99%{opacity:0;visibility:visible}to{opacity:0;visibility:hidden}}@keyframes lightbox-zoom-in{0%{clip-path:var(--wp--lightbox-initial-clip);transform:translate(calc((-100vw + var(--wp--lightbox-scrollbar-width))/2 + var(--wp--lightbox-initial-left-position)),calc(-50vh + var(--wp--lightbox-initial-top-position))) scale(var(--wp--lightbox-scale))}to{clip-path:inset(0);transform:translate(-50%,-50%) scale(1)}}@keyframes lightbox-zoom-out{0%{clip-path:inset(0);transform:translate(-50%,-50%) scale(1);visibility:visible}99%{visibility:visible}to{clip-path:var(--wp--lightbox-initial-clip);transform:translate(calc((-100vw + var(--wp--lightbox-scrollbar-width))/2 + var(--wp--lightbox-initial-left-position)),calc(-50vh + var(--wp--lightbox-initial-top-position))) scale(var(--wp--lightbox-scale));visibility:hidden}}
+/*# sourceURL=/wp-content/plugins/gutenberg-core/v24.3.1/build/styles/block-library/image/style.min.css */
+</style>
+<style id="wp-block-image-theme-inline-css">
+:root :where(.wp-block-image figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme :root :where(.wp-block-image figcaption){color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}
+/*# sourceURL=/wp-content/plugins/gutenberg-core/v24.3.1/build/styles/block-library/image/theme.min.css */
+</style>
+<style id="wp-block-list-inline-css">
+ol,ul{box-sizing:border-box}:root :where(.wp-block-list.has-background){padding:var(--wp--style--block-background-padding,1.25em 2.375em)}
+/*# sourceURL=/wp-content/plugins/gutenberg-core/v24.3.1/build/styles/block-library/list/style.min.css */
+</style>
+<style id="wp-block-paragraph-inline-css">
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:var(--wp--style--block-background-padding,1.25em 2.375em)}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+/*# sourceURL=/wp-content/plugins/gutenberg-core/v24.3.1/build/styles/block-library/paragraph/style.min.css */
+</style>
+<style id="wp-block-library-inline-css-extra">
+.has-text-align-justify {
+	text-align:justify;
+}
+.has-text-align-justify{text-align:justify;}
+/*# sourceURL=wp-block-library-inline-css */
+</style>
+
+<style id="classic-theme-styles-inline-css">
+.wp-block-button__link{background-color:#32373c;border-radius:9999px;box-shadow:none;color:#fff;font-size:1.125em;padding:calc(.667em + 2px) calc(1.333em + 2px);text-decoration:none}.wp-block-file__button{background:#32373c;color:#fff}.wp-block-accordion-heading{margin:0}.wp-block-accordion-heading__toggle{background-color:inherit!important;color:inherit!important}.wp-block-accordion-heading__toggle:not(:focus-visible){outline:none}.wp-block-accordion-heading__toggle:focus,.wp-block-accordion-heading__toggle:hover{background-color:inherit!important;border:none;box-shadow:none;color:inherit;padding:var(--wp--preset--spacing--20,1em) 0;text-decoration:none}.wp-block-accordion-heading__toggle:focus-visible{outline:auto;outline-offset:0}.wp-block-tab:not(.has-text-color){color:inherit!important}.wp-block-tab:not(.has-background){background-color:inherit!important}.wp-block-tab:focus,.wp-block-tab:hover{text-decoration:none}.wp-block-tab:focus-visible{outline:auto;outline-offset:0}
+/*# sourceURL=/wp-content/plugins/gutenberg-core/v24.3.1/build/styles/block-library/classic.min.css */
+</style>
+
+<style id="coblocks-inline-format-inline-css">
+.uppercase{text-transform:uppercase}
+/*# sourceURL=coblocks-inline-format-inline-css */
+</style>
+<link crossorigin="anonymous" rel="stylesheet" id="all-css-12-1" href="/web/20261112223144cs_/https://wumdh.home.blog/_static/??-eJx9jEEOAiEQBD/kQECjeDC+ZWEnijIwYWA3/l72op689KFTVXplCCU3zE1z6reYRYfiUwlP0VYZpwxIJE4IFRd10HOU9iFA2iuhCiI7/ROiDt9WxfETT20jCOc4YUIa2D9t5eGA91xRBMZS7ATtPkTZvCtdzNEZt7f2fHq8Afl7R7w=&amp;cssminify=yes" type="text/css" media="all">
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #FFF;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--primary: #c43d80;--wp--preset--color--secondary: #9e3067;--wp--preset--color--dark-gray: #181818;--wp--preset--color--light-gray: #686868;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 19.5px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36.5px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--normal: 22px;--wp--preset--font-size--huge: 49.5px;--wp--preset--font-family--albert-sans: 'Albert Sans', sans-serif;--wp--preset--font-family--alegreya: Alegreya, serif;--wp--preset--font-family--arvo: Arvo, serif;--wp--preset--font-family--bodoni-moda: 'Bodoni Moda', serif;--wp--preset--font-family--bricolage-grotesque: 'Bricolage Grotesque', sans-serif;--wp--preset--font-family--cabin: Cabin, sans-serif;--wp--preset--font-family--chivo: Chivo, sans-serif;--wp--preset--font-family--commissioner: Commissioner, sans-serif;--wp--preset--font-family--cormorant: Cormorant, serif;--wp--preset--font-family--courier-prime: 'Courier Prime', monospace;--wp--preset--font-family--crimson-pro: 'Crimson Pro', serif;--wp--preset--font-family--dm-mono: 'DM Mono', monospace;--wp--preset--font-family--dm-sans: 'DM Sans', sans-serif;--wp--preset--font-family--dm-serif-display: 'DM Serif Display', serif;--wp--preset--font-family--domine: Domine, serif;--wp--preset--font-family--eb-garamond: 'EB Garamond', serif;--wp--preset--font-family--epilogue: Epilogue, sans-serif;--wp--preset--font-family--fahkwang: Fahkwang, sans-serif;--wp--preset--font-family--figtree: Figtree, sans-serif;--wp--preset--font-family--fira-sans: 'Fira Sans', sans-serif;--wp--preset--font-family--fjalla-one: 'Fjalla One', sans-serif;--wp--preset--font-family--fraunces: Fraunces, serif;--wp--preset--font-family--gabarito: Gabarito, system-ui;--wp--preset--font-family--ibm-plex-mono: 'IBM Plex Mono', monospace;--wp--preset--font-family--ibm-plex-sans: 'IBM Plex Sans', sans-serif;--wp--preset--font-family--ibarra-real-nova: 'Ibarra Real Nova', serif;--wp--preset--font-family--instrument-serif: 'Instrument Serif', serif;--wp--preset--font-family--inter: Inter, sans-serif;--wp--preset--font-family--josefin-sans: 'Josefin Sans', sans-serif;--wp--preset--font-family--jost: Jost, sans-serif;--wp--preset--font-family--libre-baskerville: 'Libre Baskerville', serif;--wp--preset--font-family--libre-franklin: 'Libre Franklin', sans-serif;--wp--preset--font-family--literata: Literata, serif;--wp--preset--font-family--lora: Lora, serif;--wp--preset--font-family--merriweather: Merriweather, serif;--wp--preset--font-family--montserrat: Montserrat, sans-serif;--wp--preset--font-family--newsreader: Newsreader, serif;--wp--preset--font-family--noto-sans-mono: 'Noto Sans Mono', sans-serif;--wp--preset--font-family--nunito: Nunito, sans-serif;--wp--preset--font-family--open-sans: 'Open Sans', sans-serif;--wp--preset--font-family--overpass: Overpass, sans-serif;--wp--preset--font-family--pt-serif: 'PT Serif', serif;--wp--preset--font-family--petrona: Petrona, serif;--wp--preset--font-family--piazzolla: Piazzolla, serif;--wp--preset--font-family--playfair-display: 'Playfair Display', serif;--wp--preset--font-family--plus-jakarta-sans: 'Plus Jakarta Sans', sans-serif;--wp--preset--font-family--poppins: Poppins, sans-serif;--wp--preset--font-family--raleway: Raleway, sans-serif;--wp--preset--font-family--roboto: Roboto, sans-serif;--wp--preset--font-family--roboto-slab: 'Roboto Slab', serif;--wp--preset--font-family--rubik: Rubik, sans-serif;--wp--preset--font-family--rufina: Rufina, serif;--wp--preset--font-family--sora: Sora, sans-serif;--wp--preset--font-family--source-sans-3: 'Source Sans 3', sans-serif;--wp--preset--font-family--source-serif-4: 'Source Serif 4', serif;--wp--preset--font-family--space-mono: 'Space Mono', monospace;--wp--preset--font-family--syne: Syne, sans-serif;--wp--preset--font-family--texturina: Texturina, serif;--wp--preset--font-family--urbanist: Urbanist, sans-serif;--wp--preset--font-family--work-sans: 'Work Sans', sans-serif;--wp--preset--text-shadow--light: 0.05em 0.05em 0.1em rgba(0, 0, 0, 0.3);--wp--preset--text-shadow--strong: 0.1em 0.1em 0.25em rgba(0, 0, 0, 0.5);--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-color{color: var(--wp--preset--color--primary) !important;}.has-secondary-color{color: var(--wp--preset--color--secondary) !important;}.has-dark-gray-color{color: var(--wp--preset--color--dark-gray) !important;}.has-light-gray-color{color: var(--wp--preset--color--light-gray) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-background-color{background-color: var(--wp--preset--color--primary) !important;}.has-secondary-background-color{background-color: var(--wp--preset--color--secondary) !important;}.has-dark-gray-background-color{background-color: var(--wp--preset--color--dark-gray) !important;}.has-light-gray-background-color{background-color: var(--wp--preset--color--light-gray) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-border-color{border-color: var(--wp--preset--color--primary) !important;}.has-secondary-border-color{border-color: var(--wp--preset--color--secondary) !important;}.has-dark-gray-border-color{border-color: var(--wp--preset--color--dark-gray) !important;}.has-light-gray-border-color{border-color: var(--wp--preset--color--light-gray) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-normal-font-size{font-size: var(--wp--preset--font-size--normal) !important;}.has-huge-font-size{font-size: var(--wp--preset--font-size--huge) !important;}.has-albert-sans-font-family{font-family: var(--wp--preset--font-family--albert-sans) !important;}.has-alegreya-font-family{font-family: var(--wp--preset--font-family--alegreya) !important;}.has-arvo-font-family{font-family: var(--wp--preset--font-family--arvo) !important;}.has-bodoni-moda-font-family{font-family: var(--wp--preset--font-family--bodoni-moda) !important;}.has-bricolage-grotesque-font-family{font-family: var(--wp--preset--font-family--bricolage-grotesque) !important;}.has-cabin-font-family{font-family: var(--wp--preset--font-family--cabin) !important;}.has-chivo-font-family{font-family: var(--wp--preset--font-family--chivo) !important;}.has-commissioner-font-family{font-family: var(--wp--preset--font-family--commissioner) !important;}.has-cormorant-font-family{font-family: var(--wp--preset--font-family--cormorant) !important;}.has-courier-prime-font-family{font-family: var(--wp--preset--font-family--courier-prime) !important;}.has-crimson-pro-font-family{font-family: var(--wp--preset--font-family--crimson-pro) !important;}.has-dm-mono-font-family{font-family: var(--wp--preset--font-family--dm-mono) !important;}.has-dm-sans-font-family{font-family: var(--wp--preset--font-family--dm-sans) !important;}.has-dm-serif-display-font-family{font-family: var(--wp--preset--font-family--dm-serif-display) !important;}.has-domine-font-family{font-family: var(--wp--preset--font-family--domine) !important;}.has-eb-garamond-font-family{font-family: var(--wp--preset--font-family--eb-garamond) !important;}.has-epilogue-font-family{font-family: var(--wp--preset--font-family--epilogue) !important;}.has-fahkwang-font-family{font-family: var(--wp--preset--font-family--fahkwang) !important;}.has-figtree-font-family{font-family: var(--wp--preset--font-family--figtree) !important;}.has-fira-sans-font-family{font-family: var(--wp--preset--font-family--fira-sans) !important;}.has-fjalla-one-font-family{font-family: var(--wp--preset--font-family--fjalla-one) !important;}.has-fraunces-font-family{font-family: var(--wp--preset--font-family--fraunces) !important;}.has-gabarito-font-family{font-family: var(--wp--preset--font-family--gabarito) !important;}.has-ibm-plex-mono-font-family{font-family: var(--wp--preset--font-family--ibm-plex-mono) !important;}.has-ibm-plex-sans-font-family{font-family: var(--wp--preset--font-family--ibm-plex-sans) !important;}.has-ibarra-real-nova-font-family{font-family: var(--wp--preset--font-family--ibarra-real-nova) !important;}.has-instrument-serif-font-family{font-family: var(--wp--preset--font-family--instrument-serif) !important;}.has-inter-font-family{font-family: var(--wp--preset--font-family--inter) !important;}.has-josefin-sans-font-family{font-family: var(--wp--preset--font-family--josefin-sans) !important;}.has-jost-font-family{font-family: var(--wp--preset--font-family--jost) !important;}.has-libre-baskerville-font-family{font-family: var(--wp--preset--font-family--libre-baskerville) !important;}.has-libre-franklin-font-family{font-family: var(--wp--preset--font-family--libre-franklin) !important;}.has-literata-font-family{font-family: var(--wp--preset--font-family--literata) !important;}.has-lora-font-family{font-family: var(--wp--preset--font-family--lora) !important;}.has-merriweather-font-family{font-family: var(--wp--preset--font-family--merriweather) !important;}.has-montserrat-font-family{font-family: var(--wp--preset--font-family--montserrat) !important;}.has-newsreader-font-family{font-family: var(--wp--preset--font-family--newsreader) !important;}.has-noto-sans-mono-font-family{font-family: var(--wp--preset--font-family--noto-sans-mono) !important;}.has-nunito-font-family{font-family: var(--wp--preset--font-family--nunito) !important;}.has-open-sans-font-family{font-family: var(--wp--preset--font-family--open-sans) !important;}.has-overpass-font-family{font-family: var(--wp--preset--font-family--overpass) !important;}.has-pt-serif-font-family{font-family: var(--wp--preset--font-family--pt-serif) !important;}.has-petrona-font-family{font-family: var(--wp--preset--font-family--petrona) !important;}.has-piazzolla-font-family{font-family: var(--wp--preset--font-family--piazzolla) !important;}.has-playfair-display-font-family{font-family: var(--wp--preset--font-family--playfair-display) !important;}.has-plus-jakarta-sans-font-family{font-family: var(--wp--preset--font-family--plus-jakarta-sans) !important;}.has-poppins-font-family{font-family: var(--wp--preset--font-family--poppins) !important;}.has-raleway-font-family{font-family: var(--wp--preset--font-family--raleway) !important;}.has-roboto-font-family{font-family: var(--wp--preset--font-family--roboto) !important;}.has-roboto-slab-font-family{font-family: var(--wp--preset--font-family--roboto-slab) !important;}.has-rubik-font-family{font-family: var(--wp--preset--font-family--rubik) !important;}.has-rufina-font-family{font-family: var(--wp--preset--font-family--rufina) !important;}.has-sora-font-family{font-family: var(--wp--preset--font-family--sora) !important;}.has-source-sans-3-font-family{font-family: var(--wp--preset--font-family--source-sans-3) !important;}.has-source-serif-4-font-family{font-family: var(--wp--preset--font-family--source-serif-4) !important;}.has-space-mono-font-family{font-family: var(--wp--preset--font-family--space-mono) !important;}.has-syne-font-family{font-family: var(--wp--preset--font-family--syne) !important;}.has-texturina-font-family{font-family: var(--wp--preset--font-family--texturina) !important;}.has-urbanist-font-family{font-family: var(--wp--preset--font-family--urbanist) !important;}.has-work-sans-font-family{font-family: var(--wp--preset--font-family--work-sans) !important;}.has-light-text-shadow{text-shadow: var(--wp--preset--text-shadow--light) !important;}.has-strong-text-shadow{text-shadow: var(--wp--preset--text-shadow--strong) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel="stylesheet" id="modern-business-fonts-css" href="https://web.archive.org/web/20261112223144cs_/https://fonts-api.wp.com/css?family=IBM+Plex+Sans%3A300%2C300i%2C500%2C700&amp;subset=latin%2Clatin-ext" media="all">
+<link crossorigin="anonymous" rel="stylesheet" id="all-css-16-1" href="/web/20261112223144cs_/https://wumdh.home.blog/_static/??-eJyVy0EKgCAQBdALZYO00BbRWdIGynKU/kh0++gIvf2ju5pYRFmUdOPMoNoC5bLyJSY07MIAQZ+TTWKtSzz6CHT0I35hzpN1g7feudGnF50PK8Q=&amp;cssminify=yes" type="text/css" media="all">
+<link crossorigin="anonymous" rel="stylesheet" id="print-css-17-1" href="/web/20261112223144cs_/https://wumdh.home.blog/wp-content/themes/pub/twentynineteen/print.css?m=1732791009i&amp;cssminify=yes" type="text/css" media="print">
+<link crossorigin="anonymous" rel="stylesheet" id="all-css-18-1" href="/web/20261112223144cs_/https://wumdh.home.blog/_static/??-eJx9i0EOwjAMBD+EsZAIKAfEW9rIBKPEjhpHUX/fcGsvve2sZrAXCCpGYmhfylSxtBmtj2MVFjIiQZaA1dZE0EvQfA21XnBX5gYltchScaE5aRwz4rB2eBZFUkgaJmOVA8AnTbz803d+3dzdu6d/OP/bACfTRA8=&amp;cssminify=yes" type="text/css" media="all">
+<style id="jetpack-global-styles-frontend-style-inline-css">
+:root { --font-headings: unset; --font-base: unset; --font-headings-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; --font-base-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;}
+/*# sourceURL=jetpack-global-styles-frontend-style-inline-css */
+</style>
+<link crossorigin="anonymous" rel="stylesheet" id="all-css-20-1" href="/web/20261112223144cs_/https://wumdh.home.blog/wp-content/themes/h4/global.css?m=1420737423i&amp;cssminify=yes" type="text/css" media="all">
+<script id="wpcom-actionbar-placeholder-js-extra">
+var actionbardata = {"siteID":"164105916","postID":"0","siteURL":"https://web.archive.org/web/20261112223144/https://wumdh.home.blog","xhrURL":"https://web.archive.org/web/20261112223144/https://wumdh.home.blog/wp-admin/admin-ajax.php","nonce":"fdac4491db","isLoggedIn":"","statusMessage":"","statusSubscribed":"","subsEmailDefault":"instantly","proxyScriptUrl":"https://web.archive.org/web/20261112223144/https://s0.wp.com/wp-content/js/wpcom-proxy-request.js?m=1513050504i&amp;ver=20211021","i18n":{"followedText":"New posts from this site will now appear in your \u003Ca href=\"https://wordpress.com/reader\"\u003EReader\u003C/a\u003E","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","shortLinkCopied":"Copied to clipboard."}};
+//# sourceURL=wpcom-actionbar-placeholder-js-extra
+</script>
+<script id="jetpack-mu-wpcom-settings-js-before">
+var JETPACK_MU_WPCOM_SETTINGS = {"assetsUrl":"https://web.archive.org/web/20261112223144/https://s1.wp.com/wp-content/mu-plugins/jetpack-mu-wpcom-plugin/sun/jetpack_vendor/automattic/jetpack-mu-wpcom/src/build/"};
+//# sourceURL=jetpack-mu-wpcom-settings-js-before
+</script>
+<script crossorigin="anonymous" type="text/javascript" src="/web/20261112223144js_/https://wumdh.home.blog/wp-content/js/rlt-proxy.js?m=1720530689i"></script>
+<script id="rlt-proxy-js-after">
+	rltInitialize( {"token":null,"iframeOrigins":["https:\/\/web.archive.org\/web\/20261112223144\/https:\/\/widgets.wp.com"]} );
+//# sourceURL=rlt-proxy-js-after
+</script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://wumdhhome.wordpress.com/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress.com">
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="مجتمع خارقو العادة - Extraordinary Society">
+<meta property="og:url" content="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/blog-feed/">
+<meta property="og:site_name" content="مجتمع خارقو العادة - Extraordinary Society">
+<meta property="og:image" content="https://web.archive.org/web/20261112223144im_/https://wumdh.home.blog/wp-content/uploads/2019/07/cropped-twitter_logo-1.png?w=200">
+<meta property="og:image:width" content="200">
+<meta property="og:image:height" content="200">
+<meta property="og:image:alt" content="">
+<meta property="og:locale" content="en_US">
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="search" type="application/opensearchdescription+xml" href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/osd.xml" title="مجتمع خارقو العادة - Extraordinary Society">
+<link rel="search" type="application/opensearchdescription+xml" href="https://web.archive.org/web/20261112223144/https://s1.wp.com/opensearch.xml" title="WordPress.com">
+
+	<style type="text/css" id="custom-theme-colors">
+		
+		/*
+		 * Set background for:
+		 * - featured image :before
+		 * - featured image :before
+		 * - post thumbnail :before
+		 * - post thumbnail :before
+		 * - Submenu
+		 * - Sticky Post
+		 * - buttons
+		 * - WP Block Button
+		 * - Blocks
+		 */
+		.image-filters-enabled .site-header.featured-image .site-featured-image:before,
+		.image-filters-enabled .site-header.featured-image .site-featured-image:after,
+		.image-filters-enabled .entry .post-thumbnail:before,
+		.image-filters-enabled .entry .post-thumbnail:after,
+		.main-navigation .sub-menu,
+		.sticky-post,
+		.entry .entry-content .wp-block-button .wp-block-button__link:not(.has-background),
+		.entry .button, button, input[type="button"], input[type="reset"], input[type="submit"],
+		.entry .entry-content > .has-primary-background-color,
+		.entry .entry-content > *[class^="wp-block-"].has-primary-background-color,
+		.entry .entry-content > *[class^="wp-block-"] .has-primary-background-color,
+		.entry .entry-content > *[class^="wp-block-"].is-style-solid-color,
+		.entry .entry-content > *[class^="wp-block-"].is-style-solid-color.has-primary-background-color,
+		.entry .entry-content .wp-block-file .wp-block-file__button {
+			background-color: hsl( 223, 53%, 50% ); /* base: #0073a8; */
+		}
+
+		/*
+		 * Set Color for:
+		 * - all links
+		 * - main navigation links
+		 * - Post navigation links
+		 * - Post entry meta hover
+		 * - Post entry header more-link hover
+		 * - main navigation svg
+		 * - comment navigation
+		 * - Comment edit link hover
+		 * - Site Footer Link hover
+		 * - Widget links
+		 */
+		a,
+		a:visited,
+		.main-navigation .main-menu > li,
+		.main-navigation ul.main-menu > li > a,
+		.post-navigation .post-title,
+		.entry .entry-meta a:hover,
+		.entry .entry-footer a:hover,
+		.entry .entry-content .more-link:hover,
+		.main-navigation .main-menu > li > a + svg,
+		.comment .comment-metadata > a:hover,
+		.comment .comment-metadata .comment-edit-link:hover,
+		#colophon .site-info a:hover,
+		.widget a,
+		.entry .entry-content .wp-block-button.is-style-outline .wp-block-button__link:not(.has-text-color),
+		.entry .entry-content > .has-primary-color,
+		.entry .entry-content > *[class^="wp-block-"] .has-primary-color,
+		.entry .entry-content > *[class^="wp-block-"].is-style-solid-color blockquote.has-primary-color,
+		.entry .entry-content > *[class^="wp-block-"].is-style-solid-color blockquote.has-primary-color p {
+			color: hsl( 223, 53%, 50% ); /* base: #0073a8; */
+		}
+
+		/*
+		 * Set border color for:
+		 * wp block quote
+		 * :focus
+		 */
+		blockquote,
+		.entry .entry-content blockquote,
+		.entry .entry-content .wp-block-quote:not(.is-large),
+		.entry .entry-content .wp-block-quote:not(.is-style-large),
+		input[type="text"]:focus,
+		input[type="email"]:focus,
+		input[type="url"]:focus,
+		input[type="password"]:focus,
+		input[type="search"]:focus,
+		input[type="number"]:focus,
+		input[type="tel"]:focus,
+		input[type="range"]:focus,
+		input[type="date"]:focus,
+		input[type="month"]:focus,
+		input[type="week"]:focus,
+		input[type="time"]:focus,
+		input[type="datetime"]:focus,
+		input[type="datetime-local"]:focus,
+		input[type="color"]:focus,
+		textarea:focus {
+			border-color: hsl( 223, 53%, 50% ); /* base: #0073a8; */
+		}
+
+		.gallery-item > div > a:focus {
+			box-shadow: 0 0 0 2px hsl( 223, 53%, 50% ); /* base: #0073a8; */
+		}
+
+		/* Hover colors */
+		a:hover, a:active,
+		.main-navigation .main-menu > li > a:hover,
+		.main-navigation .main-menu > li > a:hover + svg,
+		.post-navigation .nav-links a:hover,
+		.post-navigation .nav-links a:hover .post-title,
+		.author-bio .author-description .author-link:hover,
+		.entry .entry-content > .has-secondary-color,
+		.entry .entry-content > *[class^="wp-block-"] .has-secondary-color,
+		.entry .entry-content > *[class^="wp-block-"].is-style-solid-color blockquote.has-secondary-color,
+		.entry .entry-content > *[class^="wp-block-"].is-style-solid-color blockquote.has-secondary-color p,
+		.comment .comment-author .fn a:hover,
+		.comment-reply-link:hover,
+		.comment-navigation .nav-previous a:hover,
+		.comment-navigation .nav-next a:hover,
+		#cancel-comment-reply-link:hover,
+		.widget a:hover {
+			color: hsl( 223, 53%, 23% ); /* base: #005177; */
+		}
+
+		.main-navigation .sub-menu > li > a:hover,
+		.main-navigation .sub-menu > li > a:focus,
+		.main-navigation .sub-menu > li > a:hover:after,
+		.main-navigation .sub-menu > li > a:focus:after,
+		.main-navigation .sub-menu > li > .menu-item-link-return:hover,
+		.main-navigation .sub-menu > li > .menu-item-link-return:focus,
+		.main-navigation .sub-menu > li > a:not(.submenu-expand):hover,
+		.main-navigation .sub-menu > li > a:not(.submenu-expand):focus,
+		.entry .entry-content > .has-secondary-background-color,
+		.entry .entry-content > *[class^="wp-block-"].has-secondary-background-color,
+		.entry .entry-content > *[class^="wp-block-"] .has-secondary-background-color,
+		.entry .entry-content > *[class^="wp-block-"].is-style-solid-color.has-secondary-background-color {
+			background-color: hsl( 223, 53%, 23% ); /* base: #005177; */
+		}
+
+		/* Text selection colors */
+		::selection {
+			background-color: hsl( 223, 50%, 90% ); /* base: #005177; */
+		}
+		::-moz-selection {
+			background-color: hsl( 223, 50%, 90% ); /* base: #005177; */
+		}	</style>
+	<link rel="icon" href="https://web.archive.org/web/20261112223144im_/https://wumdh.home.blog/wp-content/uploads/2019/07/cropped-twitter_logo-1.png?w=32" sizes="32x32">
+<link rel="icon" href="https://web.archive.org/web/20261112223144im_/https://wumdh.home.blog/wp-content/uploads/2019/07/cropped-twitter_logo-1.png?w=192" sizes="192x192">
+<link rel="apple-touch-icon" href="https://web.archive.org/web/20261112223144im_/https://wumdh.home.blog/wp-content/uploads/2019/07/cropped-twitter_logo-1.png?w=180">
+<meta name="msapplication-TileImage" content="https://wumdh.home.blog/wp-content/uploads/2019/07/cropped-twitter_logo-1.png?w=270">
+<link crossorigin="anonymous" rel="stylesheet" id="all-css-0-5" href="/web/20261112223144cs_/https://wumdh.home.blog/wp-content/mu-plugins/jetpack-mu-wpcom-plugin/sun/jetpack_vendor/automattic/jetpack-classic-theme-helper/dist/responsive-videos/responsive-videos.css?m=1737671034i&amp;cssminify=yes" type="text/css" media="all">
+
+<link rel="stylesheet" id="gravatar-card-css" href="https://web.archive.org/web/20261112092829/https://0.gravatar.com/js/hovercards/hovercards.min.css?ver=202646fffb5f6f8dc7a9c7ad08f16ba2e694fddff32cc1793b3fe3b32aaa232a52550e"><link href="/web/20261112223144mp_/https://wumdh.home.blog/wp-content/mu-plugins/jetpack-plugin/sun/jetpack_vendor/automattic/jetpack-newsletter/src/../build/action-bar.css?ver=35dd33285eb46dc308dd" rel="stylesheet"></head>
+
+<body class="blog wp-custom-logo wp-embed-responsive wp-theme-pubtwentynineteen wp-child-theme-pubmodern-business customizer-styles-applied hfeed image-filters-enabled hide-homepage-title jetpack-reblog-enabled has-marketing-bar has-marketing-bar-theme-modern-business"><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script>__wm.rw(0);</script>
+<div id="wm-ipp-base" lang="en" style="display: block; direction: ltr; height: 67px;" toolbar-mode="auto">
+</div><div id="wm-ipp-print">The Wayback Machine - https://web.archive.org/web/20261112223144/https://wumdh.home.blog/blog-feed/</div>
+<script type="text/javascript">//<![CDATA[
+__wm.bt(775,27,25,2,"web","https://wumdh.home.blog/blog-feed/","20261112223144",1996,"https://web-static.archive.org/_static/",["https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3","https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv"], false);
+  __wm.rw(1);
+//]]></script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+ 
+<div id="page" class="site">
+    <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+        <header id="masthead" class="site-header">
+            <div class="site-branding-container">
+                <div class="site-branding">
+
+			<div class="site-logo"><a href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/" class="custom-logo-link" rel="home"><img width="128" height="128" src="https://web.archive.org/web/20261112223144im_/https://wumdh.home.blog/wp-content/uploads/2019/07/cropped-twitter_logo.png" class="custom-logo" alt="مجتمع خارقو العادة – Extraordinary Society" decoding="async" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="41" data-permalink="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/cropped-twitter_logo-png/" data-orig-file="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/wp-content/uploads/2019/07/cropped-twitter_logo.png" data-orig-size="128,128" data-comments-opened="1" data-image-title="cropped-twitter_logo.png" data-image-description="&lt;p&gt;https://wumdhhome.files.wordpress.com/2019/07/cropped-twitter_logo.png&lt;/p&gt;
+" data-image-caption="" data-large-file="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/wp-content/uploads/2019/07/cropped-twitter_logo.png?w=128"></a></div>
+								<p class="site-title"><a href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/" rel="home">مجتمع خارقو العادة – Extraordinary Society</a></p>
+			
+			</div><!-- .site-branding -->
+            </div><!-- .site-branding-container -->
+
+                    </header><!-- #masthead -->
+
+    <div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main">
+
+		
+<article id="post-3" class="post-3 post type-post status-publish format-standard sticky hentry category-uncategorized entry">
+	<header class="entry-header">
+		<span class="sticky-post">Featured</span><h2 class="entry-title"><a href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/2019/07/06/example-post/" rel="bookmark">مرحبا بكم في مجتمع خارقوا&nbsp;العادة</a></h2>	</header><!-- .entry-header -->
+
+	
+	<div class="entry-content">
+		
+<blockquote style="text-align:right;" class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p> المجتمع يحاول لم صفوفه حاليا من أجل العودة بقوة!!!‏</p><p>لكن لن يتم هذا إلا بمساعدتكم!!!‏ </p><cite>‎‏— محسن ميغامانزد‎</cite></blockquote>
+
+
+
+<p class="wp-block-paragraph" style="text-align:right;">عندما نتحدث عن مجتمع خارقوا العادة، فنحن نتحدث عن تاريخ تعريب الألعاب كله.‏</p>
+
+
+
+<p class="wp-block-paragraph" style="text-align:right;"><strong>تاريخ الموقع</strong></p>
+
+
+
+<p class="wp-block-paragraph" style="text-align:right;">‎‏2003 – منتدى المنتدى ظهر فيه قسم لتعريب الألعاب، لكنه ظل مجرد أفكار لم تنتج الا بعض تعريبات البلاي الصوتية و ألعاب الأونلاين. ظهرت محاولات تعريب ناجحة أودت إلى …‏</p>
+
+
+
+<p class="wp-block-paragraph" style="text-align:right;">‏2005 – تأسس فريق خارقوا العادة أو (اكستراأورديناري) في 8 فبراير على يد الأستاذ محمد سويلم (اكستراأورديناري) و قد اختار الأعضاء المؤسسون مثل سايبستر (محمود لطوف) و  عروة (عرف أحيانا بهيسوكا) و رجل المخاطر، أن يسموا الفريق على اسمه اكراما  لما بذله من جهود جبارة في خدمة التعريب عندما كان يعمل منفردا.‏</p>
+
+
+
+<p class="wp-block-paragraph" style="text-align:right;">‏2006 – مجهودات من فريق خارقوا العادة لتأمين خرطوشة الفاميكوم للعبة الكابتن ماجد 2 لجهاز كمبيوطر العائلة أو النيس، بالتواصل مع صينيين و روس. و هذه النسخة عربها موظف في شركة توريد سعودية اسمه عدنان في 1995. قام اكستراأورديناري باصلاح خط النسخة العربية المفقودة تلك، ثم قام محمود لطوف باعادة تعريبها كلها، و أعيد تعريبها مرات أخرى. تكررت هذه الجهود مع خرطوشة ملك النمور الذهبي.</p>
+
+
+
+<p class="wp-block-paragraph" style="text-align:right;"> ‏2007 – نتيجة لمجهودات‏ الفريق الجبارة، ظهر أول موقع و اسمه الوهج (غلوترانس)‏<br>‏2008 – متشجعين بمحاولات الومض، ظهرت مواقع أخرى حاولت دخول غمار التعريب، مثل عالم ثنائي الأبعاد (و التي نتج منهم ديمنتيوم، و أداة المعرب و هي أول أدوات التعريب، مع أنها ليست بمثل امتياز محول الوهج الذي انتجه فريق الوهج!) و منتديات الكابتن ماجد (التي لا تزال نشطة الى حد الآن)‏ كما ازدهر الوهج و ظهرت تعريبات مثل أسطورة زيلدا قبعة الأقزام، و ألعاب عديدى.‏<br>‏2010 – النكسة الكبرى!!! اغلقت الكثير من هذه المواقع بما فيها الوهج، و مات التعريب لفترة و انسحب الكثيرون من المعربين و عرف الحابل من النابل.‏<br>‏2011 – أعيد افتتاح الموقع من جديد لكن باسم مستعار جديد و هو الومض !!! أشرف على هذه المحاولة المحترمة ميغامانزد (محسن) و اكستراأورديناري (محمد سويلم) و نعيم عواشرة و آخرون. شهدت هذه الفترى ازدهارا أتت بعشرات تعريبات ألعاب السوبر نيس و بعضها للحاسب. كما ظهرت اداة اسمها محول الحروف لكن استعمالها كان صعبا على المبتدئين و <br>ظل الأصل في التعريب هو أداة محول الوهج.‏<br>‏2013 – العمل الذي قذف باسم الفريق للعالمية و الذي تخاطفته وسائل الاعلام العربية و الأجنبية كان تعريب لعبة أسطورة زيلدا أوكارينا الزمن للبلاي 64 على يد محسن ميغامانزد، و ذلك التعريب علامة على كونه محترف الفريق و أصل التعريب بجدارة و امتياز.<br>‏2014 – ظهر فريق جديد على الساحة اسمه عربغيمرز لكنه تفكك لاحقا و انضم اعضاءه لفريق غات و هو وحدة بين أعضاء من خارقوا العادة مثل ستيفن و الفريق المتفكك. مر الموقع بضائقة تافهة تقنية تسببت في انقطاعه لفترة لذلك عمل منصور (معرب لعبتين فقط للنيس و كتب بعض الدروس) موقعا اسمه الحلم المتجدد لجمع بعض التعريبات سرعان ما مات.‏<br>‏2015 – فريق خارقوا العادة يواصل الازدهار و تصدر تعريبات مثل ريزيدنت ايفل زيرو من أحمد بامطرف منتج اداة محول الحروف، و ينتج فريق غات لحد ذلك الوقت 7 تعريبات للكمبيوتر تحت راية و استضافة خارقوا العادة.‏ ينتج محسن لعبة الكابتن ماجد 4 و يتواصل عطائه مع 19 لعبة معربة على الأقل و تبدأ أفكار جديدة بتحويل الموقع إلى موقع لعب ألعاب نيس على الأونلاين.‏</p>
+
+
+
+<p class="wp-block-paragraph" style="text-align:right;">‏2016 – النكسة الثانية!!! بسبب ظروف قاهرة في استضافة الومض السابقة، اغلقت نهائيا. توقف انتاج التعريبات لسنتين و تشتت معربوا غات إلى مواقع أخرى مثل موقع غيمز اين أرابيك، لكنهم ليومنا هذا عندهم عضويات في الومض.‏ رغم ضياع المنتدى بدون رجعة، يأتي محسن بالحل مع أنس (الذي تطوع لاستضافة الكابتن ماجد أيضا على موقعه انيميات) بعد انقطاعات عديدة. عمل منصور و رؤوف على بعض المجتمعات التابعة، لكنها توقفت كلها بسبب العجز عن مواصلة ادارتها و اعتزالهم من الومض و بقي الموقع الرئيسي أين رُصَّت مواهب التعريب كلها لتحقيق غايات الفريق من ترجمة الالعاب الى غير ذلك!!!‏<br>‏2019 – يتوسع الموقع بقيادة محسن مع افتتاح و احياء تويتر و صفحة فيسبوك جديدة ، لمجتمع خارقوا العادة … و رص المواهب المشردة عبر المواقع في مكان واحد لاعلان خطط جديدة و كان أهمها تعريب الألعاب الحديثة و الترويج للفريق و بلوغ القمة فورا باكتساح عالم ترجمة المانغى و الاينيمي، و صناعة الكارطمود و مفاجآت كثيرة على الطريق ترقبوها ان شاء الله!!!‏</p>
+
+
+
+<p class="wp-block-paragraph" style="text-align:center;"><strong>اليوم – سطر تاريخ المجتمع اليوم تكتبونه انتم !!! المجتمع يريدكم و يحتاجكم ان كانت لكم اية مواهب تصلح للاستغلال لترويج الفريق او الحراك فيه و انقاذه !!!‏</strong>‏</p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg><span class="screen-reader-text">Posted by</span><span class="author vcard"><a class="url fn n" href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/author/extraordinaryfariq/">Extra Ordinary</a></span></span><span class="posted-on"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><defs><path id="a" d="M0 0h24v24H0V0z"></path></defs><clipPath id="b"><use xlink:href="/web/20261112223144im_/https://wumdh.home.blog/blog-feed/#a" overflow="visible"></use></clipPath><path clip-path="url(#b)" d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zm4.2 14.2L11 13V7h1.5v5.2l4.5 2.7-.8 1.3z"></path></svg><a href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/2019/07/06/example-post/" rel="bookmark"><time class="entry-date published" datetime="2019-07-06T19:31:14+00:00">July 6, 2019</time><time class="updated" datetime="2019-07-06T21:52:02+00:00">July 6, 2019</time></a></span><span class="cat-links"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2h-8l-2-2z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg><span class="screen-reader-text">Posted in</span><a href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/category/uncategorized/" rel="category tag">Uncategorized</a></span><span class="comments-link"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M21.99 4c0-1.1-.89-2-1.99-2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h14l4 4-.01-18z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg><a href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/2019/07/06/example-post/#respond">Leave a comment<span class="screen-reader-text"> on مرحبا بكم في مجتمع خارقوا&nbsp;العادة</span></a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-3 -->
+
+<article id="post-47" class="post-47 post type-post status-publish format-standard hentry category-uncategorized entry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/2019/07/07/%d8%aa%d8%b1%d8%ac%d9%85%d8%a7%d8%aa-%d8%b2%d9%8a%d9%84%d8%af%d8%a7/" rel="bookmark">ترجمات زيلدا</a></h2>	</header><!-- .entry-header -->
+
+	
+	<div class="entry-content">
+		
+<h2 class="wp-block-heading">Zelda Ocarina of Time</h2>
+
+
+
+<p class="wp-block-paragraph"><strong>The Legend of Zelda: Ocarina of Time<br></strong><strong>أسطورة زيلدا: اوكارينة الزمن<br></strong><strong>تاريخ الصدور: 1997<br></strong><strong>تعريب:&nbsp;</strong>ميغامانزد (2013)<br><strong>نسبة التعريب:&nbsp;</strong>100%<br><strong>نسخة الروم:&nbsp;</strong>(E) (M3) (V1.0) [!]<br><strong><a href="https://web.archive.org/web/20261112223144/http://adf.ly/JF3AG">رابط</a>&nbsp;(xdelta)<br><br></strong>لعبة أوكارينة الزمن المشهورة التي كانت نوعا ما اعادة تصور لكل ما صنع نقاط قوة الجزء الثالث من الزلدا على السوبر نينتندو لكن بشكل ثلاثي الأبعاد بأفكار غير مسبوقة جددت الكثير في صناعة ألعاب الفيديو. بعد أن لم يكتب النور للجهاز الذي يسمح باضافة محتوى اضافي لهذه اللعبة، تم في النهاية اصدار نسخة الماستر كوست بتصاميم غرف جديدة أكثر صعوبة بكثير للقلاع (ادرجت هي الأخرى في نسخة التري دي اس للعبة في 2011)، كما صدر جزء يواصل القصة لكنه أكثر قتامة من سابقه، و هو ماجورا ماسك في 2000.
+
+</p>
+
+
+
+<h2 class="wp-block-heading">Zelda Minish Cap</h2>
+
+
+
+<p class="wp-block-paragraph"><strong>The Legend of Zelda: The Minish Cap<a href="https://web.archive.org/web/20261112223144/https://sites.google.com/site/eternaldream4arabic/translation-projects/ZZZMinshCapArabic.png?attredirects=0"></a><br></strong><strong>أسطورة زلدا: قبعة الأقزام</strong><br><strong>تاريخ الصدور:</strong>&nbsp;2004<br><strong>تعريب:</strong>&nbsp;هيسوكا / عروة (2008)<br><strong>نسبة التعريب:</strong>&nbsp;85% (بعض نصوص ايزلو، و كل نصوص ساعي البريد و تماثيل التيندو لم تترجم)<br><strong>نسخة الروم:</strong>&nbsp;أمريكية<br><strong><a href="https://web.archive.org/web/20261112223144/http://www.mediafire.com/download/mjnqoqownlz/The+legend+of+zelda+minish+cap+v1.1+By+Hesoka.IPS">رابط</a>&nbsp;،&nbsp;<a href="https://web.archive.org/web/20261112223144/https://docs.google.com/file/d/0B6W1vjA4MkDTVEJ1NVhidUdhYTg/edit?usp=sharing">رابط 2</a>&nbsp;(ips)&nbsp;</strong>– باتش 1.1</p>
+
+
+
+<p class="wp-block-paragraph">آخر ألعاب الزلدا المطورة بشكل مشترك بين الكابكوم و النينتندو، بعد ثنائية الأوراكل المتميزة على الجيم بوي كولور. أهم خاصيات هذه اللعبة أن لينك يستطيع أن يتقلص ليواصل مغامراته من زاوية مغايرة تماما، كما أنها تعد من أحسن ألعاب الجهاز استغلالا للقدراته الصوتية الضئيلة و الغرافيكية.
+
+</p>
+
+
+
+<h2 class="wp-block-heading">Zelda Link’s Awakening DX</h2>
+
+
+
+<p class="wp-block-paragraph"><strong>The Legend of Zelda: Link’s Awakening DX<br></strong><strong>أسطورة زلدا: افاقة لينك – النسخة الممتازة (جيم بوي كولور)<br></strong><strong>تاريخ الصدور: 1995<br></strong><strong>تعريب:&nbsp;</strong>ميغامانزد (2011)<br><strong>نسبة التعريب:&nbsp;</strong>100%<br><strong>نسخة الروم:&nbsp;</strong>فرنسي<br><strong>رابط<br><br></strong>نسخة الجيم بوي كولور المحسنة للجزء الرابع من مغامرة لينك على جزيرة أحلام بدون غانندورف أو أميرة.صدرت بعده ثنائية الأوراكل المتميزة…
+
+</p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg><span class="screen-reader-text">Posted by</span><span class="author vcard"><a class="url fn n" href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/author/extraordinaryfariq/">Extra Ordinary</a></span></span><span class="posted-on"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><defs><path id="a" d="M0 0h24v24H0V0z"></path></defs><clipPath id="b"><use xlink:href="/web/20261112223144im_/https://wumdh.home.blog/blog-feed/#a" overflow="visible"></use></clipPath><path clip-path="url(#b)" d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zm4.2 14.2L11 13V7h1.5v5.2l4.5 2.7-.8 1.3z"></path></svg><a href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/2019/07/07/%d8%aa%d8%b1%d8%ac%d9%85%d8%a7%d8%aa-%d8%b2%d9%8a%d9%84%d8%af%d8%a7/" rel="bookmark"><time class="entry-date published updated" datetime="2019-07-07T04:55:20+00:00">July 7, 2019</time></a></span><span class="cat-links"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2h-8l-2-2z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg><span class="screen-reader-text">Posted in</span><a href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/category/uncategorized/" rel="category tag">Uncategorized</a></span><span class="comments-link"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M21.99 4c0-1.1-.89-2-1.99-2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h14l4 4-.01-18z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg><a href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/2019/07/07/%d8%aa%d8%b1%d8%ac%d9%85%d8%a7%d8%aa-%d8%b2%d9%8a%d9%84%d8%af%d8%a7/#respond">Leave a comment<span class="screen-reader-text"> on ترجمات زيلدا</span></a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-47 -->
+
+<article id="post-38" class="post-38 post type-post status-publish format-standard hentry category-uncategorized entry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/2019/07/07/%d8%af%d8%b1%d8%b3-%d8%a7%d9%84%d8%ad%d8%b1%d9%88%d9%81-%d8%a7%d9%84%d9%8a%d8%a7%d8%a8%d8%a7%d9%86%d9%8a%d8%a9/" rel="bookmark">درس: الحروف اليابانية</a></h2>	</header><!-- .entry-header -->
+
+	
+	<div class="entry-content">
+		
+<p class="wp-block-paragraph">
+
+اللغة اليابانية بها 4 أبجديات مختلفة:♦ الهيراغانا: “أبجدية” الكانا الأولى. مستخدمة للكلام الياباني الأصيل (و لكتابة كلمات يصعب كتابتها بالكانجي)♦ الكاتاكانا:&nbsp;“أبجدية” الكانا الثانية. مستعملة غالبا لأسماء العلم أو المصطلحات الأعجمية.♦ الحروف الصينية: الكانجي. يوجد منها 1945 رمز شائع الاستعمال يفترض حفظها للتمكن من اللغة.♦ الروماجي، أو ببساطة اليابانية متوبة بحروف انكليزية. بالطبع هذا الاختيار الأخير ليس شعبيا بالمرة.. تصور أن تقرأ نصا بالعربية مكتوبا بحروف انكليزية ماذا سيكون رد فعلك؟<br>“الأبجديتان” التاي سنبدأ بها هي الهيراغانا و الكاتاكانا. كل واحدة بها حوالي خمسين حرف لكن كلاهما بها نفس الحروف!الفرق أن الأولى تستخدم فقط للكلمات اليابانية الأصيلة، و الأخرى تستخدم فقط للكلمات الدخيلة العلمية، أو الأسماء الأجنبية.نحن العرب نكتب كلمة كمبيوتر الإنكليزية بحروفنا الهجائية العادية لكن هم يخصصون لمثل هذه الكلمات أبجدية كاملة مختلفة و هي الكاتاكانا.</p>
+
+
+
+<p class="wp-block-paragraph">و هذه الحروف هي:</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<figure class="wp-block-image"><a href="https://web.archive.org/web/20261112223144/https://sites.google.com/site/eternaldream4arabic/lessons/aboutjapanese/hiragana_katakana_list.gif?attredirects=0"><img src="https://web.archive.org/web/20261112223144im_/https://sites.google.com/site/eternaldream4arabic/_/rsrc/1472860527247/lessons/aboutjapanese/hiragana_katakana_list.gif" alt=""></a></figure>
+
+
+
+<table class="wp-block-table"><tbody><tr><td><br>a – i – u – e – o<br>ka – ki – ku – ke – ko (اذا أضيفت لها ” تصبح ga…)<br>sa -shi-su-se-so (+ ” = تصبح za ..)<br>ta-chi-tsu-te-tona-ni-nu-ne-no<br>ha-hi-hu-he-ho (مع ” تصبح ba، مع ° تصبح pa)<br>ma-mi-mu-me-mo<br>ya – yu – yo<br>ra-ri-ru-re-ro<br>wa-wo<br>n<br></td><td>الهيراغانا<br>あいうえお<br>かきくけこ ـ　(がぎぐげご)<br>さしすせそ ـ (ざじずぜぞ)<br>たちすせそなにぬねの<br>はひふへほ ـ (ばびぶべぼ) ـ (ぱぴぷぺぽ)<br>まみむめも<br>やゆよ<br>らりるれろ<br>わを<br>ん</td><td>الكاتاكانا<br>アイウエオ<br>カキクケコ ـ (ガギグゲゴ)<br>サシスセソ　ـ (ザジズゼゾ)<br>タシツテトナニヌネノ<br>ハヒフヘホ ـ (バビブベボ) ـ (パピプペポ)<br>マミムメモ<br>ヤユヨ<br>ラ リ ル レ ロ<br>ワヲ<br>ン</td></tr></tbody></table>
+
+
+
+<p class="wp-block-paragraph">هذا هو ترتيب الحروف اليابانية بصفة عامة ” آ إي أوْ إه أوه”</p>
+
+
+
+<p class="wp-block-paragraph">بخصوص الكانجي، من الضروري أن يكون المرء متمكنا من ترتيب&nbsp;<a href="https://web.archive.org/web/20261112223144/http://www.tofugu.com/guides/guess-kanji-stroke-order/">طريقة رسم رمز الكانجي</a>، كي يتمكن من البحث عنه في القواميس على نحو أكثر سهولة.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<h2 class="wp-block-heading">اذن كيف نكتب باللغة اليابانية على الحاسب؟</h2>
+
+
+
+<p class="wp-block-paragraph">للكتابة باليابانية على الحاسب يكفي اضافة اللغة اليابانية عن طريق الاختيارات التالية:♣ ادخل Control Panel ثم Regional and Language Options.♣ تحت Language و Text Services and Input Languages اضغط Details♣ هنا تستطيع اضافة أي لغة تريدها للوحة مفاتيح الحاسب بضغط Add. أظن أنك ستضيف هنا اللغة اليابانية Japanese.طبعا يجب أن تكون اللغات الأسيوية منزلة على الحاسب قبل هذا (ستكون كذلك بالفعل&nbsp;اذا كنتم تستخدمون ويندوز 7)<br>يفترض أن تضاف اللغة اليابانية لقائمة اللغات التي تستطيع تغييرها في أسفل الشاشة على اليمين أو بزر Alt+Tab، لكن اللغة اليابانية معها زر اضافي به عدة اختيارات:<br>Hiragana – Full Width Katakana – Half Width Katakana – Full Width Alphanumeric – Half Width Alphanumeric<br>مع العلم أن Alphanumeric هي اللغة الانكليزية ببساطة.</p>
+
+
+
+<p class="wp-block-paragraph">♠ ملاحظة خارجة عن الموضوع الحالي قليلا: نوع الكتابة بالكاتاكانا بنصف العرض&nbsp;Half Width Katakana لديه ميزة عن الكاتاكانا و الهيراغانا العاديين: أنه يستهلك بايت واحد كأنه حرف لاتيني، و ليس 2 بايت مثل الحروف اليابانية (هيراغانا، كاتاكانا، كانجي)، نظرا لأنه يتبع جدول الأسكي العادي. ما قد يجعله ذو فائدة كبيرة في ترجمة الألعاب.</p>
+
+
+
+<p class="wp-block-paragraph">حاولوا اختيار اللغة اليابانية، ثم النقر على الزر بجانب JP و اختيار Hiragana، ثم أكتبوا كأنكم تكتبون بالإنكليزية. عندما تكتبون مثلا ga سوف تصبح أوتوماتيكيا が، و هلم جرا.&nbsp;<br>تلاحظون أن هناك سطر يظهر تحت كل كلمة. اذا كنت راضين عن كتابة الكلمة أضغطو Enter، لتمر الكلمة بالهيراغانا، و الا استعملوا Space (اليابانيون ليسوا بحاجة للفراغات بين الكلمات) لكي تتغير طريقة كتابة الكلمة.</p>
+
+
+
+<p class="wp-block-paragraph">مثلا أنا أكتب watashi (“أنا”) فيظهر لي هذا: わたし&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">اذا ضغطت على space تظهر لك عدة خيارات: أن تستعمل الكتابة بالكاتاكانا ワタシ (طبعا هذا لا يصح لأنها كلمة يابانية أصيلة ، لكن في بعض القصص تجد الروبوتات أو من يصرخ يستعمل الكاتاكانا في كل كلامه)….&nbsp;<br>أو 私 : هذا الرمز هو الكانجي، بالأحرى الحروف الصينية المشهورة التي تعوض كل واحدة كلمة كاملة. هذا الرمز يقرأ “واتاشي” طبعا&nbsp;<br>… أحيانا لنفس لنطق تجد عدة رموز كانجي كل واحد كلمة أو جزء من كلمة مختلفة. اذا أراد الواحد أن يتقن اليابانية عليه أن يحفظ 1945 منها، لكن تجدها لحسن الحظ و معها النطق بالهيراغانا فوقها في مجلات الأطفال و&nbsp;الألعاب&nbsp;(يقولون عنها ان كتبت هكذا فوريغانا، كما نحن نشكل الحروف للأطفال)</p>
+
+
+
+<p class="wp-block-paragraph">هناك رموز خاصة أخرى : مثلا الرمز “تسو”っ الصغير الذي يعادل الشدة عندنا بالعربية. لتحصل عليه أكتب ببساطة الحرف مرتين:<br>tabette たべって<br>و هناك رموز تستخدم في المانغا خصوصا لنقل حروف لا توجد باليابانية (“فا” مثلا، مثلما نحن أضفنا حروفا دخيلة للعربية من قبيل ب تحتها ثلاث نقاط لننقل الحرف p)<br>يمكنكم الحصول عليها في الكمبيوتر بكتابة&nbsp;<br>xya = ゃ<br>xyu = ゅ<br>xyo = ょ<br>xa = ぁ<br>xi = ぃ<br>xu = ぅ<br>xe = ぇ<br>xo = ぉ</p>
+
+
+
+<p class="wp-block-paragraph">و هي نسخ صغيرة لحروف أخرى موجودة أعلاه، كل واحد لديه رمزان، واحد هيراغانا و آخر كاتاكانا. مع الملاحظة أن اكس لا توجد باليابانية لكنهم استعملوها للكمبيوتر فقط لتسهيل الكتابة.
+
+</p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg><span class="screen-reader-text">Posted by</span><span class="author vcard"><a class="url fn n" href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/author/extraordinaryfariq/">Extra Ordinary</a></span></span><span class="posted-on"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><defs><path id="a" d="M0 0h24v24H0V0z"></path></defs><clipPath id="b"><use xlink:href="/web/20261112223144im_/https://wumdh.home.blog/blog-feed/#a" overflow="visible"></use></clipPath><path clip-path="url(#b)" d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zm4.2 14.2L11 13V7h1.5v5.2l4.5 2.7-.8 1.3z"></path></svg><a href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/2019/07/07/%d8%af%d8%b1%d8%b3-%d8%a7%d9%84%d8%ad%d8%b1%d9%88%d9%81-%d8%a7%d9%84%d9%8a%d8%a7%d8%a8%d8%a7%d9%86%d9%8a%d8%a9/" rel="bookmark"><time class="entry-date published updated" datetime="2019-07-07T04:29:27+00:00">July 7, 2019</time></a></span><span class="cat-links"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2h-8l-2-2z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg><span class="screen-reader-text">Posted in</span><a href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/category/uncategorized/" rel="category tag">Uncategorized</a></span><span class="comments-link"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M21.99 4c0-1.1-.89-2-1.99-2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h14l4 4-.01-18z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg><a href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/2019/07/07/%d8%af%d8%b1%d8%b3-%d8%a7%d9%84%d8%ad%d8%b1%d9%88%d9%81-%d8%a7%d9%84%d9%8a%d8%a7%d8%a8%d8%a7%d9%86%d9%8a%d8%a9/#respond">Leave a comment<span class="screen-reader-text"> on درس: الحروف اليابانية</span></a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-38 -->
+
+<article id="post-35" class="post-35 post type-post status-publish format-standard hentry category-uncategorized entry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/2019/07/07/%d8%af%d8%b1%d8%b3-%d8%aa%d8%b9%d8%b1%d9%8a%d8%a8-%d9%84%d8%b9%d8%a8%d8%a9-%d9%86%d9%8a%d8%b3/" rel="bookmark">درس: تعريب لعبة&nbsp;نيس</a></h2>	</header><!-- .entry-header -->
+
+	
+	<div class="entry-content">
+		
+<p class="wp-block-paragraph">
+
+أظن أن الكلام النظري تحدثنا فيه بما فيه الكفاية. الآن سنجرب ترجمة لعبة فيديو الى اللغة العربية من الصفر.<br>ما هو المبدأ العام؟<br><strong>المرحلة الأولى: البحث</strong>◄نتثبت هل يمكننا ايجاد ثم تعديل&nbsp;<strong>الصورة</strong>&nbsp;التي بها&nbsp;<strong>الخط</strong>&nbsp;(و ان تيسر أيضا،&nbsp;<strong>الصور</strong>&nbsp;الأخرى&nbsp;<strong>التي بها كتابة،&nbsp;</strong>أو<strong>&nbsp;الصور التي تريد تغييرها لأي سبب كان</strong>).◄نجد قيمة البايت الذي يوافق كل حرف عبر عملية البحث بالمقارنة Relative Searchكي نتمكن من ايجاد و اظهار&nbsp;<strong>النص</strong>&nbsp;الانكليزي / الياباني واضحا.<br>أي عائق يقف أمام هاتين المرحلتين يجب تجاوزه (أحيانا بالأسمبلي)، و ترجمة اللعبة&nbsp;مشروطة بهذا.<br><strong>المرحلة الثانية: تدوين الملاحظات</strong>◄ندون أماكن جميع النصوص و أماكن جميع الصور و موقعها في الروم (Address/Offset في برامج الهيكس)◄نجد جملة انكليزية. نعوض الجملة الانكليزية بجملة انكليزية أخرى من ابتكارنا، ثم نرى كيف تظهر في اللعبة.ندرس ما هي الرموز التي تستعملها اللعبة للعودة للسطر أو رموز التنقيط أو تعويض كلمات كاملة أو … التحكم ببرمجة اللعبة نفسها.<br>في الواقع من يترجمون للغات أوروبية بصفة عامة (ما عدا عند ترجمة ألعاب يابانية) يكتفون بهذا القدر لأنهم يتطيعون استعمال الأبجدية الأوروبية ببساطة و لا يبقى عليهم سوى تغيير النص.لكن العرب عليهم زيادة على ذلك تغيير الخط لأن الحروف مختلفة.ما يجعلنا نعرج أخيرا على المرحلة الثالثة:<br><strong>المرحلة الثالثة: التعريب</strong>هذه المرحلة في الواقع هي البداية الفعلية لما ورد في مقال&nbsp;<a href="https://web.archive.org/web/20261112223144/https://sites.google.com/site/eternaldream4arabic/lessons/project-definition">الفكرة العامة</a>. ننصحكم بالعودة اليه لمزيد الاطلاع على كل التفاصيل.للايجاز، هذا ملخصها:◄تعديل الصورة التي بها الخط في اللعبة◄اعداد جدول محول الحروف حسب تعديلات الصورة◄اعداد الترجمة لنصوص اللعبة في ملف نص عادي و تركه نسخة احتياطية للنص◄استعمال محول الحروف بالجدول السابق، و تحويل نص الترجمة عبره و نسخه سطرا سطرا◄لصق الجملة المترجمة مكان الجملة الانكليزية في الروم (ترك نسخ احتياطية طبعا من الروم بعد كل سلسلة تعديلات و الاختبار كل مرة)</p>
+
+
+
+<p class="wp-block-paragraph"><strong>أين المثال؟</strong>الآن سنجرب حظنا مع لعبة صدرت على جهاز النيس.أود الابتعاد عن ألعاب السوبر نيس لأنه نظرا لأن ذاكرات التخزين باهظة الثمن في ذلك الوقت فهم يقومون في عديد الأحيان بضغط جميع الصور (و أحيانا النصوص) للحد من حجم اللعبة، و هذا يشمل ي كثير من الأحيان… الخط. لاحظ أن هذه المشكلة في الواقع سهلة الحل لو كان لدى الشخص معرفة بالأسمبلي (الذي هو أسهل في السوبر نينتندو من النيس).<br>أظن الجزء الأول من أسطورة زلدا سيكون اختيارا جيدا في حالتنا. سأختار النسخة الأمريكية (سنتحدث عن اليابانية لاحقا).اذن في حالتنا سأبحث عن الروم التالي أو شيء مثله:Legend of Zelda, The (USA).nesأول شيء سأقوم به هو نسخ الروم و الاحتفاظ&nbsp;<strong>بنسخة نظيفة&nbsp;</strong>من الملف.ثم سأبدأ بالعمل على النسخة العادية.<br><strong>الخط</strong>أولا، سأبحث عن&nbsp;<strong>الخط</strong>. لذلك سأفتح الروم باستعمال برنامج Crystaltile (اقرأ أيضا عن الكريستال تايل هنا) ثم سأنتقل لوضع الصور.مع العلم ان الكرستال تايل يخول لي تعديل الصور في الروم بنسخها و لصقها من أي برنامج تعديل صور عادي مثل الفوتوشوب أو حتى رسام الويندوز (الغير منصوح به).<br>سأجد الخط هنا واضحا تحت العنوان&nbsp;8700 بمود NES 2bpp، حيث كل مربع تايل لكل حرف هو 8×8 بيكسل. قمنا بعمل كبسة زر Ctrl+&lt; لازاحة الصورة قليلا لفوق كي يظهر واضحا.أيضا، الحروف الانكليزية فقط موجودة و هي مرتبة بحسب الترتيب الأبجدي (هذا مهم جدا كي نتمكن من عمل البحث بالمقارنة).و يبدو أنه لو اقتصرنا على الحروف الانكليزية الكبيرة فقط هي المتاحة يعني أنه لدينا 26 حرف فقطأظن ذلك كان سهلا بالنسبة لهذه اللعبة تحديدا.<br></p>
+
+
+
+<figure class="wp-block-image"><a href="https://web.archive.org/web/20261112223144/https://sites.google.com/site/eternaldream4arabic/lessons/transl-tuto/Sans%20titre.png?attredirects=0"><img src="https://web.archive.org/web/20261112223144im_/https://sites.google.com/site/eternaldream4arabic/_/rsrc/1472860528161/lessons/transl-tuto/Sans%20titre.png?height=94&amp;width=400" alt=""></a></figure>
+
+
+
+<p class="wp-block-paragraph">لكن بصفة عامة عند البحث عن الخط… ماذا نتوقع؟<br><strong>ماذا سيكون المود</strong>؟ الخط سيكون صورة بالأبيض و الأسود على الأرجح أي بلونين. هناك مود 1bpp NES / 1bpp NDS مثلا به لونان.لكن أحيانا يكون حوله برواز أسود، أو تحته ظل، أو حوافه ليست حادة و تميل بعض نقطها للون رمادي، هذا يعني أنني لن استبعد البحث عنه بشكل صورة بأربعة ألوان. مثلا GB 2bpp / NES 2bpp…أحيانا أخرى ستجد أي مود آخر حتى لو كان به عدد كبير من الالوان زائدة عما يظهر في الخط و يحتاجها بحد ذاته، المود يقبل كمية كبيرة من الألوان و مع ذلك وقع استخدامه لرسم الخط بلونين.<strong>لم لا يظهر الخط؟</strong>&nbsp;ربما لأن الأبعاد ليست صحيحة؟ يجب تعديل أبعاد التايل الى ان يظهر الحروف واضحة… عادة تكون الخطوط الصغيرة قيمها مقاربة ل 8 بيكسل، أما الأكبر قليلا فتكون 12 أو 16…<br>يمكنكم الاطلاع على هذا&nbsp;<strong>الرابط (قريبا)</strong>&nbsp;لتحميل بعض أمثلة الخطوط… لمعرفة كيف تم تخزينها و محاولة فتحها بالكريستال تايل و اظهارها بوضوح.<br>ماذا يحصل لو كان الخط حروفه غير مرتبة (أو ياباني مثلا)؟ ستكون تلك مشكلة في عملية البحث بالمقارنة.&nbsp;في الغالب سنضطر لرسم خط مرتب مكانه كي نتمكن من عمل تلك العملية. التفاصيل آتية..<br>في سياق متصل.. وجدنا شاشة العنوان في 5484 بعد ازاحة بعض المربعات بعض البيكسلات.&nbsp;طبعا، هذه الشاشة ضرورية للتعريب، لكنها للأسف تبدو … مبعثرة مربعاتها قليلا: في هذه الحالة يجب أن نقوم باعادة تركيب هذه المربعات..سنتحدث عن هذه المسألة لاحقا…</p>
+
+
+
+<figure class="wp-block-image"><a href="https://web.archive.org/web/20261112223144/https://sites.google.com/site/eternaldream4arabic/lessons/transl-tuto/zelda1-2.png?attredirects=0"><img src="https://web.archive.org/web/20261112223144im_/https://sites.google.com/site/eternaldream4arabic/_/rsrc/1472860527769/lessons/transl-tuto/zelda1-2.png?height=137&amp;width=200" alt=""></a></figure>
+
+
+
+<p class="wp-block-paragraph"><strong>النص</strong>الآن سنقوم بالبحث عن النص… تحديدا قيم الحروف، كي نتمكن من رؤية النص و تغييره كما نريد.سنستخدم الروم النظيفة غير المعدلة و نلعب فيها قليلا كي نرى بعض النص. يبدو أن لدينا هذه الجملة في بداية اللعبة.من المؤكد أنها مخزنة داخل اللعبة لكن كيف؟ سنعلم ذلك باستخدام البحث بالمقارنة.<br></p>
+
+
+
+<figure class="wp-block-image"><a href="https://web.archive.org/web/20261112223144/https://sites.google.com/site/eternaldream4arabic/lessons/transl-tuto/0.png?attredirects=0"><img src="https://web.archive.org/web/20261112223144im_/https://sites.google.com/site/eternaldream4arabic/_/rsrc/1472860526217/lessons/transl-tuto/0.png" alt=""></a></figure>
+
+
+
+<p class="wp-block-paragraph">مبدئيا، نظرا لأن الخط مرتب، يمكن أن نجزم أن كل حرف قيمته تزيد عن الحرف الذي يسبقه بالأبجدية بواحد.اذن لكي نعرف قيمة كل حرف، سنستخدم برنامج البحث بالمقارنة Relative Search الذي اسمه Monkey Moore و سنقوم أولا بفتح الروم بداخله.سنفعل اختيار Use Wildcards كي نتمكن من تعويض الرموز التي لا نعرفها بنجوم، مثل الفراغات مثلا.&nbsp;على الأرجح هناك رمز مستخدم للرجوع للسط موجود في النص بين السطرين، لذلك للتبسيط سنكتب فقط السطر الأول.كما أن الحروف كلها كبيرة. اذن سنبحث عن الجملة التالية (و لو أنه في كثير من الأحيان كلمة واحدة تكفي):DANGEROUS*TOفنتحصل على نتيجة واحدة، وجدها البرنامج، لقيم متباعدة بنفس القدر كرتبة حروف الكلمة التي نبحث عنها.&nbsp;يبدو أننا وجدنا ما كنا نبحث عنه! هذا السطر به بقية الجملة صحيحة (ما عدا حرف O الأخير لأسباب مجهولة لكن لا يهم)اذن نضغط عليه كي يصبح السطر أزرق.(دون الأوفسيت 4063، هذا موقع في الروم سنذهب اليه بعد قليل لنرى جملتنا)<br></p>
+
+
+
+<figure class="wp-block-image"><a href="https://web.archive.org/web/20261112223144/https://sites.google.com/site/eternaldream4arabic/lessons/transl-tuto/monkeymore.png?attredirects=0"><img src="https://web.archive.org/web/20261112223144im_/https://sites.google.com/site/eternaldream4arabic/_/rsrc/1472860527624/lessons/transl-tuto/monkeymore.png?height=367&amp;width=400" alt=""></a></figure>
+
+
+
+<p class="wp-block-paragraph">و الآن نقوم بضغط Create Table. الآن يمكنك أن تحفظ ملفا بامتداد tbl و ترميز UTF-8 و تسميه كما تشاء. أنا أسميته TableZelda.tbl على فكرة.و الآن تحصلنا على جدول قيم حروف و رموز نص زلدا الرئيسي (في بعض الألعاب، قد يكون هناك أكثر من واحد)..أول شيء نفعله الآن هو فتح الملف ببرنامج Notepad و حذف جميع الأسطر التي بها حروف لاتينية صغيرة ابتداء من a=2A لترك الكبيرة فقط.<br>الآن على الأقل يمكننا رؤية الحروف في أي برنامج هيكس، مثل WindHex و Hexecute (منصوح بهما)، أو حتى Crystaltile.سوف نركز على WindHex في مرحلة أولى (و بالمناسبة WindHex يستطيع عمل بحث بالمقارنة بنفسه).اذن:◄تحت File نختار Open File for Editing، ثم نفتح الروم التي نريد تعديلها◄نختار Open Table File ثم Table 1 ثم نختار ملف الجدول الذي صنعناه&nbsp;TableZelda.tblالنص الآن صار ظاهرا في الخانة اليمنى من الشاشة بقيمه الصحيحة لنص الحوار◄تحت Search نختار Goto Offset ثم نختار القيمة أعلاه 4063 (كان بامكاننا البحث أيضا عن النص Text Search، عن DANGEROUS)<br></p>
+
+
+
+<figure class="wp-block-image"><a href="https://web.archive.org/web/20261112223144/https://sites.google.com/site/eternaldream4arabic/lessons/transl-tuto/WINDHEX.png?attredirects=0"><img src="https://web.archive.org/web/20261112223144im_/https://sites.google.com/site/eternaldream4arabic/_/rsrc/1472860526584/lessons/transl-tuto/WINDHEX.png" alt=""></a></figure>
+
+
+
+<p class="wp-block-paragraph">و الآن نحن نرى النص الذي في اللعبة أمامنا… و مع ذلك بعض القيمات مازالت بدون مقابل، مثل الفراغات، لذلك علينا ايجادها، عن طريق مقارنة هذا بالصورة التي أعلاه للعبة و هي تشتغل.اذن يمكننا استنتاج قيم الهيكس الموافقة لبعض الرموز المهمة، مثلا:الفراغ يعادل 24&nbsp;‘ تعادل 2A! تعادل 29 ، و النقطة تساوي EC<br>اذن نضيف هذه الأسطر لملف جدول قيم الحروف و نسجله ببرنامج Notepad ثم نفتحه مرة أخرى في هذا البرنامج WindHex.24=&nbsp;29=!2A=’<br>EC=.<br>لنفتح برنامج الكريستال تايل و ننظر للخط. الرمز ‘=2A مباشرة يأتي بعد !=29 في صورة الخط، لكن قيمهما ايضا متتالية! أستطيع اذن أن أخمن ان الرمز الذي قبل ! في الخط (و هو الفاصلة) قيمته 28.أجرب كتابة جملة بالهيكس مكان الجملة الأصلية بها فاصلة و اشغل اللعبة، و يا للمفاجأة ظهرت الفاصلة!نستطيع هكذا اضافة رموز اخرى حتى الغير مستعملة (مثل رموز يابانية باقية في نسخة أمريكية من لعبة) الى جدول قيم الحروف لتوظيفها (و ربما حتى استعمالها لايواء الحروف العربية)<br>هناك بعض الألعاب تستخدم رموز هيكس خاصة لانهاء النص، لتغيير اللون، للعودة للسطر… هناك حتى تلك التي تستخدم رمز هيكس واحد عند كتابته يظهر حرفان أو ثلاثة، أو أحيانا كلمات كاملة بعينها، مثل اسم اللاعب، أو كلمات مهمة تتكرر كثيرا مث “سيف” “مملكة” (لادخار مساحة النص أساسا)…حتى في هذه اللعبة يبدو أن هناك شيئا غريبا لا تراه في العادة في الألعاب: حرف O الأخير يستعمل رمزا مغايرا للهيكس، و عدم ظهوره في برنامج الهيكس يعني أنه غير موجود في جدول قيم الحروف.. يجب البحث عن قيمته (لن نهتم به الآن)…اذا، يجب البحث عن هذه الرموز عبر مقارنة ما يظهر في اللعبة و ما يظهر في الهيكس لكي يصبح جدول الهيكس كاملا…يمكن وضع رموز مثل / \ @ في جدول القيم دلالة على الرمز الذي عود للسطر او الرموز الخاصة لتسهيل المهمة اكثر…<br><strong>ادخال جملة عربية</strong><br>الآن يمكن تعديل النص الانكليزي الموجود في برنامج ويندهيكس لصنع جمل انكليزية جديدة مكانها.<br>و كي نتمكن من تعريب هذا السطر، نمر للمرحلة الثالثة… أنصحكم بقراءة هذا&nbsp;<a href="https://web.archive.org/web/20261112223144/https://sites.google.com/site/eternaldream4arabic/lessons/project-definition">المقال</a>&nbsp;(مقسم لأسئلة كي لا تقرأ لا ما تريده أنت)التعريب! أي بعبارة أخرى، سنرسم في صورة الخط حروفا عربية، و سنستخدم محول الحروف ليأخذ الجملة المترجمة و يحولها كي ندخل الجملة المحولة في النص الأصلي و نتحصل على الجملة الأصلية… على مهلنا اذن.<br>سنجرب حظنا مع هذا السطر أعلاه:&nbsp;<strong>“خطر عليك خروجك وحدك! خذ.”</strong>حافظنا على رداءة جودة النص الأصلي التي هي جزء من جاذبية اللعبة، و الأهم… أننا لم نتجاوز عدد الحروف الأصلي.لأن تجاوزه يفسد اللعبة. ممنوع تجاوزه.. الا لو قلت للعبة أين ينتهي النص الجديد. و هذا اسمه البوينتر و هو لا ينفع دائما مع بعض الأشياء التي أفسدها الدهر و البرمجة الرديئة.نظرا لأننا محدودون بـ 26 حرف بما أن هذه النسخة الأمريكية بها فقط حروف انكليية كبيرة و بعض رموز التنقيط (في مثل هذه الحالات تكون النسخة اليابانية أفضل لأن حروفها اكثر، لكن هناك مساوئ كبيرة لها)، سأستخدم هذا الخط العربي. قد يكون ناقصا، لكن به على الأقل الحروف الشائعة. طبعا أعددت معه جدول الأكسس الخاص بأداة محول الحروف المتماشية معه…كما غيرت لونه للأخضر (ليس الأخضر في الصورة هذه، أخضر داكن مثل صورة الخط اانكليزي أعلاه) كي يكون نفس لون الخط الأصلي (تجنبا لأي.. مكروه، هذا أمر لازم).<br></p>
+
+
+
+<figure class="wp-block-image"><a href="https://web.archive.org/web/20261112223144/https://sites.google.com/site/eternaldream4arabic/lessons/transl-tuto/font.png?attredirects=0"><img src="https://web.archive.org/web/20261112223144im_/https://sites.google.com/site/eternaldream4arabic/_/rsrc/1472860527414/lessons/transl-tuto/font.png" alt=""></a></figure>
+
+
+
+<h4 class="wp-block-heading">بعض الملاحظات حول الخط العربي المصغر أعلاه</h4>
+
+
+
+<p class="wp-block-paragraph">كل حرف يناسب تايل واحد بأبعاد 8×8 بيكسل.هذا الجدول للألعاب التي تكون بها فقط الرحوف الانكليزية الكبيرة، بداية من حرف الألف (A) الى حرف الياء (Z). همزة السطر و الهاء/التاء المربوطة يمكن اضافتها مكان رموز التنقيط الزائدة (مثل الفاصلة المنقوطة، و&nbsp;• وقع اسقاط الحروف العربية قليلة الاستعمال مقارنة بالبقية (ث ذ ظ ض [غ وسط الكلمة]) و الحروف المهموزة، و للأسف الشديد، الألف المقصورة (ى) التي لا حل لعويضها الا رسمها من جديد (لو توفرت مساحة)لكن يمكن اذا توفرت رموز أخرى قبلة للاستغلال اضافة هذه الحروف..أو في حالة الألعاب اليابانية او المترجمة منها [هذا الحل يجعل الحرف يشغل مساحة حرفين] استخدام رموز الداكوتن التي تظهر فوق الحروف اليابانية (و جعل احداها همزة و الأخرى نقطة فوق الحروف د ص ط)• وقع اسقاط اشكال الحروف آخر الكلمة و الاقتصار على الرموز وسط الكلمة.يمكن كتابة كامل النص بالرموز وسط الكلمة، و لو أن الجمالية ستضيع الا ان العقبات التقنية هي الغالبة هنا…&nbsp;لكن في حال ما اصريتم على استعمال الأشكال آخر الكلمة،[هذا الحل يجعل الحرف يشغل مساحة حرفين]&nbsp;هناك رمزان خاصان على شكل “ذيل” بعد الحرف وسط الكلمة، يحوله لحرف آخر الكلمة.الذيل الأول المتجه لفوق يعمل مع: بـ ◄ب، ت، ث، س، ش، ص، ض، ف، ق، ل، ن، ي، ء◄ئالذيل الثاني المتجه لأسفل يعمل مع: ج ح خ ع غ م</p>
+
+
+
+<p class="wp-block-paragraph">ثم قمنا يتحويل جملتنا العربية عبر محول الحروف بشكل يستوعبه برنامج الهيكس و اللعبة..SDYHF SZTN HMFخطر عليك خروجك<br>ثم نفتح اللعبة للتجربة…<br></p>
+
+
+
+<figure class="wp-block-image"><a href="https://web.archive.org/web/20261112223144/https://sites.google.com/site/eternaldream4arabic/lessons/transl-tuto/1.png?attredirects=0"><img src="https://web.archive.org/web/20261112223144im_/https://sites.google.com/site/eternaldream4arabic/_/rsrc/1472860526925/lessons/transl-tuto/1.png" alt=""></a></figure>
+
+
+
+<p class="wp-block-paragraph">و كانت النتيجة ظهور جملتنا المعربة أخيرا !!مشكل الحرف الغريب آخر الكلمة في حالة الزلدا الأولى تحتاج مزيد التمعن… أيضا حرف اكس كان به حرف الهاء لكنه مستخدم لشيء آخر، و غير هذا …هناك أيضا من يريد أن يبدأ النص بالتدفق من اليمين لليسار، لكن هذا كله يحتاج الأسمبلي و هو موضوع آخر.<br>الآن و قد انتهينا من مثالنا الصغير، لنتحدث قليلا عن… حالات غريبة من الألعاب.
+
+</p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg><span class="screen-reader-text">Posted by</span><span class="author vcard"><a class="url fn n" href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/author/extraordinaryfariq/">Extra Ordinary</a></span></span><span class="posted-on"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><defs><path id="a" d="M0 0h24v24H0V0z"></path></defs><clipPath id="b"><use xlink:href="/web/20261112223144im_/https://wumdh.home.blog/blog-feed/#a" overflow="visible"></use></clipPath><path clip-path="url(#b)" d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zm4.2 14.2L11 13V7h1.5v5.2l4.5 2.7-.8 1.3z"></path></svg><a href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/2019/07/07/%d8%af%d8%b1%d8%b3-%d8%aa%d8%b9%d8%b1%d9%8a%d8%a8-%d9%84%d8%b9%d8%a8%d8%a9-%d9%86%d9%8a%d8%b3/" rel="bookmark"><time class="entry-date published updated" datetime="2019-07-07T04:28:33+00:00">July 7, 2019</time></a></span><span class="cat-links"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2h-8l-2-2z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg><span class="screen-reader-text">Posted in</span><a href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/category/uncategorized/" rel="category tag">Uncategorized</a></span><span class="comments-link"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M21.99 4c0-1.1-.89-2-1.99-2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h14l4 4-.01-18z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg><a href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/2019/07/07/%d8%af%d8%b1%d8%b3-%d8%aa%d8%b9%d8%b1%d9%8a%d8%a8-%d9%84%d8%b9%d8%a8%d8%a9-%d9%86%d9%8a%d8%b3/#respond">Leave a comment<span class="screen-reader-text"> on درس: تعريب لعبة&nbsp;نيس</span></a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-35 -->
+
+<article id="post-32" class="post-32 post type-post status-publish format-standard hentry category-uncategorized entry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/2019/07/07/%d8%af%d8%b1%d8%b3-%d8%b4%d8%b1%d9%88%d8%b7-%d8%aa%d8%b9%d8%b1%d9%8a%d8%a8-%d8%a7%d9%84%d9%84%d8%b9%d8%a8%d8%a9/" rel="bookmark">درس: شروط تعريب&nbsp;اللعبة</a></h2>	</header><!-- .entry-header -->
+
+	
+	<div class="entry-content">
+		
+<p class="wp-block-paragraph">
+
+ستكون مكرها أحيانا على التخلي عن التعريب بالنسبة لبعض&nbsp;الألعاب&nbsp;… يجب أن تتوفر الشروط التالية حتى تكون عملية التعريب ممكنة أصلا:</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<h3 class="wp-block-heading">1/ يجب أن تتمكن من تعديل ما بداخلها أصلا:</h3>
+
+
+
+<p class="wp-block-paragraph">أي بعبارة أخرى، يحبذ أن تكون غير مضغوطة، كما هو الشأن لكمية كبيرة من&nbsp;الألعاب&nbsp;(عدا ألعاب الاربيجي طبعا و عدة ألعاب أخرى لأنها تستوجب الضغط لكثافة محتواها)<br>ان كانت مضغوطة فعندئذ يجب أن تتمكن من فك ضغطها: أي أن لطريقة الضغط التي تستعملها تلك اللعبة بالذات توجد برامج خاصة لفكها. في عديد من الأحيان تكون طرق الضغط معروفة بأنها نفسها لدى شركة معينة، أو لدى جهاز ألعاب معين.<br>و الا فعليك أن تدرس كيف تفك اللعبة الضغط باستعمال محاكي خاص debug emulator لكن ذلك يحتاج ادراكا للأسمبلي.</p>
+
+
+
+<p class="wp-block-paragraph">بالنسبة لعدة أجهزة حديثة مثل البلاي ستايشن 1 / 2 / 3 أو البي اس بي، أو الجيم كيوب أو الوي أو الدي اس أو التري دي اس هناك طريقة تشفير محددة على القرص بأكمله، يجب التغلب عليها لتقبل الأجهزة باللعبة المعدلة أصلا، و امتلاك هذه البرامج شرط آخر. عدا أن بعض النصوص تكون مخزنة في ملفات رؤوس هذه الملفات بتشفير مختلف (بالنسبة لPSP و حتى البي اس 3：ملفات eboot.bin، بالنسبة لDS: ملفات arm7 arm9 overlays مع العلم ان ال3DS أضافت arm11، بالنسبة للجيم كيوب و الوي: ملفات dol)</p>
+
+
+
+<p class="wp-block-paragraph">و بالطبع يجب أن يكون الجهاز الذي أتت منه اللعبة قابلا للقرصنة (أو له محاكي يشغل تلك اللعبة تحديدا) كي يتمكن من تشغيل نسخ مقرصنة.. و الا كيف ستختبر نسختك؟</p>
+
+
+
+<p class="wp-block-paragraph">هذا الشرط ضروري لكي تكون باقي عملية التعريب ممكنة أصلا.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<h3 class="wp-block-heading">2/ أن تتمكن من تعديل الصور فيها:</h3>
+
+
+
+<p class="wp-block-paragraph">بعض النصوص خاصة المكتوبة بحروف مختلفة الشكل مثل نصوص تظهر فوق الأعداء عندما يقتلون، نصوص مزركشة فوق العناوين، نصوص شاشة العنوان الرئيسي، … هي في الواقع ليست نصوصا و هي ستكون مخزنة بشكل صورة (أحيانا تكون تخطيطا texture في ملف ثلاثي الأبعاد في ألعاب الأجهزة الحديثة)<br>لكن الشيء الرئيسي الذي يهم هو غرافس الخط نفسه يجب أن يكون تغييره ممكنا</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<h3 class="wp-block-heading">3/ تغيير النص ممكن</h3>
+
+
+
+<p class="wp-block-paragraph">و هنا نحن نتحدث عن نص الحوارات التي تمكنا من ايجاد خطها:<br>أستطيع أن أرى النص بوضوح في الهيكس سواء مباشرة أو بعد البحث بالمقارنة<br>مساحة النص كافية</p>
+
+
+
+<p class="wp-block-paragraph">بعبارة أخرى يجب أن تتمكن من تغيير النص الانكليزي داخل اللعبة الى جملة انكليزية من عندك بحيث تظهر بشكل صحيح<br>جميع الحروف التي رسمتها في الخط تظهر بشكل سليم في اللعبة</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<h3 class="wp-block-heading">4/ لا أحد سيترجم اللعبة بدلا عنك&nbsp;</h3>
+
+
+
+<p class="wp-block-paragraph">لأن الترجمة عمل يحتاج الكثير من الجهد و المحبة للعبة نفسها<br>المترجم لا يتقاضى أجرا وراء أتعابه لذلك ليس له جدول زمني أو التزام محدد<br>ان كنت تريد من اللعبة أن تترجم<br>فخذ أنت بزمام المبادرة و قم بعمل شيء مادي ملموس للمساعدة: ترجمة نص، فوتوشوب، تحوير روم، أسمبلي، …&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">و بغياب أي من هذه الشروط ببساطة لا يمكن&nbsp;تعريب&nbsp;اللعبة.
+
+</p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg><span class="screen-reader-text">Posted by</span><span class="author vcard"><a class="url fn n" href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/author/extraordinaryfariq/">Extra Ordinary</a></span></span><span class="posted-on"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><defs><path id="a" d="M0 0h24v24H0V0z"></path></defs><clipPath id="b"><use xlink:href="/web/20261112223144im_/https://wumdh.home.blog/blog-feed/#a" overflow="visible"></use></clipPath><path clip-path="url(#b)" d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zm4.2 14.2L11 13V7h1.5v5.2l4.5 2.7-.8 1.3z"></path></svg><a href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/2019/07/07/%d8%af%d8%b1%d8%b3-%d8%b4%d8%b1%d9%88%d8%b7-%d8%aa%d8%b9%d8%b1%d9%8a%d8%a8-%d8%a7%d9%84%d9%84%d8%b9%d8%a8%d8%a9/" rel="bookmark"><time class="entry-date published updated" datetime="2019-07-07T04:25:47+00:00">July 7, 2019</time></a></span><span class="cat-links"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2h-8l-2-2z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg><span class="screen-reader-text">Posted in</span><a href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/category/uncategorized/" rel="category tag">Uncategorized</a></span><span class="comments-link"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M21.99 4c0-1.1-.89-2-1.99-2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h14l4 4-.01-18z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg><a href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/2019/07/07/%d8%af%d8%b1%d8%b3-%d8%b4%d8%b1%d9%88%d8%b7-%d8%aa%d8%b9%d8%b1%d9%8a%d8%a8-%d8%a7%d9%84%d9%84%d8%b9%d8%a8%d8%a9/#respond">Leave a comment<span class="screen-reader-text"> on درس: شروط تعريب&nbsp;اللعبة</span></a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-32 -->
+
+<article id="post-29" class="post-29 post type-post status-publish format-standard hentry category-uncategorized entry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/2019/07/07/%d8%ad%d9%88%d8%a7%d8%b1-%d9%85%d8%b9-%d9%85%d9%8a%d8%ba%d8%a7%d9%85%d8%a7%d9%86%d8%b2%d8%af-%d8%b9%d9%86-%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82/" rel="bookmark">حوار مع ميغامانزد عن&nbsp;الفريق</a></h2>	</header><!-- .entry-header -->
+
+	
+	<div class="entry-content">
+		
+<p class="wp-block-paragraph">نشر هذا الحوار الشيق في 2013 لكن بحكم اقفال منصة اتحداك نعيد رفعه هنا. هذا الحوار اجراه Malloumario</p>
+
+
+
+<p class="wp-block-paragraph">
+
+السلام عليكم, هذه مقابلة قمت بها مع&nbsp;<a href="https://web.archive.org/web/20261112223144/https://web.archive.org/web/20170304125542/http://www.at7addak.com/megamanz">محسن ميجامانزد</a>&nbsp;معرّب من فريق خارقوا العادة و هذه المقابة قد تهمكم خاصة الذين يعملون في برمجة الألعاب:</p>
+
+
+
+<p class="wp-block-paragraph"><strong>-أنا:</strong>&nbsp;حسنا يا محسن, لنبدأ بتعريف عن فريق خارقوا العادة, بدايته و فكرته.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>-محسن:</strong>&nbsp;فريق خارقو العادة يضم معربين ومبدعين في مجال البرمجة والتصميم والجرافيك تأسس يوم 8 فبراير 2005 وجاءت فكرة الفريق بفضل الأخ الدكتور محمد سويلم الذي يحمل نفس لقب الفريق extraordinary أي خارقو العادة من مصر الشقيقة الذي صار لقب الفريق ككل فيما بعد. آنذاك كان الدكتور سويلم إلى جانب العديد من المعربين الموهوبين كمحمود لطوف من لبنان وأحمد السمين من السعودية وعروة أبو الرور من فلسطين كانو معه. الأخ عذنان معرب الكابتن ماجد التي طبعها الصينيون سنة 1995 على خرطوشات الفاميكلون كانت هي ملهمتنا لأنها كانت أول لعبة معربة على الإطلاق (رغم أننا لانعرف أي شيء عن الأخ عدنان صراحة). شخصيا انضممت للفريق سنة 2008 بفضل المهندس عروة أبو الرور كان هو أحد أسباب دخولي مجال التعريب. هدف الفريق هو نشر الثقافة العربية في العالم وبالتالي الناس حتتعلم اللغة العربية طبعا عن طريق تعريب ألعاب الفيديو.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>-أنا:</strong>&nbsp;جميل جدا, خاصة آخر جزء المتعلق بهدف الفريق. فلتحدثنا الآن عن الألعاب التي تعربونها. ماهو النوع الذي تستهدفونه عامة و ماهي أهم الانجازات التي قمتم بها و مخططكم في المستقبل؟&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>-محسن:</strong>&nbsp;ليس لدينا نوع محدد نستهدفه فلكل شخص ذوقه الخاص. يمكنك أن تشبهنا بالطباخين كل مرة نطبخ شيء مختلف. بالنسبة لأهم الألعاب أظن أسطورة زيلدا وأكرينة الزمن. أسطورة زيلدا وقبعة الأقزام. فاركراي. مقاتلو الشوارع .2 أسطورة زيلدا واستيقاظ لينك. حقيقة هناك العديد من أللعاب الجيدة شخصيا أفضل قبعة الأقزام للمهندس عروة لأنها كانت سببي في دخول هذا المجال و الناس تفضل أكرينة الزمن والكابتن ماجد على مايبدو. سياسة الفريق تعتمد على تعريب الألعاب مع الأخذ بعين الإعتبار احترام الشركات المصنعة وذلك باستهداف الألعاب التي لم تعد تجارية مع تحويلها لرقع patches وهذا الأمر معمول به في كبريات المواقع العالمية. الرقعة تعني ملف التعريب فقط وليس اللعبة ككل بحيث يبحث من يريد تجريب ألعابنا المعربة عن اللعبة الأصلية ويدمجها مع ملف الرقعة. هذا هو المعمول به الأمر ليس معقدا حمل وادمج والعب. الفريق حاليا يستهدف ألعاب جديدة كالكابتن ماجد 4 و&nbsp;<a href="https://web.archive.org/web/20261112223144/https://web.archive.org/web/20170304125542/http://www.at7addak.com/%D8%A8%D9%88%D8%B1%D8%AA%D8%A7%D9%84-%D9%A2/news">portal 2</a>&nbsp;و&nbsp;<a href="https://web.archive.org/web/20261112223144/https://web.archive.org/web/20170304125542/http://www.at7addak.com/%D9%87%D8%A7%D9%81-%D9%84%D8%A7%D9%8A%D9%81-%D9%A2/news">half life 2</a>&nbsp;و&nbsp;<a href="https://web.archive.org/web/20261112223144/https://web.archive.org/web/20170304125542/http://www.at7addak.com/%D8%B0%D8%A7-%D9%84%D9%8A%D8%AC%D9%86%D8%AF-%D8%A3%D9%88%D9%81-%D8%B2%D9%8A%D9%84%D8%AF%D8%A7/news">the legend of zelda</a>&nbsp;phantom hourglassوفاينال فانتازي 9 هناك ألعاب قوية أخرى سنفصح عنها في وقتها إن شاء الله.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>-أنا:</strong>&nbsp;انا مشتاق لرؤية&nbsp;<a href="https://web.archive.org/web/20261112223144/https://web.archive.org/web/20170304125542/http://www.at7addak.com/%D8%A8%D9%88%D8%B1%D8%AA%D8%A7%D9%84/news">Portal</a>&nbsp;2 المعربة, هل عملية التعريب صعبة؟ يعني تسلزم كثير من المعارف و الوقت؟&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>-محسن:</strong>&nbsp;أصعب شيء في التعريب هو طول النصوص. في البداية تدخل للعبة وتعدله فيعجبك الأمر في البداية و عندما دخل للصح وتبدأ تعريب النصوص, تبدأ تقول مع نفسك لم ورطت نفسي مع هذه اللعبة: حصلت لي هذه الحالة أول مرة مع استيقاظ لينك لكني الحمد لله أكملتها في الأخير. خلاصة القول كلما طالت النصوص طال التعريب فأكرينة الزمن مثلا كلفتني ثلاث سنوات من التعريب مع الأخذ بعين الإعتبار حذف كل مافيه خلل كالكلام القبيح والمشاهد الغير اللائقة وكل مايمس ديننا الإسلامي فكل هذه الأمور تؤخذ بعين الإعتبار.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>-أنا:&nbsp;</strong>لماذا لا تعطينا تفسير مبسط عن عملية التعريب باختصار؟&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">-محسن: هي ليست بالعملية المعقدة تتطلب دراية بالجرافيك وبعض مبادئ التعريب. التعريب ينقسم لقسمين تعريب غرافيكي وتعريب نصي في البداية نعمل بحث مبدئي داخل اللعبة لنرى إن كانت هناك إمكانية لتعريبها إن وجدناها قابلة فحينها نبدأ. لو أردت تعريف تقني للتعريب فنقدر نقول عليه الهندسة العكسية يعني نشوف ماقام به مصممو اللعبة الأصلية ونشوف إن كانت هناك إمكانية للتعريب. عادة نجد الحروف اللاتينية (ABC…) إضافة إلى الأرقام الى آخره. الفكرة هي تبديل هذه الحروف بحروف عربية مع تحديد كوداتها بالطبع لنعيد وضعها في مكانها المناسب مثلا حرف A بالكود الستعشري:” A = ا = 0 ” وهكذا عندنا في الموقع واضعين مجموعة دروس لمن يرغب بتعلم التعريب حنكون فرحانين لو انضاف إلينا معربون جدد.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>-أنا:</strong>&nbsp;و نختم الآن بآخر سؤال, أفكّرتم يوما أن تحاولوا مخاطبة شركات ألعاب معروفة لأخذ اللغة العربية بعين الاعتبار في ألعابها المستقبلية؟&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>-محسن:</strong>&nbsp;فكرنا في الموضوع صراحة لكننا خشينا غضبهم معتقدين أنهم سيظنون بنا سوءا لأنك تعرف مسألة الحقوق وما إلى ذلك. نتمنى أن يتم دعمنا لنقدم أفضل مما نقدمه الآن ولتحقيق هدفنا الأسمى: نشر الثقافة العربية. كما أن الدعم المعنوي مهم أيضا.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>-أنا:</strong>&nbsp;نحن أيضا نتمنى ذلك و الله يعينكم و شكرا لك على السماح لي بالقيام بهذه المقابلة و ان شاء الله يبشرنا فريق خارقوا العادة في الخارج يوما ما.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>-محسن:</strong>&nbsp;شكرا جزيلا لك يامالك وشكرا لموقع أتحداك أتمنى لكم مسيرة موفقة إن شاء الله.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">**هذا موقع الفريق: wumd.net وهذه مجموعتهم على الفايسبوك: <a href="https://web.archive.org/web/20261112223144/https://www.facebook.com/groups/vgarab123/" rel="nofollow">https://www.facebook.com/groups/vgarab123/</a> في حال تريد الانضمام. وهذه صور من موقع فريق خارقوا العادة لبعض الألعاب المعربة
+
+</p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg><span class="screen-reader-text">Posted by</span><span class="author vcard"><a class="url fn n" href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/author/extraordinaryfariq/">Extra Ordinary</a></span></span><span class="posted-on"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><defs><path id="a" d="M0 0h24v24H0V0z"></path></defs><clipPath id="b"><use xlink:href="/web/20261112223144im_/https://wumdh.home.blog/blog-feed/#a" overflow="visible"></use></clipPath><path clip-path="url(#b)" d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zm4.2 14.2L11 13V7h1.5v5.2l4.5 2.7-.8 1.3z"></path></svg><a href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/2019/07/07/%d8%ad%d9%88%d8%a7%d8%b1-%d9%85%d8%b9-%d9%85%d9%8a%d8%ba%d8%a7%d9%85%d8%a7%d9%86%d8%b2%d8%af-%d8%b9%d9%86-%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82/" rel="bookmark"><time class="entry-date published updated" datetime="2019-07-07T04:23:02+00:00">July 7, 2019</time></a></span><span class="cat-links"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2h-8l-2-2z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg><span class="screen-reader-text">Posted in</span><a href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/category/uncategorized/" rel="category tag">Uncategorized</a></span><span class="comments-link"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M21.99 4c0-1.1-.89-2-1.99-2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h14l4 4-.01-18z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg><a href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/2019/07/07/%d8%ad%d9%88%d8%a7%d8%b1-%d9%85%d8%b9-%d9%85%d9%8a%d8%ba%d8%a7%d9%85%d8%a7%d9%86%d8%b2%d8%af-%d8%b9%d9%86-%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82/#respond">Leave a comment<span class="screen-reader-text"> on حوار مع ميغامانزد عن&nbsp;الفريق</span></a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-29 -->
+
+<article id="post-26" class="post-26 post type-post status-publish format-standard hentry category-uncategorized entry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/2019/07/07/%d8%b7%d8%b1%d9%8a%d9%82%d8%a9-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d8%b1%d9%82%d8%b9-%d8%a7%d9%84%d8%a3%d8%b1%d9%88%d8%a7%d9%85/" rel="bookmark">طريقة تطبيق رقع&nbsp;الأروام</a></h2>	</header><!-- .entry-header -->
+
+	
+	<div class="entry-content">
+		
+<p class="wp-block-paragraph" style="text-align:center;">السؤال رقم واحد لمن يحمل التعريبات هو </p>
+
+
+
+<p class="wp-block-paragraph" style="text-align:center;"><strong>…. كيف استعمل تلك الملفات؟؟؟</strong></p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-rich wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" title="YouTube video player" width="640" height="360" src="https://web.archive.org/web/20261112223144if_/https://www.youtube.com/embed/oAOZVGwWtuA?version=3&amp;rel=1&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;fs=1&amp;hl=en&amp;autohide=2&amp;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox" data-ruffle-polyfilled=""></iframe></span>
+</div><figcaption>فيديو توضيحي بالطريقة</figcaption></figure>
+
+
+
+<p class="wp-block-paragraph"><strong>للحصول على النسخة العربية من اللعبة، قم بالتالي:&nbsp;</strong><br>• تحميل&nbsp;<strong>الباتش</strong>&nbsp;من صفحة اللعبة (مشاريع تعريب الألعاب)<br>• تحصل على&nbsp;<strong>نسخة من اللعبة بحالتها الأصلية</strong>&nbsp;غير المعدلة، على شكل ROM / ISO (بطرقك الخاصة، ابحث في النت)احرص أن تكون “نسخة الروم” (أمريكية / يابانية / v1.1 / الخ) و “اسم اللعبة” (المكتوب بالانكليزي أعلى الصفحة) صحيحة و الا ستفشل العملية.<br>• تحميل&nbsp;<strong>أداة الباتش</strong>&nbsp;المناسبة (حسب “نوع الباتش”).عليك فتح أداة الباتش، التي ستطلب منك نسخة اللعبة غير المعدلة، و الباتش.ستقوم اثر ذلك بتسجيل نسخة روم جديدة من اللعبة لكنها ستكون بالعربية.<br><strong>أدوات الباتش</strong>&nbsp;كثيرة، يمكن تنزيلها من ركن التحميل:<br><strong>Lunar IPS (نوع الباتش: ips)</strong><br>♦ فتح البرنامج و ضغط Apply IPS Patch<br>♦ اختيار الباتش (الذي حملته من هنا) بصيغة ips<br>♦ اختيار الروم التي تعمل على المحاكي للعبة الأصلية غير المحورة (التي حملتها من الأنترنت من مواقع أخرى مثل “فراديس المحاكيات”) – اترك منها نسخة احتياطية قبل ذلك !!ستتغير تلك الروم و تصبح مترجمة باللغة العربية (أو لغة الباتش مهما كان).&nbsp;هذا البرنامج لم يعد مستعملا كثيرا، بالأخص بسبب أنه لا يعمل على ملفات روم أكبر من 16 ميغابايت.<a href="https://web.archive.org/web/20261112223144/https://sites.google.com/site/eternaldream4arabic/file-cabinet/xdelta%20Patcher.zip?attredirects=0&amp;d=1">رابط</a><br><strong>xdelta (نوع الباتش: xdelta)</strong><br>♦ فتح البرنامج و اختيار Apply Patch<br>♦ تحت Patch: اختيار الباتش (الذي حملته من هنا) بصيغة&nbsp;<strong>xdelta</strong><br>♦ تحت Source File: اختيار الروم التي تعمل على المحاكي للعبة الأصلية غير المحورة (التي حملتها من الأنترنت من مواقع أخرى مثل “فراديس المحاكيات”)<br>♦ تحت Output File: اختيار المكان الذي ستسجل فيه الروم المترجملا يغير البرنامج الروم الأصلية، و يعمل على رومات أكبر من 16 ميغابايت أيضا.<a href="https://web.archive.org/web/20261112223144/https://sites.google.com/site/eternaldream4arabic/file-cabinet/lips102.zip?attredirects=0&amp;d=1">رابط</a><br><strong>عزيزي المترجم:</strong><br><em>كيف تقوم بتوزيع النسخة المترجمة للعموم؟</em><br>اذن بعد أن أخذت الروم الأصلي للعبة و قمت بتغييره ليصبح روم بالعربية، هل يمكنك رفعه كما هو الأنترنت؟<br>طبعا لا! لأنه ببساطة سيحذف قريبا من الشركة المنتجة لأنها نسخة مقرصنة. و لذلك مواقع الروم تغير دائما مواقعها و تغلق.</p>
+
+
+
+<p class="wp-block-paragraph">اذن الحل هو استخدام الرقعة أو الباتش Patch. سيكون ملفا صغيرا جدا يحتوي كل التغييرات بين الروم الأصلي و الروم المعرب (أو حتى المغير بأي شكل من الأشكال)، يحتاج فقط لأن تحمل الروم الأصلي و الباتش و تستعمل برنامجا خاصا (حسب نوع الباتش) لتحصل على روم مترجم.<br>لتصنع هذا الباتش أولا ستأخذ النسخة المعربة و تحمل الروم الأصلي. و هكذا لا خوف عليه من الحذف. طبعا ستذكر معه اسم الروم الأصلية التي نستعملها لأن هناك عدة نسخ (أمريكية، اوروبية، يابانية، كورية…)&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">أه و بالمناسبة:<br><strong>rom =</strong>&nbsp;ملف ألعاب على الشرائح أو الكارتريدج مثل جميع أجهزة نينتندو المحمولة، و أيضا أجهزتها حتى النينتندو 64، الميغادرايف، …<br><strong>iso =</strong>&nbsp;ملف ألعاب من أقراص سي دي أو دي في دي مثل أجهزة سوني كلها، و أجهزة النينتندو الثابتة من الجيم كيوب و ما بعدها.&nbsp;<br>هذه الأشياء لا نستطيع تقديمها مباشرة في هذا الموقع لكي لا نروح في ستين داهية</p>
+
+
+
+<p class="wp-block-paragraph">هناك عدة أنواع من الباتش و معها برامجها. لعل الأكثر شيوعا هي:<br>Lunar IPS: نوع الباتش ips، لا يعمل مع ملفات أكبر من 16 ميغابايت<br>xdelta: نوع الباتش نفس اسم البرنامج، يتلافى حد الأول<br>ppf: نوع آخر خاص بملفات أقراص iso على عكس الاثنين السابقين الخاصين بالروم rom<br>beat: أحدث نوع، يستطيع أن يحفظ تغييراتك على مجلد ويندوز كامل ايضا بمجلداته الفرعية<br><strong>اذن..</strong><br>اذا أردت توزيع نسختك المعربة من اللعبة و تريد ألا يتبخر عملك بسبب قوانين الملكية، استخدم هذه البرامج المذكورة أعلاه لكن هذه المرة يجب أن تكون لديك:<br>• الروم الأساس التي سيحملها اللاعب، في العادة تكون الروم الأصلية لكن رجاء لا تستخدم رومات صعبة الايجاد.<br>• الروم الأصلية بعد أن عدلتها و ترجمتهاثم استخدم أحد هذه البرامج لعمل باتش عبر زر يكون اسمه عادة Create Patch.&nbsp;تستطيع نشر هذا الملف الصغير و معه ملف نص صغير تكتب فيه نسخة الروم الأساس و اسمها بالتفصيل الممل.<br>مع الشكر. </p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg><span class="screen-reader-text">Posted by</span><span class="author vcard"><a class="url fn n" href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/author/extraordinaryfariq/">Extra Ordinary</a></span></span><span class="posted-on"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><defs><path id="a" d="M0 0h24v24H0V0z"></path></defs><clipPath id="b"><use xlink:href="/web/20261112223144im_/https://wumdh.home.blog/blog-feed/#a" overflow="visible"></use></clipPath><path clip-path="url(#b)" d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zm4.2 14.2L11 13V7h1.5v5.2l4.5 2.7-.8 1.3z"></path></svg><a href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/2019/07/07/%d8%b7%d8%b1%d9%8a%d9%82%d8%a9-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d8%b1%d9%82%d8%b9-%d8%a7%d9%84%d8%a3%d8%b1%d9%88%d8%a7%d9%85/" rel="bookmark"><time class="entry-date published updated" datetime="2019-07-07T04:19:54+00:00">July 7, 2019</time></a></span><span class="cat-links"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2h-8l-2-2z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg><span class="screen-reader-text">Posted in</span><a href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/category/uncategorized/" rel="category tag">Uncategorized</a></span><span class="comments-link"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M21.99 4c0-1.1-.89-2-1.99-2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h14l4 4-.01-18z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg><a href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/2019/07/07/%d8%b7%d8%b1%d9%8a%d9%82%d8%a9-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d8%b1%d9%82%d8%b9-%d8%a7%d9%84%d8%a3%d8%b1%d9%88%d8%a7%d9%85/#respond">Leave a comment<span class="screen-reader-text"> on طريقة تطبيق رقع&nbsp;الأروام</span></a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-26 -->
+
+<article id="post-5" class="post-5 post type-post status-publish format-standard hentry category-uncategorized entry">
+	<header class="entry-header">
+		<h2 class="entry-title"><a href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/2019/07/06/glow-trans-list/" rel="bookmark">إنجازات الفريق</a></h2>	</header><!-- .entry-header -->
+
+	
+	<div class="entry-content">
+		
+<p class="wp-block-paragraph" style="text-align:center;"><em>هذه قائمة بانجازات فريق الومض كلها في مجال التعريب</em>.‏</p>
+
+
+
+<h2 class="wp-block-heading">تعريب الألعاب</h2>
+
+
+
+<p class="wp-block-paragraph" style="text-align:right;">قائمة الأجهزة المذكورة</p>
+
+
+
+<ul class="wp-block-list"><li>NES: كمبيوتر العائلة</li><li>NESC: كمبيوتر العائلة لكن لألعاب صينية مقلدة غير أصلية</li><li>SFC: سوبر نينتندو</li><li>SMS: سيغا ماستر سستم</li><li>SMD: سيغا ميغادرايف</li><li>N64: نينتندو 64</li><li>WIN: ميكروزوفت ويندوز</li><li>GBX: غيم بوي مونوكروم</li><li>GBC: غيم بوي كولور</li><li>GBA: غيم بوي أدفنس</li><li>NDS: نينتندو دي اس</li></ul>
+
+
+
+<h3 class="wp-block-heading">فترة الوهج و البدايات (2005-2010)‏</h3>
+
+
+
+<p class="wp-block-paragraph" style="text-align:right;">أعمال فريق الوهج تحت إسمه : عروة (هيسوكا سابقا)، سايبستر (محمود لطوف)، اكستراأورديناري (محمد سويلم) و رجل المخاطر و كاسبر و ديدو و غيرهم</p>
+
+
+
+<p class="wp-block-paragraph"><strong>NES:</strong> Captain Tsubasa Vol. II (Adnan 1995, Adnan-Fix by ExtraOrdinary 2006, Retranslation Cybuster 2007, CaptainMajid.com 2010)<br> <strong>NES:</strong> Popeye (Orwa 2007)<br> <strong>NES:</strong> Nekketsu Katutou Densetsu (Orwa 2007)<br> <strong>NES: </strong>TMNT III The Manhattan Project (Orwa 2007)<br> <strong>NES: </strong>Gradius (Cybuster 2007)<br> <strong>NES: </strong>Captain Tsubasa 1 USA / Tecmo Cup Soccer Game (AbuHamza 2007)<br> <strong>NES:</strong> Adventure Island II (Orwa 2007)<br> <strong>NES:</strong> Tom &amp; Jerry NES (Orwa)<br> <strong>NES:</strong> Pac-Man (Cybuster 2007, Dyariko 2018)<br> <strong>NES:</strong> Road Fighter (Cybuster)<br> <strong>NES:</strong> Super Mario Bros (AbuHamza 2007, Dido 2008, megamanz 2011)<br> <strong>NES:</strong> The Legend of Kage (Casper 2008)<br> <strong>GBA: </strong>The Legend of Zelda The Minish Cap (Orwa 2008)<br> <strong>GBA:</strong> Pokemon Ruby (ExtraOrdinary 2006)<br> <strong>NES:</strong> Kunio Kun no Kekketsu Soccer League (Orwa 2007)<br> <strong>NES: </strong>Ninja Gaiden Trilogy (30%, Danger Man 2007)<br> <strong>NES:</strong> Ninja Gaiden (Danger Man 2009)<br> <strong>NES:</strong> Ninja Gaiden 2 (ExtraOrdinary 2009)<br> <strong>NES:</strong> Ninja Gaiden 3 (Orwa 2010)<br><strong>NES: </strong>Maze of Gallious 2 (ExtraOrdinary)<br><strong>MSX: </strong>Maze of Gallious (Orwa)<br> <strong>NDS:</strong> Tennis Elbow (Dido 2010)</p>
+
+
+
+<p class="wp-block-paragraph" style="text-align:right;">فرق و معربون آخرون نشطوا في نفس الفترة:‏</p>
+
+
+
+<p class="wp-block-paragraph"><strong>NDS: </strong>Dementium The Ward (2dq8 – q8fft 2009)<br> <strong>SFC:</strong> Captain Tsubasa 3 (CaptainMajid SPE Team 2009)</p>
+
+
+
+<p class="wp-block-paragraph" style="text-align:right;">و بخلاف هذا كانت هناك محاولات تعريب لألعاب عديدة مثل زيلدا ساعة الأشباع، و الدراغون كويست للغيم بوي كولور، و السوبر روبوت تايسن 4 للسوبر نيس، لكنها كلها باءت بالفشل.</p>
+
+
+
+<h3 class="wp-block-heading">فترة الومض (2012-2016)‏</h3>
+
+
+
+<p class="wp-block-paragraph" style="text-align:right;">أعمال العضو رقم واحد في النشاط في فريق الومض، محسن ميغامانزد:‏</p>
+
+
+
+<p class="wp-block-paragraph"><strong>NES:</strong> Adventure Island<br> <strong>NES:</strong> Bad Dudes<br> <strong>NES:</strong> Baseball<br> <strong>NES:</strong> Bomberman<br> <strong>NES:</strong> Clu Clu Land<br> <strong>NES:</strong> Contra Force<br> <strong>NES:</strong> Double Dragon<br> <strong>NES:</strong> Double Dragon II<br> <strong>NES:</strong> Excitebike<br> <strong>NES:</strong> Galaxian<br> <strong>NES:</strong> Ice Climber<br> <strong>NES:</strong> Prince of Persia<br> <strong>NES:</strong> Super Arabian<br> <strong>NES:</strong> Super Mario Bros 2: The Lost Levels<br><strong> SFC: </strong>Street Fighter II<br> <strong>NESC:</strong> Aladdin<br> <strong>NESC:</strong> Magic Carpet 1001 (Aladdin III)<br> <strong>GBX:</strong> Super Mario Land<br> <strong>N64:</strong> The Legend of Zelda: Ocarina of Time<br> <strong>NES:</strong> Super Mario Bros<br> <strong>SFC:</strong> Captain Tsubasa IV<br> <strong>GBC: </strong>The Legend of Zelda: Link’s Awakening DX</p>
+
+
+
+<p class="wp-block-paragraph" style="text-align:right;"> و بخلاف هذا فميغامانزد ساهم في تسيير الكثير من تعريبات النيس الأخرى، و له أعمال قيد الانشاء مثل زيلدا ساعة الأشباح، و زيلدا نفس البرية و زيلدا أميرة الشفق الأحمر، و ألعاب كثيرة  من سلسلة ميغامان.‏ <br>كما أنه يستمع كثيرا لطلبات المعجبين، فتعريب لعبة سلاحف النينجا المراهقة المتحولة 1 لجهاز كمبيوتر العائلة كان ارضاء لطلب من الأخ الغزيز وئام قستي، و تعريب الناقص من سلسلة الكابتن ماجد كان نفس الشيء.‏</p>
+
+
+
+<p class="wp-block-paragraph" style="text-align:right;">قائمة للمقالات العالمية التي تحدثت عن صدور تعريب زيلدا أكرينة الزمن:‏</p>
+
+
+
+<ul class="wp-block-list"><li><a href="https://web.archive.org/web/20261112223144/https://web.archive.org/save/https://killscreen.com/articles/legend-zelda-ocarina-time-now-arabic/">KillScreen</a> (2013) (EN) – An arabic translation of Ocarina of Time blurs the boundaries of culture and art</li><li>Shevdvr.ru (2013)  (RU)</li><li><a href="https://web.archive.org/web/20261112223144/https://me.ign.com/ar/news/64542/sdr-lnskh-lrby-mn-lb-the-legend-of-zelda-ocarina-of-time">ign.me</a> (2013)  (AR)</li><li><a href="https://web.archive.org/web/20261112223144/https://www.courrierinternational.com/article/2013/03/29/une-version-de-legend-of-zelda-enfin-en-arabe">Courrier International</a> (2013) (FR)</li><li><a href="https://web.archive.org/web/20261112223144/https://lnt.ma/zelda-en-arabe-oui-cest-possible/">La Nouvelle Tribune</a> (2013) (FR)</li><li><a href="https://web.archive.org/web/20261112223144/https://www.wamda.com/2013/03/nintendo-game-zelda-now-arabic-thanks-to-this-moroccan-developer">Wamda</a> (2013) (FR)</li><li><a href="https://web.archive.org/web/20261112223144/http://www.mexat.com/vb/showthread.php?t=1055804">mexat forums</a> (2013) (AR)</li><li><a href="https://web.archive.org/web/20261112223144/https://n4g.com/news/1339875/ocarina-of-time-is-now-fully-localized-in-arabic-thanks-to-one-person">at7addak</a> (2013) (EN), <a href="https://web.archive.org/web/20261112223144/https://web.archive.org/web/20170304125542/http://www.at7addak.com/article/تعرفوا-على-فريق-خارقوا-العادة-لتعريب-الألعاب">at7addak</a> (2014) (AR)</li><li><a href="https://web.archive.org/web/20261112223144/http://www.moroccotomorrow.org/nintendo-game-zelda-is-now-arabic-thanks-to-this-moroccan-developer/">moroccotomorrow</a> (2014) (EN)</li><li><a href="https://web.archive.org/web/20261112223144/http://www.captainmajed.com/forum/showthread.php?t=18813">CaptainMajid forums</a> (2013) (AR)</li></ul>
+
+
+
+<p class="wp-block-paragraph" style="text-align:right;">بقية أعضاء الفريق عربوا في نفس الفترة الألعاب التالية</p>
+
+
+
+<p class="wp-block-paragraph">NES: Shatterhand (Shadow501)<br> NES: Adventure of Dino Rikki (Shadow501)<br> NES: Adventure Island 3 (Shadow501)<br> NES: Adventure Island 4 (Shadow501)<br> NES: Squoon (Dyariko)<br> NES: Metroid (Dyariko)<br> GBX: Metroid 2 (Dyariko)<br> NES: Balloon Fight (Dyariko)<br> NES: Donkey Kong (Dyariko)<br> NES: Zelda 1 (Dyariko)<br> NES: Kid Ikarus (Dyariko)<br>NES: Castlevania 1 (sword)<br>GBC: Mega Man Xtreme (OmegaStar)<br>NES: Panic Restaurent (Mansor)<br>NES: Gimmick (Mansor)<br>SMS: Alex Kidd (Mansor)</p>
+
+
+
+<p class="wp-block-paragraph" style="text-align:right;">تم تعريب هذه الألعاب من طرف أصدقاء للفريق:‏</p>
+
+
+
+<p class="wp-block-paragraph">WIN: Resident Evil 0 (a7mad23)<br>WIN: Resident Evil HD  (a7mad23) <br>WIN: CounterStrike (majidKSA)<br>NDS: Resident Evil  (a7mad23) <br>NES: Fire Emblem (adil)<br>NES: Dragon Warrior (adhbi)<br>SFC: Final Fantasy III (adhbi)<br>NES: Don Doko Don 2</p>
+
+
+
+<p class="wp-block-paragraph" style="text-align:right;">هذه تعريبات  أخرى قام بها تعاون الومض غات (ستيفن) مع معربي عرب غيمرز السابقين و استمر الأمر حتى اغلاق الاستضافة في 2016. يمكن ايجادها مرفوعة على مواقعهم.‏</p>
+
+
+
+<ul class="wp-block-list"><li>تحطيم الجنون 4</li><li>Cities Skylines</li><li>Fallout 4</li><li>Life is Strange</li><li>Assassin’s Creed Syndicate (trans port)</li><li>Zeno Clash</li><li>Finding Teddy</li><li>Black Mesa</li></ul>
+
+
+
+<p class="wp-block-paragraph" style="text-align:right;">هناك مشاريع ملغية مثل مشروع كمال النهراوي للفاينال فانتازي 8 و الجوكر للماجد 4 و عروة للماجد 5 غيرها بذلوا جهودا جميلة مشكورين جدا عليها.</p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg><span class="screen-reader-text">Posted by</span><span class="author vcard"><a class="url fn n" href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/author/extraordinaryfariq/">Extra Ordinary</a></span></span><span class="posted-on"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><defs><path id="a" d="M0 0h24v24H0V0z"></path></defs><clipPath id="b"><use xlink:href="/web/20261112223144im_/https://wumdh.home.blog/blog-feed/#a" overflow="visible"></use></clipPath><path clip-path="url(#b)" d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zm4.2 14.2L11 13V7h1.5v5.2l4.5 2.7-.8 1.3z"></path></svg><a href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/2019/07/06/glow-trans-list/" rel="bookmark"><time class="entry-date published" datetime="2019-07-06T19:31:12+00:00">July 6, 2019</time><time class="updated" datetime="2019-07-07T04:13:33+00:00">July 7, 2019</time></a></span><span class="cat-links"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2h-8l-2-2z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg><span class="screen-reader-text">Posted in</span><a href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/category/uncategorized/" rel="category tag">Uncategorized</a></span><span class="comments-link"><svg class="svg-icon" width="16" height="16" aria-hidden="true" role="img" focusable="false" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M21.99 4c0-1.1-.89-2-1.99-2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h14l4 4-.01-18z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg><a href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/2019/07/06/glow-trans-list/#respond">Leave a comment<span class="screen-reader-text"> on إنجازات الفريق</span></a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-5 -->
+
+		</main><!-- .site-main -->
+	</div><!-- .content-area -->
+
+
+</div><!-- #content -->
+
+<footer id="colophon" class="site-footer">
+	
+	<div class="site-info">
+		
+					<a class="site-name" href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/" rel="home">مجتمع خارقو العادة – Extraordinary Society</a>,
+		
+		<a href="https://web.archive.org/web/20261112223144/https://wordpress.com/?ref=footer_custom_powered" rel="nofollow">Website Powered by WordPress.com</a>.
+
+		
+		
+	</div><!-- .site-info -->
+
+</footer><!-- #colophon -->
+
+</div><!-- #page -->
+
+<!--  -->
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/files/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/pub/modern-business/*","/wp-content/themes/pub/twentynineteen/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script id="grofiles-cards-js" src="//web.archive.org/web/20261112223144js_/https://0.gravatar.com/js/hovercards/hovercards.min.js?ver=202646fffb5f6f8dc7a9c7ad08f16ba2e694fddff32cc1793b3fe3b32aaa232a52550e"></script>
+<script id="wpgroho-js-extra">
+var WPGroHo = {"my_hash":""};
+//# sourceURL=wpgroho-js-extra
+</script>
+<script crossorigin="anonymous" type="text/javascript" src="/web/20261112223144js_/https://wumdh.home.blog/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1610363240i"></script>
+
+	<script>
+		// Initialize and attach hovercards to all gravatars
+		( function() {
+			function init() {
+				if ( typeof Gravatar === 'undefined' ) {
+					return;
+				}
+
+				if ( typeof Gravatar.init !== 'function' ) {
+					return;
+				}
+
+				Gravatar.profile_cb = function ( hash, id ) {
+					WPGroHo.syncProfileData( hash, id );
+				};
+
+				Gravatar.my_hash = WPGroHo.my_hash;
+				Gravatar.init(
+					'body',
+					'#wp-admin-bar-my-account',
+					{
+						i18n: {
+							'Edit your profile →': 'Edit your profile →',
+							'View profile →': 'View profile →',
+							'Contact': 'Contact',
+							'Send money': 'Send money',
+							'Sorry, we are unable to load this Gravatar profile.': 'Sorry, we are unable to load this Gravatar profile.',
+							'Gravatar not found.': 'Gravatar not found.',
+							'Too Many Requests.': 'Too Many Requests.',
+							'Internal Server Error.': 'Internal Server Error.',
+							'Is this you?': 'Is this you?',
+							'Claim your free profile.': 'Claim your free profile.',
+							'Email': 'Email',
+							'Home Phone': 'Home Phone',
+							'Work Phone': 'Work Phone',
+							'Cell Phone': 'Cell Phone',
+							'Contact Form': 'Contact Form',
+							'Calendar': 'Calendar',
+						},
+					}
+				);
+			}
+
+			if ( document.readyState !== 'loading' ) {
+				init();
+			} else {
+				document.addEventListener( 'DOMContentLoaded', init );
+			}
+		} )();
+	</script>
+
+		<div style="display:none">
+	</div>
+			<div id="actionbar" dir="ltr" class="actnbr-pub-modern-business" role="region" aria-label="Site actions">
+			<span class="actnbr-live" aria-live="polite"></span>
+			<ul>
+										<li class="actnbr-btn actnbr-hidden">
+										<a class="actnbr-action actnbr-actn-follow " href="" role="button" aria-haspopup="dialog" aria-expanded="false">
+				<svg class="actnbr-icon actnbr-icon-bell" width="20" height="20" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" fill="currentColor"><path fill-rule="evenodd" clip-rule="evenodd" d="M17 11.5c0 1.353.17 2.368.976 3 .266.209.602.376 1.024.5v1H5v-1c.422-.124.757-.291 1.024-.5.806-.632.976-1.647.976-3V9c0-2.8 2.2-5 5-5s5 2.2 5 5v2.5ZM15.5 9v2.5c0 .93.066 1.98.515 2.897l.053.103H7.932a4.018 4.018 0 0 0 .053-.103c.449-.917.515-1.967.515-2.897V9c0-1.972 1.528-3.5 3.5-3.5s3.5 1.528 3.5 3.5Zm-5.492 9.008c0-.176.023-.346.065-.508h3.854A1.996 1.996 0 0 1 12 20c-1.1 0-1.992-.892-1.992-1.992Z"></path></svg>				<span>Subscribe</span>
+			</a>
+			<a class="actnbr-action actnbr-actn-following  no-display" href="" role="button">
+				<svg class="actnbr-icon actnbr-icon-check" width="20" height="20" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" style="fill: none" stroke="currentColor" stroke-width="1.5"><path d="M7 12L10 15L17 8" vector-effect="non-scaling-stroke"></path></svg>				<span>Subscribed</span>
+			</a>
+									<div class="actnbr-popover actnbr-panel actnbr-notice" id="follow-bubble" role="dialog" aria-label="Subscribe to مجتمع خارقو العادة - Extraordinary Society">
+								<div class="actnbr-follow-bubble">
+								<div class="actnbr-panel__group"><a class="actnbr-menu__item actnbr-sitename" href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/"><img loading="lazy" alt="" src="https://web.archive.org/web/20261112223144im_/https://wumdh.home.blog/wp-content/uploads/2019/07/cropped-twitter_logo-1.png?w=50" srcset="https://web.archive.org/web/20261112223144im_/https://wumdh.home.blog/wp-content/uploads/2019/07/cropped-twitter_logo-1.png?w=50 1x, https://web.archive.org/web/20261112223144im_/https://wumdh.home.blog/wp-content/uploads/2019/07/cropped-twitter_logo-1.png?w=75 1.5x, https://web.archive.org/web/20261112223144im_/https://wumdh.home.blog/wp-content/uploads/2019/07/cropped-twitter_logo-1.png?w=100 2x, https://web.archive.org/web/20261112223144im_/https://wumdh.home.blog/wp-content/uploads/2019/07/cropped-twitter_logo-1.png?w=150 3x, https://web.archive.org/web/20261112223144im_/https://wumdh.home.blog/wp-content/uploads/2019/07/cropped-twitter_logo-1.png?w=200 4x" class="avatar avatar-50" height="50" width="50"><span class="actnbr-menu__label">مجتمع خارقو العادة - Extraordinary Society</span></a></div>																	<div class="actnbr-panel__group">
+										<div class="actnbr-message no-display" aria-live="polite"></div>
+										<form method="post" action="https://web.archive.org/web/20261112223144/https://subscribe.wordpress.com/" accept-charset="utf-8" class="no-display">
+																						<input type="email" name="email" placeholder="Want updates? Enter your email" class="actnbr-email-field" aria-label="Email address" style="">
+											<input type="hidden" name="action" value="subscribe" style="">
+											<input type="hidden" name="blog_id" value="164105916" style="">
+											<input type="hidden" name="source" value="https://wumdh.home.blog/blog-feed/" style="">
+											<input type="hidden" name="sub-type" value="actionbar-follow" style="">
+											<input type="hidden" id="_wpnonce" name="_wpnonce" value="4bf51dd676" style="">											<button type="submit" class="actnbr-button">Sign me up</button>
+										</form>
+										<p class="actnbr-login-nudge">
+											Have a WordPress.com account? <a href="https://web.archive.org/web/20261112223144/https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fwumdh.home.blog%252F2019%252F07%252F06%252Fexample-post%252F">Log in now.</a>										</p>
+									</div>
+																	</div>
+							</div>
+						</li>
+									<li class="actnbr-ellipsis actnbr-hidden">
+					<button type="button" class="actnbr-more-toggle" aria-haspopup="true" aria-expanded="false" aria-label="More options">
+						<svg class="actnbr-icon actnbr-icon-more-horizontal" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" fill="currentColor"><path d="M11 13h2v-2h-2v2zm-6 0h2v-2H5v2zm12-2v2h2v-2h-2z"></path></svg>					</button>
+					<div class="actnbr-popover actnbr-menu" role="menu" aria-label="Site options">
+						<div class="actnbr-menu__group" role="group"><a role="menuitem" class="actnbr-menu__item actnbr-sitename" href="https://web.archive.org/web/20261112223144/https://wumdh.home.blog/"><img loading="lazy" alt="" src="https://web.archive.org/web/20261112223144im_/https://wumdh.home.blog/wp-content/uploads/2019/07/cropped-twitter_logo-1.png?w=50" srcset="https://web.archive.org/web/20261112223144im_/https://wumdh.home.blog/wp-content/uploads/2019/07/cropped-twitter_logo-1.png?w=50 1x, https://web.archive.org/web/20261112223144im_/https://wumdh.home.blog/wp-content/uploads/2019/07/cropped-twitter_logo-1.png?w=75 1.5x, https://web.archive.org/web/20261112223144im_/https://wumdh.home.blog/wp-content/uploads/2019/07/cropped-twitter_logo-1.png?w=100 2x, https://web.archive.org/web/20261112223144im_/https://wumdh.home.blog/wp-content/uploads/2019/07/cropped-twitter_logo-1.png?w=150 3x, https://web.archive.org/web/20261112223144im_/https://wumdh.home.blog/wp-content/uploads/2019/07/cropped-twitter_logo-1.png?w=200 4x" class="avatar avatar-50" height="50" width="50"><span class="actnbr-menu__label">مجتمع خارقو العادة - Extraordinary Society</span></a></div><div class="actnbr-menu__group" role="group"><a role="menuitem" class="actnbr-menu__item actnbr-reader" href="https://web.archive.org/web/20261112223144/https://wordpress.com/reader/feeds/97712844"><span class="actnbr-menu__label">View site in Reader</span></a></div><div class="actnbr-menu__group" role="group"><a role="menuitem" class="actnbr-menu__item actnbr-subs" href="https://web.archive.org/web/20261112223144/https://subscribe.wordpress.com/"><span class="actnbr-menu__label">Manage subscriptions</span></a><a role="menuitem" class="actnbr-menu__item actnbr-signup" href="https://web.archive.org/web/20261112223144/https://wordpress.com/start/"><span class="actnbr-menu__label">Sign up</span></a><a role="menuitem" class="actnbr-menu__item actnbr-login" href="https://web.archive.org/web/20261112223144/https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fwumdh.home.blog%252F2019%252F07%252F06%252Fexample-post%252F"><span class="actnbr-menu__label">Log in</span></a></div><div class="actnbr-menu__group" role="group"><a role="menuitem" class="actnbr-menu__item flb-report" href="https://web.archive.org/web/20261112223144/https://wordpress.com/abuse/?report_url=https://wumdh.home.blog" target="_blank" rel="noopener noreferrer"><span class="actnbr-menu__label">Report this content</span><span class="actnbr-menu__icon"><svg class="actnbr-icon actnbr-icon-external" width="18" height="18" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" fill="currentColor"><path d="M19.5 4.5h-7V6h4.44l-5.97 5.97 1.06 1.06L18 7.06v4.44h1.5v-7Zm-13 1a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-3H17v3a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h3V5.5h-3Z"></path></svg></span></a></div><div class="actnbr-menu__group" role="group"><a role="menuitem" class="actnbr-menu__item actnbr-fold" href=""><span class="actnbr-menu__label">Collapse this bar</span></a></div>					</div>
+				</li>
+			</ul>
+		</div>
+		<script>
+window.addEventListener( "DOMContentLoaded", function () {
+				var link = document.createElement( "link" );
+				link.href = "\/wp-content\/mu-plugins\/jetpack-plugin\/sun\/jetpack_vendor\/automattic\/jetpack-newsletter\/src\/..\/build\/action-bar.css?ver=35dd33285eb46dc308dd";
+				link.rel = "stylesheet";
+				document.head.appendChild( link );
+
+				var script = document.createElement( "script" );
+				script.src = "\/wp-content\/mu-plugins\/jetpack-plugin\/sun\/jetpack_vendor\/automattic\/jetpack-newsletter\/src\/..\/build\/action-bar.js?ver=35dd33285eb46dc308dd";
+				document.body.appendChild( script );
+			} );
+</script>
+
+	<script type="text/javascript">
+		(function () {
+			var wpcom_reblog = {
+				source: 'toolbar',
+
+				toggle_reblog_box_flair: function (obj_id, post_id) {
+
+					// Go to site selector. This will redirect to their blog if they only have one.
+					const postEndpoint = `https://web.archive.org/web/20261112223144/https://wordpress.com/post`;
+
+					// Ideally we would use the permalink here, but fortunately this will be replaced with the 
+					// post permalink in the editor.
+					const originalURL = `${ document.location.href }?page_id=${ post_id }`; 
+					
+					const url =
+						postEndpoint +
+						'?url=' +
+						encodeURIComponent( originalURL ) +
+						'&is_post_share=true' +
+						'&v=5';
+
+					const redirect = function () {
+						if (
+							! window.open( url, '_blank' )
+						) {
+							location.href = url;
+						}
+					};
+
+					if ( /Firefox/.test( navigator.userAgent ) ) {
+						setTimeout( redirect, 0 );
+					} else {
+						redirect();
+					}
+				},
+			};
+
+			window.wpcom_reblog = wpcom_reblog;
+		})();
+	</script>
+<script data-wp-strategy="defer" defer="" id="wpcom-marketing-bar-js" src="/web/20261112223144js_/https://wumdh.home.blog/wp-content/blog-plugins/marketing-bar/js/marketing-bar.js?m=1793642299i&amp;ver=20261023"></script>
+<script id="wp-hooks-js" src="/web/20261112223144js_/https://wumdh.home.blog/wp-content/plugins/gutenberg-core/v24.3.1/build/scripts/hooks/index.min.js?m=1793745904i&amp;ver=f0f188028580e8dc1255"></script>
+<script id="wp-i18n-js" src="/web/20261112223144js_/https://wumdh.home.blog/wp-content/plugins/gutenberg-core/v24.3.1/build/scripts/i18n/index.min.js?m=1793745904i&amp;ver=1dfe7db3940c23ea9216"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script crossorigin="anonymous" type="text/javascript" src="/web/20261112223144js_/https://wumdh.home.blog/wp-content/mu-plugins/jetpack-mu-wpcom-plugin/sun/jetpack_vendor/automattic/jetpack-classic-theme-helper/dist/responsive-videos/responsive-videos.js?m=1790810169i"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://web.archive.org/web/20261112223144/https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/","ext":".png","svgUrl":"https://web.archive.org/web/20261112223144/https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/svg/","svgExt":".svg","source":{"concatemoji":"/wp-includes/js/wp-emoji-release.min.js?m=1783090810i&ver=7.2-alpha-64095"}}
+</script>
+<script type="module">var _____WB$wombat$assign$function_____=function(name){return (globalThis._wb_wombat && globalThis._wb_wombat.local_init && globalThis._wb_wombat.local_init(name))||globalThis[name];};if(!globalThis.__WB_pmw){globalThis.__WB_pmw=function(obj){this.__WB_source=obj;return this;}}var window = _____WB$wombat$assign$function_____("window");
+var self = _____WB$wombat$assign$function_____("self");
+var document = _____WB$wombat$assign$function_____("document");
+var location = _____WB$wombat$assign$function_____("location");
+var top = _____WB$wombat$assign$function_____("top");
+var parent = _____WB$wombat$assign$function_____("parent");
+var frames = _____WB$wombat$assign$function_____("frames");
+var opener = _____WB$wombat$assign$function_____("opener");
+
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\udec8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=/wp-includes/js/wp-emoji-loader.min.js
+</script>
+<script src="//web.archive.org/web/20261112223144js_/https://stats.wp.com/w.js?71" defer=""></script> <script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'164105916','blog_tz':'0','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+		// Prevent sending pageview tracking from WP-Admin pages.
+		_stq.push(['view', {'blog':'164105916','v':'wpcom','tz':'0','user_id':'0','arch_home':'1','subd':'wumdhhome'}]);
+		_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE0/bU8yQkx3RTR3RmZTSndoTltKYUtEYz9mTHN3MlJ2cWh3ZmwzZGYubUxraS83bFJ8by9SUXlTXWIrWEkxPVlBbzlkUWtKK3RzX0VvSkdnOHpCK2csXVtySFZOclExLVRLZ3lLYUR4OTBWYmIzYlZ1THg9Pzc1Q25FTWYyU0RadkxScFlMNnx5LGJxa21zSGwzbmpad1kmM2szZWdKJlRoMUc/YnpkdEZbflNteFhGVkZCLUczSz9VX0hNb1taZnQzbltfNlg2d1pOY28xW249QkZ2PTFyQnlYSVtFXXVwNHgra2VMYXVXSlFyQk8r'}]);
+_stq.push([ 'clickTrackerInit', '164105916', '0' ]);
+</script>
+<noscript><img src="https://web.archive.org/web/20261112223144im_/https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;" alt=""/></noscript>
+<meta id="bilmur" property="bilmur:data" content="" data-provider="wordpress.com" data-service="simple" data-site-tz="Etc/GMT-0" data-custom-props="{&quot;logged_in&quot;:&quot;0&quot;,&quot;wptheme&quot;:&quot;pub\/modern-business&quot;,&quot;wptheme_is_block&quot;:&quot;0&quot;}">
+		<script defer="" src="/web/20261112223144js_/https://wumdh.home.blog/wp-content/js/bilmur.min.js?i=20&amp;m=202646"></script> 	<div id="marketingbar" class="marketing-bar noskim is-redesign-treatment" data-event-properties="{&quot;is_current_user_blog_owner&quot;:false}" data-cta-redirect="https://public-api.wordpress.com/wpcom/v2/marketing-bar/cta?locale=en"><div class="marketing-bar-text"><span class="marketing-bar-text-long">Create your own website, free on WordPress.com.</span><span class="marketing-bar-text-short">Create your own website.</span></div><a class="marketing-bar-button" href="https://web.archive.org/web/20261112223144/https://wordpress.com/start/?ref=marketing_bar">Start free</a><a class="marketing-bar-link" tabindex="-1" aria-label="Create your website at WordPress.com" href="https://web.archive.org/web/20261112223144/https://wordpress.com/start/?ref=marketing_bar"></a></div>
+
+
+
+<style>img#wpstats {
+			position: absolute !important;
+			clip: rect(0, 0, 0, 0);
+			padding: 0 !important;
+			border: 0 !important;
+			height: 0 !important;
+			width: 0 !important;
+			overflow: hidden;
+		}</style><img src="https://web.archive.org/web/20261112092832/https://pixel.wp.com/g.gif?blog=164105916&amp;v=wpcom&amp;tz=0&amp;user_id=0&amp;arch_home=1&amp;subd=wumdhhome&amp;host=wumdh.home.blog&amp;ref=&amp;rand=0.8801354595336077" alt="" id="wpstats"><iframe scrolling="no" id="wpcom_remote_login_key" src="https://web.archive.org/web/20261112223144/https://r-login.wordpress.com/remote-login.php?wpcom_remote_login=key&amp;origin=aHR0cHM6Ly93dW1kaC5ob21lLmJsb2c%3D&amp;wpcomid=164105916&amp;time=1794522705" style="display: none;" allow="autoplay 'self'; fullscreen 'self'"></iframe><script src="/web/20261112223144js_/https://wumdh.home.blog/wp-content/mu-plugins/jetpack-plugin/sun/jetpack_vendor/automattic/jetpack-newsletter/src/../build/action-bar.js?ver=35dd33285eb46dc308dd"></script></body></html>

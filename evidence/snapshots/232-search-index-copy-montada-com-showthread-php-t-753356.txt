@@ -1,0 +1,8 @@
+URL: http://www.montada.com/showthread.php?t=753356
+Source: web search engine index (cached page text), retrieved 2026-11-13 04:59 Asia/Kuwait.
+The original page is blocked/unreachable from the capture box and has no Wayback Machine capture.
+
+الموضوع: التعريب الكامل للعبة GTA San Andreas
+http://www.montada.com/showthread.php?t=753356
+Search index summary (page body not returned verbatim): A 2009 thread on montada.com by member Ah2009 offering a full Arabic translation of GTA San Andreas (PC) based on Google Translate. Installation: extract the attached pcFiles.rar, place text\american.gxt and models\fonts.txd in the game folders (after backing up), accept replacing the originals, and enable SUBTITLES under Display settings for dialogue to appear in Arabic.
+Repo note (evidence/pages/1993-2026-expanded-primary-archives.md): the thread states «التعريب ليس جيد 100% لأن الترجمة تمت عن طريق جوجل».

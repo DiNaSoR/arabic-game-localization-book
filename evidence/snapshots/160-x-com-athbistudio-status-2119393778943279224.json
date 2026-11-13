@@ -1,0 +1,87 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/athbistudio/status/2119393778943279224",
+  "id": "2119393778943279224",
+  "text": "فاينل فانتسي 7 إنترناشونال على الـPS1 بالعربي! 🎮\n\n14 دقيقة من تجربة اللعبة بعد تعريب النصوص وتحويل واجهتها بالكامل من اليسار إلى اليمين، لتناسب اللغة العربية كما لو كانت مصممة لها من الأصل!\n\nإذا أعجبك المقطع، لا تنسى اللايك والمتابعة ❤️\nhttps://youtu.be/4zWUoO2ZPSI",
+  "raw_text": {
+   "text": "فاينل فانتسي 7 إنترناشونال على الـPS1 بالعربي! 🎮\n\n14 دقيقة من تجربة اللعبة بعد تعريب النصوص وتحويل واجهتها بالكامل من اليسار إلى اليمين، لتناسب اللغة العربية كما لو كانت مصممة لها من الأصل!\n\nإذا أعجبك المقطع، لا تنسى اللايك والمتابعة ❤️\nhttps://t.co/aq5yj3XG6n",
+   "display_text_range": [
+    0,
+    260
+   ],
+   "facets": [
+    {
+     "type": "url",
+     "indices": [
+      237,
+      260
+     ],
+     "original": "https://t.co/aq5yj3XG6n",
+     "replacement": "https://youtu.be/4zWUoO2ZPSI",
+     "display": "youtu.be/4zWUoO2ZPSI"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "athbistudio",
+   "url": "https://x.com/athbistudio",
+   "id": "1294692795698089985",
+   "followers": 1595,
+   "following": 3,
+   "likes": 39,
+   "media_count": 98,
+   "name": "AthbiStudio",
+   "description": "منصة لتعريب الألعاب وتطويعها لتجربة عربية أصيلة.\nعرّبنا ٣٠+ لعبة مجانًا 🎮 فاينل فانتسي • بوكيمون • ماذر • كاسلفانيا • سوبر روبوت وورز. طبّق التعريب من المتصفح",
+   "raw_description": {
+    "text": "منصة لتعريب الألعاب وتطويعها لتجربة عربية أصيلة.\nعرّبنا ٣٠+ لعبة مجانًا 🎮 فاينل فانتسي • بوكيمون • ماذر • كاسلفانيا • سوبر روبوت وورز. طبّق التعريب من المتصفح",
+    "facets": []
+   },
+   "location": "خلف أفق الحدث",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1294692795698089985/1792260440",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1708880442546442241/c_lnF0dm_200x200.jpg",
+   "joined": "Sat Aug 15 17:50:03 +0000 2020",
+   "protected": false,
+   "website": {
+    "url": "https://athbistudio.pages.dev",
+    "display_url": "athbistudio.pages.dev"
+   },
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 10,
+  "retweets": 5,
+  "likes": 51,
+  "bookmarks": 27,
+  "quotes": 1,
+  "created_at": "Sun Nov 08 11:37:07 +0000 2026",
+  "created_timestamp": 1794137827,
+  "possibly_sensitive": false,
+  "views": 2417,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "card": {
+   "url": "https://youtu.be/4zWUoO2ZPSI",
+   "title": "فاينل فانتسي 7 إنترناشونال على الـPS1 بالعربي! 🎮",
+   "description": "قريبا سيصدر على موقع AthbiStudio إذا أعجبك المقطع، لا تنسى اللايك ❤...",
+   "domain": "www.youtube.com",
+   "image": {
+    "width": 800,
+    "height": 419,
+    "url": "https://pbs.twimg.com/card_img/2119393044218761216/vIhjQ5p-?format=jpg&name=800x419"
+   }
+  },
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

@@ -1,0 +1,12 @@
+URL: https://www.romhacking.net/translations/7798/
+Source: web search engine index (cached page text), retrieved 2026-11-13 04:59 Asia/Kuwait.
+The original page is blocked/unreachable from the capture box and has no Wayback Machine capture.
+
+Romhacking.net - Translations - Pokemon Crystal Arabic
+https://www.romhacking.net/translations/7798/
+Translation Information — Pocket Monsters: Crystal Version
+Author: OmegaStar | Game: Pokémon: Crystal Version | Platform: Game Boy | Category: Fully Playable | Genre: Role Playing | Language: Arabic | Version: 1.0 | Release Date: 05 October 2026 | Downloads: 31 | Last Modified: 05 October 2026
+Description: Pokémon Crystal, in Arabic. Every line the game can show you — dialogue, menus, battle text, item and move names, Pokédex entries, the trainer card, phone calls, the Battle Tower — reads right to left, in Arabic script, with the letters joined.
+That last part is why this took a renderer rather than a font. The game draws one 8×8 tile per character, left to right. Arabic reads the other way, each letter changes shape depending on its neighbors, and eight pixels of height is not enough to stay legible. So the hack carries its own text engine: a right-to-left, shaping-aware 8×16 renderer that runs alongside the original 8×8 one and borrows VRAM from the walking-sprite pool a glyph at a time.
+This is the first release. There might still be some bugs, I am still actively testing and debugging.
+ROM / ISO Information: Database match: Pokemon - Crystal Version (USA, Europe) (Rev 1); No-Intro: Game Boy/Color (v. 20210227-015730); File/ROM SHA-1: F2F52230B536214EF7C9924F483392993E226CFB; File/ROM CRC32: 3358E30A

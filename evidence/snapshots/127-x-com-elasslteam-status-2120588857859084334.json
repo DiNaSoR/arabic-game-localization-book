@@ -1,0 +1,85 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/ELASSLTEAM/status/2120588857859084334",
+  "id": "2120588857859084334",
+  "text": "@EternalDreamAR يعني ما تستحي ؟ بالاترو ارسل لك المحادثة وتصميم اللوغو من كلود ؟ وكل المحادثة الخاصة باللعبة ؟  ثانيا لم نأخد فلس اصفر بكل تعريب موجود في الموقع .  \n\nاتق لله في نفسك",
+  "raw_text": {
+   "text": "@EternalDreamAR يعني ما تستحي ؟ بالاترو ارسل لك المحادثة وتصميم اللوغو من كلود ؟ وكل المحادثة الخاصة باللعبة ؟  ثانيا لم نأخد فلس اصفر بكل تعريب موجود في الموقع .  \n\nاتق لله في نفسك",
+   "display_text_range": [
+    16,
+    181
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      15
+     ],
+     "original": "EternalDreamAR",
+     "id": "3677595257"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "ELASSLTEAM",
+   "url": "https://x.com/ELASSLTEAM",
+   "id": "2113282155937746944",
+   "followers": 10,
+   "following": 58,
+   "likes": 499,
+   "media_count": 1,
+   "name": "فريق الأصل للتعريب",
+   "description": "🎮 فريق الأصل | تألّق لغة الضاد في ألعاب الفيديو\n🕹️ نعرّب ألعابكم المفضّلة بالكامل\n📱 سويتش • بلايستيشن • حاسوب\n⬇️ تعريباتنا هنا:\nhttp://elassl-team.com",
+   "raw_description": {
+    "text": "🎮 فريق الأصل | تألّق لغة الضاد في ألعاب الفيديو\n🕹️ نعرّب ألعابكم المفضّلة بالكامل\n📱 سويتش • بلايستيشن • حاسوب\n⬇️ تعريباتنا هنا:\nhttps://t.co/G5OY1gby7a",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       128,
+       151
+      ],
+      "original": "https://t.co/G5OY1gby7a",
+      "replacement": "http://elassl-team.com",
+      "display": "elassl-team.com"
+     }
+    ]
+   },
+   "location": "المملكة المغربية الشريفة  🇲🇦",
+   "banner_url": "https://pbs.twimg.com/profile_banners/2113282155937746944/1792681616",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2113285970032312320/NDbWT9bb_200x200.png",
+   "joined": "Thu Oct 22 14:52:37 +0000 2026",
+   "protected": false,
+   "website": {
+    "url": "http://elassl-team.com",
+    "display_url": "elassl-team.com"
+   },
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 0,
+  "retweets": 0,
+  "likes": 1,
+  "bookmarks": 2,
+  "quotes": 0,
+  "created_at": "Wed Nov 11 18:45:57 +0000 2026",
+  "created_timestamp": 1794422757,
+  "views": 202,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": "EternalDreamAR",
+  "replying_to_status": "2120532598959022495",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

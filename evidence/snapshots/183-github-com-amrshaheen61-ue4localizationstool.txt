@@ -1,0 +1,181 @@
+URL: https://github.com/amrshaheen61/UE4LocalizationsTool
+Final: https://github.com/amrshaheen61/UE4LocalizationsTool
+Title: GitHub - amrshaheen61/UE4LocalizationsTool: simple tool to edit unreal engine 4 text files · GitHub
+HTTP: 200
+
+Skip to content
+Navigation Menu
+Products
+Developers
+Businesses
+Resources
+Pricing
+Search
+/
+Sign in
+Sign up
+This repository was archived by the owner on Jan 25, 2024. It is now read-only.
+amrshaheen61
+UE4LocalizationsTool
+Repository navigation
+Code
+Issues
+Pull requests
+Actions
+Security and quality
+Insights
+UE4LocalizationsTool
+Public archive
+Notifications
+Fork30
+ (30)
+Star169
+ (169)
+master
+1 Branch
+18 Tags
+Code
+Latest commit
+amrshaheen61
+Changes for v2.6.1
+20b5640
+ · 
+History
+38 Commits
+Folders and files
+Name	Last commit message	Last commit date
+
+UE4localizationsTool
+	
+Changes for v2.6.1
+	
+
+
+.gitattributes
+	
+Add .gitattributes, .gitignore, and README.md.
+	
+
+
+.gitignore
+	
+Add .gitattributes, .gitignore, and README.md.
+	
+
+
+LICENSE
+	No commit message	
+
+
+README.md
+	
+Changes for v2.1
+	
+
+
+UE4localizationsTool.sln
+	
+Add project files.
+	
+Repository files navigation
+README
+MIT license
+UE4LocalizationsTool
+
+simple tool to edit unreal engine 4 text files.
+
+By: Amr Shaheen
+
+Command Lines
+for export single file use:
+UE4localizationsTool.exe  export <(Locres/Uasset/Umap) FilePath>  <Options>
+Example:
+UE4localizationsTool.exe export Actions.uasset
+
+for import single file use:
+UE4localizationsTool.exe  import <(txt) FilePath>  <Options>
+Example:
+UE4localizationsTool.exe import Actions.uasset.txt
+
+for import single file without rename it use:
+UE4localizationsTool.exe  -import <(txt) FilePath>  <Options>
+Example:
+UE4localizationsTool.exe -import Actions.uasset.txt
+
+for export many files from folder use:
+UE4localizationsTool.exe  exportall  <Folder> <TxtFile> <Options>
+Example:
+UE4localizationsTool.exe exportall Actions text.txt
+
+for import many files in folder use:
+UE4localizationsTool.exe  importall  <Folder> <TxtFile>  <Options>
+Example:
+UE4localizationsTool.exe importall Actions text.txt
+
+for import many files in folder without rename files use:
+UE4localizationsTool.exe  -importall  <Folder> <TxtFile>  <Options>
+Example:
+UE4localizationsTool.exe -importall Actions text.txt
+
+Options: (Remember to apply the same OPTIONS when importing)
+To use last filter you applied before in GUI use: (apply only in name table)
+-f or -filter 
+Example:
+UE4localizationsTool.exe export Actions.uasset -filter
+
+To export file without including name table use:
+-nn or -NoName
+Example:
+UE4localizationsTool.exe export Actions.uasset -NoName
+
+To use method 2 use:(trying to catch text without using ue4 asset structure (for uasset and umap only))
+-m2 or -method2
+Examplemethod2
+UE4localizationsTool.exe export Actions.uasset -method2
+UE4localizationsTool.exe export Actions.uasset -method2 -NoName -filter
+
+About
+
+simple tool to edit unreal engine 4 text files
+
+Topics
+locres
+uassets
+uexp
+unreal-engine-4
+Resources
+Readme
+MIT license
+Activity
+Stars
+169 stars
+Watchers
+1 watching
+Forks
+30 forks
+Report repository
+Releases
+18
+ (18)
+UE4localizationsTool v2.7 (final version)
+Latest
++ 17 releases
+Contributors
+1
+ (1)
+amrshaheen61Amr Shaheen
+Languages
+C#
+100%
+Footer
+© 2026 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Community
+Docs
+Contact
+Manage cookies
+Do not share my personal information

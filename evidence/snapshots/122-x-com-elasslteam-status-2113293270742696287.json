@@ -1,0 +1,134 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/ELASSLTEAM/status/2113293270742696287",
+  "id": "2113293270742696287",
+  "text": "🎮 انطلقنا!\n«فريق الأصل» يعرّب ألعابكم المفضّلة بالكامل… لتعيشوها بلغة الضاد ✨\n\n🕹️ سويتش • بلايستيشن • حاسوب\n🌐 https://elassl-team.com\n\nما اللعبة التي تتمنّون تعريبها؟ 👇\n#فريق_الأصل #تعريب_الألعاب",
+  "raw_text": {
+   "text": "🎮 انطلقنا!\n«فريق الأصل» يعرّب ألعابكم المفضّلة بالكامل… لتعيشوها بلغة الضاد ✨\n\n🕹️ سويتش • بلايستيشن • حاسوب\n🌐 https://t.co/aQAOK4lwg0\n\nما اللعبة التي تتمنّون تعريبها؟ 👇\n#فريق_الأصل #تعريب_الألعاب https://t.co/bUGVBqosZY",
+   "display_text_range": [
+    0,
+    195
+   ],
+   "facets": [
+    {
+     "type": "url",
+     "indices": [
+      110,
+      133
+     ],
+     "original": "https://t.co/aQAOK4lwg0",
+     "replacement": "https://elassl-team.com",
+     "display": "elassl-team.com"
+    },
+    {
+     "type": "hashtag",
+     "indices": [
+      169,
+      180
+     ],
+     "original": "فريق_الأصل"
+    },
+    {
+     "type": "hashtag",
+     "indices": [
+      181,
+      195
+     ],
+     "original": "تعريب_الألعاب"
+    },
+    {
+     "type": "media",
+     "indices": [
+      196,
+      219
+     ],
+     "id": "2113293190472122368",
+     "display": "pic.x.com/bUGVBqosZY",
+     "original": "https://t.co/bUGVBqosZY",
+     "replacement": "https://x.com/ELASSLTEAM/status/2113293270742696287/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "ELASSLTEAM",
+   "url": "https://x.com/ELASSLTEAM",
+   "id": "2113282155937746944",
+   "followers": 10,
+   "following": 58,
+   "likes": 499,
+   "media_count": 1,
+   "name": "فريق الأصل للتعريب",
+   "description": "🎮 فريق الأصل | تألّق لغة الضاد في ألعاب الفيديو\n🕹️ نعرّب ألعابكم المفضّلة بالكامل\n📱 سويتش • بلايستيشن • حاسوب\n⬇️ تعريباتنا هنا:\nhttp://elassl-team.com",
+   "raw_description": {
+    "text": "🎮 فريق الأصل | تألّق لغة الضاد في ألعاب الفيديو\n🕹️ نعرّب ألعابكم المفضّلة بالكامل\n📱 سويتش • بلايستيشن • حاسوب\n⬇️ تعريباتنا هنا:\nhttps://t.co/G5OY1gby7a",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       128,
+       151
+      ],
+      "original": "https://t.co/G5OY1gby7a",
+      "replacement": "http://elassl-team.com",
+      "display": "elassl-team.com"
+     }
+    ]
+   },
+   "location": "المملكة المغربية الشريفة  🇲🇦",
+   "banner_url": "https://pbs.twimg.com/profile_banners/2113282155937746944/1792681616",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2113285970032312320/NDbWT9bb_200x200.png",
+   "joined": "Thu Oct 22 14:52:37 +0000 2026",
+   "protected": false,
+   "website": {
+    "url": "http://elassl-team.com",
+    "display_url": "elassl-team.com"
+   },
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 2,
+  "retweets": 0,
+  "likes": 1,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Thu Oct 22 15:35:53 +0000 2026",
+  "created_timestamp": 1792683353,
+  "possibly_sensitive": false,
+  "views": 135,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "2113293190472122368",
+     "url": "https://pbs.twimg.com/media/HVPs9cRXwAAoL2x.jpg?name=orig",
+     "width": 1080,
+     "height": 1350
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "2113293190472122368",
+     "url": "https://pbs.twimg.com/media/HVPs9cRXwAAoL2x.jpg?name=orig",
+     "width": 1080,
+     "height": 1350
+    }
+   ]
+  },
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

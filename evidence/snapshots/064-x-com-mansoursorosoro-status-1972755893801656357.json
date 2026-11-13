@@ -1,0 +1,65 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/MansourSorosoro/status/1972755893801656357",
+  "id": "1972755893801656357",
+  "text": "كلام عجيب كثير مثل هذا يكتبونه في حساباتهم ثم يحذفونه، مثلما حصل مع إعلاناتهم التسويقية لمصيبتهم الأخيرة (سايلنت ف)\n\nهذا الكلام على ألسنتهم يفضحهم أكثر من أي شيء آخر.\nخاصة عندما يعروهم الجنون واللهفة على تلك الخمسة ريالات.\nلذا أكتفي أنها \"قصة غيري، وهم يحكونها بأفعالهم الشنيعة.\"",
+  "raw_text": {
+   "text": "كلام عجيب كثير مثل هذا يكتبونه في حساباتهم ثم يحذفونه، مثلما حصل مع إعلاناتهم التسويقية لمصيبتهم الأخيرة (سايلنت ف)\n\nهذا الكلام على ألسنتهم يفضحهم أكثر من أي شيء آخر.\nخاصة عندما يعروهم الجنون واللهفة على تلك الخمسة ريالات.\nلذا أكتفي أنها \"قصة غيري، وهم يحكونها بأفعالهم الشنيعة.\"",
+   "display_text_range": [
+    0,
+    279
+   ],
+   "facets": []
+  },
+  "author": {
+   "screen_name": "MansourSorosoro",
+   "url": "https://x.com/MansourSorosoro",
+   "id": "1099354084245688321",
+   "followers": 4889,
+   "following": 688,
+   "likes": 9308,
+   "media_count": 1295,
+   "name": "TheMansour",
+   "description": "منصور. حساب شخصي.\nهواه العربية و تعديل الألعاب.\nمؤسس فريق @EternalDreamAR .\nEN/FR→AR Localization/Implementation Specialist ✍️👍\nContact: monta@translate.games",
+   "raw_description": {
+    "text": "منصور. حساب شخصي.\nهواه العربية و تعديل الألعاب.\nمؤسس فريق @EternalDreamAR .\nEN/FR→AR Localization/Implementation Specialist ✍️👍\nContact: monta@translate.games",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1099354084245688321/1682976154",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1883286833775136768/q3MvF_pp_200x200.jpg",
+   "joined": "Sat Feb 23 17:03:33 +0000 2019",
+   "protected": false,
+   "website": {
+    "url": "http://translate.games",
+    "display_url": "translate.games"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 0,
+  "retweets": 0,
+  "likes": 1,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Mon Sep 29 20:10:31 +0000 2025",
+  "created_timestamp": 1759176631,
+  "views": 531,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": "MansourSorosoro",
+  "replying_to_status": "1972747177220030771",
+  "source": "Twitter Web App",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

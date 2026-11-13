@@ -1,0 +1,154 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/MansourSorosoro/status/1648099144798445569",
+  "id": "1648099144798445569",
+  "text": "التصرفات الذي حكيت عنها أول هذه السنة مستمرة إلى يومنا هذا والله المستعان، وهذا ثالث مشروع كبير يستهدف من شياطين الإنس وفي العشر الأواخر.\n\nحمزة الحمود له من الدنيا ما يكفيه من هموم ولا ينقصه استقعاد أصحاب مدونات السرقة ممن يبلغ عن عمله ثم يعيد رفعها عنده وينسبها لنفسه.",
+  "raw_text": {
+   "text": "التصرفات الذي حكيت عنها أول هذه السنة مستمرة إلى يومنا هذا والله المستعان، وهذا ثالث مشروع كبير يستهدف من شياطين الإنس وفي العشر الأواخر.\n\nحمزة الحمود له من الدنيا ما يكفيه من هموم ولا ينقصه استقعاد أصحاب مدونات السرقة ممن يبلغ عن عمله ثم يعيد رفعها عنده وينسبها لنفسه.",
+   "display_text_range": [
+    0,
+    269
+   ],
+   "facets": []
+  },
+  "author": {
+   "screen_name": "MansourSorosoro",
+   "url": "https://x.com/MansourSorosoro",
+   "id": "1099354084245688321",
+   "followers": 4889,
+   "following": 688,
+   "likes": 9308,
+   "media_count": 1295,
+   "name": "TheMansour",
+   "description": "منصور. حساب شخصي.\nهواه العربية و تعديل الألعاب.\nمؤسس فريق @EternalDreamAR .\nEN/FR→AR Localization/Implementation Specialist ✍️👍\nContact: monta@translate.games",
+   "raw_description": {
+    "text": "منصور. حساب شخصي.\nهواه العربية و تعديل الألعاب.\nمؤسس فريق @EternalDreamAR .\nEN/FR→AR Localization/Implementation Specialist ✍️👍\nContact: monta@translate.games",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1099354084245688321/1682976154",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1883286833775136768/q3MvF_pp_200x200.jpg",
+   "joined": "Sat Feb 23 17:03:33 +0000 2019",
+   "protected": false,
+   "website": {
+    "url": "http://translate.games",
+    "display_url": "translate.games"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 3,
+  "retweets": 0,
+  "likes": 22,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Mon Apr 17 23:00:30 +0000 2023",
+  "created_timestamp": 1681772430,
+  "views": 3866,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "quote": {
+   "url": "https://x.com/ArabicTrilogy/status/1648075135838986246",
+   "id": "1648075135838986246",
+   "text": "الحسد لدى بعض الناس شي مو طبيعي (طبعا معروفين ) اشخاص مريضين نفسياً راح يتم نشر التعريب مجدداً مرة و اثنين و عشر و مجتمع اللاعبين العرب يعرف من يقدم لهذه الساحة و من يسعى للتخريب",
+   "raw_text": {
+    "text": "الحسد لدى بعض الناس شي مو طبيعي (طبعا معروفين ) اشخاص مريضين نفسياً راح يتم نشر التعريب مجدداً مرة و اثنين و عشر و مجتمع اللاعبين العرب يعرف من يقدم لهذه الساحة و من يسعى للتخريب https://t.co/hliGU3GVQX",
+    "display_text_range": [
+     0,
+     178
+    ],
+    "facets": [
+     {
+      "type": "media",
+      "indices": [
+       179,
+       202
+      ],
+      "id": "1648075117040115712",
+      "display": "pic.x.com/hliGU3GVQX",
+      "original": "https://t.co/hliGU3GVQX",
+      "replacement": "https://x.com/ArabicTrilogy/status/1648075135838986246/photo/1"
+     }
+    ]
+   },
+   "author": {
+    "screen_name": "ArabicTrilogy",
+    "url": "https://x.com/ArabicTrilogy",
+    "id": "1482082940637134851",
+    "followers": 7371,
+    "following": 126,
+    "likes": 1471,
+    "media_count": 99,
+    "name": "Hamza Alhamoud",
+    "description": "معرب العاب مستقل",
+    "raw_description": {
+     "text": "معرب العاب مستقل",
+     "facets": []
+    },
+    "location": "Syria",
+    "banner_url": "https://pbs.twimg.com/profile_banners/1482082940637134851/1664009766",
+    "avatar_url": "https://pbs.twimg.com/profile_images/1639377566812319745/2FCHf4Ve_200x200.jpg",
+    "joined": "Fri Jan 14 20:11:32 +0000 2022",
+    "protected": false,
+    "website": null,
+    "verification": {
+     "verified": false,
+     "verified_at": null,
+     "type": null
+    },
+    "avatar_color": null
+   },
+   "replies": 11,
+   "retweets": 5,
+   "likes": 77,
+   "bookmarks": 3,
+   "quotes": 1,
+   "created_at": "Mon Apr 17 21:25:06 +0000 2023",
+   "created_timestamp": 1681766706,
+   "possibly_sensitive": false,
+   "views": 17172,
+   "is_note_tweet": false,
+   "community_note": null,
+   "lang": "ar",
+   "replying_to": null,
+   "replying_to_status": null,
+   "media": {
+    "all": [
+     {
+      "type": "photo",
+      "id": "1648075117040115712",
+      "url": "https://pbs.twimg.com/media/Ft8jlkpWIAAXcE_.png?name=orig",
+      "width": 446,
+      "height": 256
+     }
+    ],
+    "photos": [
+     {
+      "type": "photo",
+      "id": "1648075117040115712",
+      "url": "https://pbs.twimg.com/media/Ft8jlkpWIAAXcE_.png?name=orig",
+      "width": 446,
+      "height": 256
+     }
+    ]
+   },
+   "source": "Twitter Web App",
+   "twitter_card": "summary_large_image",
+   "color": null,
+   "provider": "twitter",
+   "reposted_by": null
+  },
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

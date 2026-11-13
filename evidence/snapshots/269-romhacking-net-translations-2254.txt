@@ -1,0 +1,165 @@
+URL: https://www.romhacking.net/translations/2254/
+Archived copy: https://web.archive.org/web/20230324004616/https://www.romhacking.net/translations/2254/
+
+Home Forum Sections Community Submissions Changes Search Help   
+
+
+Sections
+Home
+Documents
+Utilities
+Translations
+ROM Hacks
+Games
+Homebrew
+Fonts
+Abandoned
+News Archive
+Community
+Forum
+Wiki
+History
+Chat
+Community Database
+Links
+Submissions
+Submit Files
+Submit News
+Queue Status
+Public Maintenance
+The Scratchpad
+Online ROM Patcher
+Online ROM Hasher
+Help
+About this Site
+Getting Started
+RHDN Policy
+Dictionary
+FAQ
+Contact Staff
+Newest Hacks
+   
+Metroid: Zero Mission Redux
+Improvement | GBA
+OutRun 2 JPN English
+Improvement | XBOX
+Ninja Ryukenden III Hidden Slash 5-in-1 mode
+Improvement | NES
+SMW The Princess Rescue 3 - The turnabout
+Complete | SNES
+See More Hacks...
+Newest Translations
+   
+Resident Evil 4
+Portuguese | Fully Playable | PS2
+Tetris
+French | Fully Playable | GB
+Honoo no Doukyuuji: Dodge Danpei
+Spanish | Fully Playable | NES
+Yu-Gi-Oh! Forbidden Memories
+Portuguese | Fully Playable | PSX
+See More Translations...
+Newest Reviews
+   
+Almost Perfect
+Hacks | Pokemon Blue - 151
+PERFECT!
+Translations | Summer Carnival '92 RECCA
+Amazing
+Hacks | Super Mario RPG: Armageddon
+A Great Hack
+Hacks | Pokemon Yellow - 151
+See More Reviews...
+Featured Hack Images
+   
+Featured Translation Images
+   
+Recent Forum Posts
+Re: (NES) Total Conversion Hack Castlevania 3: Aperture of Corruption
+Personal Projects
+Today at 06:12:27 PM
+Re: List of Co-op / Multiplayer hacks
+ROM Hacking Discussion
+Today at 06:10:07 PM
+Re: Some graphical help for my Moai Kun hack
+Help Wanted Ads
+Today at 06:01:27 PM
+Re: Fastrom Hacks
+Personal Projects
+Today at 05:53:11 PM
+Re: STREET FIGHTER 2 DELUXE NES
+Personal Projects
+Today at 05:53:06 PM
+See More Forum Topics...
+Recent Updates
+Mega Man X5 N's Edition v1.7
+Hacks
+[1.7 update] -Mad Taxi's hit box has widened. -The weaknesses of some of the enemy have changed -X(Boss of Zero Stage 3)'s offense has increased. -Tidal Whale's Hit Effect Has Changed. (Similar to Cyber Peacock) -Zero's combo slash are not available for Rangda Bangda W.
+Hacks - The Legend of Zelda Redux
+Credits
+Edited gzip's credits and added tacoschip for his sword and beam inside dungeons fix
+Hacks - Super Metroid Redux
+Credits
+Added Crashtour99 and Starry_Melody for the Dual Suit + Power Suit Samus hacks.
+Hacks - Pokémon Crystal Maeson
+Reviews
+Update
+MsULTIMATEMAX
+Community
+Change some issues about user and add image
+See More Changes...
+Resident Evil: Deadly Silence
+Nintendo DS
+Translation Information
+Resident Evil: Deadly Silence
+
+Released By	A7mad
+Language	Arabic
+Status	Fully Playable
+Platform	Nintendo DS
+License	N/A
+Patching Information	No Special Requirements
+Genre	Action Adventure
+Published By	Capcom
+Game Date	19 January 2006
+Patch Version	1.0
+Release Date	03 August 2014
+Readme	
+Downloads	460
+Last Modified	09 August 2014
+EDIT TRANSLATION ENTRY
+EDIT GAME ENTRY
+EDIT CREDITS
+FLAG AS NONCOMPLIANT
+ Share  Tweet
+Game Description:
+
+Resident Evil: Deadly Silence is an action adventure game for the Nintendo DS.
+
+Translation Description:
+
+This is the Arabic translation patch for Resident Evil: Deadly Silence on the Nintendo DS. Everything is translated except for the end credits and some graphics.
+
+ROM / ISO Information:
+File: Resident_Evil_Deadly_Silence_USA_NDS-WRG
+CRC32: DE3E278C
+MD5: 3C2BED30E73D5F31E2335557256DBA85
+SHA-1: B7DEE8C12078D347ED28D85F095AB3BDD0E4D87F
+Links:
+News Articles for this Translation
+Download
+Screenshots:
+
+
+Credits:
+Credits
+Contributor	Type of contribution	Listed credit
+A7mad	Hacking	
+User Review Information
+No User Reviews!
+ADD REVIEW
+﻿﻿
+©2005-2023 RHDN 3.0.0 by Nightcrawler. All Rights Reserved.
+Execution time - 0.0048 sec. - Number of Queries: 5
+About Us | RHDN Policy | HTML5 | CSS
+  

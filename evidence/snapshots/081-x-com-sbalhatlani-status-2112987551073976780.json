@@ -1,0 +1,313 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/sbalhatlani/status/2112987551073976780",
+  "id": "2112987551073976780",
+  "text": "🔴 رسمياً… صرت سفير ElevenLabs #ElevenLabsAmbassador\nالأداة اللي خلت ألعاب طفولتنا تتكلم عربي (Castlevania، Dokapon) صرت جزء منها.\n\n• اللي سويته: دبلجة عربية لألعاب ما كنا نحلم نسمعها بلغتنا، بأدوات @ElevenCreative\n• الدرس الصريح: صوت الذكاء الاصطناعي بروحه ما يكفي.. النص العربي والسياق هم اللي يفرقون\n• الجاي: تجارب أكثر بالأصوات العربية داخل ElevenCreative، وأشارككم كل شي\n\nسؤال جد: تبون أسوي لكم ورشة: شلون تدبلج بصوتك بالعربي؟\n\n@ElevenLabs",
+  "raw_text": {
+   "text": "🔴 رسمياً… صرت سفير ElevenLabs #ElevenLabsAmbassador\nالأداة اللي خلت ألعاب طفولتنا تتكلم عربي (Castlevania، Dokapon) صرت جزء منها.\n\n• اللي سويته: دبلجة عربية لألعاب ما كنا نحلم نسمعها بلغتنا، بأدوات @ElevenCreative\n• الدرس الصريح: صوت الذكاء الاصطناعي بروحه ما يكفي.. النص العربي والسياق هم اللي يفرقون\n• الجاي: تجارب أكثر بالأصوات العربية داخل ElevenCreative، وأشارككم كل شي\n\nسؤال جد: تبون أسوي لكم ورشة: شلون تدبلج بصوتك بالعربي؟\n\n@ElevenLabs",
+   "display_text_range": [
+    0,
+    444
+   ],
+   "facets": [
+    {
+     "type": "hashtag",
+     "indices": [
+      30,
+      51
+     ],
+     "original": "ElevenLabsAmbassador"
+    },
+    {
+     "type": "mention",
+     "indices": [
+      198,
+      213
+     ],
+     "original": "ElevenCreative",
+     "id": "2026352888084312065"
+    },
+    {
+     "type": "media",
+     "indices": [
+      272,
+      295
+     ],
+     "id": "2112977749417582593",
+     "display": "pic.x.com/wr2wwLJlNr",
+     "original": "https://t.co/wr2wwLJlNr",
+     "replacement": "https://x.com/sbalhatlani/status/2112987551073976780/video/1"
+    },
+    {
+     "type": "media",
+     "indices": [
+      272,
+      295
+     ],
+     "id": "2112977749463736320",
+     "display": "pic.x.com/wr2wwLJlNr",
+     "original": "https://t.co/wr2wwLJlNr",
+     "replacement": "https://x.com/sbalhatlani/status/2112987551073976780/video/1"
+    },
+    {
+     "type": "mention",
+     "indices": [
+      432,
+      443
+     ],
+     "original": "ElevenLabs",
+     "id": "1478679005788311552"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "sbalhatlani",
+   "url": "https://x.com/sbalhatlani",
+   "id": "228391413",
+   "followers": 5883,
+   "following": 1897,
+   "likes": 5258,
+   "media_count": 1079,
+   "name": "ص",
+   "description": "🍓Digital NoMad\nFounder:\nhttp://Ters.co | http://WoWAR.co | http://WoWVo.co | https://Arabicsubs.com\n\nودك تدعمني ؟ إشترلي كوب☕️قهوة👇",
+   "raw_description": {
+    "text": "🍓Digital NoMad\nFounder:\nhttps://t.co/GsYA7SZ1Fx | https://t.co/S2IoNwCSM9 | https://t.co/JyJm4npcnr | https://t.co/4iqSjrtAPV\n\nودك تدعمني ؟ إشترلي كوب☕️قهوة👇",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       24,
+       47
+      ],
+      "original": "https://t.co/GsYA7SZ1Fx",
+      "replacement": "http://Ters.co",
+      "display": "Ters.co"
+     },
+     {
+      "type": "url",
+      "indices": [
+       50,
+       73
+      ],
+      "original": "https://t.co/S2IoNwCSM9",
+      "replacement": "http://WoWAR.co",
+      "display": "WoWAR.co"
+     },
+     {
+      "type": "url",
+      "indices": [
+       76,
+       99
+      ],
+      "original": "https://t.co/JyJm4npcnr",
+      "replacement": "http://WoWVo.co",
+      "display": "WoWVo.co"
+     },
+     {
+      "type": "url",
+      "indices": [
+       102,
+       125
+      ],
+      "original": "https://t.co/4iqSjrtAPV",
+      "replacement": "https://Arabicsubs.com",
+      "display": "Arabicsubs.com"
+     }
+    ]
+   },
+   "location": "Valley",
+   "banner_url": "https://pbs.twimg.com/profile_banners/228391413/1680793335",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1643992510665195522/BVihbbDm_200x200.jpg",
+   "joined": "Sun Dec 19 15:48:32 +0000 2010",
+   "protected": false,
+   "website": {
+    "url": "https://www.paypal.com/donate/?hosted_button_id=28JAWVUEW9PEJ",
+    "display_url": "paypal.com/donate/?hosted…"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 20,
+  "retweets": 11,
+  "likes": 107,
+  "bookmarks": 52,
+  "quotes": 1,
+  "created_at": "Wed Oct 21 19:21:04 +0000 2026",
+  "created_timestamp": 1792610464,
+  "possibly_sensitive": false,
+  "views": 5440,
+  "is_note_tweet": true,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "2112977749417582593",
+     "url": "https://pbs.twimg.com/media/HVLOEWxW4AEUtD6.jpg?name=orig",
+     "width": 1024,
+     "height": 1024
+    },
+    {
+     "id": "2112977749463736320",
+     "url": "https://video.twimg.com/amplify_video/2112977749463736320/vid/avc1/1920x1080/Pe_3egVV523AzxwS.mp4?tag=29",
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2112977749463736320/img/729zbF1W9lPDFa70.jpg",
+     "duration": 29.3,
+     "width": 1920,
+     "height": 1080,
+     "format": "video/mp4",
+     "type": "video",
+     "formats": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2112977749463736320/pl/KAzRmwoUWoUZ3oJ7.m3u8?tag=29&v=2b1",
+       "container": "m3u8"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2112977749463736320/vid/avc1/480x270/LXLAwiO8JaSPrJ10.mp4?tag=29",
+       "bitrate": 256000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2112977749463736320/vid/avc1/640x360/8o8yVfrSKaG6Y5mm.mp4?tag=29",
+       "bitrate": 832000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2112977749463736320/vid/avc1/1280x720/jOvHPDsoE5lhQmsh.mp4?tag=29",
+       "bitrate": 2176000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2112977749463736320/vid/avc1/1920x1080/Pe_3egVV523AzxwS.mp4?tag=29",
+       "bitrate": 10368000,
+       "container": "mp4",
+       "codec": "h264"
+      }
+     ],
+     "publisher": null,
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2112977749463736320/pl/KAzRmwoUWoUZ3oJ7.m3u8?tag=29&v=2b1",
+       "bitrate": 0,
+       "content_type": "application/x-mpegURL"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2112977749463736320/vid/avc1/480x270/LXLAwiO8JaSPrJ10.mp4?tag=29",
+       "bitrate": 256000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2112977749463736320/vid/avc1/640x360/8o8yVfrSKaG6Y5mm.mp4?tag=29",
+       "bitrate": 832000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2112977749463736320/vid/avc1/1280x720/jOvHPDsoE5lhQmsh.mp4?tag=29",
+       "bitrate": 2176000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2112977749463736320/vid/avc1/1920x1080/Pe_3egVV523AzxwS.mp4?tag=29",
+       "bitrate": 10368000,
+       "content_type": "video/mp4"
+      }
+     ]
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "2112977749417582593",
+     "url": "https://pbs.twimg.com/media/HVLOEWxW4AEUtD6.jpg?name=orig",
+     "width": 1024,
+     "height": 1024
+    }
+   ],
+   "videos": [
+    {
+     "id": "2112977749463736320",
+     "url": "https://video.twimg.com/amplify_video/2112977749463736320/vid/avc1/1920x1080/Pe_3egVV523AzxwS.mp4?tag=29",
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2112977749463736320/img/729zbF1W9lPDFa70.jpg",
+     "duration": 29.3,
+     "width": 1920,
+     "height": 1080,
+     "format": "video/mp4",
+     "type": "video",
+     "formats": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2112977749463736320/pl/KAzRmwoUWoUZ3oJ7.m3u8?tag=29&v=2b1",
+       "container": "m3u8"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2112977749463736320/vid/avc1/480x270/LXLAwiO8JaSPrJ10.mp4?tag=29",
+       "bitrate": 256000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2112977749463736320/vid/avc1/640x360/8o8yVfrSKaG6Y5mm.mp4?tag=29",
+       "bitrate": 832000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2112977749463736320/vid/avc1/1280x720/jOvHPDsoE5lhQmsh.mp4?tag=29",
+       "bitrate": 2176000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2112977749463736320/vid/avc1/1920x1080/Pe_3egVV523AzxwS.mp4?tag=29",
+       "bitrate": 10368000,
+       "container": "mp4",
+       "codec": "h264"
+      }
+     ],
+     "publisher": null,
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2112977749463736320/pl/KAzRmwoUWoUZ3oJ7.m3u8?tag=29&v=2b1",
+       "bitrate": 0,
+       "content_type": "application/x-mpegURL"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2112977749463736320/vid/avc1/480x270/LXLAwiO8JaSPrJ10.mp4?tag=29",
+       "bitrate": 256000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2112977749463736320/vid/avc1/640x360/8o8yVfrSKaG6Y5mm.mp4?tag=29",
+       "bitrate": 832000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2112977749463736320/vid/avc1/1280x720/jOvHPDsoE5lhQmsh.mp4?tag=29",
+       "bitrate": 2176000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2112977749463736320/vid/avc1/1920x1080/Pe_3egVV523AzxwS.mp4?tag=29",
+       "bitrate": 10368000,
+       "content_type": "video/mp4"
+      }
+     ]
+    }
+   ]
+  },
+  "twitter_card": "player",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

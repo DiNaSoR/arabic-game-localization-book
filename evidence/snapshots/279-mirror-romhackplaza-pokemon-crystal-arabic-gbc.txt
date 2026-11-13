@@ -1,0 +1,80 @@
+URL: https://www.romhackplaza.org/translations/pokemon-crystal-version-arabic-translation-game-boy-color
+Final: https://www.romhackplaza.org/translations/pokemon-crystal-version-arabic-translation-game-boy-color
+Title: Pokémon: Crystal Version (Arabic Translation) Game Boy Color - Romhack Plaza
+HTTP: 200
+
+WEBSITE
+Home
+Database
+News
+Submissions queue
+COMMUNITY
+Forum
+Clubs
+Reviews
+Discord
+Members
+TOOLS
+ROM Patcher
+ROM Hasher
+PAGES
+Support us
+Learn Romhacking
+About
+Contact Us
+Help & Legal pages
+DEVELOPMENT
+Forge
+Documentation
+Guest
+Login
+Entries
+News
+Forum
+Home › Database › Pokémon: Crystal Version (Arabic Translation) Game Boy Color
+Pokémon: Crystal Version
+By OmegaStar, Chakri Ayoub
+ Posted by OmegaStar
+ Oct 11, 2026
+ Updated 1 month ago
+GAME NAME
+Pokémon: Crystal Version
+PLATFORM
+Game Boy Color
+GENRE
+Action
+LANGUAGE
+Arabic
+STATUS
+Complete
+VERSION
+1.0
+RELEASE DATE
+2026-05-10
+DOWNLOADS
+20
+Download
+Share
+Description
+
+The full game, in Arabic, right to left, with the letters joined.
+
+Dialogue, menus, battle text, item and move names, Pokédex entries, the trainer card and stats screens, phone calls, the naming screen, the Battle Tower — all of it, including the 210 Battle Tower nicknames that the disassembly still ships as romanised Japanese.
+
+A text engine was written for this hack: the original game draws one 8×8 tile per character, left to right, which Arabic cannot use. This one is right to left, shapes each letter from its neighbours, and blits glyphs into VRAM a letter at a time from a ring borrowed out of the walking-sprite pool.
+
+Hashes
+Filename: Pokemon - Crystal Version (USA, Europe) (Rev 1).gbc
+CRC32: 3358e30a
+SHA-1: f2f52230b536214ef7c9924f483392993e226cfb
+Verified: Nintendo - Game Boy Color v.20260613-134444 (No-Intro)
+
+Gallery
+Relevant Link
+https://github.com/SherlockedMain/Pokemon_Crystal_Arabic/releases/tag/v1.0.1
+Youtube Video
+Reviews
+Be the first to post a review
+See all 0 reviews
+Last comments
+Post a comment

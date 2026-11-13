@@ -1,0 +1,322 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/Arabic_Hesham/status/2120803455220551757",
+  "id": "2120803455220551757",
+  "text": "🔴انت لغتك العربية سيئة !!!\n\nجملة تنقال لك لما تقول الترجمة سيئة او غير مفهومة\n\nبصراحة شي يقهر تشوف لاعب يلوم نفسه ويقول احتاج اكون بروفيسور او دكتور في اللغة حتى العب لعبة \n\nياعزيزي الترجمة المفروض توصل لك اللعبة بكل سهولة وما تخليك تحتاج تقرا الجملة مرتين حتى تفهم ، المترجم اللي ما يقدر يسوي هالشي فالمشكلة فيه مو فيك انت\n\nوقف تلوم نفسك او تقلل من نفسك .. وصدقني كل ما زادت قوتك في اللغة العربية بيزيد يقينك ان اللي قاعد تشوفه مشكلة الترجمة مو مشكلتك",
+  "raw_text": {
+   "text": "🔴انت لغتك العربية سيئة !!!\n\nجملة تنقال لك لما تقول الترجمة سيئة او غير مفهومة\n\nبصراحة شي يقهر تشوف لاعب يلوم نفسه ويقول احتاج اكون بروفيسور او دكتور في اللغة حتى العب لعبة \n\nياعزيزي الترجمة المفروض توصل لك اللعبة بكل سهولة وما تخليك تحتاج تقرا الجملة مرتين حتى تفهم ، المترجم اللي ما يقدر يسوي هالشي فالمشكلة فيه مو فيك انت\n\nوقف تلوم نفسك او تقلل من نفسك .. وصدقني كل ما زادت قوتك في اللغة العربية بيزيد يقينك ان اللي قاعد تشوفه مشكلة الترجمة مو مشكلتك",
+   "display_text_range": [
+    0,
+    453
+   ],
+   "facets": [
+    {
+     "type": "media",
+     "indices": [
+      276,
+      299
+     ],
+     "id": "2120796285892448256",
+     "display": "pic.x.com/JddIUxCCD0",
+     "original": "https://t.co/JddIUxCCD0",
+     "replacement": "https://x.com/Arabic_Hesham/status/2120803455220551757/video/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "Arabic_Hesham",
+   "url": "https://x.com/Arabic_Hesham",
+   "id": "2051213281419751424",
+   "followers": 5503,
+   "following": 77,
+   "likes": 955,
+   "media_count": 130,
+   "name": "هشـــام",
+   "description": "تعريبات آلية بالكامل بدون تدخل بشري 🤖\n\nhttps://arabichesham.com/",
+   "raw_description": {
+    "text": "تعريبات آلية بالكامل بدون تدخل بشري 🤖\n\nhttps://t.co/Me7kI5Dcit",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       39,
+       62
+      ],
+      "original": "https://t.co/Me7kI5Dcit",
+      "replacement": "https://arabichesham.com/",
+      "display": "arabichesham.com"
+     }
+    ]
+   },
+   "location": "الوطن العربي 🤍",
+   "banner_url": "https://pbs.twimg.com/profile_banners/2051213281419751424/1791124132",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2051658850558672904/4gmI3KS1_200x200.jpg",
+   "joined": "Mon May 04 08:12:24 +0000 2026",
+   "protected": false,
+   "website": {
+    "url": "https://ko-fi.com/arabichesham",
+    "display_url": "ko-fi.com/arabichesham"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 94,
+  "retweets": 30,
+  "likes": 1194,
+  "bookmarks": 1041,
+  "quotes": 39,
+  "created_at": "Thu Nov 12 08:58:41 +0000 2026",
+  "created_timestamp": 1794473921,
+  "possibly_sensitive": false,
+  "views": 256406,
+  "is_note_tweet": true,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "id": "2120796285892448256",
+     "url": "https://video.twimg.com/amplify_video/2120796285892448256/vid/avc1/3840x2160/Xe5f1BqNg8eDC_QY.mp4?tag=29",
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120796285892448256/img/cG_9cV2radN3cGDd.jpg",
+     "duration": 37.1,
+     "width": 3840,
+     "height": 2160,
+     "format": "video/mp4",
+     "type": "video",
+     "formats": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2120796285892448256/pl/YX97_auUo8ykoJ8E.m3u8?tag=29&v=a50",
+       "container": "m3u8"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2120796285892448256/vid/avc1/480x270/6uCD8-djqn61GkgV.mp4?tag=29",
+       "bitrate": 256000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2120796285892448256/vid/avc1/640x360/zTvH0TTq0Gz_auPt.mp4?tag=29",
+       "bitrate": 832000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2120796285892448256/vid/avc1/1280x720/rZZiVPCMRRHrJuf2.mp4?tag=29",
+       "bitrate": 2176000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2120796285892448256/vid/avc1/1920x1080/lDrvAWCuXf7Vjz1A.mp4?tag=29",
+       "bitrate": 10368000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2120796285892448256/vid/avc1/3840x2160/Xe5f1BqNg8eDC_QY.mp4?tag=29",
+       "bitrate": 25128000,
+       "container": "mp4",
+       "codec": "h264"
+      }
+     ],
+     "publisher": null,
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2120796285892448256/pl/YX97_auUo8ykoJ8E.m3u8?tag=29&v=a50",
+       "bitrate": 0,
+       "content_type": "application/x-mpegURL"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2120796285892448256/vid/avc1/480x270/6uCD8-djqn61GkgV.mp4?tag=29",
+       "bitrate": 256000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2120796285892448256/vid/avc1/640x360/zTvH0TTq0Gz_auPt.mp4?tag=29",
+       "bitrate": 832000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2120796285892448256/vid/avc1/1280x720/rZZiVPCMRRHrJuf2.mp4?tag=29",
+       "bitrate": 2176000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2120796285892448256/vid/avc1/1920x1080/lDrvAWCuXf7Vjz1A.mp4?tag=29",
+       "bitrate": 10368000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2120796285892448256/vid/avc1/3840x2160/Xe5f1BqNg8eDC_QY.mp4?tag=29",
+       "bitrate": 25128000,
+       "content_type": "video/mp4"
+      }
+     ]
+    }
+   ],
+   "videos": [
+    {
+     "id": "2120796285892448256",
+     "url": "https://video.twimg.com/amplify_video/2120796285892448256/vid/avc1/3840x2160/Xe5f1BqNg8eDC_QY.mp4?tag=29",
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2120796285892448256/img/cG_9cV2radN3cGDd.jpg",
+     "duration": 37.1,
+     "width": 3840,
+     "height": 2160,
+     "format": "video/mp4",
+     "type": "video",
+     "formats": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2120796285892448256/pl/YX97_auUo8ykoJ8E.m3u8?tag=29&v=a50",
+       "container": "m3u8"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2120796285892448256/vid/avc1/480x270/6uCD8-djqn61GkgV.mp4?tag=29",
+       "bitrate": 256000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2120796285892448256/vid/avc1/640x360/zTvH0TTq0Gz_auPt.mp4?tag=29",
+       "bitrate": 832000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2120796285892448256/vid/avc1/1280x720/rZZiVPCMRRHrJuf2.mp4?tag=29",
+       "bitrate": 2176000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2120796285892448256/vid/avc1/1920x1080/lDrvAWCuXf7Vjz1A.mp4?tag=29",
+       "bitrate": 10368000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2120796285892448256/vid/avc1/3840x2160/Xe5f1BqNg8eDC_QY.mp4?tag=29",
+       "bitrate": 25128000,
+       "container": "mp4",
+       "codec": "h264"
+      }
+     ],
+     "publisher": null,
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2120796285892448256/pl/YX97_auUo8ykoJ8E.m3u8?tag=29&v=a50",
+       "bitrate": 0,
+       "content_type": "application/x-mpegURL"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2120796285892448256/vid/avc1/480x270/6uCD8-djqn61GkgV.mp4?tag=29",
+       "bitrate": 256000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2120796285892448256/vid/avc1/640x360/zTvH0TTq0Gz_auPt.mp4?tag=29",
+       "bitrate": 832000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2120796285892448256/vid/avc1/1280x720/rZZiVPCMRRHrJuf2.mp4?tag=29",
+       "bitrate": 2176000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2120796285892448256/vid/avc1/1920x1080/lDrvAWCuXf7Vjz1A.mp4?tag=29",
+       "bitrate": 10368000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2120796285892448256/vid/avc1/3840x2160/Xe5f1BqNg8eDC_QY.mp4?tag=29",
+       "bitrate": 25128000,
+       "content_type": "video/mp4"
+      }
+     ]
+    }
+   ]
+  },
+  "quote": {
+   "url": "https://x.com/Bnqk_/status/2120615198897643676",
+   "id": "2120615198897643676",
+   "text": "@Arabic_Hesham تعريبات الحلم المتجدد سيئة جداً بالنسبة لي  \n\nاولهم تعريب هولونايت لازم اكون بروفيسور ونابغة في اللغة العربية عشان افهم الحوارات 😕\n\nوبرضو زيلدا نفس البرية ينطبق عليها نفس الكلام",
+   "raw_text": {
+    "text": "@Arabic_Hesham تعريبات الحلم المتجدد سيئة جداً بالنسبة لي  \n\nاولهم تعريب هولونايت لازم اكون بروفيسور ونابغة في اللغة العربية عشان افهم الحوارات 😕\n\nوبرضو زيلدا نفس البرية ينطبق عليها نفس الكلام",
+    "display_text_range": [
+     15,
+     192
+    ],
+    "facets": [
+     {
+      "type": "mention",
+      "indices": [
+       0,
+       14
+      ],
+      "original": "Arabic_Hesham",
+      "id": "2051213281419751424"
+     }
+    ]
+   },
+   "author": {
+    "screen_name": "Bnqk_",
+    "url": "https://x.com/Bnqk_",
+    "id": "1119582148950929408",
+    "followers": 55,
+    "following": 687,
+    "likes": 10907,
+    "media_count": 117,
+    "name": "Bnqk",
+    "description": "سبحان الله وبحمده سبحان الله العظيم ✨",
+    "raw_description": {
+     "text": "سبحان الله وبحمده سبحان الله العظيم ✨",
+     "facets": []
+    },
+    "location": "Madina",
+    "banner_url": "https://pbs.twimg.com/profile_banners/1119582148950929408/1786468768",
+    "avatar_url": "https://pbs.twimg.com/profile_images/2087227365415919616/TaH0nTis_200x200.jpg",
+    "joined": "Sat Apr 20 12:42:39 +0000 2019",
+    "protected": false,
+    "website": {
+     "url": "https://www.twitch.tv/bnqk_",
+     "display_url": "twitch.tv/bnqk_"
+    },
+    "verification": {
+     "verified": false,
+     "verified_at": null,
+     "type": null
+    },
+    "avatar_color": null
+   },
+   "replies": 12,
+   "retweets": 0,
+   "likes": 65,
+   "bookmarks": 37,
+   "quotes": 3,
+   "created_at": "Wed Nov 11 20:30:37 +0000 2026",
+   "created_timestamp": 1794429037,
+   "views": 199885,
+   "is_note_tweet": false,
+   "community_note": null,
+   "lang": "ar",
+   "replying_to": "Arabic_Hesham",
+   "replying_to_status": "2120588246732464144",
+   "twitter_card": "tweet",
+   "color": null,
+   "provider": "twitter",
+   "reposted_by": null
+  },
+  "twitter_card": "player",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

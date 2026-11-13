@@ -1,0 +1,166 @@
+URL: https://www.romhacking.net/translations/2961/
+Archived copy: https://web.archive.org/web/20240305233855/https://www.romhacking.net/translations/2961/
+
+Home Forum Sections Community Submissions Changes Search Help   
+
+
+Sections
+Home
+Documents
+Utilities
+Translations
+ROM Hacks
+Games
+Homebrew
+Fonts
+Abandoned
+News Archive
+Community
+Forum
+Wiki
+History
+Chat
+Community Database
+Links
+Submissions
+Submit Files
+Submit News
+Queue Status
+Public Maintenance
+The Scratchpad
+Online ROM Patcher
+Online ROM Hasher
+Help
+About this Site
+Getting Started
+RHDN Policy
+Dictionary
+FAQ
+Contact Staff
+Newest Hacks
+ 
+Asteroids LDX
+Improvement | GB
+Bomberman Hero - Bonus unlocked
+Improvement | N64
+DOOMSDAY 2: Day of Disaster
+Complete | SNES
+Dragon Ball Super - Divin
+Complete | SNES
+See More Hacks...
+Newest Translations
+ 
+Ys IV: Mask of the Sun
+Spanish | Fully Playable | SNES
+Adventure Island
+Turkish | Fully Playable | NES
+Seiryaku Simulation - Inbou no Wakusei: Shancara
+English | Fully Playable | NES
+Mega Man III
+Portuguese | Fully Playable | GB
+See More Translations...
+Newest Reviews
+ 
+Worth It
+Hacks | The Addams Family - Afterlife Edition
+My Little Pony: Dr. Discord's Conquest - GOOD
+Hacks | My Little Pony: Dr. Discord's Conquest
+Mega Man C4 - BAD
+Hacks | Mega Man C4
+Makes Asteroids actually look like Asteroids!
+Hacks | Asteroids LDX
+See More Reviews...
+Featured Hack Images
+ 
+Secret of Mana 2 Titlescreen Patch
+Improvement | SNES
+Mega Man Ultra
+Complete | NES
+Featured Translation Images
+ 
+Ys III: Wanderers from Ys
+English | Fully Playable | NES
+Dai Kaijuu Deburas
+English | Unfinished | NES
+Recent Forum Posts
+Suikoden - The Last Hope (PSX Patch)
+Personal Projects
+Today at 09:42:13 AM
+Final Fantasy IV Advance: Visual Improvement Hack
+Personal Projects
+Today at 09:28:26 AM
+NES Metroid HD Pack
+Personal Projects
+Today at 09:05:47 AM
+List of Co-op / Multiplayer hacks
+ROM Hacking Discussion
+Today at 08:38:11 AM
+See More Forum Topics...
+Recent Updates
+Championship Lode Runner
+Games
+Better quality title screen
+AmbiguouslyAnonymous
+Community
+Forum Name added
+Javier CRT
+Community
+Forum Name added
+Dirty deeds are done dirt cheap... on Shancara!
+News
+Fixing spelling errors
+See More Changes...
+Captain Tsubasa IV: Pro no Rival Tachi
+Super Nintendo
+Translation Information
+Captain Tsubasa IV: Pro no Rival Tachi
+
+Released By	megamanz
+Language	Arabic
+Status	Fully Playable
+Platform	Super Nintendo
+License	N/A
+Patching Information	Header (SNES)
+Genre	Sports
+Published By	Tecmo
+Game Date	03 April 1993
+Patch Version	1.0
+Release Date	05 November 2015
+Readme	
+Downloads	2415
+Last Modified	19 April 2017
+EDIT TRANSLATION ENTRY
+EDIT GAME ENTRY
+EDIT CREDITS
+FLAG AS NONCOMPLIANT
+ Share  Tweet
+Game Description:
+
+Captain Tsubasa IV: Pro no Rival Tachi is a soccer game for the Super Nintendo. The game is based on a Japanese cartoon, Captain Tsubasa.
+
+Translation Description:
+
+The Arabic translation of Captain Tsubasa 4. Proudly presented for Arabic speakers residents by megamanz.
+
+ROM / ISO Information:
+No-Intro Name: Captain Tsubasa IV - Pro no Rival-tachi (Japan)
+(No-Intro version 20130701-030720)
+ROM/File SHA-1: 7471D2D4EA7C3E9FE2349B624C4AE570B585475F
+Links:
+News Articles for this Translation
+Download
+Screenshots:
+
+
+Credits:
+Credits
+Contributor	Type of contribution	Listed credit
+megamanz	Hacking	Full Hacking & Translation into Arabic
+User Review Information
+No User Reviews!
+ADD REVIEW
+﻿﻿
+©2005-2024 RHDN 3.0.0 by Nightcrawler. All Rights Reserved.
+Execution time - 0.0041 sec. - Number of Queries: 4
+About Us | RHDN Policy | HTML5 | CSS
+  

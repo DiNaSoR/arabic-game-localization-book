@@ -1,0 +1,116 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/Wisamggs/status/2113997885423378496",
+  "id": "2113997885423378496",
+  "text": "وش يميز وسام؟\n\nكل جواب معه مصدره.\nنقول بوضوح إن تعريباتنا ترجمة آلية بإشراف بشري، ونجربها داخل اللعبة قبل ننشرها.\nننسب كل تعريب لفريقه ونحط رابط صفحته، وما نقيم تعريباتنا بأنفسنا.\nوترجع ملفات اللعبة الأصلية متى ما بغيت.\n#وسام\nhttps://wisam.gg/",
+  "raw_text": {
+   "text": "وش يميز وسام؟\n\nكل جواب معه مصدره.\nنقول بوضوح إن تعريباتنا ترجمة آلية بإشراف بشري، ونجربها داخل اللعبة قبل ننشرها.\nننسب كل تعريب لفريقه ونحط رابط صفحته، وما نقيم تعريباتنا بأنفسنا.\nوترجع ملفات اللعبة الأصلية متى ما بغيت.\n#وسام\nhttps://t.co/7t3H7HJcWd https://t.co/u5rTk6uynX",
+   "display_text_range": [
+    0,
+    249
+   ],
+   "facets": [
+    {
+     "type": "hashtag",
+     "indices": [
+      220,
+      225
+     ],
+     "original": "وسام"
+    },
+    {
+     "type": "url",
+     "indices": [
+      226,
+      249
+     ],
+     "original": "https://t.co/7t3H7HJcWd",
+     "replacement": "https://wisam.gg/",
+     "display": "wisam.gg"
+    },
+    {
+     "type": "media",
+     "indices": [
+      250,
+      273
+     ],
+     "id": "2113997849360826368",
+     "display": "pic.x.com/u5rTk6uynX",
+     "original": "https://t.co/u5rTk6uynX",
+     "replacement": "https://x.com/Wisamggs/status/2113997885423378496/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "Wisamggs",
+   "url": "https://x.com/Wisamggs",
+   "id": "2113594298188894208",
+   "followers": 11,
+   "following": 19,
+   "likes": 1,
+   "media_count": 10,
+   "name": "وسام | ألعابك بالعربية",
+   "description": "لعبتك تدعم العربية؟ نقول لك ومن وين عرفنا، ونعرض إنجازاتها بالعربية في الموقع وداخل Steam. تعريباتنا: ترجمة آلية بإشراف بشري.",
+   "raw_description": {
+    "text": "لعبتك تدعم العربية؟ نقول لك ومن وين عرفنا، ونعرض إنجازاتها بالعربية في الموقع وداخل Steam. تعريباتنا: ترجمة آلية بإشراف بشري.",
+    "facets": []
+   },
+   "location": "العالم العربي",
+   "banner_url": "https://pbs.twimg.com/profile_banners/2113594298188894208/1792760059",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2113614989625868288/bumV8muw_200x200.png",
+   "joined": "Fri Oct 23 11:33:41 +0000 2026",
+   "protected": false,
+   "website": {
+    "url": "https://wisam.gg",
+    "display_url": "wisam.gg"
+   },
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 0,
+  "retweets": 0,
+  "likes": 0,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Sat Oct 24 14:15:46 +0000 2026",
+  "created_timestamp": 1792851346,
+  "possibly_sensitive": false,
+  "views": 47,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "2113997849360826368",
+     "url": "https://pbs.twimg.com/media/HVZt1_MXgAAjhVi.jpg?name=orig",
+     "width": 1200,
+     "height": 675
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "2113997849360826368",
+     "url": "https://pbs.twimg.com/media/HVZt1_MXgAAjhVi.jpg?name=orig",
+     "width": 1200,
+     "height": 675
+    }
+   ]
+  },
+  "source": "Twitter Web App",
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

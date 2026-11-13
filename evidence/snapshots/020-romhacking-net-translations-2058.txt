@@ -1,0 +1,186 @@
+URL: https://www.romhacking.net/translations/2058/
+Archived copy: https://web.archive.org/web/20240305234014/https://www.romhacking.net/translations/2058/
+
+Home Forum Sections Community Submissions Changes Search Help   
+
+
+Sections
+Home
+Documents
+Utilities
+Translations
+ROM Hacks
+Games
+Homebrew
+Fonts
+Abandoned
+News Archive
+Community
+Forum
+Wiki
+History
+Chat
+Community Database
+Links
+Submissions
+Submit Files
+Submit News
+Queue Status
+Public Maintenance
+The Scratchpad
+Online ROM Patcher
+Online ROM Hasher
+Help
+About this Site
+Getting Started
+RHDN Policy
+Dictionary
+FAQ
+Contact Staff
+Newest Hacks
+ 
+Asteroids LDX
+Improvement | GB
+Bomberman Hero - Bonus unlocked
+Improvement | N64
+DOOMSDAY 2: Day of Disaster
+Complete | SNES
+Dragon Ball Super - Divin
+Complete | SNES
+See More Hacks...
+Newest Translations
+ 
+Ys IV: Mask of the Sun
+Spanish | Fully Playable | SNES
+Adventure Island
+Turkish | Fully Playable | NES
+Seiryaku Simulation - Inbou no Wakusei: Shancara
+English | Fully Playable | NES
+Mega Man III
+Portuguese | Fully Playable | GB
+See More Translations...
+Newest Reviews
+ 
+Worth It
+Hacks | The Addams Family - Afterlife Edition
+My Little Pony: Dr. Discord's Conquest - GOOD
+Hacks | My Little Pony: Dr. Discord's Conquest
+Mega Man C4 - BAD
+Hacks | Mega Man C4
+Makes Asteroids actually look like Asteroids!
+Hacks | Asteroids LDX
+See More Reviews...
+Featured Hack Images
+ 
+Secret of Mana 2 Titlescreen Patch
+Improvement | SNES
+Mega Man Ultra
+Complete | NES
+Featured Translation Images
+ 
+Ys III: Wanderers from Ys
+English | Fully Playable | NES
+Dai Kaijuu Deburas
+English | Unfinished | NES
+Recent Forum Posts
+Suikoden - The Last Hope (PSX Patch)
+Personal Projects
+Today at 09:42:13 AM
+Final Fantasy IV Advance: Visual Improvement Hack
+Personal Projects
+Today at 09:28:26 AM
+NES Metroid HD Pack
+Personal Projects
+Today at 09:05:47 AM
+List of Co-op / Multiplayer hacks
+ROM Hacking Discussion
+Today at 08:38:11 AM
+See More Forum Topics...
+Recent Updates
+Championship Lode Runner
+Games
+Better quality title screen
+AmbiguouslyAnonymous
+Community
+Forum Name added
+Javier CRT
+Community
+Forum Name added
+Dirty deeds are done dirt cheap... on Shancara!
+News
+Fixing spelling errors
+See More Changes...
+The Legend of Zelda: Ocarina of Time
+Nintendo 64
+Translation Information
+The Legend of Zelda: Ocarina of Time
+Zelda no Densetsu: Toki no Ocarina
+
+Released By	megamanz
+Language	Arabic
+Status	Fully Playable
+Platform	Nintendo 64
+License	N/A
+Patching Information	No Special Requirements
+Genre	Action Adventure
+Published By	Nintendo
+Game Date	21 November 1998
+Patch Version	1.0
+Release Date	23 November 2013
+Readme	
+Downloads	2610
+Last Modified	21 October 2015
+EDIT TRANSLATION ENTRY
+EDIT GAME ENTRY
+EDIT CREDITS
+FLAG AS NONCOMPLIANT
+ Share  Tweet
+Game Description:
+
+If A Link to the Past was a refinement of the first Zelda, then Ocarina of Time was refinement of LttP. It was also the game that transitioned the franchise into the realm of 3D polygons and the one game everyone seems to remember when “Zelda” is uttered. It’s beautiful and worthy of being called a masterpiece, although this is also where story takes precedence over adventuring and so linearity begins to become more prominent.
+
+The game controls very well. I don’t know what game actually came up with the “Z-Targeting” technique, but this is the one that popularized, and for good reason. The camera is rarely ever an issue and Link moves and acts as you’d expect him to. There are some limitations: you can’t move around while aiming, although if you use Z-Targeting, you can still strafe around. You can’t control Epona while also using your bow, so you might often find yourself being galloped towards a wall, while the Poe you’re hunting taunts you and your dumb beast (but then again, I can’t imagine anyone controlling a horse and aiming an arrow at the same time).
+
+The sound in this game is superb. Many creatures in the world make different sounds. NPCs make funny little grunts or moans. Weapons sound realistic enough. And the soundtrack! The title promises that a musical instrument would be important to the game, and it makes good on that promise. Not only are the music pieces great and moody, but there’s even an item in-game that let’s you play music. People have actually used it to play different songs, such as the Kakariko Theme. I wouldn’t be surprised if someone played the Imperial March with it.
+
+The graphics were, for its time, amazing. I remember as a kid, back in 1998, getting out of Kokiri Forest and having my eyes just pop out at how expansive Hyrule Field is. It was amazing. Nowadays, the graphics for this game are less impressive and the world actually feels very dead at times. There are barely any enemies in Hyrule Field and when there are, it’s at only the beginning of the game. It felt like there could have been more here.
+
+While LttP had an expansive story, this game made it more prominent. Minor plot twists abound although the story can still be summarized as “Save the princess, save the world.” There is a much larger supporting cast than in LttP and they all receive a lot more characterization than in LttP.
+
+I recommend this game to anyone that likes adventure games. It’s very fun to play and nice to look at. Play it with sound turned up high and you’ll have a treat for your ears as well.
+
+Translation Description:
+
+This is an Arabic translation for The Legend of Zelda: Ocarina of Time.
+
+Translation of texts:100%
+
+Translation and hacking graphic:99%
+
+ROM / ISO Information:
+ROM Name: Legend of Zelda, The - Ocarina of Time (E) (V1.1) [!]
+Byte Order: Big Endian (z64)
+crc1:0xB2055FBD
+crc2:0x0BAB4E0C
+pure cic:CIC-NUS-6105
+crc32:A108F6E3
+md5:D714580DD74C2C033F5E1B6DC0AEAC77
+sha-1:CFBB98D392E4A9D39DA8285D10CBEF3974C2F012
+Links:
+News Articles for this Translation
+Download
+Screenshots:
+
+
+Credits:
+Credits
+Contributor	Type of contribution	Listed credit
+megamanz	Hacking	Full Hacking & Translation into Arabic
+User Review Information
+No User Reviews!
+ADD REVIEW
+﻿﻿
+©2005-2024 RHDN 3.0.0 by Nightcrawler. All Rights Reserved.
+Execution time - 0.0044 sec. - Number of Queries: 4
+About Us | RHDN Policy | HTML5 | CSS
+  

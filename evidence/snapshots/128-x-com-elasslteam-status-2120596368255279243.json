@@ -1,0 +1,75 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/ELASSLTEAM/status/2120596368255279243",
+  "id": "2120596368255279243",
+  "text": "من المؤسف أن يتحول العجز عن الإبداع إلى اتهام الآخرين، وأن يصبح التشكيك في مجهوداتهم وسيلة لإثبات الذات\nنحن نعمل بشغف في مجال تعريب الألعاب،ولا نحتاج إلى سرقة مجهود أحد لنثبت وجودنا،ولا إلى إسقاط الآخرين لنصنع لأنفسنا مكاناً\nسنواصل العمل، فالأعمال تتحدث، أما الضجيج فلا يصنع قيمة",
+  "raw_text": {
+   "text": "من المؤسف أن يتحول العجز عن الإبداع إلى اتهام الآخرين، وأن يصبح التشكيك في مجهوداتهم وسيلة لإثبات الذات\nنحن نعمل بشغف في مجال تعريب الألعاب،ولا نحتاج إلى سرقة مجهود أحد لنثبت وجودنا،ولا إلى إسقاط الآخرين لنصنع لأنفسنا مكاناً\nسنواصل العمل، فالأعمال تتحدث، أما الضجيج فلا يصنع قيمة",
+   "display_text_range": [
+    0,
+    279
+   ],
+   "facets": []
+  },
+  "author": {
+   "screen_name": "ELASSLTEAM",
+   "url": "https://x.com/ELASSLTEAM",
+   "id": "2113282155937746944",
+   "followers": 10,
+   "following": 58,
+   "likes": 499,
+   "media_count": 1,
+   "name": "فريق الأصل للتعريب",
+   "description": "🎮 فريق الأصل | تألّق لغة الضاد في ألعاب الفيديو\n🕹️ نعرّب ألعابكم المفضّلة بالكامل\n📱 سويتش • بلايستيشن • حاسوب\n⬇️ تعريباتنا هنا:\nhttp://elassl-team.com",
+   "raw_description": {
+    "text": "🎮 فريق الأصل | تألّق لغة الضاد في ألعاب الفيديو\n🕹️ نعرّب ألعابكم المفضّلة بالكامل\n📱 سويتش • بلايستيشن • حاسوب\n⬇️ تعريباتنا هنا:\nhttps://t.co/G5OY1gby7a",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       128,
+       151
+      ],
+      "original": "https://t.co/G5OY1gby7a",
+      "replacement": "http://elassl-team.com",
+      "display": "elassl-team.com"
+     }
+    ]
+   },
+   "location": "المملكة المغربية الشريفة  🇲🇦",
+   "banner_url": "https://pbs.twimg.com/profile_banners/2113282155937746944/1792681616",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2113285970032312320/NDbWT9bb_200x200.png",
+   "joined": "Thu Oct 22 14:52:37 +0000 2026",
+   "protected": false,
+   "website": {
+    "url": "http://elassl-team.com",
+    "display_url": "elassl-team.com"
+   },
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 0,
+  "retweets": 1,
+  "likes": 3,
+  "bookmarks": 1,
+  "quotes": 0,
+  "created_at": "Wed Nov 11 19:15:47 +0000 2026",
+  "created_timestamp": 1794424547,
+  "views": 93,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

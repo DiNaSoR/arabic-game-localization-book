@@ -1,0 +1,123 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/Loxara26x/status/2120193641612542435",
+  "id": "2120193641612542435",
+  "text": "حزمة تعريبات جديدة وصلت إلى لوكسارا! 🎮✨\n\n8 ألعاب تنتظرك بالعربية، من أجواء Alan Wake إلى مغامرات GYLT، وبقية العناوين في البوستر 🔥\n\nاختر لعبتك وابدأ التجربة 👇\nhttps://loxara.net\n\n#لوكسارا #تعريب_الألعاب",
+  "raw_text": {
+   "text": "حزمة تعريبات جديدة وصلت إلى لوكسارا! 🎮✨\n\n8 ألعاب تنتظرك بالعربية، من أجواء Alan Wake إلى مغامرات GYLT، وبقية العناوين في البوستر 🔥\n\nاختر لعبتك وابدأ التجربة 👇\nhttps://t.co/KoVbtBGeUo\n\n#لوكسارا #تعريب_الألعاب https://t.co/Kp9dWOdAzb",
+   "display_text_range": [
+    0,
+    207
+   ],
+   "facets": [
+    {
+     "type": "url",
+     "indices": [
+      159,
+      182
+     ],
+     "original": "https://t.co/KoVbtBGeUo",
+     "replacement": "https://loxara.net",
+     "display": "loxara.net"
+    },
+    {
+     "type": "hashtag",
+     "indices": [
+      184,
+      192
+     ],
+     "original": "لوكسارا"
+    },
+    {
+     "type": "hashtag",
+     "indices": [
+      193,
+      207
+     ],
+     "original": "تعريب_الألعاب"
+    },
+    {
+     "type": "media",
+     "indices": [
+      208,
+      231
+     ],
+     "id": "2120193628723421184",
+     "display": "pic.x.com/Kp9dWOdAzb",
+     "original": "https://t.co/Kp9dWOdAzb",
+     "replacement": "https://x.com/Loxara26x/status/2120193641612542435/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "Loxara26x",
+   "url": "https://x.com/Loxara26x",
+   "id": "759316218591543296",
+   "followers": 611,
+   "following": 17,
+   "likes": 611,
+   "media_count": 161,
+   "name": "LOXARA",
+   "description": "نحن فريق شغوف بالألعاب والتقنية، نستمتع بالعمل على تعريب الألعاب وتقديم محتوى يساعد اللاعبين العرب على الاستمتاع بتجاربهم المفضلة بلغتهم. زورونا بموقعنا",
+   "raw_description": {
+    "text": "نحن فريق شغوف بالألعاب والتقنية، نستمتع بالعمل على تعريب الألعاب وتقديم محتوى يساعد اللاعبين العرب على الاستمتاع بتجاربهم المفضلة بلغتهم. زورونا بموقعنا",
+    "facets": []
+   },
+   "location": "صلالة, سلطنة عمان",
+   "banner_url": "https://pbs.twimg.com/profile_banners/759316218591543296/1788630128",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2096290748719333376/BWGaSs5l_200x200.jpg",
+   "joined": "Sat Jul 30 09:14:28 +0000 2016",
+   "protected": false,
+   "website": {
+    "url": "https://youtube.com/@Makaaaarx",
+    "display_url": "youtube.com/@Makaaaarx"
+   },
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 1,
+  "retweets": 1,
+  "likes": 6,
+  "bookmarks": 3,
+  "quotes": 0,
+  "created_at": "Tue Nov 10 16:35:30 +0000 2026",
+  "created_timestamp": 1794328530,
+  "possibly_sensitive": false,
+  "views": 310,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "2120193628723421184",
+     "url": "https://pbs.twimg.com/media/HWxw3z8bIAAIYUs.jpg?name=orig",
+     "width": 1122,
+     "height": 1402
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "2120193628723421184",
+     "url": "https://pbs.twimg.com/media/HWxw3z8bIAAIYUs.jpg?name=orig",
+     "width": 1122,
+     "height": 1402
+    }
+   ]
+  },
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

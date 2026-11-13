@@ -1,0 +1,85 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/ELASSLTEAM/status/2120596760183943401",
+  "id": "2120596760183943401",
+  "text": "@Kaniki33of بخصوص بلاترو عندي المحادثة كلها مع كلود اقدر احملها وارسلها لكم ... اللعبة تعربت من الصفر وانا من استخرجت النصوص من السويتش المهكر. \n\nتقدر تحمل المحادثة وتشوف بالتفاصيل الأخد و الرد 🤷🏻‍♂️",
+  "raw_text": {
+   "text": "@Kaniki33of بخصوص بلاترو عندي المحادثة كلها مع كلود اقدر احملها وارسلها لكم ... اللعبة تعربت من الصفر وانا من استخرجت النصوص من السويتش المهكر. \n\nتقدر تحمل المحادثة وتشوف بالتفاصيل الأخد و الرد 🤷🏻‍♂️",
+   "display_text_range": [
+    12,
+    199
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      11
+     ],
+     "original": "Kaniki33of",
+     "id": "1627706681650995200"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "ELASSLTEAM",
+   "url": "https://x.com/ELASSLTEAM",
+   "id": "2113282155937746944",
+   "followers": 10,
+   "following": 58,
+   "likes": 499,
+   "media_count": 1,
+   "name": "فريق الأصل للتعريب",
+   "description": "🎮 فريق الأصل | تألّق لغة الضاد في ألعاب الفيديو\n🕹️ نعرّب ألعابكم المفضّلة بالكامل\n📱 سويتش • بلايستيشن • حاسوب\n⬇️ تعريباتنا هنا:\nhttp://elassl-team.com",
+   "raw_description": {
+    "text": "🎮 فريق الأصل | تألّق لغة الضاد في ألعاب الفيديو\n🕹️ نعرّب ألعابكم المفضّلة بالكامل\n📱 سويتش • بلايستيشن • حاسوب\n⬇️ تعريباتنا هنا:\nhttps://t.co/G5OY1gby7a",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       128,
+       151
+      ],
+      "original": "https://t.co/G5OY1gby7a",
+      "replacement": "http://elassl-team.com",
+      "display": "elassl-team.com"
+     }
+    ]
+   },
+   "location": "المملكة المغربية الشريفة  🇲🇦",
+   "banner_url": "https://pbs.twimg.com/profile_banners/2113282155937746944/1792681616",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2113285970032312320/NDbWT9bb_200x200.png",
+   "joined": "Thu Oct 22 14:52:37 +0000 2026",
+   "protected": false,
+   "website": {
+    "url": "http://elassl-team.com",
+    "display_url": "elassl-team.com"
+   },
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 0,
+  "retweets": 0,
+  "likes": 0,
+  "bookmarks": 1,
+  "quotes": 0,
+  "created_at": "Wed Nov 11 19:17:21 +0000 2026",
+  "created_timestamp": 1794424641,
+  "views": 75,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": "Kaniki33of",
+  "replying_to_status": "2120574558163853379",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

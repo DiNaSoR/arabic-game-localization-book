@@ -1,0 +1,437 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/sbalhatlani/status/2120108375874617764",
+  "id": "2120108375874617764",
+  "text": "نزل تحديث جديد يدعم الاصدارات الثانية\n\nhttps://ters-zelda-oot-arabic-ar.pages.dev\n\nنزل التعريب مره ثانيه",
+  "raw_text": {
+   "text": "نزل تحديث جديد يدعم الاصدارات الثانية\n\nhttps://t.co/H1H0Ev267i\n\nنزل التعريب مره ثانيه",
+   "display_text_range": [
+    0,
+    85
+   ],
+   "facets": [
+    {
+     "type": "url",
+     "indices": [
+      39,
+      62
+     ],
+     "original": "https://t.co/H1H0Ev267i",
+     "replacement": "https://ters-zelda-oot-arabic-ar.pages.dev",
+     "display": "ters-zelda-oot-arabic-ar.pages.dev"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "sbalhatlani",
+   "url": "https://x.com/sbalhatlani",
+   "id": "228391413",
+   "followers": 5883,
+   "following": 1897,
+   "likes": 5258,
+   "media_count": 1079,
+   "name": "ص",
+   "description": "🍓Digital NoMad\nFounder:\nhttp://Ters.co | http://WoWAR.co | http://WoWVo.co | https://Arabicsubs.com\n\nودك تدعمني ؟ إشترلي كوب☕️قهوة👇",
+   "raw_description": {
+    "text": "🍓Digital NoMad\nFounder:\nhttps://t.co/GsYA7SZ1Fx | https://t.co/S2IoNwCSM9 | https://t.co/JyJm4npcnr | https://t.co/4iqSjrtAPV\n\nودك تدعمني ؟ إشترلي كوب☕️قهوة👇",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       24,
+       47
+      ],
+      "original": "https://t.co/GsYA7SZ1Fx",
+      "replacement": "http://Ters.co",
+      "display": "Ters.co"
+     },
+     {
+      "type": "url",
+      "indices": [
+       50,
+       73
+      ],
+      "original": "https://t.co/S2IoNwCSM9",
+      "replacement": "http://WoWAR.co",
+      "display": "WoWAR.co"
+     },
+     {
+      "type": "url",
+      "indices": [
+       76,
+       99
+      ],
+      "original": "https://t.co/JyJm4npcnr",
+      "replacement": "http://WoWVo.co",
+      "display": "WoWVo.co"
+     },
+     {
+      "type": "url",
+      "indices": [
+       102,
+       125
+      ],
+      "original": "https://t.co/4iqSjrtAPV",
+      "replacement": "https://Arabicsubs.com",
+      "display": "Arabicsubs.com"
+     }
+    ]
+   },
+   "location": "Valley",
+   "banner_url": "https://pbs.twimg.com/profile_banners/228391413/1680793335",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1643992510665195522/BVihbbDm_200x200.jpg",
+   "joined": "Sun Dec 19 15:48:32 +0000 2010",
+   "protected": false,
+   "website": {
+    "url": "https://www.paypal.com/donate/?hosted_button_id=28JAWVUEW9PEJ",
+    "display_url": "paypal.com/donate/?hosted…"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 6,
+  "retweets": 8,
+  "likes": 94,
+  "bookmarks": 50,
+  "quotes": 1,
+  "created_at": "Tue Nov 10 10:56:41 +0000 2026",
+  "created_timestamp": 1794308201,
+  "possibly_sensitive": false,
+  "views": 4899,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "quote": {
+   "url": "https://x.com/sbalhatlani/status/2119748701832778194",
+   "id": "2119748701832778194",
+   "text": "🚨 أسطورة زيلدا تتكلم عربي صوت و كتابة 100% !\n\nThe Legend of Zelda: Ocarina of Time\nأسطورة زيلدا: أوكارينا الزمن\n\nالتعريب يشمل النصوص و الاصوات كاملة.. اذا عجبك التعريب لاتنسى الدعم 🍵 من هنا:\nhttps://www.paypal.com/donate/?hosted_button_id=28JAWVUEW9PEJ\nلتحميل التعريب:\nhttps://ters-zelda-oot-arabic-ar.pages.dev/\n\nالتعريب متوفر على:\n- ويندوز\n- ماك\n- لينكس\n- ستيم\n\nملاحظة بعض مخرجات الاصوات ممكن يكون في نطق خطأ بشكل بسيط جداً للاسف هذا خارج ارادتي حالياً..\n\n#ZeldaOcarinaofTimeRemake #Zelda #arabic",
+   "raw_text": {
+    "text": "🚨 أسطورة زيلدا تتكلم عربي صوت و كتابة 100% !\n\nThe Legend of Zelda: Ocarina of Time\nأسطورة زيلدا: أوكارينا الزمن\n\nالتعريب يشمل النصوص و الاصوات كاملة.. اذا عجبك التعريب لاتنسى الدعم 🍵 من هنا:\nhttps://t.co/pjC1dLFx7u\nلتحميل التعريب:\nhttps://t.co/ICgTa4gT14\n\nالتعريب متوفر على:\n- ويندوز\n- ماك\n- لينكس\n- ستيم\n\nملاحظة بعض مخرجات الاصوات ممكن يكون في نطق خطأ بشكل بسيط جداً للاسف هذا خارج ارادتي حالياً..\n\n#ZeldaOcarinaofTimeRemake #Zelda #arabic",
+    "display_text_range": [
+     0,
+     442
+    ],
+    "facets": [
+     {
+      "type": "bold",
+      "indices": [
+       114,
+       191
+      ]
+     },
+     {
+      "type": "url",
+      "indices": [
+       191,
+       214
+      ],
+      "original": "https://t.co/pjC1dLFx7u",
+      "replacement": "https://www.paypal.com/donate/?hosted_button_id=28JAWVUEW9PEJ",
+      "display": "paypal.com/donate/?hosted…"
+     },
+     {
+      "type": "bold",
+      "indices": [
+       217,
+       231
+      ]
+     },
+     {
+      "type": "url",
+      "indices": [
+       231,
+       254
+      ],
+      "original": "https://t.co/ICgTa4gT14",
+      "replacement": "https://ters-zelda-oot-arabic-ar.pages.dev/",
+      "display": "ters-zelda-oot-arabic-ar.pages.dev"
+     },
+     {
+      "type": "bold",
+      "indices": [
+       259,
+       276
+      ]
+     },
+     {
+      "type": "media",
+      "indices": [
+       277,
+       300
+      ],
+      "id": "2119746897866854400",
+      "display": "pic.x.com/obqVSIM4GF",
+      "original": "https://t.co/obqVSIM4GF",
+      "replacement": "https://x.com/sbalhatlani/status/2119748701832778194/video/1"
+     },
+     {
+      "type": "hashtag",
+      "indices": [
+       400,
+       425
+      ],
+      "original": "ZeldaOcarinaofTimeRemake"
+     },
+     {
+      "type": "hashtag",
+      "indices": [
+       426,
+       432
+      ],
+      "original": "Zelda"
+     },
+     {
+      "type": "hashtag",
+      "indices": [
+       433,
+       440
+      ],
+      "original": "arabic"
+     }
+    ]
+   },
+   "author": {
+    "screen_name": "sbalhatlani",
+    "url": "https://x.com/sbalhatlani",
+    "id": "228391413",
+    "followers": 5883,
+    "following": 1897,
+    "likes": 5258,
+    "media_count": 1079,
+    "name": "ص",
+    "description": "🍓Digital NoMad\nFounder:\nhttp://Ters.co | http://WoWAR.co | http://WoWVo.co | https://Arabicsubs.com\n\nودك تدعمني ؟ إشترلي كوب☕️قهوة👇",
+    "raw_description": {
+     "text": "🍓Digital NoMad\nFounder:\nhttps://t.co/GsYA7SZ1Fx | https://t.co/S2IoNwCSM9 | https://t.co/JyJm4npcnr | https://t.co/4iqSjrtAPV\n\nودك تدعمني ؟ إشترلي كوب☕️قهوة👇",
+     "facets": [
+      {
+       "type": "url",
+       "indices": [
+        24,
+        47
+       ],
+       "original": "https://t.co/GsYA7SZ1Fx",
+       "replacement": "http://Ters.co",
+       "display": "Ters.co"
+      },
+      {
+       "type": "url",
+       "indices": [
+        50,
+        73
+       ],
+       "original": "https://t.co/S2IoNwCSM9",
+       "replacement": "http://WoWAR.co",
+       "display": "WoWAR.co"
+      },
+      {
+       "type": "url",
+       "indices": [
+        76,
+        99
+       ],
+       "original": "https://t.co/JyJm4npcnr",
+       "replacement": "http://WoWVo.co",
+       "display": "WoWVo.co"
+      },
+      {
+       "type": "url",
+       "indices": [
+        102,
+        125
+       ],
+       "original": "https://t.co/4iqSjrtAPV",
+       "replacement": "https://Arabicsubs.com",
+       "display": "Arabicsubs.com"
+      }
+     ]
+    },
+    "location": "Valley",
+    "banner_url": "https://pbs.twimg.com/profile_banners/228391413/1680793335",
+    "avatar_url": "https://pbs.twimg.com/profile_images/1643992510665195522/BVihbbDm_200x200.jpg",
+    "joined": "Sun Dec 19 15:48:32 +0000 2010",
+    "protected": false,
+    "website": {
+     "url": "https://www.paypal.com/donate/?hosted_button_id=28JAWVUEW9PEJ",
+     "display_url": "paypal.com/donate/?hosted…"
+    },
+    "verification": {
+     "verified": true,
+     "verified_at": null,
+     "type": "individual"
+    },
+    "avatar_color": null
+   },
+   "replies": 49,
+   "retweets": 54,
+   "likes": 509,
+   "bookmarks": 448,
+   "quotes": 12,
+   "created_at": "Mon Nov 09 11:07:28 +0000 2026",
+   "created_timestamp": 1794222448,
+   "possibly_sensitive": false,
+   "views": 67886,
+   "is_note_tweet": true,
+   "community_note": null,
+   "lang": "ar",
+   "replying_to": null,
+   "replying_to_status": null,
+   "media": {
+    "all": [
+     {
+      "id": "2119746897866854400",
+      "url": "https://video.twimg.com/amplify_video/2119746897866854400/vid/avc1/1920x1080/JQHoR3Gzu12EMnGf.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119746897866854400/img/ukeI1RK8egTzV0r3.jpg",
+      "duration": 74.368,
+      "width": 1920,
+      "height": 1080,
+      "format": "video/mp4",
+      "type": "video",
+      "formats": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2119746897866854400/pl/tnOgbY7h83fnicDA.m3u8?tag=29&v=bae",
+        "container": "m3u8"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2119746897866854400/vid/avc1/480x270/fXm0zovwtyIXEhfT.mp4?tag=29",
+        "bitrate": 256000,
+        "container": "mp4",
+        "codec": "h264"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2119746897866854400/vid/avc1/640x360/rINUaLgXoO5e7Th-.mp4?tag=29",
+        "bitrate": 832000,
+        "container": "mp4",
+        "codec": "h264"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2119746897866854400/vid/avc1/1280x720/48ac98HH2xjYDUSt.mp4?tag=29",
+        "bitrate": 2176000,
+        "container": "mp4",
+        "codec": "h264"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2119746897866854400/vid/avc1/1920x1080/JQHoR3Gzu12EMnGf.mp4?tag=29",
+        "bitrate": 10368000,
+        "container": "mp4",
+        "codec": "h264"
+       }
+      ],
+      "publisher": null,
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2119746897866854400/pl/tnOgbY7h83fnicDA.m3u8?tag=29&v=bae",
+        "bitrate": 0,
+        "content_type": "application/x-mpegURL"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2119746897866854400/vid/avc1/480x270/fXm0zovwtyIXEhfT.mp4?tag=29",
+        "bitrate": 256000,
+        "content_type": "video/mp4"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2119746897866854400/vid/avc1/640x360/rINUaLgXoO5e7Th-.mp4?tag=29",
+        "bitrate": 832000,
+        "content_type": "video/mp4"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2119746897866854400/vid/avc1/1280x720/48ac98HH2xjYDUSt.mp4?tag=29",
+        "bitrate": 2176000,
+        "content_type": "video/mp4"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2119746897866854400/vid/avc1/1920x1080/JQHoR3Gzu12EMnGf.mp4?tag=29",
+        "bitrate": 10368000,
+        "content_type": "video/mp4"
+       }
+      ]
+     }
+    ],
+    "videos": [
+     {
+      "id": "2119746897866854400",
+      "url": "https://video.twimg.com/amplify_video/2119746897866854400/vid/avc1/1920x1080/JQHoR3Gzu12EMnGf.mp4?tag=29",
+      "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119746897866854400/img/ukeI1RK8egTzV0r3.jpg",
+      "duration": 74.368,
+      "width": 1920,
+      "height": 1080,
+      "format": "video/mp4",
+      "type": "video",
+      "formats": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2119746897866854400/pl/tnOgbY7h83fnicDA.m3u8?tag=29&v=bae",
+        "container": "m3u8"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2119746897866854400/vid/avc1/480x270/fXm0zovwtyIXEhfT.mp4?tag=29",
+        "bitrate": 256000,
+        "container": "mp4",
+        "codec": "h264"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2119746897866854400/vid/avc1/640x360/rINUaLgXoO5e7Th-.mp4?tag=29",
+        "bitrate": 832000,
+        "container": "mp4",
+        "codec": "h264"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2119746897866854400/vid/avc1/1280x720/48ac98HH2xjYDUSt.mp4?tag=29",
+        "bitrate": 2176000,
+        "container": "mp4",
+        "codec": "h264"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2119746897866854400/vid/avc1/1920x1080/JQHoR3Gzu12EMnGf.mp4?tag=29",
+        "bitrate": 10368000,
+        "container": "mp4",
+        "codec": "h264"
+       }
+      ],
+      "publisher": null,
+      "variants": [
+       {
+        "url": "https://video.twimg.com/amplify_video/2119746897866854400/pl/tnOgbY7h83fnicDA.m3u8?tag=29&v=bae",
+        "bitrate": 0,
+        "content_type": "application/x-mpegURL"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2119746897866854400/vid/avc1/480x270/fXm0zovwtyIXEhfT.mp4?tag=29",
+        "bitrate": 256000,
+        "content_type": "video/mp4"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2119746897866854400/vid/avc1/640x360/rINUaLgXoO5e7Th-.mp4?tag=29",
+        "bitrate": 832000,
+        "content_type": "video/mp4"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2119746897866854400/vid/avc1/1280x720/48ac98HH2xjYDUSt.mp4?tag=29",
+        "bitrate": 2176000,
+        "content_type": "video/mp4"
+       },
+       {
+        "url": "https://video.twimg.com/amplify_video/2119746897866854400/vid/avc1/1920x1080/JQHoR3Gzu12EMnGf.mp4?tag=29",
+        "bitrate": 10368000,
+        "content_type": "video/mp4"
+       }
+      ]
+     }
+    ]
+   },
+   "twitter_card": "player",
+   "color": null,
+   "provider": "twitter",
+   "reposted_by": null
+  },
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

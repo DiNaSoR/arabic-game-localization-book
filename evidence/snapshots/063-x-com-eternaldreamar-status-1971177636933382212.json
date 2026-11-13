@@ -1,0 +1,200 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/EternalDreamAR/status/1971177636933382212",
+  "id": "1971177636933382212",
+  "text": "مع Silent Hill f، عادت سلسلة الرعب والسولز بقوة بأجواء يابانية!\nيسعدنا تقديم تعريب هاوي عادي لها لنسخة الحاسب.\n\nكما تعلمون، فالتعريبات الهاوية مجانية غير ربحية يعمل عليها لاعبون اشتروا اللعبة من متجرها الرقمي وهدفه تشجيعكم على دعم المطور فقط، لكن هذه بديهيات في العالم أسره.",
+  "raw_text": {
+   "text": "مع Silent Hill f، عادت سلسلة الرعب والسولز بقوة بأجواء يابانية!\nيسعدنا تقديم تعريب هاوي عادي لها لنسخة الحاسب.\n\nكما تعلمون، فالتعريبات الهاوية مجانية غير ربحية يعمل عليها لاعبون اشتروا اللعبة من متجرها الرقمي وهدفه تشجيعكم على دعم المطور فقط، لكن هذه بديهيات في العالم أسره. https://t.co/6B77zHEilA",
+   "display_text_range": [
+    0,
+    274
+   ],
+   "facets": [
+    {
+     "type": "media",
+     "indices": [
+      275,
+      298
+     ],
+     "id": "1971177090671144960",
+     "display": "pic.x.com/6B77zHEilA",
+     "original": "https://t.co/6B77zHEilA",
+     "replacement": "https://x.com/EternalDreamAR/status/1971177636933382212/photo/1"
+    },
+    {
+     "type": "media",
+     "indices": [
+      275,
+      298
+     ],
+     "id": "1971177132626771968",
+     "display": "pic.x.com/6B77zHEilA",
+     "original": "https://t.co/6B77zHEilA",
+     "replacement": "https://x.com/EternalDreamAR/status/1971177636933382212/photo/1"
+    },
+    {
+     "type": "media",
+     "indices": [
+      275,
+      298
+     ],
+     "id": "1971177202734485504",
+     "display": "pic.x.com/6B77zHEilA",
+     "original": "https://t.co/6B77zHEilA",
+     "replacement": "https://x.com/EternalDreamAR/status/1971177636933382212/photo/1"
+    },
+    {
+     "type": "media",
+     "indices": [
+      275,
+      298
+     ],
+     "id": "1971177296347189248",
+     "display": "pic.x.com/6B77zHEilA",
+     "original": "https://t.co/6B77zHEilA",
+     "replacement": "https://x.com/EternalDreamAR/status/1971177636933382212/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "EternalDreamAR",
+   "url": "https://x.com/EternalDreamAR",
+   "id": "3677595257",
+   "followers": 28208,
+   "following": 62,
+   "likes": 1397,
+   "media_count": 275,
+   "name": "الحلم المتجدد للتعريب ✨",
+   "description": "الفريق الأول في تعريب الألعاب ✨\n\nترجماتنا الهاوية: https://www.etrdream.com/\nترجماتنا الرسمية: https://www.translate.games",
+   "raw_description": {
+    "text": "الفريق الأول في تعريب الألعاب ✨\n\nترجماتنا الهاوية: https://t.co/kDC9sin7Sl\nترجماتنا الرسمية: https://t.co/Ud06RqTvma",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       51,
+       74
+      ],
+      "original": "https://t.co/kDC9sin7Sl",
+      "replacement": "https://www.etrdream.com/",
+      "display": "etrdream.com"
+     },
+     {
+      "type": "url",
+      "indices": [
+       93,
+       116
+      ],
+      "original": "https://t.co/Ud06RqTvma",
+      "replacement": "https://www.translate.games",
+      "display": "translate.games"
+     }
+    ]
+   },
+   "location": "hi@translate.games",
+   "banner_url": "https://pbs.twimg.com/profile_banners/3677595257/1724578205",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1688611155625795585/YV4uq_sb_200x200.jpg",
+   "joined": "Wed Sep 16 18:49:01 +0000 2015",
+   "protected": false,
+   "website": {
+    "url": "https://www.etrdream.com/",
+    "display_url": "etrdream.com"
+   },
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 1,
+  "retweets": 81,
+  "likes": 512,
+  "bookmarks": 293,
+  "quotes": 72,
+  "created_at": "Thu Sep 25 11:39:06 +0000 2025",
+  "created_timestamp": 1758800346,
+  "possibly_sensitive": false,
+  "views": 182919,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "1971177090671144960",
+     "url": "https://pbs.twimg.com/media/G1sHHsbXcAA_usR.jpg?name=orig",
+     "width": 1920,
+     "height": 1080
+    },
+    {
+     "type": "photo",
+     "id": "1971177132626771968",
+     "url": "https://pbs.twimg.com/media/G1sHKIuXgAAldDY.jpg?name=orig",
+     "width": 1920,
+     "height": 1080
+    },
+    {
+     "type": "photo",
+     "id": "1971177202734485504",
+     "url": "https://pbs.twimg.com/media/G1sHON5WUAALITy.jpg?name=orig",
+     "width": 2560,
+     "height": 1440
+    },
+    {
+     "type": "photo",
+     "id": "1971177296347189248",
+     "url": "https://pbs.twimg.com/media/G1sHTqoW0AA-pHx.jpg?name=orig",
+     "width": 2560,
+     "height": 1440
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "1971177090671144960",
+     "url": "https://pbs.twimg.com/media/G1sHHsbXcAA_usR.jpg?name=orig",
+     "width": 1920,
+     "height": 1080
+    },
+    {
+     "type": "photo",
+     "id": "1971177132626771968",
+     "url": "https://pbs.twimg.com/media/G1sHKIuXgAAldDY.jpg?name=orig",
+     "width": 1920,
+     "height": 1080
+    },
+    {
+     "type": "photo",
+     "id": "1971177202734485504",
+     "url": "https://pbs.twimg.com/media/G1sHON5WUAALITy.jpg?name=orig",
+     "width": 2560,
+     "height": 1440
+    },
+    {
+     "type": "photo",
+     "id": "1971177296347189248",
+     "url": "https://pbs.twimg.com/media/G1sHTqoW0AA-pHx.jpg?name=orig",
+     "width": 2560,
+     "height": 1440
+    }
+   ],
+   "mosaic": {
+    "type": "mosaic_photo",
+    "formats": {
+     "jpeg": "https://mosaic.fxtwitter.com/jpeg/1971177636933382212/G1sHHsbXcAA_usR/G1sHKIuXgAAldDY/G1sHON5WUAALITy/G1sHTqoW0AA-pHx",
+     "webp": "https://mosaic.fxtwitter.com/webp/1971177636933382212/G1sHHsbXcAA_usR/G1sHKIuXgAAldDY/G1sHON5WUAALITy/G1sHTqoW0AA-pHx"
+    }
+   }
+  },
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

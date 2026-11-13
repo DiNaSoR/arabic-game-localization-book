@@ -1,0 +1,116 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/Arabic_Hesham/status/2120216354540118053",
+  "id": "2120216354540118053",
+  "text": "🚨تعريب:\nOmori\n\nبطلب ودعم: Aqua 🧡\n\n#تعريبات_هشام",
+  "raw_text": {
+   "text": "🚨تعريب:\nOmori\n\nبطلب ودعم: Aqua 🧡\n\n#تعريبات_هشام https://t.co/TuYPeZCOTw",
+   "display_text_range": [
+    0,
+    47
+   ],
+   "facets": [
+    {
+     "type": "hashtag",
+     "indices": [
+      34,
+      47
+     ],
+     "original": "تعريبات_هشام"
+    },
+    {
+     "type": "media",
+     "indices": [
+      48,
+      71
+     ],
+     "id": "2120214826572017664",
+     "display": "pic.x.com/TuYPeZCOTw",
+     "original": "https://t.co/TuYPeZCOTw",
+     "replacement": "https://x.com/Arabic_Hesham/status/2120216354540118053/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "Arabic_Hesham",
+   "url": "https://x.com/Arabic_Hesham",
+   "id": "2051213281419751424",
+   "followers": 5503,
+   "following": 77,
+   "likes": 955,
+   "media_count": 130,
+   "name": "هشـــام",
+   "description": "تعريبات آلية بالكامل بدون تدخل بشري 🤖\n\nhttps://arabichesham.com/",
+   "raw_description": {
+    "text": "تعريبات آلية بالكامل بدون تدخل بشري 🤖\n\nhttps://t.co/Me7kI5Dcit",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       39,
+       62
+      ],
+      "original": "https://t.co/Me7kI5Dcit",
+      "replacement": "https://arabichesham.com/",
+      "display": "arabichesham.com"
+     }
+    ]
+   },
+   "location": "الوطن العربي 🤍",
+   "banner_url": "https://pbs.twimg.com/profile_banners/2051213281419751424/1791124132",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2051658850558672904/4gmI3KS1_200x200.jpg",
+   "joined": "Mon May 04 08:12:24 +0000 2026",
+   "protected": false,
+   "website": {
+    "url": "https://ko-fi.com/arabichesham",
+    "display_url": "ko-fi.com/arabichesham"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 6,
+  "retweets": 3,
+  "likes": 49,
+  "bookmarks": 35,
+  "quotes": 1,
+  "created_at": "Tue Nov 10 18:05:45 +0000 2026",
+  "created_timestamp": 1794333945,
+  "possibly_sensitive": false,
+  "views": 7987,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": null,
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "2120214826572017664",
+     "url": "https://pbs.twimg.com/media/HWyEJsFXcAAZYRx.png?name=orig",
+     "width": 616,
+     "height": 353
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "2120214826572017664",
+     "url": "https://pbs.twimg.com/media/HWyEJsFXcAAZYRx.png?name=orig",
+     "width": 616,
+     "height": 353
+    }
+   ]
+  },
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

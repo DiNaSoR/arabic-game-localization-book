@@ -1,0 +1,175 @@
+URL: https://www.romhacking.net/translations/5864/
+Archived copy: https://web.archive.org/web/20240305234030/https://www.romhacking.net/translations/5864/
+
+Home Forum Sections Community Submissions Changes Search Help   
+
+
+Sections
+Home
+Documents
+Utilities
+Translations
+ROM Hacks
+Games
+Homebrew
+Fonts
+Abandoned
+News Archive
+Community
+Forum
+Wiki
+History
+Chat
+Community Database
+Links
+Submissions
+Submit Files
+Submit News
+Queue Status
+Public Maintenance
+The Scratchpad
+Online ROM Patcher
+Online ROM Hasher
+Help
+About this Site
+Getting Started
+RHDN Policy
+Dictionary
+FAQ
+Contact Staff
+Newest Hacks
+ 
+Asteroids LDX
+Improvement | GB
+Bomberman Hero - Bonus unlocked
+Improvement | N64
+DOOMSDAY 2: Day of Disaster
+Complete | SNES
+Dragon Ball Super - Divin
+Complete | SNES
+See More Hacks...
+Newest Translations
+ 
+Ys IV: Mask of the Sun
+Spanish | Fully Playable | SNES
+Adventure Island
+Turkish | Fully Playable | NES
+Seiryaku Simulation - Inbou no Wakusei: Shancara
+English | Fully Playable | NES
+Mega Man III
+Portuguese | Fully Playable | GB
+See More Translations...
+Newest Reviews
+ 
+Worth It
+Hacks | The Addams Family - Afterlife Edition
+My Little Pony: Dr. Discord's Conquest - GOOD
+Hacks | My Little Pony: Dr. Discord's Conquest
+Mega Man C4 - BAD
+Hacks | Mega Man C4
+Makes Asteroids actually look like Asteroids!
+Hacks | Asteroids LDX
+See More Reviews...
+Featured Hack Images
+ 
+Secret of Mana 2 Titlescreen Patch
+Improvement | SNES
+Mega Man Ultra
+Complete | NES
+Featured Translation Images
+ 
+Ys III: Wanderers from Ys
+English | Fully Playable | NES
+Dai Kaijuu Deburas
+English | Unfinished | NES
+Recent Forum Posts
+Suikoden - The Last Hope (PSX Patch)
+Personal Projects
+Today at 09:42:13 AM
+Final Fantasy IV Advance: Visual Improvement Hack
+Personal Projects
+Today at 09:28:26 AM
+NES Metroid HD Pack
+Personal Projects
+Today at 09:05:47 AM
+List of Co-op / Multiplayer hacks
+ROM Hacking Discussion
+Today at 08:38:11 AM
+See More Forum Topics...
+Recent Updates
+Championship Lode Runner
+Games
+Better quality title screen
+AmbiguouslyAnonymous
+Community
+Forum Name added
+Javier CRT
+Community
+Forum Name added
+Dirty deeds are done dirt cheap... on Shancara!
+News
+Fixing spelling errors
+See More Changes...
+Final Fantasy V Advance
+Game Boy Advance
+Translation Information
+Final Fantasy V Advance
+
+Released By	q8fft
+Language	Arabic
+Status	Fully Playable
+Platform	Game Boy Advance
+License	N/A
+Patching Information	No Special Requirements
+Genre	Role Playing
+Published By	Nintendo
+Game Date	12 October 2006
+Patch Version	1.0e
+Release Date	26 June 2020
+Readme	
+Downloads	337
+Last Modified	10 January 2021
+EDIT TRANSLATION ENTRY
+EDIT GAME ENTRY
+EDIT CREDITS
+FLAG AS NONCOMPLIANT
+ Share  Tweet
+Game Description:
+
+Final Fantasy V Advance is a role playing game for the Game Boy Advance.
+
+The game is a port of the Final Fantasy series’ fifth entry, which was originally released in 1992. It offers an improved translation over the PS1 version, as well as a more modern UI and additional late/post-game content.
+
+The game’s story and visuals are rather generic. Its main draw lies in its Job System which features over 20 classes whose abilities can be mixed and matched as desired. This allows for many different styles of play and unexpected levels of tactical depth.
+
+Translation Description:
+
+Arabic translation patch for the Final Fantasy Advance.
+
+Work on this project took 3 months, 21 days.
+
+Enjoy!
+
+ROM / ISO Information:
+Database match: Final Fantasy V Advance (Europe) (En,Fr,De,Es,It)
+Database: No-Intro: Game Boy Advance (v. 20180816-092117)
+File/ROM SHA-1: 4FC4BC7C1C3ABE9D2F9C59A3AE4172B5CB57BD2C
+File/ROM CRC32: 7197117E
+Links:
+News Articles for this Translation
+Download
+Screenshots:
+
+
+Credits:
+Credits
+Contributor	Type of contribution	Listed credit
+q8fft	Original Translation	
+User Review Information
+No User Reviews!
+ADD REVIEW
+﻿﻿
+©2005-2024 RHDN 3.0.0 by Nightcrawler. All Rights Reserved.
+Execution time - 0.0054 sec. - Number of Queries: 4
+About Us | RHDN Policy | HTML5 | CSS
+  

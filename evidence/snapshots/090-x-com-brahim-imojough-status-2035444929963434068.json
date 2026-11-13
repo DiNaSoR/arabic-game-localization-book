@@ -1,0 +1,86 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/BRAHIM_IMOJOUGH/status/2035444929963434068",
+  "id": "2035444929963434068",
+  "text": "@alghaith113 لا",
+  "raw_text": {
+   "text": "@alghaith113 لا",
+   "display_text_range": [
+    13,
+    15
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      12
+     ],
+     "original": "alghaith113",
+     "id": "836642689181446144"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "BRAHIM_IMOJOUGH",
+   "url": "https://x.com/BRAHIM_IMOJOUGH",
+   "id": "2194831194",
+   "followers": 976,
+   "following": 26,
+   "likes": 922,
+   "media_count": 163,
+   "name": "GAMING REPUBLIC",
+   "description": "مهتم بتعديل العاب و الترجمة\nرابط دعم ⬇️ لتحسين ترجمة...\nhttps://www.paypal.me/imojoughan",
+   "raw_description": {
+    "text": "مهتم بتعديل العاب و الترجمة\nرابط دعم ⬇️ لتحسين ترجمة...\nhttps://t.co/0sAoySct68",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       56,
+       79
+      ],
+      "original": "https://t.co/0sAoySct68",
+      "replacement": "https://www.paypal.me/imojoughan",
+      "display": "paypal.me/imojoughan"
+     }
+    ]
+   },
+   "location": "Tétouan, Royaume du Maroc",
+   "banner_url": "https://pbs.twimg.com/profile_banners/2194831194/1769300355",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1973122325269626880/RQq7kS_L_200x200.jpg",
+   "joined": "Thu Nov 14 20:38:30 +0000 2013",
+   "protected": false,
+   "website": {
+    "url": "https://discord.gg/mFeCTE4zv2",
+    "display_url": "discord.gg/mFeCTE4zv2"
+   },
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 0,
+  "retweets": 0,
+  "likes": 0,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Sat Mar 21 19:54:22 +0000 2026",
+  "created_timestamp": 1774122862,
+  "views": 185,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": "alghaith113",
+  "replying_to_status": "2035440431790518330",
+  "source": "Twitter for Android",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

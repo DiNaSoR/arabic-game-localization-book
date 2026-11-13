@@ -1,0 +1,108 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/TersNetwork/status/1767138990711312766",
+  "id": "1767138990711312766",
+  "text": "طوق الأقدمين بالدبلجة العربي\nإيلدن رينق\nElden Ring Arabic Dub\n\nhttps://youtu.be/LcmDbDjMpwI?si=sb3vT06OYWIg5oFX",
+  "raw_text": {
+   "text": "طوق الأقدمين بالدبلجة العربي\nإيلدن رينق\nElden Ring Arabic Dub\n\nhttps://t.co/k642eo15LN",
+   "display_text_range": [
+    0,
+    86
+   ],
+   "facets": [
+    {
+     "type": "url",
+     "indices": [
+      63,
+      86
+     ],
+     "original": "https://t.co/k642eo15LN",
+     "replacement": "https://youtu.be/LcmDbDjMpwI?si=sb3vT06OYWIg5oFX",
+     "display": "youtu.be/LcmDbDjMpwI?si…"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "TersNetwork",
+   "url": "https://x.com/TersNetwork",
+   "id": "1071071166780137477",
+   "followers": 153,
+   "following": 3,
+   "likes": 11,
+   "media_count": 68,
+   "name": "Ters",
+   "description": "شبكة ترس - صورة وصوت عربي\n\nDiscord: https://discord.gg/uW5NJ6y\nYouTube: https://www.youtube.com/channel/UCf9zCB-SEDG05YZPcMRS3NA",
+   "raw_description": {
+    "text": "شبكة ترس - صورة وصوت عربي\n\nDiscord: https://t.co/yKHyRhMYAp\nYouTube: https://t.co/LIqHHiFJkR",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       36,
+       59
+      ],
+      "original": "https://t.co/yKHyRhMYAp",
+      "replacement": "https://discord.gg/uW5NJ6y",
+      "display": "discord.gg/uW5NJ6y"
+     },
+     {
+      "type": "url",
+      "indices": [
+       69,
+       92
+      ],
+      "original": "https://t.co/LIqHHiFJkR",
+      "replacement": "https://www.youtube.com/channel/UCf9zCB-SEDG05YZPcMRS3NA",
+      "display": "youtube.com/channel/UCf9zC…"
+     }
+    ]
+   },
+   "location": "",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1071071166780137477/1708529382",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1760326432398442496/DfmR8PT__200x200.jpg",
+   "joined": "Fri Dec 07 15:57:20 +0000 2018",
+   "protected": false,
+   "website": {
+    "url": "http://Ters.co",
+    "display_url": "Ters.co"
+   },
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 0,
+  "retweets": 0,
+  "likes": 0,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Mon Mar 11 10:42:21 +0000 2024",
+  "created_timestamp": 1710153741,
+  "possibly_sensitive": false,
+  "views": 106,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "card": {
+   "url": "https://youtu.be/LcmDbDjMpwI?si=sb3vT06OYWIg5oFX",
+   "title": "Elden Ring Arabic Dub - إيلدن رينق (طوق الأقدمين) بدبلجة العربية",
+   "description": "تمت الدبلجة بإستخدام الذكاء الإصطناعي.",
+   "domain": "www.youtube.com",
+   "image": {
+    "width": 800,
+    "height": 419,
+    "url": "https://pbs.twimg.com/card_img/2116802259623325697/EcITpy7h?format=jpg&name=800x419"
+   }
+  },
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

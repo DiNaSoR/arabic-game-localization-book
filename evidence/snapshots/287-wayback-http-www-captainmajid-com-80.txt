@@ -1,0 +1,5 @@
+URL: http://web.archive.org/web/20071126014505/http://www.captainmajid.com:80/
+Final: https://web.archive.org/web/20071126014505/http://www.captainmajid.com:80/
+Title: Wayback Machine
+HTTP: 200
+

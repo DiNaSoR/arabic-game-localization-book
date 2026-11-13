@@ -1,0 +1,174 @@
+URL: https://www.romhacking.net/translations/5617
+Archived copy: https://web.archive.org/web/20240305233713/https://www.romhacking.net/translations/5617/
+
+Home Forum Sections Community Submissions Changes Search Help   
+
+
+Sections
+Home
+Documents
+Utilities
+Translations
+ROM Hacks
+Games
+Homebrew
+Fonts
+Abandoned
+News Archive
+Community
+Forum
+Wiki
+History
+Chat
+Community Database
+Links
+Submissions
+Submit Files
+Submit News
+Queue Status
+Public Maintenance
+The Scratchpad
+Online ROM Patcher
+Online ROM Hasher
+Help
+About this Site
+Getting Started
+RHDN Policy
+Dictionary
+FAQ
+Contact Staff
+Newest Hacks
+ 
+Asteroids LDX
+Improvement | GB
+Bomberman Hero - Bonus unlocked
+Improvement | N64
+DOOMSDAY 2: Day of Disaster
+Complete | SNES
+Dragon Ball Super - Divin
+Complete | SNES
+See More Hacks...
+Newest Translations
+ 
+Ys IV: Mask of the Sun
+Spanish | Fully Playable | SNES
+Adventure Island
+Turkish | Fully Playable | NES
+Seiryaku Simulation - Inbou no Wakusei: Shancara
+English | Fully Playable | NES
+Mega Man III
+Portuguese | Fully Playable | GB
+See More Translations...
+Newest Reviews
+ 
+Worth It
+Hacks | The Addams Family - Afterlife Edition
+My Little Pony: Dr. Discord's Conquest - GOOD
+Hacks | My Little Pony: Dr. Discord's Conquest
+Mega Man C4 - BAD
+Hacks | Mega Man C4
+Makes Asteroids actually look like Asteroids!
+Hacks | Asteroids LDX
+See More Reviews...
+Featured Hack Images
+ 
+Secret of Mana 2 Titlescreen Patch
+Improvement | SNES
+Mega Man Ultra
+Complete | NES
+Featured Translation Images
+ 
+Ys III: Wanderers from Ys
+English | Fully Playable | NES
+Dai Kaijuu Deburas
+English | Unfinished | NES
+Recent Forum Posts
+Suikoden - The Last Hope (PSX Patch)
+Personal Projects
+Today at 09:42:13 AM
+Final Fantasy IV Advance: Visual Improvement Hack
+Personal Projects
+Today at 09:28:26 AM
+NES Metroid HD Pack
+Personal Projects
+Today at 09:05:47 AM
+List of Co-op / Multiplayer hacks
+ROM Hacking Discussion
+Today at 08:38:11 AM
+See More Forum Topics...
+Recent Updates
+Championship Lode Runner
+Games
+Better quality title screen
+AmbiguouslyAnonymous
+Community
+Forum Name added
+Javier CRT
+Community
+Forum Name added
+Dirty deeds are done dirt cheap... on Shancara!
+News
+Fixing spelling errors
+See More Changes...
+999: Nine Hours, Nine Persons, Nine Doors
+Nintendo DS
+Translation Information
+999: Nine Hours, Nine Persons, Nine Doors
+Kyokugen Dasshutsu 9 Jikan 9 nin 9 no Tobira: Nine Hours, Nine Persons, Nine Doors
+
+Released By	EternalDreamAR
+Language	Arabic
+Status	Fully Playable
+Platform	Nintendo DS
+License	N/A
+Patching Information	No Special Requirements
+Genre	Visual Novel
+Published By	Spike
+Game Date	10 December 2009
+Patch Version	1.0a
+Release Date	06 November 2020
+Readme	
+Downloads	339
+Last Modified	06 November 2020
+EDIT TRANSLATION ENTRY
+EDIT GAME ENTRY
+EDIT CREDITS
+FLAG AS NONCOMPLIANT
+ Share  Tweet
+Game Description:
+
+999: Nine Hours, Nine Persons, Nine Doors is a visual novel adventure video game written by Kotaro Uchikoshi and developed by Chunsoft. The story is about a college student, named Junpei who is abducted along with eight other people and forced to play the “Nonary Game” which puts its participants in a life or death situation, to escape from a sinking cruise liner.
+
+Translation Description:
+
+Arabic translation patch for the Nintendo DS game “999: 9 Hours, 9 Persons, 9 Doors”.
+
+This translation project officially started in 2016 after figuring out how to make the text flow from right to left, and after 4 long years the time has finally come for Arabs to enjoy this masterpiece of a game.
+
+Please do note that the at6p encrypted graphics are not translated but may be added in a future update if the means to decrypt them is found.
+
+ROM / ISO Information:
+Database match: Nine Hours, Nine Persons, Nine Doors (USA)
+Database: No-Intro: DS (all) (v. 20180806-120027)
+File/ROM SHA-1: C6EC10D88C3E0561B1F3DC171BBAADFA5ED3CC49
+File/ROM CRC32: D7F85F15
+Links:
+News Articles for this Translation
+Download
+Screenshots:
+
+
+Credits:
+Credits
+Contributor	Type of contribution	Listed credit
+A7mad	Hacking	ASM Hacking, Main Translation, Fonts
+MansourSorosoro	Translation	Main Translation, Fonts
+CUE	Hacking	Hacking Tools
+User Review Information
+No User Reviews!
+ADD REVIEW
+﻿﻿
+©2005-2024 RHDN 3.0.0 by Nightcrawler. All Rights Reserved.
+Execution time - 0.0042 sec. - Number of Queries: 4
+About Us | RHDN Policy | HTML5 | CSS
+  

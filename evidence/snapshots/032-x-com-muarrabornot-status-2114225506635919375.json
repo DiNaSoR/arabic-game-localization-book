@@ -1,0 +1,189 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/muarrabornot/status/2114225506635919375",
+  "id": "2114225506635919375",
+  "text": "بعد عامين من تمويل معرب بأنفسنا، صار بإمكانكم الآن تخفيف العبء علينا ☕\n\nفي آخر تحديث:\n\n• يمكنكم التبرع لمعرب عبر ko-fi\n• أضفنا أكثر من 400 تعريب جديد\n• يمكنكم الآن التسجيل وتقييم التعريبات\n• تحسينات جذرية قادمة لتجربة المستخدم قريبًا\n\nhttps://ko-fi.com/muarrab",
+  "raw_text": {
+   "text": "بعد عامين من تمويل معرب بأنفسنا، صار بإمكانكم الآن تخفيف العبء علينا ☕\n\nفي آخر تحديث:\n\n• يمكنكم التبرع لمعرب عبر ko-fi\n• أضفنا أكثر من 400 تعريب جديد\n• يمكنكم الآن التسجيل وتقييم التعريبات\n• تحسينات جذرية قادمة لتجربة المستخدم قريبًا\n\nhttps://t.co/o3ep29qt2v https://t.co/zv1P8XgTsY",
+   "display_text_range": [
+    0,
+    258
+   ],
+   "facets": [
+    {
+     "type": "url",
+     "indices": [
+      235,
+      258
+     ],
+     "original": "https://t.co/o3ep29qt2v",
+     "replacement": "https://ko-fi.com/muarrab",
+     "display": "ko-fi.com/muarrab"
+    },
+    {
+     "type": "media",
+     "indices": [
+      259,
+      282
+     ],
+     "id": "2114223499694702593",
+     "display": "pic.x.com/zv1P8XgTsY",
+     "original": "https://t.co/zv1P8XgTsY",
+     "replacement": "https://x.com/muarrabornot/status/2114225506635919375/photo/1"
+    },
+    {
+     "type": "media",
+     "indices": [
+      259,
+      282
+     ],
+     "id": "2114223736714915840",
+     "display": "pic.x.com/zv1P8XgTsY",
+     "original": "https://t.co/zv1P8XgTsY",
+     "replacement": "https://x.com/muarrabornot/status/2114225506635919375/photo/1"
+    },
+    {
+     "type": "media",
+     "indices": [
+      259,
+      282
+     ],
+     "id": "2114223761528373248",
+     "display": "pic.x.com/zv1P8XgTsY",
+     "original": "https://t.co/zv1P8XgTsY",
+     "replacement": "https://x.com/muarrabornot/status/2114225506635919375/photo/1"
+    },
+    {
+     "type": "media",
+     "indices": [
+      259,
+      282
+     ],
+     "id": "2114224207089311744",
+     "display": "pic.x.com/zv1P8XgTsY",
+     "original": "https://t.co/zv1P8XgTsY",
+     "replacement": "https://x.com/muarrabornot/status/2114225506635919375/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "muarrabornot",
+   "url": "https://x.com/muarrabornot",
+   "id": "1901695849874305026",
+   "followers": 3110,
+   "following": 56,
+   "likes": 154,
+   "media_count": 49,
+   "name": "معرب | دليل الألعاب المترجمة",
+   "description": "معرب هي مبادرة لاربحية تدعم تعريب الألعاب وتسهل إيجاد الألعاب المعربة. #العب_معرب 🎮",
+   "raw_description": {
+    "text": "معرب هي مبادرة لاربحية تدعم تعريب الألعاب وتسهل إيجاد الألعاب المعربة. #العب_معرب 🎮",
+    "facets": []
+   },
+   "location": "amro@muarrab.com",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1901695849874305026/1792892069",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2114170436816642048/GWRr9MYE_200x200.jpg",
+   "joined": "Mon Mar 17 18:03:23 +0000 2025",
+   "protected": false,
+   "website": {
+    "url": "http://muarrab.com",
+    "display_url": "muarrab.com"
+   },
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 6,
+  "retweets": 14,
+  "likes": 103,
+  "bookmarks": 45,
+  "quotes": 1,
+  "created_at": "Sun Oct 25 05:20:15 +0000 2026",
+  "created_timestamp": 1792905615,
+  "possibly_sensitive": false,
+  "views": 6800,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "2114223499694702593",
+     "url": "https://pbs.twimg.com/media/HVc7EkMWAAEzlpa.jpg?name=orig",
+     "width": 1600,
+     "height": 900
+    },
+    {
+     "type": "photo",
+     "id": "2114223736714915840",
+     "url": "https://pbs.twimg.com/media/HVc7SXKXcAAo1dP.jpg?name=orig",
+     "width": 1600,
+     "height": 900
+    },
+    {
+     "type": "photo",
+     "id": "2114223761528373248",
+     "url": "https://pbs.twimg.com/media/HVc7TzmWwAAgzS2.jpg?name=orig",
+     "width": 1600,
+     "height": 900
+    },
+    {
+     "type": "photo",
+     "id": "2114224207089311744",
+     "url": "https://pbs.twimg.com/media/HVc7tvcXIAAQi2u.jpg?name=orig",
+     "width": 1600,
+     "height": 900
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "2114223499694702593",
+     "url": "https://pbs.twimg.com/media/HVc7EkMWAAEzlpa.jpg?name=orig",
+     "width": 1600,
+     "height": 900
+    },
+    {
+     "type": "photo",
+     "id": "2114223736714915840",
+     "url": "https://pbs.twimg.com/media/HVc7SXKXcAAo1dP.jpg?name=orig",
+     "width": 1600,
+     "height": 900
+    },
+    {
+     "type": "photo",
+     "id": "2114223761528373248",
+     "url": "https://pbs.twimg.com/media/HVc7TzmWwAAgzS2.jpg?name=orig",
+     "width": 1600,
+     "height": 900
+    },
+    {
+     "type": "photo",
+     "id": "2114224207089311744",
+     "url": "https://pbs.twimg.com/media/HVc7tvcXIAAQi2u.jpg?name=orig",
+     "width": 1600,
+     "height": 900
+    }
+   ],
+   "mosaic": {
+    "type": "mosaic_photo",
+    "formats": {
+     "jpeg": "https://mosaic.fxtwitter.com/jpeg/2114225506635919375/HVc7EkMWAAEzlpa/HVc7SXKXcAAo1dP/HVc7TzmWwAAgzS2/HVc7tvcXIAAQi2u",
+     "webp": "https://mosaic.fxtwitter.com/webp/2114225506635919375/HVc7EkMWAAEzlpa/HVc7SXKXcAAo1dP/HVc7TzmWwAAgzS2/HVc7tvcXIAAQi2u"
+    }
+   }
+  },
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

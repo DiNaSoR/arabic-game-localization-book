@@ -1,0 +1,174 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/sbalhatlani/status/2120303312058610067",
+  "id": "2120303312058610067",
+  "text": "🚨 انطلق رسمياً: تعريب جراند ثفت أوتو 6 - GTA VI 🎮\n\nمشروع مجتمعي، والتعريب كامل بالذكاء الاصطناعي 🤖\n\n🔹 ترجمة كل النصوص للعربي\n🔹 دبلجة عربية كاملة بأصوات ذكاء اصطناعي\n🔹 خطوط عربية ودعم الكتابة من اليمين لليسار\n🔹 تعريب الصور والواجهات\n\nجهزت مستودع على GitHub فيه 7 مراحل وخطة كاملة، وصفحة تتابعون فيها نسبة التقدم أول بأول 📊\n\nالهدف: النسخة 1.0 قبل نهاية مارس 2027 بإذن الله 🔥\n\nاذا عندك خبرة وودك تشارك، حياك في الGithub 👊\n\nhttps://github.com/DiNaSoR/GTA6AR\n\nhttps://dinasor.github.io/GTA6AR/\n\n#GTA6 #GTAVI",
+  "raw_text": {
+   "text": "🚨 انطلق رسمياً: تعريب جراند ثفت أوتو 6 - GTA VI 🎮\n\nمشروع مجتمعي، والتعريب كامل بالذكاء الاصطناعي 🤖\n\n🔹 ترجمة كل النصوص للعربي\n🔹 دبلجة عربية كاملة بأصوات ذكاء اصطناعي\n🔹 خطوط عربية ودعم الكتابة من اليمين لليسار\n🔹 تعريب الصور والواجهات\n\nجهزت مستودع على GitHub فيه 7 مراحل وخطة كاملة، وصفحة تتابعون فيها نسبة التقدم أول بأول 📊\n\nالهدف: النسخة 1.0 قبل نهاية مارس 2027 بإذن الله 🔥\n\nاذا عندك خبرة وودك تشارك، حياك في الGithub 👊\n\nhttps://t.co/p7P4EOL3iZ\n\nhttps://t.co/sbkAZrd0oW\n\n#GTA6 #GTAVI",
+   "display_text_range": [
+    0,
+    492
+   ],
+   "facets": [
+    {
+     "type": "media",
+     "indices": [
+      273,
+      296
+     ],
+     "id": "2120300295087337472",
+     "display": "pic.x.com/rT5d4VZ3tv",
+     "original": "https://t.co/rT5d4VZ3tv",
+     "replacement": "https://x.com/sbalhatlani/status/2120303312058610067/photo/1"
+    },
+    {
+     "type": "url",
+     "indices": [
+      420,
+      443
+     ],
+     "original": "https://t.co/p7P4EOL3iZ",
+     "replacement": "https://github.com/DiNaSoR/GTA6AR",
+     "display": "github.com/DiNaSoR/GTA6AR"
+    },
+    {
+     "type": "url",
+     "indices": [
+      445,
+      468
+     ],
+     "original": "https://t.co/sbkAZrd0oW",
+     "replacement": "https://dinasor.github.io/GTA6AR/",
+     "display": "dinasor.github.io/GTA6AR/"
+    },
+    {
+     "type": "hashtag",
+     "indices": [
+      470,
+      475
+     ],
+     "original": "GTA6"
+    },
+    {
+     "type": "hashtag",
+     "indices": [
+      476,
+      482
+     ],
+     "original": "GTAVI"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "sbalhatlani",
+   "url": "https://x.com/sbalhatlani",
+   "id": "228391413",
+   "followers": 5883,
+   "following": 1897,
+   "likes": 5258,
+   "media_count": 1079,
+   "name": "ص",
+   "description": "🍓Digital NoMad\nFounder:\nhttp://Ters.co | http://WoWAR.co | http://WoWVo.co | https://Arabicsubs.com\n\nودك تدعمني ؟ إشترلي كوب☕️قهوة👇",
+   "raw_description": {
+    "text": "🍓Digital NoMad\nFounder:\nhttps://t.co/GsYA7SZ1Fx | https://t.co/S2IoNwCSM9 | https://t.co/JyJm4npcnr | https://t.co/4iqSjrtAPV\n\nودك تدعمني ؟ إشترلي كوب☕️قهوة👇",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       24,
+       47
+      ],
+      "original": "https://t.co/GsYA7SZ1Fx",
+      "replacement": "http://Ters.co",
+      "display": "Ters.co"
+     },
+     {
+      "type": "url",
+      "indices": [
+       50,
+       73
+      ],
+      "original": "https://t.co/S2IoNwCSM9",
+      "replacement": "http://WoWAR.co",
+      "display": "WoWAR.co"
+     },
+     {
+      "type": "url",
+      "indices": [
+       76,
+       99
+      ],
+      "original": "https://t.co/JyJm4npcnr",
+      "replacement": "http://WoWVo.co",
+      "display": "WoWVo.co"
+     },
+     {
+      "type": "url",
+      "indices": [
+       102,
+       125
+      ],
+      "original": "https://t.co/4iqSjrtAPV",
+      "replacement": "https://Arabicsubs.com",
+      "display": "Arabicsubs.com"
+     }
+    ]
+   },
+   "location": "Valley",
+   "banner_url": "https://pbs.twimg.com/profile_banners/228391413/1680793335",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1643992510665195522/BVihbbDm_200x200.jpg",
+   "joined": "Sun Dec 19 15:48:32 +0000 2010",
+   "protected": false,
+   "website": {
+    "url": "https://www.paypal.com/donate/?hosted_button_id=28JAWVUEW9PEJ",
+    "display_url": "paypal.com/donate/?hosted…"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 30,
+  "retweets": 74,
+  "likes": 826,
+  "bookmarks": 380,
+  "quotes": 3,
+  "created_at": "Tue Nov 10 23:51:17 +0000 2026",
+  "created_timestamp": 1794354677,
+  "possibly_sensitive": false,
+  "views": 66794,
+  "is_note_tweet": true,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "2120300295087337472",
+     "url": "https://pbs.twimg.com/media/HWzR4nHWMAAu-ns.jpg?name=orig",
+     "width": 2172,
+     "height": 724
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "2120300295087337472",
+     "url": "https://pbs.twimg.com/media/HWzR4nHWMAAu-ns.jpg?name=orig",
+     "width": 2172,
+     "height": 724
+    }
+   ]
+  },
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

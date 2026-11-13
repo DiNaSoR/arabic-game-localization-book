@@ -1,0 +1,204 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/Dragonarab/status/1829994534006374889",
+  "id": "1829994534006374889",
+  "text": "صدور الإضافة الجديدة WoWAR في منصة CurseForge\n\nhttps://www.curseforge.com/wow/addons/wowar-arabic\n\n#واركرافت #WoWAR #WoWvo #Warcraft #Arabic #WoW #بالعربي",
+  "raw_text": {
+   "text": "صدور الإضافة الجديدة WoWAR في منصة CurseForge\n\nhttps://t.co/74VpdEGtY2\n\n#واركرافت #WoWAR #WoWvo #Warcraft #Arabic #WoW #بالعربي https://t.co/vF2Pqc6BF7",
+   "display_text_range": [
+    0,
+    127
+   ],
+   "facets": [
+    {
+     "type": "url",
+     "indices": [
+      47,
+      70
+     ],
+     "original": "https://t.co/74VpdEGtY2",
+     "replacement": "https://www.curseforge.com/wow/addons/wowar-arabic",
+     "display": "curseforge.com/wow/addons/wow…"
+    },
+    {
+     "type": "hashtag",
+     "indices": [
+      72,
+      81
+     ],
+     "original": "واركرافت"
+    },
+    {
+     "type": "hashtag",
+     "indices": [
+      82,
+      88
+     ],
+     "original": "WoWAR"
+    },
+    {
+     "type": "hashtag",
+     "indices": [
+      89,
+      95
+     ],
+     "original": "WoWvo"
+    },
+    {
+     "type": "hashtag",
+     "indices": [
+      96,
+      105
+     ],
+     "original": "Warcraft"
+    },
+    {
+     "type": "hashtag",
+     "indices": [
+      106,
+      113
+     ],
+     "original": "Arabic"
+    },
+    {
+     "type": "hashtag",
+     "indices": [
+      114,
+      118
+     ],
+     "original": "WoW"
+    },
+    {
+     "type": "hashtag",
+     "indices": [
+      119,
+      127
+     ],
+     "original": "بالعربي"
+    },
+    {
+     "type": "media",
+     "indices": [
+      128,
+      151
+     ],
+     "id": "1829994412169940993",
+     "display": "pic.x.com/vF2Pqc6BF7",
+     "original": "https://t.co/vF2Pqc6BF7",
+     "replacement": "https://x.com/Dragonarab/status/1829994534006374889/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "Dragonarab",
+   "url": "https://x.com/Dragonarab",
+   "id": "269200475",
+   "followers": 196,
+   "following": 18,
+   "likes": 15,
+   "media_count": 62,
+   "name": "Dragonarab",
+   "description": "http://Ters.co - شبكة ترس\nhttp://wowvo.co - واركرافت الصوتي\nhttp://wowar.co - واركرافت بالعربي\n🎁 - للدعم المادي\nhttps://shorturl.at/Yvr8f",
+   "raw_description": {
+    "text": "https://t.co/Ic86fIwJlD - شبكة ترس\nhttps://t.co/ws1CXXf3xW - واركرافت الصوتي\nhttps://t.co/h1dJkdkU6t - واركرافت بالعربي\n🎁 - للدعم المادي\nhttps://t.co/tfbkbKapxX",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       0,
+       23
+      ],
+      "original": "https://t.co/Ic86fIwJlD",
+      "replacement": "http://Ters.co",
+      "display": "Ters.co"
+     },
+     {
+      "type": "url",
+      "indices": [
+       35,
+       58
+      ],
+      "original": "https://t.co/ws1CXXf3xW",
+      "replacement": "http://wowvo.co",
+      "display": "wowvo.co"
+     },
+     {
+      "type": "url",
+      "indices": [
+       77,
+       100
+      ],
+      "original": "https://t.co/h1dJkdkU6t",
+      "replacement": "http://wowar.co",
+      "display": "wowar.co"
+     },
+     {
+      "type": "url",
+      "indices": [
+       137,
+       160
+      ],
+      "original": "https://t.co/tfbkbKapxX",
+      "replacement": "https://shorturl.at/Yvr8f",
+      "display": "shorturl.at/Yvr8f"
+     }
+    ]
+   },
+   "location": "",
+   "banner_url": "https://pbs.twimg.com/profile_banners/269200475/1725452447",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1831290660604764160/yt2JhL2Q_200x200.jpg",
+   "joined": "Sun Mar 20 08:37:30 +0000 2011",
+   "protected": false,
+   "website": {
+    "url": "https://discord.gg/uW5NJ6y",
+    "display_url": "discord.gg/uW5NJ6y"
+   },
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 1,
+  "retweets": 4,
+  "likes": 8,
+  "bookmarks": 3,
+  "quotes": 2,
+  "created_at": "Sat Aug 31 21:27:51 +0000 2024",
+  "created_timestamp": 1725139671,
+  "possibly_sensitive": false,
+  "views": 992,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "1829994412169940993",
+     "url": "https://pbs.twimg.com/media/GWVyON5W0AE9iYs.jpg?name=orig",
+     "width": 1080,
+     "height": 1080
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "1829994412169940993",
+     "url": "https://pbs.twimg.com/media/GWVyON5W0AE9iYs.jpg?name=orig",
+     "width": 1080,
+     "height": 1080
+    }
+   ]
+  },
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

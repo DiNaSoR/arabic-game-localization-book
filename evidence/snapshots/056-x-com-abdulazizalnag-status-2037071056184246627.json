@@ -1,0 +1,62 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/Abdulazizalnag/status/2037071056184246627",
+  "id": "2037071056184246627",
+  "text": "بعض النظار انه خياس.. تخيل انه مطور يبي يضيف العربية ويلقى العربي ينباع؟ ليش يتعب نفسه ويفكر بدعم المنطقة مستقبلًا؟\n\nالدول الثانية زي ألمانيا وفرنسا وتركيا ما يشتري المنتج غير إذا فيه لغته مدعومه رسمي ويعلمه إنه لازم يتحسن عشان يكسبهم\n\nللأسف هنا يشتري وبيروح يشتري AI يترجمه بعد ويقول ليش ما يعطونا وجه",
+  "raw_text": {
+   "text": "بعض النظار انه خياس.. تخيل انه مطور يبي يضيف العربية ويلقى العربي ينباع؟ ليش يتعب نفسه ويفكر بدعم المنطقة مستقبلًا؟\n\nالدول الثانية زي ألمانيا وفرنسا وتركيا ما يشتري المنتج غير إذا فيه لغته مدعومه رسمي ويعلمه إنه لازم يتحسن عشان يكسبهم\n\nللأسف هنا يشتري وبيروح يشتري AI يترجمه بعد ويقول ليش ما يعطونا وجه",
+   "display_text_range": [
+    0,
+    302
+   ],
+   "facets": []
+  },
+  "author": {
+   "screen_name": "Abdulazizalnag",
+   "url": "https://x.com/Abdulazizalnag",
+   "id": "954703009228951552",
+   "followers": 5123,
+   "following": 661,
+   "likes": 15755,
+   "media_count": 1994,
+   "name": "Abdulaziz Alnaghmoosh",
+   "description": "BD and Distribution Director at @manga_prd. follow me for insights into gaming, marketing, Distribution and the anime industry.",
+   "raw_description": {
+    "text": "BD and Distribution Director at @manga_prd. follow me for insights into gaming, marketing, Distribution and the anime industry.",
+    "facets": []
+   },
+   "location": "Riyadh, Kingdom of Saudi Arabi",
+   "banner_url": "https://pbs.twimg.com/profile_banners/954703009228951552/1627688148",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2082053953961775105/nSCHwICV_200x200.jpg",
+   "joined": "Sat Jan 20 13:11:49 +0000 2018",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 6,
+  "retweets": 7,
+  "likes": 75,
+  "bookmarks": 10,
+  "quotes": 7,
+  "created_at": "Thu Mar 26 07:36:01 +0000 2026",
+  "created_timestamp": 1774510561,
+  "views": 27454,
+  "is_note_tweet": true,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": "M_7_D_7",
+  "replying_to_status": "2036900894369869898",
+  "source": "Twitter for iPhone",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

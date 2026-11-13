@@ -1,0 +1,116 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/Arabic_Hesham/status/2094464280544284710",
+  "id": "2094464280544284710",
+  "text": "🚨🚨تعريب The Legend of Zelda: Twilight Princess\n\nنسخة Dusklight\n\n#تعريبات_هشام",
+  "raw_text": {
+   "text": "🚨🚨تعريب The Legend of Zelda: Twilight Princess\n\nنسخة Dusklight\n\n#تعريبات_هشام https://t.co/EWk4LQIWbn",
+   "display_text_range": [
+    0,
+    77
+   ],
+   "facets": [
+    {
+     "type": "hashtag",
+     "indices": [
+      64,
+      77
+     ],
+     "original": "تعريبات_هشام"
+    },
+    {
+     "type": "media",
+     "indices": [
+      78,
+      101
+     ],
+     "id": "2094464272789028864",
+     "display": "pic.x.com/EWk4LQIWbn",
+     "original": "https://t.co/EWk4LQIWbn",
+     "replacement": "https://x.com/Arabic_Hesham/status/2094464280544284710/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "Arabic_Hesham",
+   "url": "https://x.com/Arabic_Hesham",
+   "id": "2051213281419751424",
+   "followers": 5503,
+   "following": 77,
+   "likes": 955,
+   "media_count": 130,
+   "name": "هشـــام",
+   "description": "تعريبات آلية بالكامل بدون تدخل بشري 🤖\n\nhttps://arabichesham.com/",
+   "raw_description": {
+    "text": "تعريبات آلية بالكامل بدون تدخل بشري 🤖\n\nhttps://t.co/Me7kI5Dcit",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       39,
+       62
+      ],
+      "original": "https://t.co/Me7kI5Dcit",
+      "replacement": "https://arabichesham.com/",
+      "display": "arabichesham.com"
+     }
+    ]
+   },
+   "location": "الوطن العربي 🤍",
+   "banner_url": "https://pbs.twimg.com/profile_banners/2051213281419751424/1791124132",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2051658850558672904/4gmI3KS1_200x200.jpg",
+   "joined": "Mon May 04 08:12:24 +0000 2026",
+   "protected": false,
+   "website": {
+    "url": "https://ko-fi.com/arabichesham",
+    "display_url": "ko-fi.com/arabichesham"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 17,
+  "retweets": 12,
+  "likes": 187,
+  "bookmarks": 123,
+  "quotes": 0,
+  "created_at": "Mon Aug 31 16:36:12 +0000 2026",
+  "created_timestamp": 1788194172,
+  "possibly_sensitive": false,
+  "views": 8944,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": null,
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "2094464272789028864",
+     "url": "https://pbs.twimg.com/media/HREIKL5WQAAifzn.jpg?name=orig",
+     "width": 1200,
+     "height": 600
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "2094464272789028864",
+     "url": "https://pbs.twimg.com/media/HREIKL5WQAAifzn.jpg?name=orig",
+     "width": 1200,
+     "height": 600
+    }
+   ]
+  },
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

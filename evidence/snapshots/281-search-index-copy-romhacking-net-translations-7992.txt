@@ -1,0 +1,10 @@
+URL: https://www.romhacking.net/translations/7992/
+Source: web search engine index (cached page text), retrieved 2026-11-13 04:59 Asia/Kuwait.
+The original page is blocked/unreachable from the capture box and has no Wayback Machine capture.
+
+Romhacking.net - Translations - Mafat Conspiracy: Golgo 13 Arabic
+https://www.romhacking.net/translations/7992/
+Translation Information — Golgo 13: The Riddle of Icarus
+Author: Albees_Gaming | Game: Mafat Conspiracy: Golgo 13 | Platform: Nintendo Entertainment System | Category: Fully Playable | Genre: Action > Shooter | Language: Arabic | Version: 1.0 | Release Date: 30 October 2026 | Downloads: 7 | Last Modified: 30 October 2026
+Description: Mafat Conspiracy: Golgo 13 – Full Arabic Translation. All 172 identified script records have a Modern Standard Arabic draft: opening narrative, dialogue, menu labels, stage captions and ending credits. Joined Arabic letter forms, a taller font, right-to-left letter reveal and bidi-aware ordering for numeric text. Arabic title menu with your Albees Gaming logo and a scannable QR pointing to: https://linktr.ee/albees_gaming. Arabic stage/time/enemy HUD labels, ammo abbreviation, and selected wind, speed-unit and timer graphics. Western digits remain in numeric counters. Original credits and ownership information retained in translated form. Enjoy this classic NES adventure in Arabic!
+ROM / ISO Information: Database match: Mafat Conspiracy, The (USA); No-Intro NES (v. 20210216-231042); File SHA-1: 5A8F0A99DC1DAB26909BD08B949D849C108C25E8; File CRC32: A0973444; ROM SHA-1: D4AAD6280818A38B60B9EEF997833C1FA0FFA462; ROM CRC32: 8A043CD6

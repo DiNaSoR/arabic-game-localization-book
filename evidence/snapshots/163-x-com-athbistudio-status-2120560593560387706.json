@@ -1,0 +1,97 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/athbistudio/status/2120560593560387706",
+  "id": "2120560593560387706",
+  "text": "تنويه مهم للمتابعين AthbiStudio",
+  "raw_text": {
+   "text": "تنويه مهم للمتابعين AthbiStudio https://t.co/2G4MJIfu8H",
+   "display_text_range": [
+    0,
+    31
+   ],
+   "facets": [
+    {
+     "type": "media",
+     "indices": [
+      32,
+      55
+     ],
+     "id": "2120560574736084992",
+     "display": "pic.x.com/2G4MJIfu8H",
+     "original": "https://t.co/2G4MJIfu8H",
+     "replacement": "https://x.com/athbistudio/status/2120560593560387706/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "athbistudio",
+   "url": "https://x.com/athbistudio",
+   "id": "1294692795698089985",
+   "followers": 1595,
+   "following": 3,
+   "likes": 39,
+   "media_count": 98,
+   "name": "AthbiStudio",
+   "description": "منصة لتعريب الألعاب وتطويعها لتجربة عربية أصيلة.\nعرّبنا ٣٠+ لعبة مجانًا 🎮 فاينل فانتسي • بوكيمون • ماذر • كاسلفانيا • سوبر روبوت وورز. طبّق التعريب من المتصفح",
+   "raw_description": {
+    "text": "منصة لتعريب الألعاب وتطويعها لتجربة عربية أصيلة.\nعرّبنا ٣٠+ لعبة مجانًا 🎮 فاينل فانتسي • بوكيمون • ماذر • كاسلفانيا • سوبر روبوت وورز. طبّق التعريب من المتصفح",
+    "facets": []
+   },
+   "location": "خلف أفق الحدث",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1294692795698089985/1792260440",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1708880442546442241/c_lnF0dm_200x200.jpg",
+   "joined": "Sat Aug 15 17:50:03 +0000 2020",
+   "protected": false,
+   "website": {
+    "url": "https://athbistudio.pages.dev",
+    "display_url": "athbistudio.pages.dev"
+   },
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 0,
+  "retweets": 1,
+  "likes": 14,
+  "bookmarks": 3,
+  "quotes": 0,
+  "created_at": "Wed Nov 11 16:53:38 +0000 2026",
+  "created_timestamp": 1794416018,
+  "possibly_sensitive": false,
+  "views": 532,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "2120560574736084992",
+     "url": "https://pbs.twimg.com/media/HW2-m4XXsAAPEct.jpg?name=orig",
+     "width": 1400,
+     "height": 1680
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "2120560574736084992",
+     "url": "https://pbs.twimg.com/media/HW2-m4XXsAAPEct.jpg?name=orig",
+     "width": 1400,
+     "height": 1680
+    }
+   ]
+  },
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

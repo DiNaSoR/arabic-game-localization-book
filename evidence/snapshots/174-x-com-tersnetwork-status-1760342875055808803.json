@@ -1,0 +1,235 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/TersNetwork/status/1760342875055808803",
+  "id": "1760342875055808803",
+  "text": "دبلجة #ريد_ديد_ريدمشن بالعربي بإستخدام #الذكاء_الاصطناعي تجربة اللهجات العامية 😋",
+  "raw_text": {
+   "text": "دبلجة #ريد_ديد_ريدمشن بالعربي بإستخدام #الذكاء_الاصطناعي تجربة اللهجات العامية 😋 https://t.co/YhlTsCbHlz",
+   "display_text_range": [
+    0,
+    80
+   ],
+   "facets": [
+    {
+     "type": "hashtag",
+     "indices": [
+      6,
+      21
+     ],
+     "original": "ريد_ديد_ريدمشن"
+    },
+    {
+     "type": "hashtag",
+     "indices": [
+      39,
+      56
+     ],
+     "original": "الذكاء_الاصطناعي"
+    },
+    {
+     "type": "media",
+     "indices": [
+      81,
+      104
+     ],
+     "id": "1760342797024935936",
+     "display": "pic.x.com/YhlTsCbHlz",
+     "original": "https://t.co/YhlTsCbHlz",
+     "replacement": "https://x.com/TersNetwork/status/1760342875055808803/video/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "TersNetwork",
+   "url": "https://x.com/TersNetwork",
+   "id": "1071071166780137477",
+   "followers": 153,
+   "following": 3,
+   "likes": 11,
+   "media_count": 68,
+   "name": "Ters",
+   "description": "شبكة ترس - صورة وصوت عربي\n\nDiscord: https://discord.gg/uW5NJ6y\nYouTube: https://www.youtube.com/channel/UCf9zCB-SEDG05YZPcMRS3NA",
+   "raw_description": {
+    "text": "شبكة ترس - صورة وصوت عربي\n\nDiscord: https://t.co/yKHyRhMYAp\nYouTube: https://t.co/LIqHHiFJkR",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       36,
+       59
+      ],
+      "original": "https://t.co/yKHyRhMYAp",
+      "replacement": "https://discord.gg/uW5NJ6y",
+      "display": "discord.gg/uW5NJ6y"
+     },
+     {
+      "type": "url",
+      "indices": [
+       69,
+       92
+      ],
+      "original": "https://t.co/LIqHHiFJkR",
+      "replacement": "https://www.youtube.com/channel/UCf9zCB-SEDG05YZPcMRS3NA",
+      "display": "youtube.com/channel/UCf9zC…"
+     }
+    ]
+   },
+   "location": "",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1071071166780137477/1708529382",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1760326432398442496/DfmR8PT__200x200.jpg",
+   "joined": "Fri Dec 07 15:57:20 +0000 2018",
+   "protected": false,
+   "website": {
+    "url": "http://Ters.co",
+    "display_url": "Ters.co"
+   },
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 1,
+  "retweets": 0,
+  "likes": 2,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Wed Feb 21 16:37:01 +0000 2024",
+  "created_timestamp": 1708533421,
+  "possibly_sensitive": false,
+  "views": 133,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "id": "1760342797024935936",
+     "url": "https://video.twimg.com/ext_tw_video/1760342797024935936/pu/vid/avc1/1280x720/KioA79hMWMRQxFRh.mp4?tag=12",
+     "thumbnail_url": "https://pbs.twimg.com/ext_tw_video_thumb/1760342797024935936/pu/img/JBhOha639Zzkk_2I.jpg",
+     "duration": 56.055,
+     "width": 1280,
+     "height": 720,
+     "format": "video/mp4",
+     "type": "video",
+     "formats": [
+      {
+       "url": "https://video.twimg.com/ext_tw_video/1760342797024935936/pu/pl/3oI7OKyWSE6LPceF.m3u8?tag=12",
+       "container": "m3u8"
+      },
+      {
+       "url": "https://video.twimg.com/ext_tw_video/1760342797024935936/pu/vid/avc1/480x270/ndkJFcksWIYCLOXq.mp4?tag=12",
+       "bitrate": 256000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/ext_tw_video/1760342797024935936/pu/vid/avc1/640x360/5ct5wSj3OSoYT91G.mp4?tag=12",
+       "bitrate": 832000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/ext_tw_video/1760342797024935936/pu/vid/avc1/1280x720/KioA79hMWMRQxFRh.mp4?tag=12",
+       "bitrate": 2176000,
+       "container": "mp4",
+       "codec": "h264"
+      }
+     ],
+     "publisher": null,
+     "variants": [
+      {
+       "url": "https://video.twimg.com/ext_tw_video/1760342797024935936/pu/pl/3oI7OKyWSE6LPceF.m3u8?tag=12",
+       "bitrate": 0,
+       "content_type": "application/x-mpegURL"
+      },
+      {
+       "url": "https://video.twimg.com/ext_tw_video/1760342797024935936/pu/vid/avc1/480x270/ndkJFcksWIYCLOXq.mp4?tag=12",
+       "bitrate": 256000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/ext_tw_video/1760342797024935936/pu/vid/avc1/640x360/5ct5wSj3OSoYT91G.mp4?tag=12",
+       "bitrate": 832000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/ext_tw_video/1760342797024935936/pu/vid/avc1/1280x720/KioA79hMWMRQxFRh.mp4?tag=12",
+       "bitrate": 2176000,
+       "content_type": "video/mp4"
+      }
+     ]
+    }
+   ],
+   "videos": [
+    {
+     "id": "1760342797024935936",
+     "url": "https://video.twimg.com/ext_tw_video/1760342797024935936/pu/vid/avc1/1280x720/KioA79hMWMRQxFRh.mp4?tag=12",
+     "thumbnail_url": "https://pbs.twimg.com/ext_tw_video_thumb/1760342797024935936/pu/img/JBhOha639Zzkk_2I.jpg",
+     "duration": 56.055,
+     "width": 1280,
+     "height": 720,
+     "format": "video/mp4",
+     "type": "video",
+     "formats": [
+      {
+       "url": "https://video.twimg.com/ext_tw_video/1760342797024935936/pu/pl/3oI7OKyWSE6LPceF.m3u8?tag=12",
+       "container": "m3u8"
+      },
+      {
+       "url": "https://video.twimg.com/ext_tw_video/1760342797024935936/pu/vid/avc1/480x270/ndkJFcksWIYCLOXq.mp4?tag=12",
+       "bitrate": 256000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/ext_tw_video/1760342797024935936/pu/vid/avc1/640x360/5ct5wSj3OSoYT91G.mp4?tag=12",
+       "bitrate": 832000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/ext_tw_video/1760342797024935936/pu/vid/avc1/1280x720/KioA79hMWMRQxFRh.mp4?tag=12",
+       "bitrate": 2176000,
+       "container": "mp4",
+       "codec": "h264"
+      }
+     ],
+     "publisher": null,
+     "variants": [
+      {
+       "url": "https://video.twimg.com/ext_tw_video/1760342797024935936/pu/pl/3oI7OKyWSE6LPceF.m3u8?tag=12",
+       "bitrate": 0,
+       "content_type": "application/x-mpegURL"
+      },
+      {
+       "url": "https://video.twimg.com/ext_tw_video/1760342797024935936/pu/vid/avc1/480x270/ndkJFcksWIYCLOXq.mp4?tag=12",
+       "bitrate": 256000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/ext_tw_video/1760342797024935936/pu/vid/avc1/640x360/5ct5wSj3OSoYT91G.mp4?tag=12",
+       "bitrate": 832000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/ext_tw_video/1760342797024935936/pu/vid/avc1/1280x720/KioA79hMWMRQxFRh.mp4?tag=12",
+       "bitrate": 2176000,
+       "content_type": "video/mp4"
+      }
+     ]
+    }
+   ]
+  },
+  "source": "Twitter for iPhone",
+  "twitter_card": "player",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

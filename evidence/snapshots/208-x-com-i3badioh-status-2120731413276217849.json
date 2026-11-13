@@ -1,0 +1,94 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/i3badioh/status/2120731413276217849",
+  "id": "2120731413276217849",
+  "text": "تعريب لعبة Star Wars Zero Company مجاني\n\nالتعريب يشمل القوائم والحوارات وجميع النصوص في اللعبة.\n\nتم توحيد جميع الاسماء والمصطلحات في اللعبة في جميع أماكن ظهورها في اللعبة,\n\nوايضا العمل على الضمائر لتظهر بالشكل الصحيح.\n\nالتعريب مودين كما هي العادة.\n\nمود يشمل كل شيء في اللعبة مكان اللغة الألمانية, ومود فقط الحوارات مكان اللغة الإنجليزية\n\nأتمنى لكم رحلة سعيدة في المجرة؟\n\n\" أيضا مع دخول الشتاء لا تنسون تكثرون من شرب الماء \" \n\n1\\2",
+  "raw_text": {
+   "text": "تعريب لعبة Star Wars Zero Company مجاني\n\nالتعريب يشمل القوائم والحوارات وجميع النصوص في اللعبة.\n\nتم توحيد جميع الاسماء والمصطلحات في اللعبة في جميع أماكن ظهورها في اللعبة,\n\nوايضا العمل على الضمائر لتظهر بالشكل الصحيح.\n\nالتعريب مودين كما هي العادة.\n\nمود يشمل كل شيء في اللعبة مكان اللغة الألمانية, ومود فقط الحوارات مكان اللغة الإنجليزية\n\nأتمنى لكم رحلة سعيدة في المجرة؟\n\n\" أيضا مع دخول الشتاء لا تنسون تكثرون من شرب الماء \" \n\n1\\2",
+   "display_text_range": [
+    0,
+    429
+   ],
+   "facets": [
+    {
+     "type": "media",
+     "indices": [
+      280,
+      303
+     ],
+     "id": "2120731058932989952",
+     "display": "pic.x.com/9NgCxjGiCf",
+     "original": "https://t.co/9NgCxjGiCf",
+     "replacement": "https://x.com/i3badioh/status/2120731413276217849/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "i3badioh",
+   "url": "https://x.com/i3badioh",
+   "id": "2086225417019510784",
+   "followers": 2957,
+   "following": 36,
+   "likes": 2262,
+   "media_count": 45,
+   "name": "3BADIOH | عباديوه",
+   "description": "",
+   "raw_description": {
+    "text": "",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2095480801215569920/7CnNYZF5_200x200.jpg",
+   "joined": "Sat Aug 08 22:59:53 +0000 2026",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 8,
+  "retweets": 7,
+  "likes": 42,
+  "bookmarks": 16,
+  "quotes": 0,
+  "created_at": "Thu Nov 12 04:12:24 +0000 2026",
+  "created_timestamp": 1794456744,
+  "possibly_sensitive": false,
+  "views": 1745,
+  "is_note_tweet": true,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "2120731058932989952",
+     "url": "https://pbs.twimg.com/media/HW5ZqXfWwAAlBKe.jpg?name=orig",
+     "width": 1920,
+     "height": 1080
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "2120731058932989952",
+     "url": "https://pbs.twimg.com/media/HW5ZqXfWwAAlBKe.jpg?name=orig",
+     "width": 1920,
+     "height": 1080
+    }
+   ]
+  },
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

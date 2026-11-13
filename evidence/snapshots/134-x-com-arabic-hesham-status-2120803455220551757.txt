@@ -1,0 +1,17 @@
+URL: https://x.com/Arabic_Hesham/status/2120803455220551757
+Author: هشـــام (@Arabic_Hesham)
+Created: Thu Nov 12 08:58:41 +0000 2026
+Likes: 1194 Retweets: 30 Replies: 94 Views: 256406
+Replying to: None / None
+
+🔴انت لغتك العربية سيئة !!!
+
+جملة تنقال لك لما تقول الترجمة سيئة او غير مفهومة
+
+بصراحة شي يقهر تشوف لاعب يلوم نفسه ويقول احتاج اكون بروفيسور او دكتور في اللغة حتى العب لعبة 
+
+ياعزيزي الترجمة المفروض توصل لك اللعبة بكل سهولة وما تخليك تحتاج تقرا الجملة مرتين حتى تفهم ، المترجم اللي ما يقدر يسوي هالشي فالمشكلة فيه مو فيك انت
+
+وقف تلوم نفسك او تقلل من نفسك .. وصدقني كل ما زادت قوتك في اللغة العربية بيزيد يقينك ان اللي قاعد تشوفه مشكلة الترجمة مو مشكلتك
+
+Quote: {"url": "https://x.com/Bnqk_/status/2120615198897643676", "id": "2120615198897643676", "text": "@Arabic_Hesham تعريبات الحلم المتجدد سيئة جداً بالنسبة لي  \n\nاولهم تعريب هولونايت لازم اكون بروفيسور ونابغة في اللغة العربية عشان افهم الحوارات 😕\n\nوبرضو زيلدا نفس البرية ينطبق عليها نفس الكلام", "raw_text": {"text": "@Arabic_Hesham تعريبات الحلم المتجدد سيئة جداً بالنسبة لي  \n\nاولهم تعريب هولونايت لازم اكون بروفيسور ونابغة في اللغة العربية عشان افهم الحوارات 😕\n\nوبرضو زيلدا نفس البرية ينطبق عليها نفس الكلام", "display_text_range": [15, 192], "facets": [{"type": "mention", "indices": [0, 14], "original": "Arabic_Hesham", "id": "2051213281419751424"}]}, "author": {"screen_name": "Bnqk_", "url": "https://x.com/Bnqk_", "id": "1119582148950929408", "followers": 55, "following": 687, "likes": 10907, "media_count": 117, "name": "Bnqk", "description": "سبحان الله وبحمده سبحان الله العظيم ✨", "raw_description": {"text": "سبحان الله وبحمده سبحان الله العظيم ✨", "facets": []}, "location": "Madina", "banner_url": "https://pbs.twimg.com/profile_banners/1119582148950929408/1786468768", "avatar_url": "https://pbs.twimg.com/profile_images/2087227365415919616/TaH0nTis_200x200.jpg", "joined": "Sat Apr 20 12:42:39 +0000 2019", "protected": false, "website": {"url": "https://www.twitch.tv/bnqk_", "display_url": "twitch.tv/bnqk_"}, "verification": {"verified": false, "verified_at": null, "type": null}, "avatar_color": null}, "replies": 12, "retweets": 0, "likes": 65, "bookmarks": 37, "quotes": 3, "created_at": "Wed Nov 11 20:30:37 +0000 2026", "created_timestamp": 1794429037, "views": 199885, "is_note_tweet": false, "community_note": null, "lang": "ar", "replying_to": "Arabic_Hesham", "replying_to_status": "2120588246732464144", "twitter_card": "tweet", "color": null, "provider": "twitter", "reposted_by": null}

@@ -1,0 +1,199 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/BRAHIM_IMOJOUGH/status/2087656549443375448",
+  "id": "2087656549443375448",
+  "text": "تعريب: أسطورة زيلدا قبعة اقزام\nتعريب جديد كليا، دعم عكس سريان النص كما عودانكم\nشعار عربي معرب.... \nكل الفضل يعود الى ابراهيم اموحوغا وعبد العزيز (دراكو) @B90097605",
+  "raw_text": {
+   "text": "تعريب: أسطورة زيلدا قبعة اقزام\nتعريب جديد كليا، دعم عكس سريان النص كما عودانكم\nشعار عربي معرب.... \nكل الفضل يعود الى ابراهيم اموحوغا وعبد العزيز (دراكو) @B90097605 https://t.co/OyFgM93m5q",
+   "display_text_range": [
+    0,
+    163
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      153,
+      163
+     ],
+     "original": "B90097605",
+     "id": "1150385134379646977"
+    },
+    {
+     "type": "media",
+     "indices": [
+      164,
+      187
+     ],
+     "id": "2087656361848901632",
+     "display": "pic.x.com/OyFgM93m5q",
+     "original": "https://t.co/OyFgM93m5q",
+     "replacement": "https://x.com/BRAHIM_IMOJOUGH/status/2087656549443375448/photo/1"
+    },
+    {
+     "type": "media",
+     "indices": [
+      164,
+      187
+     ],
+     "id": "2087656362482286592",
+     "display": "pic.x.com/OyFgM93m5q",
+     "original": "https://t.co/OyFgM93m5q",
+     "replacement": "https://x.com/BRAHIM_IMOJOUGH/status/2087656549443375448/photo/1"
+    },
+    {
+     "type": "media",
+     "indices": [
+      164,
+      187
+     ],
+     "id": "2087656362478100480",
+     "display": "pic.x.com/OyFgM93m5q",
+     "original": "https://t.co/OyFgM93m5q",
+     "replacement": "https://x.com/BRAHIM_IMOJOUGH/status/2087656549443375448/photo/1"
+    },
+    {
+     "type": "media",
+     "indices": [
+      164,
+      187
+     ],
+     "id": "2087656362499063808",
+     "display": "pic.x.com/OyFgM93m5q",
+     "original": "https://t.co/OyFgM93m5q",
+     "replacement": "https://x.com/BRAHIM_IMOJOUGH/status/2087656549443375448/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "BRAHIM_IMOJOUGH",
+   "url": "https://x.com/BRAHIM_IMOJOUGH",
+   "id": "2194831194",
+   "followers": 976,
+   "following": 26,
+   "likes": 922,
+   "media_count": 163,
+   "name": "GAMING REPUBLIC",
+   "description": "مهتم بتعديل العاب و الترجمة\nرابط دعم ⬇️ لتحسين ترجمة...\nhttps://www.paypal.me/imojoughan",
+   "raw_description": {
+    "text": "مهتم بتعديل العاب و الترجمة\nرابط دعم ⬇️ لتحسين ترجمة...\nhttps://t.co/0sAoySct68",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       56,
+       79
+      ],
+      "original": "https://t.co/0sAoySct68",
+      "replacement": "https://www.paypal.me/imojoughan",
+      "display": "paypal.me/imojoughan"
+     }
+    ]
+   },
+   "location": "Tétouan, Royaume du Maroc",
+   "banner_url": "https://pbs.twimg.com/profile_banners/2194831194/1769300355",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1973122325269626880/RQq7kS_L_200x200.jpg",
+   "joined": "Thu Nov 14 20:38:30 +0000 2013",
+   "protected": false,
+   "website": {
+    "url": "https://discord.gg/mFeCTE4zv2",
+    "display_url": "discord.gg/mFeCTE4zv2"
+   },
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 4,
+  "retweets": 0,
+  "likes": 19,
+  "bookmarks": 15,
+  "quotes": 0,
+  "created_at": "Wed Aug 12 21:44:42 +0000 2026",
+  "created_timestamp": 1786571082,
+  "possibly_sensitive": true,
+  "views": 1034,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "2087656361848901632",
+     "url": "https://pbs.twimg.com/media/HPjYZnUWkAAPXxc.jpg?name=orig",
+     "width": 1280,
+     "height": 720
+    },
+    {
+     "type": "photo",
+     "id": "2087656362482286592",
+     "url": "https://pbs.twimg.com/media/HPjYZprXQAAGny6.jpg?name=orig",
+     "width": 1280,
+     "height": 720
+    },
+    {
+     "type": "photo",
+     "id": "2087656362478100480",
+     "url": "https://pbs.twimg.com/media/HPjYZpqXYAAiOsW.jpg?name=orig",
+     "width": 1280,
+     "height": 720
+    },
+    {
+     "type": "photo",
+     "id": "2087656362499063808",
+     "url": "https://pbs.twimg.com/media/HPjYZpvXQAAgHid.jpg?name=orig",
+     "width": 1280,
+     "height": 720
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "2087656361848901632",
+     "url": "https://pbs.twimg.com/media/HPjYZnUWkAAPXxc.jpg?name=orig",
+     "width": 1280,
+     "height": 720
+    },
+    {
+     "type": "photo",
+     "id": "2087656362482286592",
+     "url": "https://pbs.twimg.com/media/HPjYZprXQAAGny6.jpg?name=orig",
+     "width": 1280,
+     "height": 720
+    },
+    {
+     "type": "photo",
+     "id": "2087656362478100480",
+     "url": "https://pbs.twimg.com/media/HPjYZpqXYAAiOsW.jpg?name=orig",
+     "width": 1280,
+     "height": 720
+    },
+    {
+     "type": "photo",
+     "id": "2087656362499063808",
+     "url": "https://pbs.twimg.com/media/HPjYZpvXQAAgHid.jpg?name=orig",
+     "width": 1280,
+     "height": 720
+    }
+   ],
+   "mosaic": {
+    "type": "mosaic_photo",
+    "formats": {
+     "jpeg": "https://mosaic.fxtwitter.com/jpeg/2087656549443375448/HPjYZnUWkAAPXxc/HPjYZprXQAAGny6/HPjYZpqXYAAiOsW/HPjYZpvXQAAgHid",
+     "webp": "https://mosaic.fxtwitter.com/webp/2087656549443375448/HPjYZnUWkAAPXxc/HPjYZprXQAAGny6/HPjYZpqXYAAiOsW/HPjYZpvXQAAgHid"
+    }
+   }
+  },
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

@@ -1,0 +1,108 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/Arabic_Hesham/status/2061109109139628251",
+  "id": "2061109109139628251",
+  "text": "مترجم يوناني استخدم أدواتي في تعريب 007، واستأذنني قبل ينشر شغله، وسألني كيف أحب يُكتب اسمي في الكريدت. أدب واحترام من شخص ما يعرفني ولا اعرفه.\n\nفي المقابل، ترجماتي لـ Forza و007 انسرقت، انشال منها اسمي، وبعضها انعرض للبيع.",
+  "raw_text": {
+   "text": "مترجم يوناني استخدم أدواتي في تعريب 007، واستأذنني قبل ينشر شغله، وسألني كيف أحب يُكتب اسمي في الكريدت. أدب واحترام من شخص ما يعرفني ولا اعرفه.\n\nفي المقابل، ترجماتي لـ Forza و007 انسرقت، انشال منها اسمي، وبعضها انعرض للبيع. https://t.co/6A39uhu3MO",
+   "display_text_range": [
+    0,
+    223
+   ],
+   "facets": [
+    {
+     "type": "media",
+     "indices": [
+      224,
+      247
+     ],
+     "id": "2061105933669879809",
+     "display": "pic.x.com/6A39uhu3MO",
+     "original": "https://t.co/6A39uhu3MO",
+     "replacement": "https://x.com/Arabic_Hesham/status/2061109109139628251/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "Arabic_Hesham",
+   "url": "https://x.com/Arabic_Hesham",
+   "id": "2051213281419751424",
+   "followers": 5503,
+   "following": 77,
+   "likes": 955,
+   "media_count": 130,
+   "name": "هشـــام",
+   "description": "تعريبات آلية بالكامل بدون تدخل بشري 🤖\n\nhttps://arabichesham.com/",
+   "raw_description": {
+    "text": "تعريبات آلية بالكامل بدون تدخل بشري 🤖\n\nhttps://t.co/Me7kI5Dcit",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       39,
+       62
+      ],
+      "original": "https://t.co/Me7kI5Dcit",
+      "replacement": "https://arabichesham.com/",
+      "display": "arabichesham.com"
+     }
+    ]
+   },
+   "location": "الوطن العربي 🤍",
+   "banner_url": "https://pbs.twimg.com/profile_banners/2051213281419751424/1791124132",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2051658850558672904/4gmI3KS1_200x200.jpg",
+   "joined": "Mon May 04 08:12:24 +0000 2026",
+   "protected": false,
+   "website": {
+    "url": "https://ko-fi.com/arabichesham",
+    "display_url": "ko-fi.com/arabichesham"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 67,
+  "retweets": 66,
+  "likes": 2618,
+  "bookmarks": 600,
+  "quotes": 3,
+  "created_at": "Sun May 31 15:34:39 +0000 2026",
+  "created_timestamp": 1780241679,
+  "possibly_sensitive": false,
+  "views": 192925,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "2061105933669879809",
+     "url": "https://pbs.twimg.com/media/HJqE7SzX0AEd3Ka.jpg?name=orig",
+     "width": 2085,
+     "height": 1536
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "2061105933669879809",
+     "url": "https://pbs.twimg.com/media/HJqE7SzX0AEd3Ka.jpg?name=orig",
+     "width": 2085,
+     "height": 1536
+    }
+   ]
+  },
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

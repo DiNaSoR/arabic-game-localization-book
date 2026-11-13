@@ -1,0 +1,94 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/abodora2/status/2120457341510263097",
+  "id": "2120457341510263097",
+  "text": "تحديث تعريب Dino Crisis 1&2\n\n1- لأول مرة في تاريخ ألعاب PS1 حقن نظام متكامل داخل إعدادات اللعبة يتيح تغيير نوع الخط ولونه وحدوده ✅\n2- حقن قائمة غش مدمجة مباشرة ضمن إعدادات اللعبة ✅\n3- تعريب النصوص والصور التي لم يشملها الإصدار السابق ✅\n(التحميل + صور الأنظمة أسفل هذا المنشور)",
+  "raw_text": {
+   "text": "تحديث تعريب Dino Crisis 1&amp;2\n\n1- لأول مرة في تاريخ ألعاب PS1 حقن نظام متكامل داخل إعدادات اللعبة يتيح تغيير نوع الخط ولونه وحدوده ✅\n2- حقن قائمة غش مدمجة مباشرة ضمن إعدادات اللعبة ✅\n3- تعريب النصوص والصور التي لم يشملها الإصدار السابق ✅\n(التحميل + صور الأنظمة أسفل هذا المنشور) https://t.co/7y31zkqj4Q",
+   "display_text_range": [
+    0,
+    280
+   ],
+   "facets": [
+    {
+     "type": "media",
+     "indices": [
+      281,
+      304
+     ],
+     "id": "2120457333599801344",
+     "display": "pic.x.com/7y31zkqj4Q",
+     "original": "https://t.co/7y31zkqj4Q",
+     "replacement": "https://x.com/abodora2/status/2120457341510263097/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "abodora2",
+   "url": "https://x.com/abodora2",
+   "id": "242055756",
+   "followers": 14946,
+   "following": 158,
+   "likes": 2389,
+   "media_count": 828,
+   "name": "abodora",
+   "description": "",
+   "raw_description": {
+    "text": "",
+    "facets": []
+   },
+   "location": "Kingdom of Saudi Arabia",
+   "banner_url": "https://pbs.twimg.com/profile_banners/242055756/1668366644",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1687114542554517504/UBxs2o6Z_200x200.jpg",
+   "joined": "Sun Jan 23 20:52:32 +0000 2011",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 24,
+  "retweets": 26,
+  "likes": 221,
+  "bookmarks": 111,
+  "quotes": 0,
+  "created_at": "Wed Nov 11 10:03:21 +0000 2026",
+  "created_timestamp": 1794391401,
+  "possibly_sensitive": false,
+  "views": 8526,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "2120457333599801344",
+     "url": "https://pbs.twimg.com/media/HW1gtdKWkAA0qBm.jpg?name=orig",
+     "width": 1448,
+     "height": 1086
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "2120457333599801344",
+     "url": "https://pbs.twimg.com/media/HW1gtdKWkAA0qBm.jpg?name=orig",
+     "width": 1448,
+     "height": 1086
+    }
+   ]
+  },
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

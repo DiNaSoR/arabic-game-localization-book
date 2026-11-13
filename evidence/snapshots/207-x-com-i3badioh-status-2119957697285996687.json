@@ -1,0 +1,71 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/i3badioh/status/2119957697285996687",
+  "id": "2119957697285996687",
+  "text": "@y_alhajri7 007 لها تعريب ولا؟\nارمورد كور لها تعريب يدوي من الحلم المتجدد.\nكرونوس, اعتبره باللسته ان شاء الله, لعبة جميلة ختمتها اول مانزلت.",
+  "raw_text": {
+   "text": "@y_alhajri7 007 لها تعريب ولا؟\nارمورد كور لها تعريب يدوي من الحلم المتجدد.\nكرونوس, اعتبره باللسته ان شاء الله, لعبة جميلة ختمتها اول مانزلت.",
+   "display_text_range": [
+    12,
+    140
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      11
+     ],
+     "original": "y_alhajri7",
+     "id": "1189853374931505154"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "i3badioh",
+   "url": "https://x.com/i3badioh",
+   "id": "2086225417019510784",
+   "followers": 2957,
+   "following": 36,
+   "likes": 2262,
+   "media_count": 45,
+   "name": "3BADIOH | عباديوه",
+   "description": "",
+   "raw_description": {
+    "text": "",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2095480801215569920/7CnNYZF5_200x200.jpg",
+   "joined": "Sat Aug 08 22:59:53 +0000 2026",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 1,
+  "retweets": 0,
+  "likes": 1,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Tue Nov 10 00:57:56 +0000 2026",
+  "created_timestamp": 1794272276,
+  "views": 132,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": "y_alhajri7",
+  "replying_to_status": "2119956225580478789",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

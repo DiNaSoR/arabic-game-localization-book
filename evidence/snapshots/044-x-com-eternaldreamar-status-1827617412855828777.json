@@ -1,0 +1,118 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/EternalDreamAR/status/1827617412855828777",
+  "id": "1827617412855828777",
+  "text": "كذلك وبهذه المناسبة، خدمة نقدمها لأصحاب الكونسولات وخاصة أجهزة PS4 !\nظهرت أطراف تتذرع بتوفير نسخ منقولة حتى تروج لقرصنة الألعاب وسرقة مجهود المعربين وتخرب أجهزة اللاعبين وتطلب المال مقابل فجورها!\n\nنوفر لكم إذن درس فيديو فيه طريقة إنتاج نقل PS4 بأنفسكم لتعريبنا، وأي تعريب غيره!😘",
+  "raw_text": {
+   "text": "كذلك وبهذه المناسبة، خدمة نقدمها لأصحاب الكونسولات وخاصة أجهزة PS4 !\nظهرت أطراف تتذرع بتوفير نسخ منقولة حتى تروج لقرصنة الألعاب وسرقة مجهود المعربين وتخرب أجهزة اللاعبين وتطلب المال مقابل فجورها!\n\nنوفر لكم إذن درس فيديو فيه طريقة إنتاج نقل PS4 بأنفسكم لتعريبنا، وأي تعريب غيره!😘 https://t.co/6pkSe5CMNP",
+   "display_text_range": [
+    0,
+    278
+   ],
+   "facets": [
+    {
+     "type": "media",
+     "indices": [
+      279,
+      302
+     ],
+     "id": "1827614422992306176",
+     "display": "pic.x.com/6pkSe5CMNP",
+     "original": "https://t.co/6pkSe5CMNP",
+     "replacement": "https://x.com/EternalDreamAR/status/1827617412855828777/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "EternalDreamAR",
+   "url": "https://x.com/EternalDreamAR",
+   "id": "3677595257",
+   "followers": 28208,
+   "following": 62,
+   "likes": 1397,
+   "media_count": 275,
+   "name": "الحلم المتجدد للتعريب ✨",
+   "description": "الفريق الأول في تعريب الألعاب ✨\n\nترجماتنا الهاوية: https://www.etrdream.com/\nترجماتنا الرسمية: https://www.translate.games",
+   "raw_description": {
+    "text": "الفريق الأول في تعريب الألعاب ✨\n\nترجماتنا الهاوية: https://t.co/kDC9sin7Sl\nترجماتنا الرسمية: https://t.co/Ud06RqTvma",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       51,
+       74
+      ],
+      "original": "https://t.co/kDC9sin7Sl",
+      "replacement": "https://www.etrdream.com/",
+      "display": "etrdream.com"
+     },
+     {
+      "type": "url",
+      "indices": [
+       93,
+       116
+      ],
+      "original": "https://t.co/Ud06RqTvma",
+      "replacement": "https://www.translate.games",
+      "display": "translate.games"
+     }
+    ]
+   },
+   "location": "hi@translate.games",
+   "banner_url": "https://pbs.twimg.com/profile_banners/3677595257/1724578205",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1688611155625795585/YV4uq_sb_200x200.jpg",
+   "joined": "Wed Sep 16 18:49:01 +0000 2015",
+   "protected": false,
+   "website": {
+    "url": "https://www.etrdream.com/",
+    "display_url": "etrdream.com"
+   },
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 0,
+  "retweets": 0,
+  "likes": 29,
+  "bookmarks": 2,
+  "quotes": 0,
+  "created_at": "Sun Aug 25 08:02:01 +0000 2024",
+  "created_timestamp": 1724572921,
+  "possibly_sensitive": false,
+  "views": 9100,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": "EternalDreamAR",
+  "replying_to_status": "1827617409097699347",
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "1827614422992306176",
+     "url": "https://pbs.twimg.com/media/GVz9onTWQAAqLWT.jpg?name=orig",
+     "width": 1293,
+     "height": 722
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "1827614422992306176",
+     "url": "https://pbs.twimg.com/media/GVz9onTWQAAqLWT.jpg?name=orig",
+     "width": 1293,
+     "height": 722
+    }
+   ]
+  },
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

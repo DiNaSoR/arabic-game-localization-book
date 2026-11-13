@@ -1,0 +1,134 @@
+URL: https://romhackplaza.org/translations/hebereke-arabic-translation-nes
+Final: https://romhackplaza.org/translations/hebereke-arabic-translation-nes
+Title: Hebereke (Arabic Translation) NES - Romhack Plaza
+HTTP: 200
+
+WEBSITE
+Home
+Database
+News
+Submissions queue
+COMMUNITY
+Forum
+Clubs
+Reviews
+Discord
+Members
+TOOLS
+ROM Patcher
+ROM Hasher
+PAGES
+Support us
+Learn Romhacking
+About
+Contact Us
+Help & Legal pages
+DEVELOPMENT
+Forge
+Documentation
+Guest
+Login
+Entries
+News
+Forum
+Home › Database › Hebereke (Arabic Translation) NES
+Hebereke
+By EternalDreamAR
+ Posted by Raouf
+ Jan 10, 2026
+ Updated 10 months ago
+GAME NAME
+Hebereke
+PLATFORM
+Nintendo Entertainment System
+GENRE
+Action
+LANGUAGE
+Arabic
+STATUS
+Complete
+VERSION
+1.0
+RELEASE DATE
+2020-05-04
+DOWNLOADS
+14
+Download
+Share
+Description
+
+About the Game A Metroidvania title developed by Sunsoft during its golden era, originally released in Japan as Hebereke and later in Europe as Ufouria: The Saga with redesigned characters. While the game offers high-quality gameplay, the original development suffered from significant cut content, resulting in a somewhat abstract in-game narrative.
+
+The game text itself suggests consulting the instruction manual for the full story. To address this, the translation team located the original Japanese manual to reconstruct the narrative background for this release.
+
+Once upon a time, in an era long past,
+
+There was a world of peace, calm, and contrast.
+
+Until a brutal war erupted at last,
+
+And its battles still echo, its shadow still cast.
+
+The war tore through space and through time.
+
+Shattering the fabric, corrupting its rhyme.
+
+The balance was lost, the world in decline,
+
+A fate unavoidable, a grand design.
+
+Our hero Hebe was caught in the strife.
+
+Thrown into battle, forced into life.
+
+Not a warrior, nor seeking a fight,
+
+But fate pulled him in and erased his delight.
+
+At first, despair had crushed his soul.
+
+A heart in ruins, an empty hole.
+
+But in time, his mind grew bright.
+
+Determined to stand, to set things right!
+
+Onward, Hebe, fight with grace,
+
+Find your way back to your sacred place!
+
+Localization Notes
+
+Great care was taken to capture the distinct speech styles of the characters. While the original Japanese text for Hebe utilized a stutter (referencing the character's name, which implies a "feverish drunk"), this translation adapts the dialogue to reflect that delirious nature. The other characters retain their specific archetypes: Sukizaemon speaks with the formality of a samurai, O-Chan uses the regal tone of a queen, and Mr. Jennifer adopts the persona of a street punk.
+
+Translation Team
+
+R-K – Technical modifications, text insertion, tile map editing, and programming.
+Mansour – Text translation, font design, artwork conversion, and RTL text flow programming.
+Special Thanks: Khaled Hosny for the font tool used for the Kufic-style artwork.
+English Translation Source: BMF and the original translation team.
+
+Localization Features
+
+Extensive tile map modifications to accommodate the new script.
+Custom Kufic-style title screens generated using specialized font tools.
+Complete right-to-left (RTL) menu adjustments, including flipped character portraits and selection arrows.
+A custom font designed to match the game's original aesthetic.
+A faithful translation that maintains a high literary standard while preserving the tone and humor of the original.
+Multiple patch versions available, including support for Indic numerals.
+Hashes
+Filename: Hebereke (Japan).nes
+CRC32: bb3993dc
+SHA-1: c5c6f638d98b011d5bda71cd960b728ace3a98e7
+Verified: Nintendo - Nintendo Entertainment System (Headered) v.20260617-064757 (No-Intro)
+
+Staff Credits
+Mansour + R-K:
+Gallery
+Relevant Link
+https://etrdream.com/game/hebereke/
+Reviews
+Be the first to post a review
+See all 0 reviews
+Last comments
+Post a comment

@@ -1,0 +1,310 @@
+URL: http://web.archive.org/web/20260714224619/https://loclait.com/
+Final: https://web.archive.org/web/20260714224833/https://loclait.com/?i=2
+Title: loclait - Arabic Game Localization, Simplified.
+HTTP: 200
+
+Home
+About
+Samples
+Works
+FAQ
+Blog
+Contact
+Arabic Game Localization,
+(
+SIMPLIFIED
+)
+T
+H
+E
+H
+O
+U
+S
+E
+I
+N
+F
+A
+T
+A
+M
+O
+R
+G
+A
+N
+A
+© NOVECT / MANGAGAMER
+The Rundown
+
+loclait came to be because someone had to ask—
+
+“ Anyone wanna try doing Arabic localization right? ”
+
+Quality first, and human centric in our approach to localization.
+
+Hand-picked Arabic localization specialists.
+
+Fully accountable for the caliber of our work.
+
+Ethical industry practices at our core.
+
+Excellence always guaranteed.
+
+Why loclait?
+
+✦ EXHIBIT A
+
+The Singular Vision.
+
+Teamwork makes the dream work.
+Except when it doesn't.
+
+When you hire a translation agency, your game's script rarely goes to an internal team. It's often subcontracted to a hastily put together band of freelancers.
+
+It's then left at the mercy of far more than the skill, coordination, and communication of these mercs for hire—their colliding visions, judgments, and tastes.
+
+As it goes, what's everybody's business is nobody's business.
+
+We believe in democracy, but a narrative's soul is rarely shaped by one.
+
+
+loclait gives your script its singular right Arabic vision.
+
+That vision is the personal handiwork of our Director, Seif Chaib.
+A career-long Localization Editor and Language Lead with 6+ years in the industry.
+
+He's notably the Arabic voice behind The House in Fata Morgana, To The Moon, Return of the Obra Dinn, Tunic, Dicey Dungeons, and many, many more.
+
+Was Your Arabic Botched?
+
+Most devs can't spot a disasterous Arabic localization until their recent reviews are draped in rouge. Can you?
+
+One minute / Three questions
+Take The Quiz
+
+✦ EXHIBIT B
+
+The Uncompromising Standard.
+
+Years of watching it go wrong has its perks.
+
+The Arabic localization industry has a dirty little secret:
+
+It's counting on you not knowing better.
+
+MENA is an emerging gaming market—a free for all gold rush. There are hardly any standards of quality, so there's very little incentive to even put in the bare minimum.
+
+And nailing Arabic requires much more than the bare minimum.
+
+Amateur-tier work and broken implementations are the norm, not the exception.
+Yes, even when - especially when - you trust the biggest multilingual providers around.
+
+And as player standards rapidly mature alongside this market, expectations shift. What once passed for acceptable can quickly turn into an overnight embarrassment.
+
+We've witnessed this broken system crash and burn. Again, and again, and again.
+
+But watching trainwrecks happen in slow-mo has its perks.
+
+It led our director to distill exactly what makes an Arabic localization click into a replicable standard—then founded loclait to make that standard non-negotiable.
+
+✦ EXHIBIT C
+
+The Winning Formula.
+
+Exceptional localization is never a fluke.
+But don't take our word for it.
+
+loclait's workflows have been engineered to outright repulse mediocrity.
+Those who can't stand the heat are swiftly escorted out of the kitchen.
+
+Our entrance test is rigorous, our general style guide sits at ~25k words, and we never skimp on feedback or performance reviews—even with our most senior contributors.
+
+We wear the diva moniker as a badge of honor.
+
+That unrelenting pursuit of perfection made loclait's name an Arabic seal of quality.
+
+We're staking our reputation on each project we take on.
+
+That's why we're rather picky about the projects we associate with, the clients we work with, the studios we partner with, and especially about the talents we hire and retain.
+
+Big or small, it's never just another gig.
+
+PLAYER
+@muad.dib542
+"When work is done with passion, this is the result. They didn't leave a single detail without giving it full attention."
+ON: THE HOUSE IN FATA MORGANA
+Source
+PLAYER
+@9ended1
+"Ooooh, this is right on point. I stopped playing earlier, but I'll be back with the localization"
+ON: TO THE MOON
+Source
+PLAYER
+@RAIDONEUS
+"I love 'em, bros"
+ON: TO THE MOON
+Source
+In Their Words
+
+“Seif goes above and beyond to make sure my games are brought to Arabic speakers in the best way possible. I always enjoy working with him.”
+
+Dan DiIorio
+/
+TrampolineTales
+ DEVELOPER — LUCK BE A LANDLORD · MAZE MICE · WHAT'S THE PASSWORD?
+
+“We highly recommend LocQuest and loclait for game localization!”
+
+Camilla Santiago
+/
+CLOVER-FI Games
+ DEVELOPER — WINDOW GARDEN
+SERVICES
+SERVICES
+SERVICES
+SERVICES
+The Offerings
+Arabic Localization
+
+Our specialty—and what sets us apart—is the ability to mirror your narrative's tone of voice in Arabic and channel it. We craft localizations that don't read like translations.
+
+Artistic Adaptation
+
+Willing to go the extra mile to show Arabic audiences you care?
+We provide logo and in-game graphics localization, expertly crafted to replicate original art.
+
+Quality Assurance
+
+We provide additional testing to make sure your Arabic localization looks, reads, and displays right.
+Our implementation guarantees a quick LQA process.
+
+Localization Engineering
+
+Dealing with Arabic in game engines can get tiring & expensive fast. We've got the process down to an easy-to-follow checklist.
+
+Frequently Asked Questions
+What Languages Do You Offer?
+
+We only sell what we're best at—Arabic.
+But if you also need other languages, we can point you in the right direction.
+
+Our Arabic localizations mainly use Fusha, a.k.a. 'Modern Standard Arabic'.
+Fusha is the universal Arabic variant understood by all Arabic speakers.
+
+When appropriate, we deploy a middle ground between Fusha and dialects dubbed the 'White Dialect', allowing us to introduce select modern slang into the mix without losing any of the universal understandability of Fusha.
+
+How Fast Can You Work?
+
+We average 1.5k — 2.5k words per translator per day.
+
+For better, more consistent results, we avoid having too many cooks in the kitchen. Only two to three translators handle a project at any given time.
+
+Do note that daily output doesn't translate linearly to progress with Arabic.
+Arabic may—and likely will—take longer than your other planned localizations.
+
+Right-to-Left languages may require trial and error to implement properly, more time to edit the translations to cover for rendering pitfalls, and so on.
+
+Do You Use AI?
+
+No.
+
+The outstanding reputation our localizations have built for our clients across the MENA region is the direct result of human skill and craftsmanship.
+
+We don't believe in 'humans in the loop.' Here, humans are the whole loop.
+If you're seeking AI services, you'll (very) quickly find them—just elsewhere.
+
+Do You Accept Outsourced Work?
+
+Yes!
+loclait is the trusted Arabic provider for several multilingual partners.
+
+However, we only handle external projects when we can guarantee quality—and that's only possible when we're allowed full ownership over the results.
+
+Meaning: only when we're hired to do our thing, not 'white-label' work.
+
+We don't integrate into existing Arabic teams, and we don't accept projects where our studio name is omitted in favor of crediting individual contributors.
+
+What Do You Translate?
+
+Our bread and butter is game localization.
+
+But we've always leaned towards the written word in all its forms—that's why we excel at handling large, dense, and prose-heavy genres like Visual Novels.
+
+loclait is tailor-made for adapting narratives, regardless of their artistic medium.
+We're comfortable tackling Novels, Series, Shows, Comics, Manga, and more.
+
+For live examples, please visit our 'Samples' page.
+
+Will You Bleed Me Dry?
+
+Hopefully not!
+
+Despite landing in the premium category, our pricing is vastly more affordable than that of multilingual agencies due to our structure and location.
+
+However, what is affordable in one place might not be as affordable in another. We always try to accommodate the budgets of indie creators within reason.
+
+Do You Outsource Your Work?
+
+No.
+The few times we did, the process seldom proved worthwhile.
+
+While loclait initially outsourced technical and graphics services and was open to integrating into existing Arabic client teams, that is no longer the case.
+
+To retain our commitment to our singular vision and continue delivering results of the caliber our clients expect, we've permanently discontinued all outsourcing partnerships and moved all of our offerings in-house.
+
+What's Up With The Name?
+
+loclait is a composite of the words 'loc (alization)' and 'lait (milk)'.
+
+With that newfound knowledge, you're probably expecting a good story while marveling at the self-restraint not riddling our copy with horrendous puns took.
+
+Sorry to disappoint. There's no special meaning behind it, and we kinda loathe gimmicks. It sounded nice and our founder loved milk, as all great villains do 🥛.
+
+Let's 
+Talk
+?
+.
+ALGERIA — 11 : 48 PM
+BACK TOMORROW
+loclait
+
+Exceptional localization is never a fluke. We have the exact formula that'll make your game a MENA hit.
+
+LinkedIn
+BlueSky
+Twitter or X
+Facebook
+YouTube
+Discord
+Studio
+Works
+About
+Jobs
+Contact
+Resources
+Samples
+Blog
+News
+Misc
+FAQ
+Terms
+Privacy
+
+© 2026 loclait / Seif Chaib
+ — Annaba, Algeria.
+
+Terms of Service
+Privacy Policy
+Artwork Rights
+loclait
+3.0.0
+Contact
+العربية
+We value your privacy
+
+Our website uses cookies to track analytics, use social media features, and to improve your browsing experience. For more info on what we collect, check our Privacy Policy .
+
+Accept
+Decline

@@ -1,0 +1,252 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/Arabic_Hesham/status/2118800936814497996",
+  "id": "2118800936814497996",
+  "text": "🚨تحديث تعريب:\n The Legend Of Zelda: Ocarina Of Time remake\n\n1⃣ اصلاح مشكلة الاسماء\n2⃣ محاذاة لليمين للحوارات 😍\n\nالصور 👇🏼",
+  "raw_text": {
+   "text": "🚨تحديث تعريب:\n The Legend Of Zelda: Ocarina Of Time remake\n\n1⃣ اصلاح مشكلة الاسماء\n2⃣ محاذاة لليمين للحوارات 😍\n\nالصور 👇🏼 https://t.co/bhAQf5qMoa",
+   "display_text_range": [
+    0,
+    120
+   ],
+   "facets": [
+    {
+     "type": "media",
+     "indices": [
+      121,
+      144
+     ],
+     "id": "2118799677952819201",
+     "display": "pic.x.com/bhAQf5qMoa",
+     "original": "https://t.co/bhAQf5qMoa",
+     "replacement": "https://x.com/Arabic_Hesham/status/2118800936814497996/photo/1"
+    },
+    {
+     "type": "media",
+     "indices": [
+      121,
+      144
+     ],
+     "id": "2118799677910835200",
+     "display": "pic.x.com/bhAQf5qMoa",
+     "original": "https://t.co/bhAQf5qMoa",
+     "replacement": "https://x.com/Arabic_Hesham/status/2118800936814497996/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "Arabic_Hesham",
+   "url": "https://x.com/Arabic_Hesham",
+   "id": "2051213281419751424",
+   "followers": 5503,
+   "following": 77,
+   "likes": 955,
+   "media_count": 130,
+   "name": "هشـــام",
+   "description": "تعريبات آلية بالكامل بدون تدخل بشري 🤖\n\nhttps://arabichesham.com/",
+   "raw_description": {
+    "text": "تعريبات آلية بالكامل بدون تدخل بشري 🤖\n\nhttps://t.co/Me7kI5Dcit",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       39,
+       62
+      ],
+      "original": "https://t.co/Me7kI5Dcit",
+      "replacement": "https://arabichesham.com/",
+      "display": "arabichesham.com"
+     }
+    ]
+   },
+   "location": "الوطن العربي 🤍",
+   "banner_url": "https://pbs.twimg.com/profile_banners/2051213281419751424/1791124132",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2051658850558672904/4gmI3KS1_200x200.jpg",
+   "joined": "Mon May 04 08:12:24 +0000 2026",
+   "protected": false,
+   "website": {
+    "url": "https://ko-fi.com/arabichesham",
+    "display_url": "ko-fi.com/arabichesham"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 25,
+  "retweets": 13,
+  "likes": 178,
+  "bookmarks": 101,
+  "quotes": 0,
+  "created_at": "Fri Nov 06 20:21:23 +0000 2026",
+  "created_timestamp": 1793996483,
+  "possibly_sensitive": false,
+  "views": 10048,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": null,
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "2118799677952819201",
+     "url": "https://pbs.twimg.com/media/HWd9FMqXAAEHuIp.jpg?name=orig",
+     "width": 3800,
+     "height": 2120
+    },
+    {
+     "type": "photo",
+     "id": "2118799677910835200",
+     "url": "https://pbs.twimg.com/media/HWd9FMgWYAAJB8a.jpg?name=orig",
+     "width": 3810,
+     "height": 2137
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "2118799677952819201",
+     "url": "https://pbs.twimg.com/media/HWd9FMqXAAEHuIp.jpg?name=orig",
+     "width": 3800,
+     "height": 2120
+    },
+    {
+     "type": "photo",
+     "id": "2118799677910835200",
+     "url": "https://pbs.twimg.com/media/HWd9FMgWYAAJB8a.jpg?name=orig",
+     "width": 3810,
+     "height": 2137
+    }
+   ],
+   "mosaic": {
+    "type": "mosaic_photo",
+    "formats": {
+     "jpeg": "https://mosaic.fxtwitter.com/jpeg/2118800936814497996/HWd9FMqXAAEHuIp/HWd9FMgWYAAJB8a",
+     "webp": "https://mosaic.fxtwitter.com/webp/2118800936814497996/HWd9FMqXAAEHuIp/HWd9FMgWYAAJB8a"
+    }
+   }
+  },
+  "quote": {
+   "url": "https://x.com/Arabic_Hesham/status/2118242152807297289",
+   "id": "2118242152807297289",
+   "text": "🚨تعريب:\nThe Legend Of Zelda: Ocarina Of Time remake\n\n#تعريبات_هشام",
+   "raw_text": {
+    "text": "🚨تعريب:\nThe Legend Of Zelda: Ocarina Of Time remake\n\n#تعريبات_هشام https://t.co/cXKwTrWyFN",
+    "display_text_range": [
+     0,
+     66
+    ],
+    "facets": [
+     {
+      "type": "hashtag",
+      "indices": [
+       53,
+       66
+      ],
+      "original": "تعريبات_هشام"
+     },
+     {
+      "type": "media",
+      "indices": [
+       67,
+       90
+      ],
+      "id": "2118242143072296960",
+      "display": "pic.x.com/cXKwTrWyFN",
+      "original": "https://t.co/cXKwTrWyFN",
+      "replacement": "https://x.com/Arabic_Hesham/status/2118242152807297289/photo/1"
+     }
+    ]
+   },
+   "author": {
+    "screen_name": "Arabic_Hesham",
+    "url": "https://x.com/Arabic_Hesham",
+    "id": "2051213281419751424",
+    "followers": 5503,
+    "following": 77,
+    "likes": 955,
+    "media_count": 130,
+    "name": "هشـــام",
+    "description": "تعريبات آلية بالكامل بدون تدخل بشري 🤖\n\nhttps://arabichesham.com/",
+    "raw_description": {
+     "text": "تعريبات آلية بالكامل بدون تدخل بشري 🤖\n\nhttps://t.co/Me7kI5Dcit",
+     "facets": [
+      {
+       "type": "url",
+       "indices": [
+        39,
+        62
+       ],
+       "original": "https://t.co/Me7kI5Dcit",
+       "replacement": "https://arabichesham.com/",
+       "display": "arabichesham.com"
+      }
+     ]
+    },
+    "location": "الوطن العربي 🤍",
+    "banner_url": "https://pbs.twimg.com/profile_banners/2051213281419751424/1791124132",
+    "avatar_url": "https://pbs.twimg.com/profile_images/2051658850558672904/4gmI3KS1_200x200.jpg",
+    "joined": "Mon May 04 08:12:24 +0000 2026",
+    "protected": false,
+    "website": {
+     "url": "https://ko-fi.com/arabichesham",
+     "display_url": "ko-fi.com/arabichesham"
+    },
+    "verification": {
+     "verified": true,
+     "verified_at": null,
+     "type": "individual"
+    },
+    "avatar_color": null
+   },
+   "replies": 41,
+   "retweets": 45,
+   "likes": 647,
+   "bookmarks": 472,
+   "quotes": 25,
+   "created_at": "Thu Nov 05 07:20:58 +0000 2026",
+   "created_timestamp": 1793863258,
+   "possibly_sensitive": false,
+   "views": 109967,
+   "is_note_tweet": false,
+   "community_note": null,
+   "lang": "ca",
+   "replying_to": null,
+   "replying_to_status": null,
+   "media": {
+    "all": [
+     {
+      "type": "photo",
+      "id": "2118242143072296960",
+      "url": "https://pbs.twimg.com/media/HWWCAZYWIAALmBO.jpg?name=orig",
+      "width": 1200,
+      "height": 676
+     }
+    ],
+    "photos": [
+     {
+      "type": "photo",
+      "id": "2118242143072296960",
+      "url": "https://pbs.twimg.com/media/HWWCAZYWIAALmBO.jpg?name=orig",
+      "width": 1200,
+      "height": 676
+     }
+    ]
+   },
+   "twitter_card": "summary_large_image",
+   "color": null,
+   "provider": "twitter",
+   "reposted_by": null
+  },
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

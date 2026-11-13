@@ -1,0 +1,97 @@
+URL: https://romhackplaza.org/translations/moon-crystal-arabic-translation-nes
+Final: https://romhackplaza.org/translations/moon-crystal-arabic-translation-nes
+Title: Moon Crystal (Arabic Translation) NES - Romhack Plaza
+HTTP: 200
+
+WEBSITE
+Home
+Database
+News
+Submissions queue
+COMMUNITY
+Forum
+Clubs
+Reviews
+Discord
+Members
+TOOLS
+ROM Patcher
+ROM Hasher
+PAGES
+Support us
+Learn Romhacking
+About
+Contact Us
+Help & Legal pages
+DEVELOPMENT
+Forge
+Documentation
+Guest
+Login
+Entries
+News
+Forum
+Home › Database › Moon Crystal (Arabic Translation) NES
+Moon Crystal
+By EternalDreamAR
+ Posted by Raouf
+ Jan 09, 2026
+GAME NAME
+Moon Crystal
+PLATFORM
+Nintendo Entertainment System
+GENRE
+Action
+LANGUAGE
+Arabic
+STATUS
+Complete
+VERSION
+0.9
+RELEASE DATE
+2021-05-04
+DOWNLOADS
+9
+Download
+Share
+Description
+
+About the Game
+
+This is a platformer released late in the NES generation, featuring animation far superior to anything else on the system, along with a strong narrative element.
+
+Translation Team
+
+Mansour: Main translation, text flow programming, font design
+
+R-K: Text insertion, reprogramming pointers, UI modifications, title screen design, and tile map adjustments
+
+English translation team: AWJ
+
+The team extends special thanks to Professor Orwa, who years ago offered to help reverse the text flow when team members were still beginners in this field. He even released a preliminary ROM version with the first two scenes flipped, along with some of his notes. Although those notes couldn’t be used directly (because the method adopted was quite different and somewhat exhausting, taking into account things like automatic line breaks and screen clearing, which weren’t part of Professor Orwa’s approach), the team feels it is their duty to sincerely thank him for his valuable support. His work inspired the team to refine their method and helped them understand certain aspects of the process. Translation Features
+
+The original English font had very few characters, while Mansour had a beautiful Arabic font to replace it. Rather than abandon the original font, the team expanded it. R-K did most of the heavy lifting for this technical modification, with some help from Mansour to fix behind-the-scenes issues caused by the adjustment. In the end, the font was expanded so much that replacement became unnecessary. The English font was kept and the Arabic font was added alongside it, allowing the game staff credits to remain intact.
+
+A high-quality title screen modification was created. The team handled everything from designing the original artwork to converting it into NES-compatible graphics and adjusting the tile map to fit it properly.
+
+The entire UI was mirrored to align with right-to-left reading. The team also attempted to improve the heart indicators as a first effort.
+
+The translation aims for literary refinement, though the team leaves that assessment to players.
+
+Hashes
+Filename: Moon Crystal (Japan).nes
+CRC32: a5aee1bf
+SHA-1: e2c69fcd38538ee38b7138a752936ec9fc827664
+Verified: Nintendo - Nintendo Entertainment System (Headered) v.20260617-064757 (No-Intro)
+
+Staff Credits
+Mansour + R-K:
+Gallery
+Relevant Link
+https://etrdream.com/game/moon-crystal/
+Youtube Video
+Reviews
+Be the first to post a review
+See all 0 reviews
+Last comments
+Post a comment

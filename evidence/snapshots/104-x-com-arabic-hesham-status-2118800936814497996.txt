@@ -1,0 +1,15 @@
+URL: https://x.com/Arabic_Hesham/status/2118800936814497996
+Author: هشـــام (@Arabic_Hesham)
+Created: Fri Nov 06 20:21:23 +0000 2026
+Likes: 178 Retweets: 13 Replies: 25 Views: 10048
+Replying to: None / None
+
+🚨تحديث تعريب:
+ The Legend Of Zelda: Ocarina Of Time remake
+
+1⃣ اصلاح مشكلة الاسماء
+2⃣ محاذاة لليمين للحوارات 😍
+
+الصور 👇🏼
+
+Quote: {"url": "https://x.com/Arabic_Hesham/status/2118242152807297289", "id": "2118242152807297289", "text": "🚨تعريب:\nThe Legend Of Zelda: Ocarina Of Time remake\n\n#تعريبات_هشام", "raw_text": {"text": "🚨تعريب:\nThe Legend Of Zelda: Ocarina Of Time remake\n\n#تعريبات_هشام https://t.co/cXKwTrWyFN", "display_text_range": [0, 66], "facets": [{"type": "hashtag", "indices": [53, 66], "original": "تعريبات_هشام"}, {"type": "media", "indices": [67, 90], "id": "2118242143072296960", "display": "pic.x.com/cXKwTrWyFN", "original": "https://t.co/cXKwTrWyFN", "replacement": "https://x.com/Arabic_Hesham/status/2118242152807297289/photo/1"}]}, "author": {"screen_name": "Arabic_Hesham", "url": "https://x.com/Arabic_Hesham", "id": "2051213281419751424", "followers": 5503, "following": 77, "likes": 955, "media_count": 130, "name": "هشـــام", "description": "تعريبات آلية بالكامل بدون تدخل بشري 🤖\n\nhttps://arabichesham.com/", "raw_description": {"text": "تعريبات آلية بالكامل بدون تدخل بشري 🤖\n\nhttps://t.co/Me7kI5Dcit", "facets": [{"type": "url", "indices": [39, 62], "original": "https://t.co/Me7kI5Dcit", "replacement": "https://arabichesham.com/", "display": "arabichesham.com"}]}, "location": "الوطن العربي 🤍", "banner_url": "https://pbs.twimg.com/profile_banners/2051213281419751424/1791124132", "avatar_url": "https://pbs.twimg.com/profile_images/2051658850558672904/4gmI3KS1_200x200.jpg", "joined": "Mon May 04 08:12:24 +0000 2026", "protected": false, "website": {"url": "https://ko-fi.com/arabichesham", "display_url": "ko-fi.com/arabichesham"}, "verification": {"verified": true, "verified_at": null, "type": "individual"}, "avatar_color": null}, "replies": 41, "retweets": 45, "likes": 647, "bookmarks": 472, "quotes": 25, "created_at": "Thu Nov 05 07:20:58 +0000 2026", "created_timestamp": 1793863258, "possibly_sensitive": false, "views": 109967, "is_note_tweet": false, "community_note": null, "lang": "ca", "replying_to": null, "replying_to_status": null, "media": {"all": [{"type": "photo", "id": "2118242143072296960", "url": "https://pbs.twimg.com/media/HWWCAZYWIAALmBO.jpg?name=orig", "width": 1200, "height": 676}], "photos": [{"type": "photo", "id": "2118242143072296960", "url": "https://pbs.twimg.com/media/HWWCAZYWIAALmBO.jpg?name=orig", "width": 1200, "height": 676}]}, "twitter_card": "summary_large_image", "color": null, "provider": "twitter", "reposted_by": null}

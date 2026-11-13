@@ -1,0 +1,133 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/sbalhatlani/status/794945185692188672",
+  "id": "794945185692188672",
+  "text": "Hi any plans to localize WoW/Overwatch into Arabic Language & Middle East WoW/Overwatch Servers ?\n@mikemorhaime @ChrisMetzen #BlizzCon2016",
+  "raw_text": {
+   "text": "Hi any plans to localize WoW/Overwatch into Arabic Language &amp; Middle East WoW/Overwatch Servers ?\n@mikemorhaime @ChrisMetzen #BlizzCon2016",
+   "display_text_range": [
+    0,
+    142
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      102,
+      115
+     ],
+     "original": "mikemorhaime",
+     "id": "28048857"
+    },
+    {
+     "type": "mention",
+     "indices": [
+      116,
+      128
+     ],
+     "original": "ChrisMetzen",
+     "id": "381048540"
+    },
+    {
+     "type": "hashtag",
+     "indices": [
+      129,
+      142
+     ],
+     "original": "BlizzCon2016"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "sbalhatlani",
+   "url": "https://x.com/sbalhatlani",
+   "id": "228391413",
+   "followers": 5883,
+   "following": 1897,
+   "likes": 5258,
+   "media_count": 1079,
+   "name": "ص",
+   "description": "🍓Digital NoMad\nFounder:\nhttp://Ters.co | http://WoWAR.co | http://WoWVo.co | https://Arabicsubs.com\n\nودك تدعمني ؟ إشترلي كوب☕️قهوة👇",
+   "raw_description": {
+    "text": "🍓Digital NoMad\nFounder:\nhttps://t.co/GsYA7SZ1Fx | https://t.co/S2IoNwCSM9 | https://t.co/JyJm4npcnr | https://t.co/4iqSjrtAPV\n\nودك تدعمني ؟ إشترلي كوب☕️قهوة👇",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       24,
+       47
+      ],
+      "original": "https://t.co/GsYA7SZ1Fx",
+      "replacement": "http://Ters.co",
+      "display": "Ters.co"
+     },
+     {
+      "type": "url",
+      "indices": [
+       50,
+       73
+      ],
+      "original": "https://t.co/S2IoNwCSM9",
+      "replacement": "http://WoWAR.co",
+      "display": "WoWAR.co"
+     },
+     {
+      "type": "url",
+      "indices": [
+       76,
+       99
+      ],
+      "original": "https://t.co/JyJm4npcnr",
+      "replacement": "http://WoWVo.co",
+      "display": "WoWVo.co"
+     },
+     {
+      "type": "url",
+      "indices": [
+       102,
+       125
+      ],
+      "original": "https://t.co/4iqSjrtAPV",
+      "replacement": "https://Arabicsubs.com",
+      "display": "Arabicsubs.com"
+     }
+    ]
+   },
+   "location": "Valley",
+   "banner_url": "https://pbs.twimg.com/profile_banners/228391413/1680793335",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1643992510665195522/BVihbbDm_200x200.jpg",
+   "joined": "Sun Dec 19 15:48:32 +0000 2010",
+   "protected": false,
+   "website": {
+    "url": "https://www.paypal.com/donate/?hosted_button_id=28JAWVUEW9PEJ",
+    "display_url": "paypal.com/donate/?hosted…"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 0,
+  "retweets": 0,
+  "likes": 0,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Sat Nov 05 16:51:16 +0000 2016",
+  "created_timestamp": 1478364676,
+  "views": null,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "en",
+  "replying_to": null,
+  "replying_to_status": null,
+  "source": "Twitter Web Client",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

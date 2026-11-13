@@ -1,0 +1,55 @@
+URL: https://uemodding.spuds.casa/tools/locres.html
+Final: https://uemodding.spuds.casa/tools/locres.html
+Title: Locres Editors - UE4 Modding Guide
+HTTP: 200
+
+Home Page
+Starting out
+1. The Basics
+1.1. Extraction
+1.1.1. umodel
+1.1.2. FModel
+1.2. Unreal Engine
+1.2.1. Setting Up
+1.2.2. Content Creation
+1.3. Packaging
+1.3.1. Cooking
+1.3.2. Final Packaging
+2. Core UE4 Modding Concepts
+2.1. Pak files
+2.2. Mod Loading
+2.3. Cooking
+2.4. Unreal files
+2.5. Dummying
+Specific Guides
+3. Models (Whole section is WIP)
+3.1. Meshes
+3.2. Skeletons
+4. Disabling objects
+5. Using UAssetGUI
+6. Materials
+6.1. Via UAssetGUI
+6.2. In Engine
+7. Text and Dialogue
+8. Level Editing
+9. Using UAssetAPI
+Tools and Resources
+10. Tools
+10.1. Pakers/Unpakers
+10.2. Pak Explorers
+10.3. UAsset Editors
+10.4. Locres Editors
+11. Resources
+11.1. Discords
+11.2. Other Guides
+UE4 Modding Guide
+  
+Locres Editors
+
+These are tools that can edit localisation files
+
+locres editor (unknown author) that allows edits via reversible .txt export
+
+UE4LocalizationsTool by amr shaheen allows edits in program or via reversible .txt export
+
+UnrealLocres by akintos is CLI program that allows edits via reversible .txt export

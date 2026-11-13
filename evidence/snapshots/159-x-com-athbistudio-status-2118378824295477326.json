@@ -1,0 +1,129 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/athbistudio/status/2118378824295477326",
+  "id": "2118378824295477326",
+  "text": "قلبت واجهة FF7 من LTR إلى RTL… الحين أنا اللي أحتاج باتش يرجعني للوضع الأصلي. 😄",
+  "raw_text": {
+   "text": "قلبت واجهة FF7 من LTR إلى RTL… الحين أنا اللي أحتاج باتش يرجعني للوضع الأصلي. 😄 https://t.co/cgkYgTunnd",
+   "display_text_range": [
+    0,
+    79
+   ],
+   "facets": [
+    {
+     "type": "media",
+     "indices": [
+      80,
+      103
+     ],
+     "id": "2118378808671621120",
+     "display": "pic.x.com/cgkYgTunnd",
+     "original": "https://t.co/cgkYgTunnd",
+     "replacement": "https://x.com/athbistudio/status/2118378824295477326/photo/1"
+    },
+    {
+     "type": "media",
+     "indices": [
+      80,
+      103
+     ],
+     "id": "2118378808667512832",
+     "display": "pic.x.com/cgkYgTunnd",
+     "original": "https://t.co/cgkYgTunnd",
+     "replacement": "https://x.com/athbistudio/status/2118378824295477326/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "athbistudio",
+   "url": "https://x.com/athbistudio",
+   "id": "1294692795698089985",
+   "followers": 1595,
+   "following": 3,
+   "likes": 39,
+   "media_count": 98,
+   "name": "AthbiStudio",
+   "description": "منصة لتعريب الألعاب وتطويعها لتجربة عربية أصيلة.\nعرّبنا ٣٠+ لعبة مجانًا 🎮 فاينل فانتسي • بوكيمون • ماذر • كاسلفانيا • سوبر روبوت وورز. طبّق التعريب من المتصفح",
+   "raw_description": {
+    "text": "منصة لتعريب الألعاب وتطويعها لتجربة عربية أصيلة.\nعرّبنا ٣٠+ لعبة مجانًا 🎮 فاينل فانتسي • بوكيمون • ماذر • كاسلفانيا • سوبر روبوت وورز. طبّق التعريب من المتصفح",
+    "facets": []
+   },
+   "location": "خلف أفق الحدث",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1294692795698089985/1792260440",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1708880442546442241/c_lnF0dm_200x200.jpg",
+   "joined": "Sat Aug 15 17:50:03 +0000 2020",
+   "protected": false,
+   "website": {
+    "url": "https://athbistudio.pages.dev",
+    "display_url": "athbistudio.pages.dev"
+   },
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 4,
+  "retweets": 0,
+  "likes": 35,
+  "bookmarks": 10,
+  "quotes": 2,
+  "created_at": "Thu Nov 05 16:24:03 +0000 2026",
+  "created_timestamp": 1793895843,
+  "possibly_sensitive": false,
+  "views": 2256,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "2118378808671621120",
+     "url": "https://pbs.twimg.com/media/HWX-TYaWUAAXOqb.jpg?name=orig",
+     "width": 736,
+     "height": 630
+    },
+    {
+     "type": "photo",
+     "id": "2118378808667512832",
+     "url": "https://pbs.twimg.com/media/HWX-TYZXoAAVdLQ.jpg?name=orig",
+     "width": 736,
+     "height": 988
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "2118378808671621120",
+     "url": "https://pbs.twimg.com/media/HWX-TYaWUAAXOqb.jpg?name=orig",
+     "width": 736,
+     "height": 630
+    },
+    {
+     "type": "photo",
+     "id": "2118378808667512832",
+     "url": "https://pbs.twimg.com/media/HWX-TYZXoAAVdLQ.jpg?name=orig",
+     "width": 736,
+     "height": 988
+    }
+   ],
+   "mosaic": {
+    "type": "mosaic_photo",
+    "formats": {
+     "jpeg": "https://mosaic.fxtwitter.com/jpeg/2118378824295477326/HWX-TYaWUAAXOqb/HWX-TYZXoAAVdLQ",
+     "webp": "https://mosaic.fxtwitter.com/webp/2118378824295477326/HWX-TYaWUAAXOqb/HWX-TYZXoAAVdLQ"
+    }
+   }
+  },
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

@@ -1,0 +1,92 @@
+URL: https://www.romhacking.net/translations/5878/
+Archived copy: https://web.archive.org/web/20241120071524/https://www.romhacking.net/translations/5878
+
+Home Forum Sections Community Submissions Changes Search Help
+
+
+Sections
+Home
+Documents
+Utilities
+Translations
+ROM Hacks
+Games
+Homebrew
+Fonts
+Abandoned
+News Archive
+Community
+Forum
+Wiki
+History
+Community Database
+Links
+Submissions
+Submit Files
+Submit News
+Queue Status
+Public Maintenance
+The Scratchpad
+Online ROM Patcher
+Online ROM Hasher
+Help
+About this Site
+Getting Started
+RHDN Policy
+Dictionary
+FAQ
+Contact Staff
+Chrono Trigger
+Super Nintendo
+Translation Information
+Chrono Trigger
+
+Released By	ExtraOrdinary
+Language	Arabic
+Status	Fully Playable
+Platform	Super Nintendo
+License	N/A
+Patching Information	No-Header (SNES)
+Genre	Role Playing
+Published By	Square
+Game Date	11 March 1995
+Patch Version	1.2
+Release Date	19 January 2021
+Readme	Yes
+Downloads	867
+Last Modified	19 January 2021
+Game Description:
+
+Chrono Trigger is a SNES RPG similar to the Final Fantasy series. The story takes place in many different time periods ranging from the pre-historic days to the end of time. It has a “New Game +” mode and 13 different endings (determined by when you choose to battle the final boss) so the replay value on this one is through the roof.
+
+Translation Description:
+
+Chrono Trigger SNES Arabic Translation
+
+Fully translated by ExtraOrdinary.
+
+Proudly the first complete JRPG translated to contain Arabic script complexity with full consideration of dialogue and menu messages.
+
+Enjoy!
+
+ROM / ISO Information:
+Database match: Chrono Trigger (USA)
+Database: No-Intro: Super Nintendo Entertainment System (v. 20180813-062835)
+File/ROM SHA-1: DE5822F4F2F7A55ACB8926D4C0EAA63D5D989312
+File/ROM CRC32: 2D206BF7
+Links:
+Readme File
+Download
+Screenshots:
+
+
+Credits:
+Credits
+Contributor	Type of contribution	Listed credit
+ExtraOrdinary	Translation	
+User Review Information
+No User Reviews!
+﻿﻿
+©2005-2024 RHDN 3.0.0 by Nightcrawler. All Rights Reserved.
+Execution time - 0.0049 sec. - Number of Queries: 4
+About Us | RHDN Policy | HTML5 | CSS

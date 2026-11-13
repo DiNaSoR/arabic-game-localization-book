@@ -1,0 +1,114 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/AsmarGamesAR/status/2120600933768028345",
+  "id": "2120600933768028345",
+  "text": "@000athena00 @EternalDreamAR وتت فلوس ايش 😟العابنا مجانيه وصار في لبس وتم التوضيح",
+  "raw_text": {
+   "text": "@000athena00 @EternalDreamAR وتت فلوس ايش 😟العابنا مجانيه وصار في لبس وتم التوضيح",
+   "display_text_range": [
+    29,
+    81
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      12
+     ],
+     "original": "000athena00",
+     "id": "2054282487619080195"
+    },
+    {
+     "type": "mention",
+     "indices": [
+      13,
+      28
+     ],
+     "original": "EternalDreamAR",
+     "id": "3677595257"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "AsmarGamesAR",
+   "url": "https://x.com/AsmarGamesAR",
+   "id": "1767497451118678016",
+   "followers": 2686,
+   "following": 244,
+   "likes": 1894,
+   "media_count": 180,
+   "name": "اسمر",
+   "description": "اسمر للتعريب\nادعمنا للاستمرار:https://www.paypal.com/ncp/payment/WDSU2L5A44URL\nديسكورد:https://discord.com/invite/UzUvGESXmj\nركن اسمر:http://asmar-ar.com/gear",
+   "raw_description": {
+    "text": "اسمر للتعريب\nادعمنا للاستمرار:https://t.co/Ny2JZloTKn\nديسكورد:https://t.co/6u4AtP61FZ\nركن اسمر:https://t.co/h5InAR5i0q",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       30,
+       53
+      ],
+      "original": "https://t.co/Ny2JZloTKn",
+      "replacement": "https://www.paypal.com/ncp/payment/WDSU2L5A44URL",
+      "display": "paypal.com/ncp/payment/WD…"
+     },
+     {
+      "type": "url",
+      "indices": [
+       62,
+       85
+      ],
+      "original": "https://t.co/6u4AtP61FZ",
+      "replacement": "https://discord.com/invite/UzUvGESXmj",
+      "display": "discord.com/invite/UzUvGES…"
+     },
+     {
+      "type": "url",
+      "indices": [
+       95,
+       118
+      ],
+      "original": "https://t.co/h5InAR5i0q",
+      "replacement": "http://asmar-ar.com/gear",
+      "display": "asmar-ar.com/gear"
+     }
+    ]
+   },
+   "location": "",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1767497451118678016/1780594743",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2069531247551107072/7RPJFqbP_200x200.jpg",
+   "joined": "Tue Mar 12 10:27:02 +0000 2024",
+   "protected": false,
+   "website": {
+    "url": "https://www.asmar-ar.com",
+    "display_url": "asmar-ar.com"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 1,
+  "retweets": 0,
+  "likes": 0,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Wed Nov 11 19:33:56 +0000 2026",
+  "created_timestamp": 1794425636,
+  "views": 111,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": "000athena00",
+  "replying_to_status": "2120600015819469129",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/MansourSorosoro/status/1622555953429200896",
+  "id": "1622555953429200896",
+  "text": "تحية كبيرة للصديق @abodora2 ... أحب هذه اللعبة وكافح ليبدأ من الصفر مشروع تعريب لها يكون خاليا من ترجمات الآلة، وحقق ما قدر عليه ثم تركها بعد صدورها بالقصة الكاملة.\nالتعريب المخلص لأهدافه متوفر في مدونته، ودليل أن إبداع الإنسان يغلب الآلة.\n\nهذا المجهود الجبار لن أنسى فضله.",
+  "raw_text": {
+   "text": "تحية كبيرة للصديق @abodora2 ... أحب هذه اللعبة وكافح ليبدأ من الصفر مشروع تعريب لها يكون خاليا من ترجمات الآلة، وحقق ما قدر عليه ثم تركها بعد صدورها بالقصة الكاملة.\nالتعريب المخلص لأهدافه متوفر في مدونته، ودليل أن إبداع الإنسان يغلب الآلة.\n\nهذا المجهود الجبار لن أنسى فضله.",
+   "display_text_range": [
+    0,
+    273
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      18,
+      27
+     ],
+     "original": "abodora2",
+     "id": "242055756"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "MansourSorosoro",
+   "url": "https://x.com/MansourSorosoro",
+   "id": "1099354084245688321",
+   "followers": 4889,
+   "following": 688,
+   "likes": 9308,
+   "media_count": 1295,
+   "name": "TheMansour",
+   "description": "منصور. حساب شخصي.\nهواه العربية و تعديل الألعاب.\nمؤسس فريق @EternalDreamAR .\nEN/FR→AR Localization/Implementation Specialist ✍️👍\nContact: monta@translate.games",
+   "raw_description": {
+    "text": "منصور. حساب شخصي.\nهواه العربية و تعديل الألعاب.\nمؤسس فريق @EternalDreamAR .\nEN/FR→AR Localization/Implementation Specialist ✍️👍\nContact: monta@translate.games",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1099354084245688321/1682976154",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1883286833775136768/q3MvF_pp_200x200.jpg",
+   "joined": "Sat Feb 23 17:03:33 +0000 2019",
+   "protected": false,
+   "website": {
+    "url": "http://translate.games",
+    "display_url": "translate.games"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 4,
+  "retweets": 1,
+  "likes": 31,
+  "bookmarks": 4,
+  "quotes": 0,
+  "created_at": "Mon Feb 06 11:20:59 +0000 2023",
+  "created_timestamp": 1675682459,
+  "views": 5439,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

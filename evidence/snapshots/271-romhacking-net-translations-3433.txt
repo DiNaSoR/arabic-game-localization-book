@@ -1,0 +1,174 @@
+URL: https://www.romhacking.net/translations/3433/
+Archived copy: https://web.archive.org/web/20240115075146/https://www.romhacking.net/translations/3433/
+
+Home Forum Sections Community Submissions Changes Search Help   
+
+
+Sections
+Home
+Documents
+Utilities
+Translations
+ROM Hacks
+Games
+Homebrew
+Fonts
+Abandoned
+News Archive
+Community
+Forum
+Wiki
+History
+Chat
+Community Database
+Links
+Submissions
+Submit Files
+Submit News
+Queue Status
+Public Maintenance
+The Scratchpad
+Online ROM Patcher
+Online ROM Hasher
+Help
+About this Site
+Getting Started
+RHDN Policy
+Dictionary
+FAQ
+Contact Staff
+Newest Hacks
+ 
+Sagaia One Button Attack
+Improvement | SMS
+Relocalization
+Improvement | GC
+Tournament Edition
+Improvement | SNES
+Totoro - Mei is Missing
+Complete | NES
+See More Hacks...
+Newest Translations
+ 
+Fushigi no Dungeon: Fuurai no Shiren 4 Plus: Kami no Hitomi to Akuma no Heso
+English | Fully Playable | PSP
+Battle City
+Turkish | Fully Playable | NES
+Kyouki no Yakata
+French | Fully Playable | PC88
+Bucky O'Hare
+Indonesian | Fully Playable | NES
+See More Translations...
+Newest Reviews
+ 
+The Resurrection of Super Castlevania
+Hacks | Super Castlevania IV - Other Castle
+The extra options are the only things that save this hack
+Hacks | Donkey Kong Land 2: Game Boy Color Edition
+Essential and virtually flawless.
+Translations | Live a Live
+Trial and error level design
+Hacks | M's Super Mario Bros. 3
+See More Reviews...
+Featured Hack Images
+ 
+Displayable 32766 damage/healing hack
+Improvement | SNES
+Rockman 2: Dash!
+Complete | NES
+Featured Translation Images
+ 
+Downtown Special: Kunio-kun no Jidaigeki Dayo Zen'in Shuugou!
+English | Fully Playable | NES
+Cyborg 009
+English | Fully Playable | SNES
+Recent Forum Posts
+Made a list of promising Story Rich hacks from 2023 that made the RHDN news
+ROM Hacking Discussion
+Today at 07:07:01 PM
+Need help in hacking GBA games
+Newcomer's Board
+Today at 05:48:52 PM
+Can loading be removed from street fighter games?
+Newcomer's Board
+Today at 05:47:00 PM
+[NES] Double Dragon - Bimmy and Jimmy
+Personal Projects
+Today at 05:19:17 PM
+See More Forum Topics...
+Recent Updates
+DhrGR
+Community
+linking my forum account
+Hacks - Jim Power Parallax Scroll Fix
+Reviews
+Correction of some given informations
+SharkSnack
+Community
+Forum Name added.
+Translations - Fushigi no Dungeon: Fuurai no Shiren 4 Plus: Kami no Hitomi to Akuma no Heso
+Credits
+Adding the remaining credits for people who contributed to the patch.
+See More Changes...
+Final Fantasy III
+Super Nintendo
+Translation Information
+Final Fantasy III
+Final Fantasy VI
+
+Released By	q8fft
+Language	Arabic
+Status	Fully Playable
+Platform	Super Nintendo
+License	N/A
+Patching Information	No-Header (SNES)
+Genre	Role Playing
+Published By	Square
+Game Date	02 April 1994
+Patch Version	Beta 1.3.7
+Release Date	05 February 2018
+Readme	Readme File
+Downloads	1592
+Last Modified	14 October 2022
+EDIT TRANSLATION ENTRY
+EDIT GAME ENTRY
+EDIT CREDITS
+FLAG AS NONCOMPLIANT
+ Share  Tweet
+Game Description:
+
+Final Fantasy III is a role playing game for the Super Nintendo. This is also known as Final Fantasy VI in Japan.
+
+Translation Description:
+
+After 8 months, 9 days Finally Done!! Translation Final Fantasy III/VI for Snes into Arabic. Hope you Enjoy it. feel free to feedback,
+
+You need Lunar IPS to patch this game.
+
+Don’t forget to Readme for more info…
+
+ROM / ISO Information:
+rominfo : Name: Final Fantasy III (U) (V1.0) [!]
+CRC32: A27F1C7A
+MD5: E986575B98300F721CE27C180264D890
+SHA-1: 4F37E4274AC3B2EA1BEDB08AA149D8FC5BB676E7
+Links:
+News Articles for this Translation
+Readme File
+Download
+Screenshots:
+
+
+Credits:
+Credits
+Contributor	Type of contribution	Listed credit
+q8fft	Hacking	Hacking & Translation
+Mansour Sorosoro	Translation	Translation & Arabic Font Making
+User Review Information
+No User Reviews!
+ADD REVIEW
+﻿﻿
+©2005-2024 RHDN 3.0.0 by Nightcrawler. All Rights Reserved.
+Execution time - 0.0101 sec. - Number of Queries: 5
+About Us | RHDN Policy | HTML5 | CSS
+  

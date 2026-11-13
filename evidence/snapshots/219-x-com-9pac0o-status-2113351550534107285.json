@@ -1,0 +1,118 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/9PAC0O/status/2113351550534107285",
+  "id": "2113351550534107285",
+  "text": "اكثر لعبة كثير ناس حابة تجربها العبة عليها كلام وفي كثير صور مقاطع تبين العبة رهيبة   الي حاب يطلب العبة طلب مسبق متوفرة اعلى نسخ مع كامل الاضافات ايضا راح يكون تعريب للعبة بلغة العربية يكون تعريب حصري ففط الي مشتري العبة من متجر ذهب ستور\nPhantom Blade Zero Digital Deluxe Edition\n\nبسعر مناسب جدا 28.63 ريال شامل نسخة الكاملة مع الاضافات مع تعريب العبة من اول يوم صدور العبة\n\nرابط العرض اول رد",
+  "raw_text": {
+   "text": "اكثر لعبة كثير ناس حابة تجربها العبة عليها كلام وفي كثير صور مقاطع تبين العبة رهيبة   الي حاب يطلب العبة طلب مسبق متوفرة اعلى نسخ مع كامل الاضافات ايضا راح يكون تعريب للعبة بلغة العربية يكون تعريب حصري ففط الي مشتري العبة من متجر ذهب ستور\nPhantom Blade Zero Digital Deluxe Edition\n\nبسعر مناسب جدا 28.63 ريال شامل نسخة الكاملة مع الاضافات مع تعريب العبة من اول يوم صدور العبة\n\nرابط العرض اول رد",
+   "display_text_range": [
+    0,
+    393
+   ],
+   "facets": [
+    {
+     "type": "media",
+     "indices": [
+      281,
+      304
+     ],
+     "id": "2113350590638002176",
+     "display": "pic.x.com/sj33oEeVpQ",
+     "original": "https://t.co/sj33oEeVpQ",
+     "replacement": "https://x.com/9PAC0O/status/2113351550534107285/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "9PAC0O",
+   "url": "https://x.com/9PAC0O",
+   "id": "2051562305641439232",
+   "followers": 1123,
+   "following": 13,
+   "likes": 90,
+   "media_count": 162,
+   "name": "Alexo Sam",
+   "description": "مبرمج ومطور ومعرب العاب لمجال التعريب\n\nمتجري لبيع العاب الاكترونية والخدمات بارخص الاسعار\nhttps://dhahab.store/\n\nموقعي الجديد للتقيم الالعاب وافلام \nhttp://ceyply.com",
+   "raw_description": {
+    "text": "مبرمج ومطور ومعرب العاب لمجال التعريب\n\nمتجري لبيع العاب الاكترونية والخدمات بارخص الاسعار\nhttps://t.co/f9STzAFZ0w\n\nموقعي الجديد للتقيم الالعاب وافلام \nhttps://t.co/GRpRx5EEdW",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       90,
+       113
+      ],
+      "original": "https://t.co/f9STzAFZ0w",
+      "replacement": "https://dhahab.store/",
+      "display": "dhahab.store"
+     },
+     {
+      "type": "url",
+      "indices": [
+       151,
+       174
+      ],
+      "original": "https://t.co/GRpRx5EEdW",
+      "replacement": "http://ceyply.com",
+      "display": "ceyply.com"
+     }
+    ]
+   },
+   "location": "",
+   "banner_url": "",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2051562802096058373/F8jfQIkI_200x200.jpg",
+   "joined": "Tue May 05 07:19:20 +0000 2026",
+   "protected": false,
+   "website": {
+    "url": "https://dhahab.store/",
+    "display_url": "dhahab.store"
+   },
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 1,
+  "retweets": 3,
+  "likes": 20,
+  "bookmarks": 6,
+  "quotes": 0,
+  "created_at": "Thu Oct 22 19:27:28 +0000 2026",
+  "created_timestamp": 1792697248,
+  "possibly_sensitive": false,
+  "views": 2567,
+  "is_note_tweet": true,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "2113350590638002176",
+     "url": "https://pbs.twimg.com/media/HVQhKkjXEAAcHeV.jpg?name=orig",
+     "width": 3840,
+     "height": 2160
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "2113350590638002176",
+     "url": "https://pbs.twimg.com/media/HVQhKkjXEAAcHeV.jpg?name=orig",
+     "width": 3840,
+     "height": 2160
+    }
+   ]
+  },
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

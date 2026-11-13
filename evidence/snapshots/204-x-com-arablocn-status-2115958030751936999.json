@@ -1,0 +1,103 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/ArabLocN/status/2115958030751936999",
+  "id": "2115958030751936999",
+  "text": "🎮 تعريب فانتوم بليد زيرو | Phantom Blade Zero متوفر الآن\n\nتعريب عربي يشمل القصة والحوارات والقوائم والمهام والتعليمات وأوصاف الأسلحة والمهارات.\n\n#PhantomBladeZero #تعريب\n\nhttps://arablocn.com/phantom-blade-zero/",
+  "raw_text": {
+   "text": "🎮 تعريب فانتوم بليد زيرو | Phantom Blade Zero متوفر الآن\n\nتعريب عربي يشمل القصة والحوارات والقوائم والمهام والتعليمات وأوصاف الأسلحة والمهارات.\n\n#PhantomBladeZero #تعريب\n\nhttps://t.co/6xsthr4qkH",
+   "display_text_range": [
+    0,
+    194
+   ],
+   "facets": [
+    {
+     "type": "hashtag",
+     "indices": [
+      145,
+      162
+     ],
+     "original": "PhantomBladeZero"
+    },
+    {
+     "type": "hashtag",
+     "indices": [
+      163,
+      169
+     ],
+     "original": "تعريب"
+    },
+    {
+     "type": "url",
+     "indices": [
+      171,
+      194
+     ],
+     "original": "https://t.co/6xsthr4qkH",
+     "replacement": "https://arablocn.com/phantom-blade-zero/",
+     "display": "arablocn.com/phantom-blade-…"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "ArabLocN",
+   "url": "https://x.com/ArabLocN",
+   "id": "3067357428",
+   "followers": 297,
+   "following": 4,
+   "likes": 13,
+   "media_count": 0,
+   "name": "arablocn",
+   "description": "اكتشف أحدث تعريبات الألعاب الحصرية والاحترافية، وتابع آخر التحديثات والالعاب لـ الـpc في مكان واحد مخصص للاعبين.",
+   "raw_description": {
+    "text": "اكتشف أحدث تعريبات الألعاب الحصرية والاحترافية، وتابع آخر التحديثات والالعاب لـ الـpc في مكان واحد مخصص للاعبين.",
+    "facets": []
+   },
+   "location": "السعودية",
+   "banner_url": "https://pbs.twimg.com/profile_banners/3067357428/1784743210",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2097189828647366656/6If6U0dG_200x200.jpg",
+   "joined": "Sun Mar 08 02:31:04 +0000 2015",
+   "protected": false,
+   "website": {
+    "url": "https://arablocn.com/",
+    "display_url": "arablocn.com"
+   },
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 0,
+  "retweets": 0,
+  "likes": 0,
+  "bookmarks": 1,
+  "quotes": 0,
+  "created_at": "Fri Oct 30 00:04:41 +0000 2026",
+  "created_timestamp": 1793318681,
+  "possibly_sensitive": false,
+  "views": 265,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "card": {
+   "url": "https://arablocn.com/phantom-blade-zero/",
+   "title": "تعريب لعبة Phantom Blade Zero - عرب لوكن | تعريب ألعاب الكمبيوتر",
+   "description": "تعريب لعبة Phantom Blade Zero باللغة العربية حوارات ونصوص وقوائم مع شرح التثبيت تعريب عرب لوكن",
+   "domain": "arablocn.com",
+   "image": {
+    "width": 800,
+    "height": 419,
+    "url": "https://pbs.twimg.com/card_img/2118508308269015040/ecWqCrl6?format=jpg&name=800x419"
+   }
+  },
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

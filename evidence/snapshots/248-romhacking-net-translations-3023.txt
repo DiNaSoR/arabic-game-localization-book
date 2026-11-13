@@ -1,0 +1,175 @@
+URL: https://www.romhacking.net/translations/3023/
+Archived copy: https://web.archive.org/web/20230106212707/https://www.romhacking.net/translations/3023/
+
+Home Forum Sections Community Submissions Changes Search Help   
+
+
+Sections
+Home
+Documents
+Utilities
+Translations
+ROM Hacks
+Games
+Homebrew
+Fonts
+Abandoned
+News Archive
+Community
+Forum
+Wiki
+History
+Chat
+Community Database
+Links
+Submissions
+Submit Files
+Submit News
+Queue Status
+Public Maintenance
+The Scratchpad
+Online ROM Patcher
+Online ROM Hasher
+Help
+About this Site
+Getting Started
+RHDN Policy
+Dictionary
+FAQ
+Contact Staff
+Newest Hacks
+   
+Super Street Fighter 2 Color Hack
+Improvement | GEN
+Fatal Fury 2 Color Hack
+Improvement | GEN
+Final Fantasy I - Starring the Ladies of the Final Fantasy Series
+Improvement | NES
+SMB2 Characters
+Improvement | NES
+See More Hacks...
+Newest Translations
+   
+Mega Man 3
+Indonesian | Fully Playable | NES
+Go Go Ackman 2
+English | Fully Playable | SNES
+Circus Caper
+English | Fully Playable | NES
+Musashi no Ken: Tadaima Shugyou Chuu
+English | Addendum | NES
+See More Translations...
+Newest Reviews
+   
+Great Hacking Marred by a Poor Script
+Translations | Go Go Ackman 2
+This is not just harder, this is plainly kaizo
+Hacks | Harder Vanilla ft. More Doors
+Excellent and original hack of Zelda 1
+Hacks | The Legend of Zelda: A New Light
+SMB2 Mario in SMB1!
+Hacks | SMB2 Characters
+See More Reviews...
+Featured Hack Images
+   
+Featured Translation Images
+   
+Recent Forum Posts
+Re: Hack ideas: for those without the skill but with all the ideas.
+ROM Hacking Discussion
+Today at 03:44:17 PM
+Re: Help. How to fill in Latin Letters in TM
+ROM Hacking Discussion
+Today at 03:05:43 PM
+Re: Finding text in Magical Starsign (DS)
+Newcomer's Board
+Today at 02:36:05 PM
+Re: Final Fantasy IV Namingway Edition (updated to Version 1.98d)
+Personal Projects
+Today at 02:30:28 PM
+Re: Super Mario Bros Outlined
+Personal Projects
+Today at 01:21:31 PM
+See More Forum Topics...
+Recent Updates
+nf6429
+Community
+Added my forum name
+Dragon Ball Z - Buyuu Retsuden New Voices
+Hacks
+Bug fix: when in turbo mode, it defaults back to normal speed if it goes back to the Sega screen (after finishing the game or vs mode)
+Translations - Circus Caper
+Credits
+Fixing credits
+SimplyDanny
+Community
+Image
+Hacks - Pokemon Crystal - 251
+Reviews
+Added information about PKHEX compatibility.
+See More Changes...
+The Legend of Zelda: The Minish Cap
+Game Boy Advance
+Translation Information
+The Legend of Zelda: The Minish Cap
+
+Released By	Hisoka
+Language	Arabic
+Status	Fully Playable
+Platform	Game Boy Advance
+License	N/A
+Patching Information	No Special Requirements
+Genre	Action Adventure
+Published By	Nintendo
+Game Date	04 November 2004
+Patch Version	1.1
+Release Date	05 November 2008
+Readme	
+Downloads	1049
+Last Modified	17 May 2017
+EDIT TRANSLATION ENTRY
+EDIT GAME ENTRY
+EDIT CREDITS
+FLAG AS NONCOMPLIANT
+ Share  Tweet
+Game Description:
+
+This game feels a lot like a prettified Oracles games. Reasonably enough, Capcom was behind this game, as it was behind the Oracles games. It’s a great game that also looks good. If you liked Skyward Sword, you might be interested to learn that it shares many similarities with this game, in part being a prequel to this game.
+
+The controls are good. With the addition of the shoulder buttons, Link can now perform certain action with the R Button. Unique to this game, Link can now “aim and strafe” when using the bow or shield. Many familiar items return, although there are at least two new items in this game.
+
+While there are some new musical pieces, just about every song and sound effect was lifted from a previous game in the series. By this game, a lot of Zelda’s identity had already been established, although it would have been nice to hear different sounds.
+
+The graphics are very nice, although Link and some monsters are generally the same as they were in Four Swords. Unlike in Four Swords Adventures, this game has new sprite work for its environments. There will be nothing here that will impress you, but it will still manage to make you feel good inside.
+
+The story is very simple. Bad guy has kidnapped Zelda, you have to go kick his butt. It’s plenty worn out by now, but this game doesn’t really care too much. It still manages to be very fun to play. It’s very linear, though, although there is at least the Kinstones to distract you from saving the world.
+
+I recommend this game to fans of the earlier Gameboy games and fans of LttP. It will also appeal to fans of adventure games. If you like collecting things and 100% completion missions, the game’s Kinstones should satisfy that urge, although be warned that some are missable. All in all, it’s a very good game.
+
+Translation Description:
+
+The translation of The Legend of Zelda - The Minish Cap to Arabic for GBA. Proudly presented for Arabic speakers residents by Hisoka and Earwa.
+
+ROM / ISO Information:
+No-Intro Name: Legend of Zelda, The - The Minish Cap (USA)
+(No-Intro version 20130720-015858)
+ROM/File SHA-1: B4BD50E4131B027C334547B4524E2DBBD4227130
+Links:
+News Articles for this Translation
+Download
+Screenshots:
+
+
+Credits:
+Credits
+Contributor	Type of contribution	Listed credit
+Hisoka	Hacking	
+Earwa	Translation	
+User Review Information
+No User Reviews!
+ADD REVIEW
+﻿﻿
+©2005-2023 RHDN 3.0.0 by Nightcrawler. All Rights Reserved.
+Execution time - 0.0700 sec. - Number of Queries: 5
+About Us | RHDN Policy | HTML5 | CSS
+  

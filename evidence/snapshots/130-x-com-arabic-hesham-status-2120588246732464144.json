@@ -1,0 +1,93 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/Arabic_Hesham/status/2120588246732464144",
+  "id": "2120588246732464144",
+  "text": "منطقيا: \nعربت اكثر من 60 لعبة ، ليه هذي اللعبة اسرقها ؟\n\nوبصراحة: \nانا ما افضل تعريباتكم ابدا ، اعدت تعريب هولونايت وزيلدا ، لأني اشوف تعريبكم سيء \"بالنسبة لي\" ، فكيف اسرق منكم ؟ \n\nاخيرا:\nبعد ما شفت منشوركم نزلت تعريبكم حتى اشوف اذا فيه تشابه ، والنسبة ظهرت اقل من 7%. \n\nوهذا رابط رفعت فيه الترجمتين لأي شخص حاب يقارن:\nhttps://omori-comparison.pages.dev/\n\nبصير العاقل وبقول عيب عليكم وبس",
+  "raw_text": {
+   "text": "منطقيا: \nعربت اكثر من 60 لعبة ، ليه هذي اللعبة اسرقها ؟\n\nوبصراحة: \nانا ما افضل تعريباتكم ابدا ، اعدت تعريب هولونايت وزيلدا ، لأني اشوف تعريبكم سيء \"بالنسبة لي\" ، فكيف اسرق منكم ؟ \n\nاخيرا:\nبعد ما شفت منشوركم نزلت تعريبكم حتى اشوف اذا فيه تشابه ، والنسبة ظهرت اقل من 7%. \n\nوهذا رابط رفعت فيه الترجمتين لأي شخص حاب يقارن:\nhttps://t.co/j24CQrXLCF\n\nبصير العاقل وبقول عيب عليكم وبس",
+   "display_text_range": [
+    0,
+    375
+   ],
+   "facets": [
+    {
+     "type": "bold",
+     "indices": [
+      143,
+      159
+     ]
+    },
+    {
+     "type": "url",
+     "indices": [
+      319,
+      342
+     ],
+     "original": "https://t.co/j24CQrXLCF",
+     "replacement": "https://omori-comparison.pages.dev/",
+     "display": "omori-comparison.pages.dev"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "Arabic_Hesham",
+   "url": "https://x.com/Arabic_Hesham",
+   "id": "2051213281419751424",
+   "followers": 5503,
+   "following": 77,
+   "likes": 955,
+   "media_count": 130,
+   "name": "هشـــام",
+   "description": "تعريبات آلية بالكامل بدون تدخل بشري 🤖\n\nhttps://arabichesham.com/",
+   "raw_description": {
+    "text": "تعريبات آلية بالكامل بدون تدخل بشري 🤖\n\nhttps://t.co/Me7kI5Dcit",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       39,
+       62
+      ],
+      "original": "https://t.co/Me7kI5Dcit",
+      "replacement": "https://arabichesham.com/",
+      "display": "arabichesham.com"
+     }
+    ]
+   },
+   "location": "الوطن العربي 🤍",
+   "banner_url": "https://pbs.twimg.com/profile_banners/2051213281419751424/1791124132",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2051658850558672904/4gmI3KS1_200x200.jpg",
+   "joined": "Mon May 04 08:12:24 +0000 2026",
+   "protected": false,
+   "website": {
+    "url": "https://ko-fi.com/arabichesham",
+    "display_url": "ko-fi.com/arabichesham"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 32,
+  "retweets": 7,
+  "likes": 189,
+  "bookmarks": 131,
+  "quotes": 2,
+  "created_at": "Wed Nov 11 18:43:31 +0000 2026",
+  "created_timestamp": 1794422611,
+  "views": 35479,
+  "is_note_tweet": true,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

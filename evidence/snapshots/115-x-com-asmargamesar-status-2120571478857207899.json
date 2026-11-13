@@ -1,0 +1,114 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/AsmarGamesAR/status/2120571478857207899",
+  "id": "2120571478857207899",
+  "text": "@AllenWouka @TheAdamSaeed قدمت اعتذار للفريق علي الي صار واذا من احد من فريقهمم اقدم اعتذاري علي الي صار وراح يتم ازاله شغلكمم من تعريبنا الواصل 110 الف سطر هذا تعبكم وشغلكم وعاقبنا العضو الي اخذه دون علمنا ونتمنى لكم التوفيق والنجاح🧧",
+  "raw_text": {
+   "text": "@AllenWouka @TheAdamSaeed قدمت اعتذار للفريق علي الي صار واذا من احد من فريقهمم اقدم اعتذاري علي الي صار وراح يتم ازاله شغلكمم من تعريبنا الواصل 110 الف سطر هذا تعبكم وشغلكم وعاقبنا العضو الي اخذه دون علمنا ونتمنى لكم التوفيق والنجاح🧧",
+   "display_text_range": [
+    26,
+    234
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      11
+     ],
+     "original": "AllenWouka",
+     "id": "912035038094557184"
+    },
+    {
+     "type": "mention",
+     "indices": [
+      12,
+      25
+     ],
+     "original": "TheAdamSaeed",
+     "id": "1241849048"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "AsmarGamesAR",
+   "url": "https://x.com/AsmarGamesAR",
+   "id": "1767497451118678016",
+   "followers": 2686,
+   "following": 244,
+   "likes": 1894,
+   "media_count": 180,
+   "name": "اسمر",
+   "description": "اسمر للتعريب\nادعمنا للاستمرار:https://www.paypal.com/ncp/payment/WDSU2L5A44URL\nديسكورد:https://discord.com/invite/UzUvGESXmj\nركن اسمر:http://asmar-ar.com/gear",
+   "raw_description": {
+    "text": "اسمر للتعريب\nادعمنا للاستمرار:https://t.co/Ny2JZloTKn\nديسكورد:https://t.co/6u4AtP61FZ\nركن اسمر:https://t.co/h5InAR5i0q",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       30,
+       53
+      ],
+      "original": "https://t.co/Ny2JZloTKn",
+      "replacement": "https://www.paypal.com/ncp/payment/WDSU2L5A44URL",
+      "display": "paypal.com/ncp/payment/WD…"
+     },
+     {
+      "type": "url",
+      "indices": [
+       62,
+       85
+      ],
+      "original": "https://t.co/6u4AtP61FZ",
+      "replacement": "https://discord.com/invite/UzUvGESXmj",
+      "display": "discord.com/invite/UzUvGES…"
+     },
+     {
+      "type": "url",
+      "indices": [
+       95,
+       118
+      ],
+      "original": "https://t.co/h5InAR5i0q",
+      "replacement": "http://asmar-ar.com/gear",
+      "display": "asmar-ar.com/gear"
+     }
+    ]
+   },
+   "location": "",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1767497451118678016/1780594743",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2069531247551107072/7RPJFqbP_200x200.jpg",
+   "joined": "Tue Mar 12 10:27:02 +0000 2024",
+   "protected": false,
+   "website": {
+    "url": "https://www.asmar-ar.com",
+    "display_url": "asmar-ar.com"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 1,
+  "retweets": 0,
+  "likes": 49,
+  "bookmarks": 7,
+  "quotes": 0,
+  "created_at": "Wed Nov 11 17:36:53 +0000 2026",
+  "created_timestamp": 1794418613,
+  "views": 9180,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": "AllenWouka",
+  "replying_to_status": "2120514377593893326",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

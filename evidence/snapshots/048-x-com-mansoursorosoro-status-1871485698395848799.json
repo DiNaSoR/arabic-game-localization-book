@@ -1,0 +1,84 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/MansourSorosoro/status/1871485698395848799",
+  "id": "1871485698395848799",
+  "text": "@XUX93 @KruSer_O فلتة هذا ينشر على سرفر دسكورد صنعه ويشرف عليه فريوار هذا الذي منذ سنة كاملة وهو يحاول غلق موقعنا ويسرق تعريباتنا وتعريبات غيرنا صباحا مساء.\n\nفلتة هذا سرق خطوطنا لستارفيلد، وأخذ ملفات مسروقة من تعريبنا لدارك سولز 2 الذي لم ينشر بعد وحاول أن ينسبها لنفسه وألغاه عندما نشرنا قبله.",
+  "raw_text": {
+   "text": "@XUX93 @KruSer_O فلتة هذا ينشر على سرفر دسكورد صنعه ويشرف عليه فريوار هذا الذي منذ سنة كاملة وهو يحاول غلق موقعنا ويسرق تعريباتنا وتعريبات غيرنا صباحا مساء.\n\nفلتة هذا سرق خطوطنا لستارفيلد، وأخذ ملفات مسروقة من تعريبنا لدارك سولز 2 الذي لم ينشر بعد وحاول أن ينسبها لنفسه وألغاه عندما نشرنا قبله.",
+   "display_text_range": [
+    17,
+    294
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      6
+     ],
+     "original": "XUX93",
+     "id": "1174292353"
+    },
+    {
+     "type": "mention",
+     "indices": [
+      7,
+      16
+     ],
+     "original": "KruSer_O",
+     "id": "1572416764956246017"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "MansourSorosoro",
+   "url": "https://x.com/MansourSorosoro",
+   "id": "1099354084245688321",
+   "followers": 4889,
+   "following": 688,
+   "likes": 9308,
+   "media_count": 1295,
+   "name": "TheMansour",
+   "description": "منصور. حساب شخصي.\nهواه العربية و تعديل الألعاب.\nمؤسس فريق @EternalDreamAR .\nEN/FR→AR Localization/Implementation Specialist ✍️👍\nContact: monta@translate.games",
+   "raw_description": {
+    "text": "منصور. حساب شخصي.\nهواه العربية و تعديل الألعاب.\nمؤسس فريق @EternalDreamAR .\nEN/FR→AR Localization/Implementation Specialist ✍️👍\nContact: monta@translate.games",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1099354084245688321/1682976154",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1883286833775136768/q3MvF_pp_200x200.jpg",
+   "joined": "Sat Feb 23 17:03:33 +0000 2019",
+   "protected": false,
+   "website": {
+    "url": "http://translate.games",
+    "display_url": "translate.games"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 1,
+  "retweets": 0,
+  "likes": 1,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Tue Dec 24 09:18:55 +0000 2024",
+  "created_timestamp": 1735031935,
+  "views": 172,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": "XUX93",
+  "replying_to_status": "1871470476066963940",
+  "source": "Twitter Web App",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

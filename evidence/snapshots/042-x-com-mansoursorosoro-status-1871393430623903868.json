@@ -1,0 +1,189 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/MansourSorosoro/status/1871393430623903868",
+  "id": "1871393430623903868",
+  "text": "@KruSer_O و abodora هذا سارق آخر كان يقدم نفسه أنه \"ينقل التعريبات لنسخ الكونسول\" وللأسف صدقته أنا وغيري (مثل redemption team) وكل من قبل \"مساعدته\" غدره.\n\nعندما بدأ حذف أسماء المعربين، ثم سبهم، ثم محاولة سرقة التعريب قبل نشره من ورقة مسربة (!) ومحاولات حثيثة لتشويههم، تتضح نيته الخبيثة.",
+  "raw_text": {
+   "text": "@KruSer_O و abodora هذا سارق آخر كان يقدم نفسه أنه \"ينقل التعريبات لنسخ الكونسول\" وللأسف صدقته أنا وغيري (مثل redemption team) وكل من قبل \"مساعدته\" غدره.\n\nعندما بدأ حذف أسماء المعربين، ثم سبهم، ثم محاولة سرقة التعريب قبل نشره من ورقة مسربة (!) ومحاولات حثيثة لتشويههم، تتضح نيته الخبيثة. https://t.co/mzUAcV4glc",
+   "display_text_range": [
+    10,
+    287
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      9
+     ],
+     "original": "KruSer_O",
+     "id": "1572416764956246017"
+    },
+    {
+     "type": "media",
+     "indices": [
+      288,
+      311
+     ],
+     "id": "1871391705523470338",
+     "display": "pic.x.com/mzUAcV4glc",
+     "original": "https://t.co/mzUAcV4glc",
+     "replacement": "https://x.com/MansourSorosoro/status/1871393430623903868/photo/1"
+    },
+    {
+     "type": "media",
+     "indices": [
+      288,
+      311
+     ],
+     "id": "1871391941864128513",
+     "display": "pic.x.com/mzUAcV4glc",
+     "original": "https://t.co/mzUAcV4glc",
+     "replacement": "https://x.com/MansourSorosoro/status/1871393430623903868/photo/1"
+    },
+    {
+     "type": "media",
+     "indices": [
+      288,
+      311
+     ],
+     "id": "1871392013683200000",
+     "display": "pic.x.com/mzUAcV4glc",
+     "original": "https://t.co/mzUAcV4glc",
+     "replacement": "https://x.com/MansourSorosoro/status/1871393430623903868/photo/1"
+    },
+    {
+     "type": "media",
+     "indices": [
+      288,
+      311
+     ],
+     "id": "1871392395691999232",
+     "display": "pic.x.com/mzUAcV4glc",
+     "original": "https://t.co/mzUAcV4glc",
+     "replacement": "https://x.com/MansourSorosoro/status/1871393430623903868/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "MansourSorosoro",
+   "url": "https://x.com/MansourSorosoro",
+   "id": "1099354084245688321",
+   "followers": 4889,
+   "following": 688,
+   "likes": 9308,
+   "media_count": 1295,
+   "name": "TheMansour",
+   "description": "منصور. حساب شخصي.\nهواه العربية و تعديل الألعاب.\nمؤسس فريق @EternalDreamAR .\nEN/FR→AR Localization/Implementation Specialist ✍️👍\nContact: monta@translate.games",
+   "raw_description": {
+    "text": "منصور. حساب شخصي.\nهواه العربية و تعديل الألعاب.\nمؤسس فريق @EternalDreamAR .\nEN/FR→AR Localization/Implementation Specialist ✍️👍\nContact: monta@translate.games",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1099354084245688321/1682976154",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1883286833775136768/q3MvF_pp_200x200.jpg",
+   "joined": "Sat Feb 23 17:03:33 +0000 2019",
+   "protected": false,
+   "website": {
+    "url": "http://translate.games",
+    "display_url": "translate.games"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 1,
+  "retweets": 0,
+  "likes": 2,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Tue Dec 24 03:12:17 +0000 2024",
+  "created_timestamp": 1735009937,
+  "possibly_sensitive": false,
+  "views": 214,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": "MansourSorosoro",
+  "replying_to_status": "1871390935520837712",
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "1871391705523470338",
+     "url": "https://pbs.twimg.com/media/GfiE11NWwAIME33.png?name=orig",
+     "width": 654,
+     "height": 746
+    },
+    {
+     "type": "photo",
+     "id": "1871391941864128513",
+     "url": "https://pbs.twimg.com/media/GfiFDlpXAAEWYOx.png?name=orig",
+     "width": 663,
+     "height": 693
+    },
+    {
+     "type": "photo",
+     "id": "1871392013683200000",
+     "url": "https://pbs.twimg.com/media/GfiFHxMXEAAmb4Q.png?name=orig",
+     "width": 665,
+     "height": 500
+    },
+    {
+     "type": "photo",
+     "id": "1871392395691999232",
+     "url": "https://pbs.twimg.com/media/GfiFeASWwAA8ndr.png?name=orig",
+     "width": 664,
+     "height": 697
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "1871391705523470338",
+     "url": "https://pbs.twimg.com/media/GfiE11NWwAIME33.png?name=orig",
+     "width": 654,
+     "height": 746
+    },
+    {
+     "type": "photo",
+     "id": "1871391941864128513",
+     "url": "https://pbs.twimg.com/media/GfiFDlpXAAEWYOx.png?name=orig",
+     "width": 663,
+     "height": 693
+    },
+    {
+     "type": "photo",
+     "id": "1871392013683200000",
+     "url": "https://pbs.twimg.com/media/GfiFHxMXEAAmb4Q.png?name=orig",
+     "width": 665,
+     "height": 500
+    },
+    {
+     "type": "photo",
+     "id": "1871392395691999232",
+     "url": "https://pbs.twimg.com/media/GfiFeASWwAA8ndr.png?name=orig",
+     "width": 664,
+     "height": 697
+    }
+   ],
+   "mosaic": {
+    "type": "mosaic_photo",
+    "formats": {
+     "jpeg": "https://mosaic.fxtwitter.com/jpeg/1871393430623903868/GfiE11NWwAIME33/GfiFDlpXAAEWYOx/GfiFHxMXEAAmb4Q/GfiFeASWwAA8ndr",
+     "webp": "https://mosaic.fxtwitter.com/webp/1871393430623903868/GfiE11NWwAIME33/GfiFDlpXAAEWYOx/GfiFHxMXEAAmb4Q/GfiFeASWwAA8ndr"
+    }
+   }
+  },
+  "source": "Twitter Web App",
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

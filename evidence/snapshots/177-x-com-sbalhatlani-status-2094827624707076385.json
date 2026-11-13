@@ -1,0 +1,301 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/sbalhatlani/status/2094827624707076385",
+  "id": "2094827624707076385",
+  "text": "🚨يسعدنا الإعلان عن الإصدار العربي للعبة\n\n Castlevania: Symphony of the Night 🦇🌙\n\nتعريب شامل للواجهات والحوارات، مع دبلجة عربية مستوحاة من الأداء الياباني الأصلي، وتقديم بصري يليق بهذه التحفة الخالدة.\n\nبالتعاون بين @athbistudio  × @TersNetwork  🎮\n\n#Castlevania #تعريب_الألعاب",
+  "raw_text": {
+   "text": "🚨يسعدنا الإعلان عن الإصدار العربي للعبة\n\n Castlevania: Symphony of the Night 🦇🌙\n\nتعريب شامل للواجهات والحوارات، مع دبلجة عربية مستوحاة من الأداء الياباني الأصلي، وتقديم بصري يليق بهذه التحفة الخالدة.\n\nبالتعاون بين @athbistudio  × @TersNetwork  🎮\n\n#Castlevania #تعريب_الألعاب",
+   "display_text_range": [
+    0,
+    278
+   ],
+   "facets": [
+    {
+     "type": "bold",
+     "indices": [
+      118,
+      129
+     ]
+    },
+    {
+     "type": "mention",
+     "indices": [
+      214,
+      226
+     ],
+     "original": "athbistudio",
+     "id": "1294692795698089985"
+    },
+    {
+     "type": "mention",
+     "indices": [
+      230,
+      242
+     ],
+     "original": "TersNetwork",
+     "id": "1071071166780137477"
+    },
+    {
+     "type": "hashtag",
+     "indices": [
+      247,
+      259
+     ],
+     "original": "Castlevania"
+    },
+    {
+     "type": "hashtag",
+     "indices": [
+      260,
+      274
+     ],
+     "original": "تعريب_الألعاب"
+    },
+    {
+     "type": "media",
+     "indices": [
+      275,
+      298
+     ],
+     "id": "2094827099819220992",
+     "display": "pic.x.com/WrZIshO6xx",
+     "original": "https://t.co/WrZIshO6xx",
+     "replacement": "https://x.com/sbalhatlani/status/2094827624707076385/video/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "sbalhatlani",
+   "url": "https://x.com/sbalhatlani",
+   "id": "228391413",
+   "followers": 5883,
+   "following": 1897,
+   "likes": 5258,
+   "media_count": 1079,
+   "name": "ص",
+   "description": "🍓Digital NoMad\nFounder:\nhttp://Ters.co | http://WoWAR.co | http://WoWVo.co | https://Arabicsubs.com\n\nودك تدعمني ؟ إشترلي كوب☕️قهوة👇",
+   "raw_description": {
+    "text": "🍓Digital NoMad\nFounder:\nhttps://t.co/GsYA7SZ1Fx | https://t.co/S2IoNwCSM9 | https://t.co/JyJm4npcnr | https://t.co/4iqSjrtAPV\n\nودك تدعمني ؟ إشترلي كوب☕️قهوة👇",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       24,
+       47
+      ],
+      "original": "https://t.co/GsYA7SZ1Fx",
+      "replacement": "http://Ters.co",
+      "display": "Ters.co"
+     },
+     {
+      "type": "url",
+      "indices": [
+       50,
+       73
+      ],
+      "original": "https://t.co/S2IoNwCSM9",
+      "replacement": "http://WoWAR.co",
+      "display": "WoWAR.co"
+     },
+     {
+      "type": "url",
+      "indices": [
+       76,
+       99
+      ],
+      "original": "https://t.co/JyJm4npcnr",
+      "replacement": "http://WoWVo.co",
+      "display": "WoWVo.co"
+     },
+     {
+      "type": "url",
+      "indices": [
+       102,
+       125
+      ],
+      "original": "https://t.co/4iqSjrtAPV",
+      "replacement": "https://Arabicsubs.com",
+      "display": "Arabicsubs.com"
+     }
+    ]
+   },
+   "location": "Valley",
+   "banner_url": "https://pbs.twimg.com/profile_banners/228391413/1680793335",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1643992510665195522/BVihbbDm_200x200.jpg",
+   "joined": "Sun Dec 19 15:48:32 +0000 2010",
+   "protected": false,
+   "website": {
+    "url": "https://www.paypal.com/donate/?hosted_button_id=28JAWVUEW9PEJ",
+    "display_url": "paypal.com/donate/?hosted…"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 19,
+  "retweets": 61,
+  "likes": 505,
+  "bookmarks": 304,
+  "quotes": 4,
+  "created_at": "Tue Sep 01 16:40:00 +0000 2026",
+  "created_timestamp": 1788280800,
+  "possibly_sensitive": false,
+  "views": 55441,
+  "is_note_tweet": true,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "id": "2094827099819220992",
+     "url": "https://video.twimg.com/amplify_video/2094827099819220992/vid/avc1/1764x1326/a9rkLBvgoGNiQdr_.mp4?tag=29",
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2094827099819220992/img/ImShzMa0QGVF8ArT.jpg",
+     "duration": 479.168,
+     "width": 1764,
+     "height": 1326,
+     "format": "video/mp4",
+     "type": "video",
+     "formats": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2094827099819220992/pl/rloQE9f6npASS_L7.m3u8?tag=29&v=cfc",
+       "container": "m3u8"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2094827099819220992/vid/avc1/358x270/Zf3xDChpWjeGO-mn.mp4?tag=29",
+       "bitrate": 256000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2094827099819220992/vid/avc1/478x360/8uUOawQi7zzQZz_i.mp4?tag=29",
+       "bitrate": 832000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2094827099819220992/vid/avc1/956x720/e56cOH0QKgpoORVg.mp4?tag=29",
+       "bitrate": 2176000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2094827099819220992/vid/avc1/1764x1326/a9rkLBvgoGNiQdr_.mp4?tag=29",
+       "bitrate": 10368000,
+       "container": "mp4",
+       "codec": "h264"
+      }
+     ],
+     "publisher": null,
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2094827099819220992/pl/rloQE9f6npASS_L7.m3u8?tag=29&v=cfc",
+       "bitrate": 0,
+       "content_type": "application/x-mpegURL"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2094827099819220992/vid/avc1/358x270/Zf3xDChpWjeGO-mn.mp4?tag=29",
+       "bitrate": 256000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2094827099819220992/vid/avc1/478x360/8uUOawQi7zzQZz_i.mp4?tag=29",
+       "bitrate": 832000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2094827099819220992/vid/avc1/956x720/e56cOH0QKgpoORVg.mp4?tag=29",
+       "bitrate": 2176000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2094827099819220992/vid/avc1/1764x1326/a9rkLBvgoGNiQdr_.mp4?tag=29",
+       "bitrate": 10368000,
+       "content_type": "video/mp4"
+      }
+     ]
+    }
+   ],
+   "videos": [
+    {
+     "id": "2094827099819220992",
+     "url": "https://video.twimg.com/amplify_video/2094827099819220992/vid/avc1/1764x1326/a9rkLBvgoGNiQdr_.mp4?tag=29",
+     "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2094827099819220992/img/ImShzMa0QGVF8ArT.jpg",
+     "duration": 479.168,
+     "width": 1764,
+     "height": 1326,
+     "format": "video/mp4",
+     "type": "video",
+     "formats": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2094827099819220992/pl/rloQE9f6npASS_L7.m3u8?tag=29&v=cfc",
+       "container": "m3u8"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2094827099819220992/vid/avc1/358x270/Zf3xDChpWjeGO-mn.mp4?tag=29",
+       "bitrate": 256000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2094827099819220992/vid/avc1/478x360/8uUOawQi7zzQZz_i.mp4?tag=29",
+       "bitrate": 832000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2094827099819220992/vid/avc1/956x720/e56cOH0QKgpoORVg.mp4?tag=29",
+       "bitrate": 2176000,
+       "container": "mp4",
+       "codec": "h264"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2094827099819220992/vid/avc1/1764x1326/a9rkLBvgoGNiQdr_.mp4?tag=29",
+       "bitrate": 10368000,
+       "container": "mp4",
+       "codec": "h264"
+      }
+     ],
+     "publisher": null,
+     "variants": [
+      {
+       "url": "https://video.twimg.com/amplify_video/2094827099819220992/pl/rloQE9f6npASS_L7.m3u8?tag=29&v=cfc",
+       "bitrate": 0,
+       "content_type": "application/x-mpegURL"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2094827099819220992/vid/avc1/358x270/Zf3xDChpWjeGO-mn.mp4?tag=29",
+       "bitrate": 256000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2094827099819220992/vid/avc1/478x360/8uUOawQi7zzQZz_i.mp4?tag=29",
+       "bitrate": 832000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2094827099819220992/vid/avc1/956x720/e56cOH0QKgpoORVg.mp4?tag=29",
+       "bitrate": 2176000,
+       "content_type": "video/mp4"
+      },
+      {
+       "url": "https://video.twimg.com/amplify_video/2094827099819220992/vid/avc1/1764x1326/a9rkLBvgoGNiQdr_.mp4?tag=29",
+       "bitrate": 10368000,
+       "content_type": "video/mp4"
+      }
+     ]
+    }
+   ]
+  },
+  "twitter_card": "player",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

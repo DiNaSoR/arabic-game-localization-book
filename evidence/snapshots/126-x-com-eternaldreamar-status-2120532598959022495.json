@@ -1,0 +1,200 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/EternalDreamAR/status/2120532598959022495",
+  "id": "2120532598959022495",
+  "text": "أعزائنا المتابعين، تعريباتنا وتعريبات غيرنا (سواء بشرية أم آلية) صارت ثلة من اللصوص تنشرها أنها \"تعريب جديد\" أو \"تحديثات\" لتعريبات آلية رديئة سابقة\n\nهؤلاء يطلبون المال مقابلها،\nأو يطلبون منكم تشغيل الأونلاين ويعدونكم أنكم لن تحظروا،\nويقرون أنها سرقة فقط ليلوموا غيرهم إن حصل مشكل.",
+  "raw_text": {
+   "text": "أعزائنا المتابعين، تعريباتنا وتعريبات غيرنا (سواء بشرية أم آلية) صارت ثلة من اللصوص تنشرها أنها \"تعريب جديد\" أو \"تحديثات\" لتعريبات آلية رديئة سابقة\n\nهؤلاء يطلبون المال مقابلها،\nأو يطلبون منكم تشغيل الأونلاين ويعدونكم أنكم لن تحظروا،\nويقرون أنها سرقة فقط ليلوموا غيرهم إن حصل مشكل. https://t.co/fr4I21dp2F",
+   "display_text_range": [
+    0,
+    280
+   ],
+   "facets": [
+    {
+     "type": "media",
+     "indices": [
+      281,
+      304
+     ],
+     "id": "2120525855709380608",
+     "display": "pic.x.com/fr4I21dp2F",
+     "original": "https://t.co/fr4I21dp2F",
+     "replacement": "https://x.com/EternalDreamAR/status/2120532598959022495/photo/1"
+    },
+    {
+     "type": "media",
+     "indices": [
+      281,
+      304
+     ],
+     "id": "2120526288251232256",
+     "display": "pic.x.com/fr4I21dp2F",
+     "original": "https://t.co/fr4I21dp2F",
+     "replacement": "https://x.com/EternalDreamAR/status/2120532598959022495/photo/1"
+    },
+    {
+     "type": "media",
+     "indices": [
+      281,
+      304
+     ],
+     "id": "2120526323416248321",
+     "display": "pic.x.com/fr4I21dp2F",
+     "original": "https://t.co/fr4I21dp2F",
+     "replacement": "https://x.com/EternalDreamAR/status/2120532598959022495/photo/1"
+    },
+    {
+     "type": "media",
+     "indices": [
+      281,
+      304
+     ],
+     "id": "2120531687801073664",
+     "display": "pic.x.com/fr4I21dp2F",
+     "original": "https://t.co/fr4I21dp2F",
+     "replacement": "https://x.com/EternalDreamAR/status/2120532598959022495/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "EternalDreamAR",
+   "url": "https://x.com/EternalDreamAR",
+   "id": "3677595257",
+   "followers": 28211,
+   "following": 62,
+   "likes": 1397,
+   "media_count": 275,
+   "name": "الحلم المتجدد للتعريب ✨",
+   "description": "الفريق الأول في تعريب الألعاب ✨\n\nترجماتنا الهاوية: https://www.etrdream.com/\nترجماتنا الرسمية: https://www.translate.games",
+   "raw_description": {
+    "text": "الفريق الأول في تعريب الألعاب ✨\n\nترجماتنا الهاوية: https://t.co/kDC9sin7Sl\nترجماتنا الرسمية: https://t.co/Ud06RqTvma",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       51,
+       74
+      ],
+      "original": "https://t.co/kDC9sin7Sl",
+      "replacement": "https://www.etrdream.com/",
+      "display": "etrdream.com"
+     },
+     {
+      "type": "url",
+      "indices": [
+       93,
+       116
+      ],
+      "original": "https://t.co/Ud06RqTvma",
+      "replacement": "https://www.translate.games",
+      "display": "translate.games"
+     }
+    ]
+   },
+   "location": "hi@translate.games",
+   "banner_url": "https://pbs.twimg.com/profile_banners/3677595257/1724578205",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1688611155625795585/YV4uq_sb_200x200.jpg",
+   "joined": "Wed Sep 16 18:49:01 +0000 2015",
+   "protected": false,
+   "website": {
+    "url": "https://www.etrdream.com/",
+    "display_url": "etrdream.com"
+   },
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 24,
+  "retweets": 40,
+  "likes": 415,
+  "bookmarks": 144,
+  "quotes": 11,
+  "created_at": "Wed Nov 11 15:02:23 +0000 2026",
+  "created_timestamp": 1794409343,
+  "possibly_sensitive": false,
+  "views": 43397,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "2120525855709380608",
+     "url": "https://pbs.twimg.com/media/HW2fB96WwAAIk2K.jpg?name=orig",
+     "width": 1200,
+     "height": 675
+    },
+    {
+     "type": "photo",
+     "id": "2120526288251232256",
+     "url": "https://pbs.twimg.com/media/HW2fbJQXoAAVrdu.jpg?name=orig",
+     "width": 1200,
+     "height": 675
+    },
+    {
+     "type": "photo",
+     "id": "2120526323416248321",
+     "url": "https://pbs.twimg.com/media/HW2fdMQXMAECc40.jpg?name=orig",
+     "width": 1200,
+     "height": 675
+    },
+    {
+     "type": "photo",
+     "id": "2120531687801073664",
+     "url": "https://pbs.twimg.com/media/HW2kVcJXsAApvkP.jpg?name=orig",
+     "width": 1200,
+     "height": 675
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "2120525855709380608",
+     "url": "https://pbs.twimg.com/media/HW2fB96WwAAIk2K.jpg?name=orig",
+     "width": 1200,
+     "height": 675
+    },
+    {
+     "type": "photo",
+     "id": "2120526288251232256",
+     "url": "https://pbs.twimg.com/media/HW2fbJQXoAAVrdu.jpg?name=orig",
+     "width": 1200,
+     "height": 675
+    },
+    {
+     "type": "photo",
+     "id": "2120526323416248321",
+     "url": "https://pbs.twimg.com/media/HW2fdMQXMAECc40.jpg?name=orig",
+     "width": 1200,
+     "height": 675
+    },
+    {
+     "type": "photo",
+     "id": "2120531687801073664",
+     "url": "https://pbs.twimg.com/media/HW2kVcJXsAApvkP.jpg?name=orig",
+     "width": 1200,
+     "height": 675
+    }
+   ],
+   "mosaic": {
+    "type": "mosaic_photo",
+    "formats": {
+     "jpeg": "https://mosaic.fxtwitter.com/jpeg/2120532598959022495/HW2fB96WwAAIk2K/HW2fbJQXoAAVrdu/HW2fdMQXMAECc40/HW2kVcJXsAApvkP",
+     "webp": "https://mosaic.fxtwitter.com/webp/2120532598959022495/HW2fB96WwAAIk2K/HW2fbJQXoAAVrdu/HW2fdMQXMAECc40/HW2kVcJXsAApvkP"
+    }
+   }
+  },
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

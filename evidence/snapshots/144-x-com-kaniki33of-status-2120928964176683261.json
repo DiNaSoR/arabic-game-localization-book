@@ -1,0 +1,71 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/Kaniki33of/status/2120928964176683261",
+  "id": "2120928964176683261",
+  "text": "@MansourSorosoro أنا متفق معك 100% في مبدأ رفض السرقة والاستنكار التام لها\n\nأخذ ترجمة جهد فريق بشري حرفيا ونسخها ونسبها لنفسك أو بيعها بمقابل مادي أو استخدامها بغطاء رخيص لتسويق عمل تجاري هو سرقة موصوفة وغش بشري قبيح\n\n لا أنا ولا أي عاقل يدافع عن هذا السلوك سواء غلفه صاحبه بشعار الذكاء الاصطناعي",
+  "raw_text": {
+   "text": "@MansourSorosoro أنا متفق معك 100% في مبدأ رفض السرقة والاستنكار التام لها\n\nأخذ ترجمة جهد فريق بشري حرفيا ونسخها ونسبها لنفسك أو بيعها بمقابل مادي أو استخدامها بغطاء رخيص لتسويق عمل تجاري هو سرقة موصوفة وغش بشري قبيح\n\n لا أنا ولا أي عاقل يدافع عن هذا السلوك سواء غلفه صاحبه بشعار الذكاء الاصطناعي",
+   "display_text_range": [
+    17,
+    296
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      16
+     ],
+     "original": "MansourSorosoro",
+     "id": "1099354084245688321"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "Kaniki33of",
+   "url": "https://x.com/Kaniki33of",
+   "id": "1627706681650995200",
+   "followers": 1004,
+   "following": 271,
+   "likes": 25863,
+   "media_count": 4299,
+   "name": "Kaneki33of",
+   "description": "متذوق للخيال بأقصى حد 🌊 | مدريدي الانتماء #real_madrid 🤍 | متيم بالتحفة الخالدة #Fate | وقمة المانهوا #Orv | حسابي الآخر للاخبار: @ORV_AR",
+   "raw_description": {
+    "text": "متذوق للخيال بأقصى حد 🌊 | مدريدي الانتماء #real_madrid 🤍 | متيم بالتحفة الخالدة #Fate | وقمة المانهوا #Orv | حسابي الآخر للاخبار: @ORV_AR",
+    "facets": []
+   },
+   "location": "Epoch 3",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1627706681650995200/1789232591",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2112824714338902016/MovV4JpL_200x200.jpg",
+   "joined": "Mon Feb 20 16:28:23 +0000 2023",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 2,
+  "retweets": 0,
+  "likes": 1,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Thu Nov 12 17:17:24 +0000 2026",
+  "created_timestamp": 1794503844,
+  "views": 75,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": "MansourSorosoro",
+  "replying_to_status": "2120924477609386045",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

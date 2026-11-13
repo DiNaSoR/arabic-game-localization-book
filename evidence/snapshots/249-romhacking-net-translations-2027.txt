@@ -1,0 +1,169 @@
+URL: https://www.romhacking.net/translations/2027/
+Archived copy: https://web.archive.org/web/20240305233859/https://www.romhacking.net/translations/2027/
+
+Home Forum Sections Community Submissions Changes Search Help   
+
+
+Sections
+Home
+Documents
+Utilities
+Translations
+ROM Hacks
+Games
+Homebrew
+Fonts
+Abandoned
+News Archive
+Community
+Forum
+Wiki
+History
+Chat
+Community Database
+Links
+Submissions
+Submit Files
+Submit News
+Queue Status
+Public Maintenance
+The Scratchpad
+Online ROM Patcher
+Online ROM Hasher
+Help
+About this Site
+Getting Started
+RHDN Policy
+Dictionary
+FAQ
+Contact Staff
+Newest Hacks
+ 
+Asteroids LDX
+Improvement | GB
+Bomberman Hero - Bonus unlocked
+Improvement | N64
+DOOMSDAY 2: Day of Disaster
+Complete | SNES
+Dragon Ball Super - Divin
+Complete | SNES
+See More Hacks...
+Newest Translations
+ 
+Ys IV: Mask of the Sun
+Spanish | Fully Playable | SNES
+Adventure Island
+Turkish | Fully Playable | NES
+Seiryaku Simulation - Inbou no Wakusei: Shancara
+English | Fully Playable | NES
+Mega Man III
+Portuguese | Fully Playable | GB
+See More Translations...
+Newest Reviews
+ 
+Worth It
+Hacks | The Addams Family - Afterlife Edition
+My Little Pony: Dr. Discord's Conquest - GOOD
+Hacks | My Little Pony: Dr. Discord's Conquest
+Mega Man C4 - BAD
+Hacks | Mega Man C4
+Makes Asteroids actually look like Asteroids!
+Hacks | Asteroids LDX
+See More Reviews...
+Featured Hack Images
+ 
+Secret of Mana 2 Titlescreen Patch
+Improvement | SNES
+Mega Man Ultra
+Complete | NES
+Featured Translation Images
+ 
+Ys III: Wanderers from Ys
+English | Fully Playable | NES
+Dai Kaijuu Deburas
+English | Unfinished | NES
+Recent Forum Posts
+Suikoden - The Last Hope (PSX Patch)
+Personal Projects
+Today at 09:42:13 AM
+Final Fantasy IV Advance: Visual Improvement Hack
+Personal Projects
+Today at 09:28:26 AM
+NES Metroid HD Pack
+Personal Projects
+Today at 09:05:47 AM
+List of Co-op / Multiplayer hacks
+ROM Hacking Discussion
+Today at 08:38:11 AM
+See More Forum Topics...
+Recent Updates
+Championship Lode Runner
+Games
+Better quality title screen
+AmbiguouslyAnonymous
+Community
+Forum Name added
+Javier CRT
+Community
+Forum Name added
+Dirty deeds are done dirt cheap... on Shancara!
+News
+Fixing spelling errors
+See More Changes...
+The Legend of Zelda: Link's Awakening DX
+Game Boy
+Translation Information
+The Legend of Zelda: Link's Awakening DX
+Zelda no Densetsu: Yume o Miru Shima DX
+
+Released By	megamanz
+Language	Arabic
+Status	Fully Playable
+Platform	Game Boy
+License	N/A
+Patching Information	No Special Requirements
+Genre	Action Adventure
+Published By	Nintendo
+Game Date	12 December 1998
+Patch Version	1.0
+Release Date	31 July 2013
+Readme	Readme File
+Downloads	847
+Last Modified	04 August 2013
+EDIT TRANSLATION ENTRY
+EDIT GAME ENTRY
+EDIT CREDITS
+FLAG AS NONCOMPLIANT
+ Share  Tweet
+Game Description:
+
+This is a Game Boy Color porting of The Legend of Zelda: Link’s Awakening for the Game Boy, with full color and some additional content not present in the original game.
+
+Translation Description:
+
+I present to you the second Legend of Zelda translated in Arabic in the world after Minish Cap. This translation making my celebrity like an Arabic game translator. This game is: Legend of Zelda, The - Link’s Awakening DX
+
+ROM / ISO Information:
+Original rom: Legend of Zelda, The - Link's Awakening DX (F)
+CRC32: F48824FE
+MD5: 1043FD167D0ED9C4094E3C9D8E757F1E
+SHA-1: 9A679E30B03E119A21AE7DAAC65E73E0EF4E0894
+Links:
+News Articles for this Translation
+Readme File
+Download
+Screenshots:
+
+
+Credits:
+Credits
+Contributor	Type of contribution	Listed credit
+megamanz	Hacking	Full Hacking & Translation into Arabic
+User Review Information
+No User Reviews!
+ADD REVIEW
+﻿﻿
+©2005-2024 RHDN 3.0.0 by Nightcrawler. All Rights Reserved.
+Execution time - 0.0159 sec. - Number of Queries: 4
+About Us | RHDN Policy | HTML5 | CSS
+  

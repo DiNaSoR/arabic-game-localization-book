@@ -1,0 +1,995 @@
+<!DOCTYPE html><html lang="ar" style="--wm-toolbar-height: 67px;"><head><script src="https://web-static.archive.org/_static/js/athena.js" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app249.us.archive.org';v.server_ms=811;archive_analytics.send_pageview({});});</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=3grhEDQT" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=o9P2E1FK" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://ters.co/","20260402022758","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1775096878");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3">
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv">
+<!-- End Wayback Rewrite JS Include -->
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Western Dinosaur Game</title>
+    <link href="https://web.archive.org/web/20260402022758cs_/https://fonts.googleapis.com/css2?family=Lalezar&amp;display=swap" rel="stylesheet">
+    <link href="https://web.archive.org/web/20260402022758cs_/https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2&amp;display=swap" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f7f7f7;
+            font-family: 'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', Arial, sans-serif;
+            flex-direction: column;
+            padding: 10px;
+            box-sizing: border-box;
+        }
+
+        .title {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            font-family: 'Lalezar', cursive, Arial, sans-serif;
+        }
+
+        .game-container {
+            position: relative;
+            width: 100%;
+            max-width: 600px;
+            height: 200px;
+            border: 2px solid #000;
+            overflow: hidden;
+            background: linear-gradient(180deg, #87CEEB 0%, #E0F6FF 100%);
+            border-radius: 10px;
+            transition: all 5s ease;
+        }
+
+        .game-container.night {
+            background: linear-gradient(180deg, #1a1a2e 0%, #16213e 100%);
+        }
+
+        .mountains {
+            position: absolute;
+            bottom: 19px;
+            width: 200%;
+            height: 60px;
+            background: repeating-linear-gradient(
+                170deg,
+                #8B4513 0px,
+                #8B4513 20px,
+                #654321 20px,
+                #654321 40px
+            );
+            opacity: 0.5;
+            z-index: 1;
+            animation: moveMountains 20s linear infinite;
+            clip-path: polygon(
+                0% 100%,
+                2.5% 80%,
+                5% 90%,
+                7.5% 70%,
+                10% 85%,
+                12.5% 65%,
+                15% 90%,
+                17.5% 75%,
+                20% 85%,
+                22.5% 60%,
+                25% 80%,
+                27.5% 65%,
+                30% 90%,
+                32.5% 70%,
+                35% 85%,
+                37.5% 65%,
+                40% 80%,
+                42.5% 70%,
+                45% 85%,
+                47.5% 75%,
+                50% 90%,
+                52.5% 80%,
+                55% 90%,
+                57.5% 70%,
+                60% 85%,
+                62.5% 65%,
+                65% 90%,
+                67.5% 75%,
+                70% 85%,
+                72.5% 60%,
+                75% 80%,
+                77.5% 65%,
+                80% 90%,
+                82.5% 70%,
+                85% 85%,
+                87.5% 65%,
+                90% 80%,
+                92.5% 70%,
+                95% 85%,
+                97.5% 75%,
+                100% 90%,
+                100% 100%
+            );
+        }
+
+        .mountains-back {
+            position: absolute;
+            bottom: 19px;
+            width: 200%;
+            height: 40px;
+            background: repeating-linear-gradient(
+                170deg,
+                #654321 0px,
+                #654321 20px,
+                #3d2813 20px,
+                #3d2813 40px
+            );
+            opacity: 0.3;
+            z-index: 1;
+            animation: moveMountainsBack 30s linear infinite;
+            clip-path: polygon(
+                0% 100%,
+                2.5% 70%,
+                5% 85%,
+                7.5% 65%,
+                10% 80%,
+                12.5% 60%,
+                15% 85%,
+                17.5% 70%,
+                20% 80%,
+                22.5% 55%,
+                25% 75%,
+                27.5% 60%,
+                30% 85%,
+                32.5% 65%,
+                35% 80%,
+                37.5% 60%,
+                40% 75%,
+                42.5% 65%,
+                45% 80%,
+                47.5% 70%,
+                50% 85%,
+                52.5% 70%,
+                55% 85%,
+                57.5% 65%,
+                60% 80%,
+                62.5% 60%,
+                65% 85%,
+                67.5% 70%,
+                70% 80%,
+                72.5% 55%,
+                75% 75%,
+                77.5% 60%,
+                80% 85%,
+                82.5% 65%,
+                85% 80%,
+                87.5% 60%,
+                90% 75%,
+                92.5% 65%,
+                95% 80%,
+                97.5% 70%,
+                100% 85%,
+                100% 100%
+            );
+        }
+
+        .sun-rays {
+            position: absolute;
+            top: -50px;
+            right: 10px;
+            width: 120px;
+            height: 120px;
+            background: radial-gradient(circle at center, rgba(255, 255, 190, 0.4) 0%, transparent 70%);
+            animation: sunGlow 3s infinite alternate;
+            z-index: 0;
+            transition: opacity 3s ease;
+        }
+
+        .sun-rays.fade {
+            opacity: 0;
+        }
+
+        .cactus-bg {
+            position: absolute;
+            bottom: 19px;
+            font-size: 25px;
+            opacity: 0.3;
+            z-index: 1;
+        }
+
+        .cactus-bg-1 { 
+            position: absolute;
+            bottom: 19px;
+            right: -50px;
+            animation: moveBgCactus 35s linear infinite;
+        }
+        
+        .cactus-bg-2 { 
+            position: absolute;
+            bottom: 19px;
+            right: -50px;
+            animation: moveBgCactus 35s linear infinite;
+            animation-delay: -12s;
+        }
+        
+        .cactus-bg-3 { 
+            position: absolute;
+            bottom: 19px;
+            right: -50px;
+            animation: moveBgCactus 35s linear infinite;
+            animation-delay: -24s;
+        }
+
+        @keyframes moveBgCactus {
+            0% {
+                transform: translateX(0);
+                opacity: 1;
+            }
+            100% {
+                transform: translateX(-800px);
+                opacity: 1;
+            }
+        }
+
+        .sun {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            font-size: 50px;
+            transition: transform 3s ease, opacity 3s ease;
+            transform-origin: center;
+        }
+
+        .sun.setting {
+            transform: translateY(250px) scale(0.8);
+            opacity: 0;
+        }
+
+        .moon {
+            position: absolute;
+            top: 250px;
+            right: 10px;
+            font-size: 50px;
+            display: block;
+            opacity: 0;
+            z-index: 2;
+            transition: transform 3s ease, opacity 3s ease;
+        }
+
+        .moon.rising {
+            transform: translateY(-240px);
+            opacity: 1 !important;
+        }
+
+        .cloud {
+            position: absolute;
+            font-size: 50px;
+        }
+
+        .cloud-back {
+            top: 20px;
+            right: -100px;
+            font-size: 45px;
+            opacity: 0.5;
+            animation: moveCloudBack 35s linear infinite;
+        }
+
+        .cloud-mid {
+            top: 45px;
+            right: -100px;
+            font-size: 55px;
+            opacity: 0.7;
+            animation: moveCloudMid 25s linear infinite;
+        }
+
+        .cloud-front {
+            top: 30px;
+            right: -100px;
+            font-size: 65px;
+            animation: moveCloudFront 18s linear infinite;
+        }
+
+        .score {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        .info {
+            margin-top: 20px;
+            padding: 15px;
+            border: 2px solid #000;
+            background-color: #fff;
+            font-family: 'Baloo Bhaijaan 2', cursive, Arial, sans-serif;
+            text-align: center;
+            line-height: 1.8;
+            direction: rtl;
+            width: 100%;
+            max-width: 605px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            box-sizing: border-box;
+        }
+
+        .info a {
+            color: #007BFF;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .info a:hover {
+            text-decoration: underline;
+        }
+
+        @keyframes moveCactus {
+            0% {
+                left: 100%;
+            }
+            100% {
+                left: -10%;
+            }
+        }
+
+        @keyframes moveCloudBack {
+            0% {
+                right: -100px;
+            }
+            100% {
+                right: 700px;
+            }
+        }
+
+        @keyframes moveCloudMid {
+            0% {
+                right: -100px;
+            }
+            100% {
+                right: 700px;
+            }
+        }
+
+        @keyframes moveCloudFront {
+            0% {
+                right: -100px;
+            }
+            100% {
+                right: 700px;
+            }
+        }
+
+        @keyframes moveMountains {
+            0% {
+                transform: translateX(0);
+            }
+            100% {
+                transform: translateX(-50%);
+            }
+        }
+
+        @keyframes moveMountainsBack {
+            0% {
+                transform: translateX(0);
+            }
+            100% {
+                transform: translateX(-50%);
+            }
+        }
+
+        @media (max-width: 768px) {
+            .title {
+                font-size: 20px;
+            }
+            .game-container {
+                height: 200px;
+            }
+            .dino, .cactus, .sun, .cloud {
+                font-size: 30px;
+            }
+            .sun {
+                font-size: 40px;
+            }
+            .cloud {
+                font-size: 40px;
+            }
+            .score {
+                font-size: 20px;
+            }
+            .info {
+                font-size: 18px;
+                padding: 10px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .title {
+                font-size: 32px;
+            }
+            .game-container {
+                height: 200px;
+            }
+            .dino, .cactus, .sun, .cloud {
+                font-size: 25px;
+            }
+            .sun {
+                font-size: 35px;
+            }
+            .cloud {
+                font-size: 35px;
+            }
+            .score {
+                font-size: 20px;
+            }
+            .info {
+                font-size: 16px;
+                padding: 8px;
+            }
+        }
+
+        .game-over {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+            background: rgba(255, 255, 255, 0.9);
+            padding: 20px;
+            border-radius: 10px;
+            display: none;
+            z-index: 1000;
+        }
+
+        .game-over h2 {
+            margin: 0 0 10px 0;
+            font-family: 'Lalezar', cursive;
+        }
+
+        .game-over button {
+            background: #007BFF;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-family: 'Baloo Bhaijaan 2';
+            margin-top: 10px;
+        }
+
+        .game-over button:hover {
+            background: #0056b3;
+        }
+
+        .high-score {
+            position: absolute;
+            top: 10px;
+            right: 100px;
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        .start-screen {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+            background: rgba(255, 255, 255, 0.9);
+            padding: 20px;
+            border-radius: 10px;
+            z-index: 1000;
+        }
+
+        @keyframes shake {
+            0%, 100% { transform: translateX(0); }
+            25% { transform: translateX(-5px); }
+            75% { transform: translateX(5px); }
+        }
+
+        .shake {
+            animation: shake 0.2s ease-in-out;
+        }
+
+        @keyframes sunGlow {
+            from { transform: scale(1); opacity: 0.4; }
+            to { transform: scale(1.2); opacity: 0.6; }
+        }
+
+        .ground {
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            height: 20px;
+            background: linear-gradient(to bottom, #8B4513, #654321);
+            z-index: 1;
+        }
+
+        .ground::before {
+            position: absolute;
+            top: -2px;
+            width: 100%;
+            height: 4px;
+            background: repeating-linear-gradient(
+                90deg,
+                #3d2813 0px,
+                #3d2813 6px,
+                #8B4513 6px,
+                #8B4513 12px
+            );
+        }
+
+        .dino, .cactus, .sun, .cloud {
+            position: absolute;
+            font-size: 40px;
+        }
+
+        .dino {
+            bottom: 0;
+            left: 50px;
+            transform: scaleX(-1);
+            z-index: 2;
+            font-size: 40px;
+        }
+
+        .cactus {
+            position: absolute;
+            bottom: 0;
+            left: 100%;
+            z-index: 2;
+            font-size: 35px;
+            transform: translateY(5px);
+            animation: moveCactus 2s linear infinite;
+        }
+
+        .tumbleweed {
+            position: absolute;
+            bottom: 5px;
+            right: -50px;
+            width: 40px;
+            height: 40px;
+            z-index: 2;
+            display: none;
+            animation: moveTumbleweed 4s linear;
+        }
+
+        @keyframes moveTumbleweed {
+            0% {
+                right: -50px;
+                transform: rotate(0deg) translateY(0);
+            }
+            20% {
+                transform: rotate(144deg) translateY(-40px);
+            }
+            40% {
+                transform: rotate(288deg) translateY(0);
+            }
+            60% {
+                transform: rotate(432deg) translateY(-30px);
+            }
+            80% {
+                transform: rotate(576deg) translateY(0);
+            }
+            100% {
+                right: 100%;
+                transform: rotate(720deg) translateY(-20px);
+            }
+        }
+
+        .stars {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            opacity: 0;
+            z-index: 0;
+            transition: opacity 5s ease;
+        }
+
+        .stars.visible {
+            opacity: 1;
+        }
+
+        .star {
+            position: absolute;
+            background: white;
+            border-radius: 50%;
+            box-shadow: 0 0 3px #fff, 0 0 5px #fff;
+            animation: twinkle 1.5s infinite alternate;
+        }
+
+        @keyframes twinkle {
+            0% { 
+                opacity: 1;
+                transform: scale(1);
+            }
+            50% {
+                opacity: 0.3;
+                transform: scale(0.8);
+            }
+            100% { 
+                opacity: 1;
+                transform: scale(1.1);
+            }
+        }
+
+        .star.big {
+            width: 3px !important;
+            height: 3px !important;
+            box-shadow: 0 0 4px #fff, 0 0 6px #fff, 0 0 8px #fff;
+        }
+
+        .star.medium {
+            width: 2px !important;
+            height: 2px !important;
+            box-shadow: 0 0 3px #fff, 0 0 5px #fff;
+        }
+
+        .score, .high-score {
+            position: absolute;
+            top: 10px;
+            font-size: 20px;
+            font-weight: bold;
+            transition: color 3s ease;
+        }
+
+        .score {
+            left: 10px;
+        }
+
+        .high-score {
+            right: 100px;
+        }
+
+        .game-container.night .score,
+        .game-container.night .high-score {
+            color: white;
+        }
+
+        @keyframes skyTransition {
+            0% {
+                background: linear-gradient(180deg, #87CEEB 0%, #E0F6FF 100%);
+            }
+            30% {
+                background: linear-gradient(180deg, #FF9A8B 0%, #FF6B6B 100%);
+            }
+            60% {
+                background: linear-gradient(180deg, #4B0082 0%, #2C3E50 100%);
+            }
+            100% {
+                background: linear-gradient(180deg, #1a1a2e 0%, #16213e 100%);
+            }
+        }
+
+        .game-container.night-transition {
+            animation: skyTransition 5s forwards;
+        }
+    </style>
+</head>
+<body><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script>__wm.rw(0);</script>
+<div id="wm-ipp-base" lang="en" style="display: block; direction: ltr; height: 67px;" toolbar-mode="auto">
+</div><div id="wm-ipp-print">The Wayback Machine - https://web.archive.org/web/20260402022758/https://ters.co/</div>
+<script type="text/javascript">//<![CDATA[
+__wm.bt(775,27,25,2,"web","https://ters.co/","20260402022758",1996,"https://web-static.archive.org/_static/",["https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3","https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv"], false);
+  __wm.rw(1);
+//]]></script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+ 
+    <div class="game-container">
+        <audio id="bgMusic" preload="auto" loop="">
+            <source src="/web/20260402022758im_/https://ters.co/bg.mp3" type="audio/mpeg">
+        </audio>
+        <div class="stars" id="stars"><div class="star medium" style="left: 72.999%; top: 59.1942%; width: 1.86648px; height: 1.86648px; animation-delay: 1.53501s;"></div><div class="star medium" style="left: 47.8468%; top: 30.9113%; width: 1.87064px; height: 1.87064px; animation-delay: 0.209431s;"></div><div class="star" style="left: 31.0022%; top: 51.0054%; width: 1.7323px; height: 1.7323px; animation-delay: 1.58705s;"></div><div class="star medium" style="left: 44.9961%; top: 21.174%; width: 2.27247px; height: 2.27247px; animation-delay: 1.67402s;"></div><div class="star" style="left: 75.3224%; top: 66.0778%; width: 1.12694px; height: 1.12694px; animation-delay: 1.06913s;"></div><div class="star" style="left: 14.8821%; top: 27.7846%; width: 2.96854px; height: 2.96854px; animation-delay: 1.85261s;"></div><div class="star medium" style="left: 75.0952%; top: 56.8807%; width: 1.06272px; height: 1.06272px; animation-delay: 1.80841s;"></div><div class="star" style="left: 63.6776%; top: 60.249%; width: 2.15639px; height: 2.15639px; animation-delay: 1.97975s;"></div><div class="star" style="left: 29.0861%; top: 35.5128%; width: 2.70015px; height: 2.70015px; animation-delay: 1.55798s;"></div><div class="star medium" style="left: 71.6294%; top: 32.1475%; width: 2.4039px; height: 2.4039px; animation-delay: 0.104835s;"></div><div class="star medium" style="left: 21.2457%; top: 19.2581%; width: 1.12565px; height: 1.12565px; animation-delay: 1.10796s;"></div><div class="star big" style="left: 81.9474%; top: 10.0235%; width: 1.0938px; height: 1.0938px; animation-delay: 0.869839s;"></div><div class="star" style="left: 42.9321%; top: 22.8079%; width: 2.46267px; height: 2.46267px; animation-delay: 0.729964s;"></div><div class="star big" style="left: 56.3602%; top: 18.9385%; width: 2.2014px; height: 2.2014px; animation-delay: 0.620439s;"></div><div class="star medium" style="left: 81.7996%; top: 27.1499%; width: 2.31615px; height: 2.31615px; animation-delay: 1.95484s;"></div><div class="star" style="left: 97.3367%; top: 34.6951%; width: 1.4057px; height: 1.4057px; animation-delay: 1.85046s;"></div><div class="star medium" style="left: 77.3543%; top: 65.1236%; width: 1.55029px; height: 1.55029px; animation-delay: 0.683839s;"></div><div class="star" style="left: 36.9757%; top: 22.7254%; width: 2.53387px; height: 2.53387px; animation-delay: 0.979664s;"></div><div class="star" style="left: 43.1764%; top: 3.64253%; width: 1.39966px; height: 1.39966px; animation-delay: 1.633s;"></div><div class="star" style="left: 92.5613%; top: 23.6466%; width: 1.339px; height: 1.339px; animation-delay: 1.46483s;"></div><div class="star" style="left: 55.8093%; top: 2.58329%; width: 1.91363px; height: 1.91363px; animation-delay: 0.110965s;"></div><div class="star" style="left: 88.7847%; top: 5.48345%; width: 2.61121px; height: 2.61121px; animation-delay: 0.244239s;"></div><div class="star" style="left: 10.3146%; top: 40.3409%; width: 1.73419px; height: 1.73419px; animation-delay: 1.13008s;"></div><div class="star medium" style="left: 46.6337%; top: 42.5569%; width: 2.62209px; height: 2.62209px; animation-delay: 1.51541s;"></div><div class="star medium" style="left: 42.4949%; top: 46.0512%; width: 1.20701px; height: 1.20701px; animation-delay: 1.85085s;"></div><div class="star medium" style="left: 38.9476%; top: 51.0399%; width: 2.90253px; height: 2.90253px; animation-delay: 1.84626s;"></div><div class="star" style="left: 17.7821%; top: 8.47964%; width: 2.82593px; height: 2.82593px; animation-delay: 1.35968s;"></div><div class="star" style="left: 12.6402%; top: 61.1792%; width: 1.35375px; height: 1.35375px; animation-delay: 0.619496s;"></div><div class="star" style="left: 86.7936%; top: 61.5768%; width: 1.01068px; height: 1.01068px; animation-delay: 1.78003s;"></div><div class="star" style="left: 77.5879%; top: 46.1848%; width: 2.6918px; height: 2.6918px; animation-delay: 1.81043s;"></div><div class="star medium" style="left: 7.55401%; top: 56.7007%; width: 1.21807px; height: 1.21807px; animation-delay: 0.716847s;"></div><div class="star big" style="left: 62.1858%; top: 7.78498%; width: 2.22532px; height: 2.22532px; animation-delay: 1.09806s;"></div><div class="star medium" style="left: 34.3844%; top: 21.5056%; width: 2.38637px; height: 2.38637px; animation-delay: 1.03432s;"></div><div class="star" style="left: 35.5697%; top: 38.449%; width: 2.96666px; height: 2.96666px; animation-delay: 0.309568s;"></div><div class="star big" style="left: 73.4576%; top: 35.4978%; width: 2.7131px; height: 2.7131px; animation-delay: 1.96702s;"></div><div class="star big" style="left: 96.5051%; top: 10.2755%; width: 2.07631px; height: 2.07631px; animation-delay: 1.19803s;"></div><div class="star medium" style="left: 5.02058%; top: 12.2575%; width: 2.76617px; height: 2.76617px; animation-delay: 1.56433s;"></div><div class="star" style="left: 28.9425%; top: 10.5486%; width: 2.6407px; height: 2.6407px; animation-delay: 0.553567s;"></div><div class="star medium" style="left: 72.2831%; top: 18.3279%; width: 1.92829px; height: 1.92829px; animation-delay: 0.468218s;"></div><div class="star medium" style="left: 24.24%; top: 53.9595%; width: 2.78327px; height: 2.78327px; animation-delay: 0.647788s;"></div><div class="star medium" style="left: 36.9736%; top: 8.7707%; width: 2.17478px; height: 2.17478px; animation-delay: 1.02437s;"></div><div class="star" style="left: 70.0519%; top: 51.496%; width: 2.10898px; height: 2.10898px; animation-delay: 1.01156s;"></div><div class="star" style="left: 1.56121%; top: 29.3884%; width: 1.18464px; height: 1.18464px; animation-delay: 1.72662s;"></div><div class="star big" style="left: 5.88434%; top: 35.9974%; width: 1.482px; height: 1.482px; animation-delay: 1.54611s;"></div><div class="star" style="left: 98.1447%; top: 45.6131%; width: 2.78503px; height: 2.78503px; animation-delay: 0.99471s;"></div><div class="star" style="left: 45.3176%; top: 14.3775%; width: 2.13693px; height: 2.13693px; animation-delay: 0.96749s;"></div><div class="star medium" style="left: 44.0081%; top: 28.0621%; width: 2.72905px; height: 2.72905px; animation-delay: 0.285434s;"></div><div class="star medium" style="left: 64.895%; top: 6.51269%; width: 2.12312px; height: 2.12312px; animation-delay: 0.584345s;"></div><div class="star medium" style="left: 63.8426%; top: 14.7601%; width: 1.80681px; height: 1.80681px; animation-delay: 0.537063s;"></div><div class="star big" style="left: 59.6781%; top: 60.7981%; width: 2.08257px; height: 2.08257px; animation-delay: 1.40902s;"></div></div>
+        <div class="sun-rays"></div>
+        <div class="mountains-back"></div>
+        <div class="mountains"></div>
+        <div class="cactus-bg-1">🌵</div>
+        <div class="cactus-bg-2">🌵</div>
+        <div class="cactus-bg-3">🌵</div>
+        <div class="score" id="score">Score: 0</div>
+        <div class="high-score" id="highScore">High Score: 0</div>
+        <div class="sun" id="sun">☀</div>
+        <div class="moon" id="moon">🌙</div>
+        <div class="cloud cloud-back">☁</div>
+        <div class="cloud cloud-mid" style="animation-delay: -12s;">☁</div>
+        <div class="cloud cloud-front" style="animation-delay: -6s;">☁</div>
+        <div class="ground"></div>
+        <div id="dino" class="dino">🦖</div>
+        <div id="cactus" class="cactus" style="animation-play-state: paused;">🌵</div>
+        <div id="tumbleweed" class="tumbleweed">
+            <img src="/web/20260402022758im_/https://ters.co/tumbleweed.png" style="width: 100%; height: 100%; object-fit: contain;">
+        </div>
+        
+        <div class="start-screen" id="startScreen">
+            <h2>Dinosaur Game</h2>
+            <p>Press Space or Click to Jump</p>
+            <button onclick="startGame()">Start Game</button>
+        </div>
+
+        <div class="game-over" id="gameOver">
+            <h2>Game Over!</h2>
+            <p id="finalScore">Score: 0</p>
+            <p id="newHighScore" style="color: #007BFF; display: none;">New High Score! 🎉</p>
+            <button onclick="restartGame()">Play Again</button>
+        </div>
+    </div>
+    <div class="info">
+        دخول الموقع فقط عن طريق الدعوة - الموقع خاص<br>
+        للإستفسار: <a href="https://web.archive.org/web/20260402022758/https://discord.gg/uW5NJ6y" target="_blank">https://discord.gg/uW5NJ6y</a>
+    </div>
+    <script>
+        const dino = document.getElementById('dino');
+        const cactus = document.getElementById('cactus');
+        const scoreElement = document.getElementById('score');
+        const highScoreElement = document.getElementById('highScore');
+        const gameOverScreen = document.getElementById('gameOver');
+        const startScreen = document.getElementById('startScreen');
+        const finalScoreElement = document.getElementById('finalScore');
+        const newHighScoreElement = document.getElementById('newHighScore');
+        const bgMusic = document.getElementById('bgMusic');
+        let isGameRunning = false;
+
+        let isJumping = false;
+        let score = 0;
+        let highScore = localStorage.getItem('highScore') || 0;
+        let scoreInterval;
+        let gameSpeed = 2;
+        const jumpDuration = 900;
+        const maxJumpHeight = 130;
+
+        highScoreElement.textContent = `High Score: ${highScore}`;
+        cactus.style.animationPlayState = 'paused';
+
+        function startGame() {
+            startScreen.style.display = 'none';
+            isGameRunning = true;
+            cactus.style.animationPlayState = 'running';
+            startScore();
+            updateGameSpeed();
+            
+            // Reset day/night cycle
+            const gameContainer = document.querySelector('.game-container');
+            const sun = document.getElementById('sun');
+            const moon = document.getElementById('moon');
+            const stars = document.getElementById('stars');
+            const sunRays = document.querySelector('.sun-rays');
+            
+            gameContainer.classList.remove('night', 'night-transition');
+            sun.classList.remove('setting');
+            moon.classList.remove('rising');
+            stars.classList.remove('visible');
+            sunRays.classList.remove('fade');
+            
+            // Reset moon and sun positions
+            setTimeout(() => {
+                sun.style.transform = '';
+                sun.style.opacity = '1';
+                moon.style.transform = '';
+                moon.style.opacity = '0';
+                moon.style.top = '250px';
+                moon.style.right = '10px';
+                moon.style.display = 'block';
+            }, 100);
+            
+            // Simple audio play
+            bgMusic.volume = 0.3;  // Lower volume
+            bgMusic.play().catch(err => console.log('Audio play failed:', err));
+        }
+
+        function updateGameSpeed() {
+            if (!isGameRunning) return;
+            // Increase speed gradually but do not restart the animation,
+            // just change the animation duration to avoid glitches.
+            gameSpeed = Math.min(4, 2 + score / 1000);
+            cactus.style.animationDuration = `${gameSpeed}s`;
+            setTimeout(updateGameSpeed, 1000);
+        }
+
+        document.addEventListener('keydown', (event) => {
+            if (event.code === 'Space') {
+                if (!isGameRunning) {
+                    if (gameOverScreen.style.display === 'block') {
+                        restartGame();
+                    } else {
+                        startGame();
+                    }
+                } else if (!isJumping) {
+                    jump();
+                }
+                event.preventDefault();
+            }
+        });
+
+        document.addEventListener('touchstart', () => {
+            if (!isGameRunning) {
+                if (gameOverScreen.style.display === 'block') {
+                    restartGame();
+                } else {
+                    startGame();
+                }
+            } else if (!isJumping) {
+                jump();
+            }
+        });
+
+        function jump() {
+            if (isJumping) return;
+            isJumping = true;
+            let startTime = performance.now();
+            
+            function applyGravity(currentTime) {
+                if (!isJumping) return;
+                
+                const elapsedTime = currentTime - startTime;
+                const progress = Math.min(elapsedTime / jumpDuration, 1);
+                
+                let easeProgress;
+                if (progress < 0.3) {
+                    easeProgress = Math.pow(progress / 0.3, 3);
+                } else if (progress < 0.45) {
+                    const peakProgress = (progress - 0.3) / 0.15;
+                    easeProgress = 1.0;
+                } else {
+                    const fallProgress = (progress - 0.45) / 0.55;
+                    easeProgress = 1 - Math.pow(fallProgress, 3);
+                }
+                
+                const height = Math.max(0, Math.min(maxJumpHeight * easeProgress, maxJumpHeight));
+                dino.style.bottom = `${height}px`;
+                
+                if (progress >= 1) {
+                    dino.style.bottom = '0px';
+                    isJumping = false;
+                } else {
+                    requestAnimationFrame(applyGravity);
+                }
+            }
+            
+            requestAnimationFrame(applyGravity);
+        }
+
+        function gameOver() {
+            isGameRunning = false;
+            cactus.style.animationPlayState = 'paused';
+            clearInterval(scoreInterval);
+            
+            // Simple audio stop
+            bgMusic.pause();
+            bgMusic.currentTime = 0;
+            
+            if (score > highScore) {
+                highScore = score;
+                localStorage.setItem('highScore', highScore);
+                highScoreElement.textContent = `High Score: ${highScore}`;
+                newHighScoreElement.style.display = 'block';
+            } else {
+                newHighScoreElement.style.display = 'none';
+            }
+            
+            finalScoreElement.textContent = `Score: ${score}`;
+            gameOverScreen.style.display = 'block';
+            dino.classList.add('shake');
+        }
+
+        function restartGame() {
+            gameOverScreen.style.display = 'none';
+            dino.classList.remove('shake');
+            dino.style.bottom = '0';
+            isJumping = false;
+            score = 0;
+            gameSpeed = 2;
+            scoreElement.textContent = `Score: ${score}`;
+            cactus.style.animation = 'none';
+            cactus.offsetHeight;
+            cactus.style.animation = `moveCactus ${gameSpeed}s linear infinite`;
+            cactus.style.animationPlayState = 'running';
+            isGameRunning = true;
+            startScore();
+            updateGameSpeed();
+            
+            // Simple audio restart
+            bgMusic.play().catch(err => console.log('Audio play failed:', err));
+        }
+
+        function startScore() {
+            scoreInterval = setInterval(() => {
+                if (isGameRunning) {
+                    score += 1;
+                    scoreElement.textContent = `Score: ${score}`;
+                    
+                    // Show tumbleweed at score 100
+                    if (score === 100) {
+                        const tumbleweed = document.getElementById('tumbleweed');
+                        tumbleweed.style.display = 'block';
+                        
+                        // Remove tumbleweed after animation ends
+                        setTimeout(() => {
+                            tumbleweed.style.display = 'none';
+                        }, 4000);
+                    }
+
+                    // Transition to night at score 200
+                    if (score === 200) {
+                        const gameContainer = document.querySelector('.game-container');
+                        const sun = document.getElementById('sun');
+                        const moon = document.getElementById('moon');
+                        const stars = document.getElementById('stars');
+                        const sunRays = document.querySelector('.sun-rays');
+                        
+                        // Start the transition sequence
+                        sun.classList.add('setting');
+                        sunRays.classList.add('fade');
+                        gameContainer.classList.add('night-transition');
+                        
+                        // After sun starts setting, begin fading in stars gradually
+                        setTimeout(() => {
+                            stars.style.display = 'block';
+                            stars.classList.add('visible');
+                        }, 1500);
+                        
+                        // After animation completes, set final night class
+                        setTimeout(() => {
+                            gameContainer.classList.remove('night-transition');
+                            gameContainer.classList.add('night');
+                        }, 5000);
+                        
+                        // After night starts, bring in the moon
+                        setTimeout(() => {
+                            moon.style.opacity = '0';
+                            moon.classList.add('rising');
+                        }, 3000);
+                    }
+                }
+            }, 100);
+        }
+
+        const checkCollision = setInterval(() => {
+            if (!isGameRunning) return;
+            
+            const dinoRect = dino.getBoundingClientRect();
+            const cactusRect = cactus.getBoundingClientRect();
+
+            if (
+                dinoRect.right > cactusRect.left &&
+                dinoRect.left < cactusRect.right &&
+                dinoRect.bottom > cactusRect.top &&
+                dinoRect.top < cactusRect.bottom
+            ) {
+                gameOver();
+            }
+        }, 10);
+
+        // Create stars
+        function createStars() {
+            const starsContainer = document.getElementById('stars');
+            starsContainer.innerHTML = '';
+            for (let i = 0; i < 50; i++) {  // Increased number of stars
+                const star = document.createElement('div');
+                star.className = 'star';
+                
+                // Random size classes
+                const size = Math.random();
+                if (size > 0.8) {
+                    star.classList.add('big');
+                } else if (size > 0.5) {
+                    star.classList.add('medium');
+                }
+                
+                star.style.left = Math.random() * 100 + '%';
+                star.style.top = Math.random() * 70 + '%';
+                star.style.width = Math.random() * 2 + 1 + 'px';
+                star.style.height = star.style.width;
+                star.style.animationDelay = Math.random() * 2 + 's';  // More varied delays
+                starsContainer.appendChild(star);
+            }
+        }
+
+        createStars();
+    </script>
+
+
+
+</body></html>

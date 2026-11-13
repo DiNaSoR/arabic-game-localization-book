@@ -1,0 +1,64 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/athbistudio/status/2120618620661457127",
+  "id": "2120618620661457127",
+  "text": "جميل إن الواحد يجتهد ويقدم تعريبًا للناس، والأجمل إنه يحفظ حقوق اللي سبقوه. إذا استفدت من جهد شخص آخر، على الأقل اذكر اسمه وبيّن مساهمته. صدقني ما راح ينقص منك شيء، بالعكس راح تكسب احترام الناس وتقديرهم. الاعتراف بجهود الآخرين مو ضعف، بل أمانة وثقة بالنفس. ❤️",
+  "raw_text": {
+   "text": "جميل إن الواحد يجتهد ويقدم تعريبًا للناس، والأجمل إنه يحفظ حقوق اللي سبقوه. إذا استفدت من جهد شخص آخر، على الأقل اذكر اسمه وبيّن مساهمته. صدقني ما راح ينقص منك شيء، بالعكس راح تكسب احترام الناس وتقديرهم. الاعتراف بجهود الآخرين مو ضعف، بل أمانة وثقة بالنفس. ❤️",
+   "display_text_range": [
+    0,
+    259
+   ],
+   "facets": []
+  },
+  "author": {
+   "screen_name": "athbistudio",
+   "url": "https://x.com/athbistudio",
+   "id": "1294692795698089985",
+   "followers": 1595,
+   "following": 3,
+   "likes": 39,
+   "media_count": 98,
+   "name": "AthbiStudio",
+   "description": "منصة لتعريب الألعاب وتطويعها لتجربة عربية أصيلة.\nعرّبنا ٣٠+ لعبة مجانًا 🎮 فاينل فانتسي • بوكيمون • ماذر • كاسلفانيا • سوبر روبوت وورز. طبّق التعريب من المتصفح",
+   "raw_description": {
+    "text": "منصة لتعريب الألعاب وتطويعها لتجربة عربية أصيلة.\nعرّبنا ٣٠+ لعبة مجانًا 🎮 فاينل فانتسي • بوكيمون • ماذر • كاسلفانيا • سوبر روبوت وورز. طبّق التعريب من المتصفح",
+    "facets": []
+   },
+   "location": "خلف أفق الحدث",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1294692795698089985/1792260440",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1708880442546442241/c_lnF0dm_200x200.jpg",
+   "joined": "Sat Aug 15 17:50:03 +0000 2020",
+   "protected": false,
+   "website": {
+    "url": "https://athbistudio.pages.dev",
+    "display_url": "athbistudio.pages.dev"
+   },
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 1,
+  "retweets": 1,
+  "likes": 17,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Wed Nov 11 20:44:13 +0000 2026",
+  "created_timestamp": 1794429853,
+  "views": 704,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

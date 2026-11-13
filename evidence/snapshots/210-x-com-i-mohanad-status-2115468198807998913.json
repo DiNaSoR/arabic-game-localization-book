@@ -1,0 +1,94 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/i_mohanad/status/2115468198807998913",
+  "id": "2115468198807998913",
+  "text": "بالشعار العربي The Wolf Among Us Remastered\n\n- تتوفر غدًا \n- غير داعمة للغة العربية\n- متوسط تقاييم اللعبة 84",
+  "raw_text": {
+   "text": "بالشعار العربي The Wolf Among Us Remastered\n\n- تتوفر غدًا \n- غير داعمة للغة العربية\n- متوسط تقاييم اللعبة 84 https://t.co/l0E3nNCNxO",
+   "display_text_range": [
+    0,
+    108
+   ],
+   "facets": [
+    {
+     "type": "media",
+     "indices": [
+      109,
+      132
+     ],
+     "id": "2115467395192004609",
+     "display": "pic.x.com/l0E3nNCNxO",
+     "original": "https://t.co/l0E3nNCNxO",
+     "replacement": "https://x.com/i_mohanad/status/2115468198807998913/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "i_mohanad",
+   "url": "https://x.com/i_mohanad",
+   "id": "374031037",
+   "followers": 14557,
+   "following": 126,
+   "likes": 2050,
+   "media_count": 5729,
+   "name": "مهند السلوم",
+   "description": "مصمم | عاشقٌ للعربية | شغوفٌ بعوالم الألعاب.",
+   "raw_description": {
+    "text": "مصمم | عاشقٌ للعربية | شغوفٌ بعوالم الألعاب.",
+    "facets": []
+   },
+   "location": "بريدة",
+   "banner_url": "https://pbs.twimg.com/profile_banners/374031037/1794144936",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2059254358030667776/LEhbhj1X_200x200.jpg",
+   "joined": "Thu Sep 15 15:53:42 +0000 2011",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 25,
+  "retweets": 5,
+  "likes": 199,
+  "bookmarks": 32,
+  "quotes": 0,
+  "created_at": "Wed Oct 28 15:38:16 +0000 2026",
+  "created_timestamp": 1793201896,
+  "possibly_sensitive": false,
+  "views": 11475,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "2115467395192004609",
+     "url": "https://pbs.twimg.com/media/HVumY0BXIAEuLAc.jpg?name=orig",
+     "width": 2160,
+     "height": 2700
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "2115467395192004609",
+     "url": "https://pbs.twimg.com/media/HVumY0BXIAEuLAc.jpg?name=orig",
+     "width": 2160,
+     "height": 2700
+    }
+   ]
+  },
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

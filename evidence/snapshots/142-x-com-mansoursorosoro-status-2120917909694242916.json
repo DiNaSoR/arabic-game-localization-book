@@ -1,0 +1,160 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/MansourSorosoro/status/2120917909694242916",
+  "id": "2120917909694242916",
+  "text": "تعقيبا على هذا:\n\nأود أن أنوه بمساهمة أخينا @PHI_Arabic في تعديل اللعبة برمتها، والجزء الذي ذكرته أعلاه كان تفصيلة عمل عليها صديقي @TheAdamSaeed (لوحة المفاتيح وتصحيح السريان في تويلايت برنسس) لكنه كان يبني على جهود تقنية أخرى للفريق ومنه أخونا أرز و... حضرتي... والنتيجة الإجمالية ما كانت لتنشر دون ثمار ذلك كله.\n\nhttps://x.com/PHI_Arabic/status/2120912666558636223",
+  "raw_text": {
+   "text": "تعقيبا على هذا:\n\nأود أن أنوه بمساهمة أخينا @PHI_Arabic في تعديل اللعبة برمتها، والجزء الذي ذكرته أعلاه كان تفصيلة عمل عليها صديقي @TheAdamSaeed (لوحة المفاتيح وتصحيح السريان في تويلايت برنسس) لكنه كان يبني على جهود تقنية أخرى للفريق ومنه أخونا أرز و... حضرتي... والنتيجة الإجمالية ما كانت لتنشر دون ثمار ذلك كله.\n\nhttps://t.co/oqfrIw4L6r",
+   "display_text_range": [
+    0,
+    337
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      43,
+      54
+     ],
+     "original": "PHI_Arabic",
+     "id": "1264983160548397056"
+    },
+    {
+     "type": "mention",
+     "indices": [
+      130,
+      143
+     ],
+     "original": "TheAdamSaeed",
+     "id": "1241849048"
+    },
+    {
+     "type": "url",
+     "indices": [
+      314,
+      337
+     ],
+     "original": "https://t.co/oqfrIw4L6r",
+     "replacement": "https://x.com/PHI_Arabic/status/2120912666558636223",
+     "display": "x.com/PHI_Arabic/sta…"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "MansourSorosoro",
+   "url": "https://x.com/MansourSorosoro",
+   "id": "1099354084245688321",
+   "followers": 4890,
+   "following": 688,
+   "likes": 9310,
+   "media_count": 1295,
+   "name": "TheMansour",
+   "description": "منصور. حساب شخصي.\nهواه العربية و تعديل الألعاب.\nمؤسس فريق @EternalDreamAR .\nEN/FR→AR Localization/Implementation Specialist ✍️👍\nContact: monta@translate.games",
+   "raw_description": {
+    "text": "منصور. حساب شخصي.\nهواه العربية و تعديل الألعاب.\nمؤسس فريق @EternalDreamAR .\nEN/FR→AR Localization/Implementation Specialist ✍️👍\nContact: monta@translate.games",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1099354084245688321/1682976154",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1883286833775136768/q3MvF_pp_200x200.jpg",
+   "joined": "Sat Feb 23 17:03:33 +0000 2019",
+   "protected": false,
+   "website": {
+    "url": "http://translate.games",
+    "display_url": "translate.games"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 2,
+  "retweets": 1,
+  "likes": 5,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Thu Nov 12 16:33:29 +0000 2026",
+  "created_timestamp": 1794501209,
+  "views": 520,
+  "is_note_tweet": true,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": "MansourSorosoro",
+  "replying_to_status": "2120904284619289054",
+  "quote": {
+   "url": "https://x.com/PHI_Arabic/status/2120912666558636223",
+   "id": "2120912666558636223",
+   "text": "تعبت و أنا اشتغل على التعديلات، تقريباً ١١ شهر من الشغل المتواصل. \n\nبس كانت تجربة حلوة بصراحة❤️",
+   "raw_text": {
+    "text": "تعبت و أنا اشتغل على التعديلات، تقريباً ١١ شهر من الشغل المتواصل. \n\nبس كانت تجربة حلوة بصراحة❤️",
+    "display_text_range": [
+     0,
+     95
+    ],
+    "facets": []
+   },
+   "author": {
+    "screen_name": "PHI_Arabic",
+    "url": "https://x.com/PHI_Arabic",
+    "id": "1264983160548397056",
+    "followers": 34,
+    "following": 34,
+    "likes": 251,
+    "media_count": 14,
+    "name": "فاي",
+    "description": "https://bloodyarz.github.io/PHIsite/\nfor updates and patchs\nملف شخصي للتحديثات و التعريبات",
+    "raw_description": {
+     "text": "https://t.co/1dnbkcGxW8\nfor updates and patchs\nملف شخصي للتحديثات و التعريبات",
+     "facets": [
+      {
+       "type": "url",
+       "indices": [
+        0,
+        23
+       ],
+       "original": "https://t.co/1dnbkcGxW8",
+       "replacement": "https://bloodyarz.github.io/PHIsite/",
+       "display": "bloodyarz.github.io/PHIsite/"
+      }
+     ]
+    },
+    "location": "",
+    "banner_url": "https://pbs.twimg.com/profile_banners/1264983160548397056/1751369080",
+    "avatar_url": "https://pbs.twimg.com/profile_images/1940008641312047104/N0-R23Vv_200x200.jpg",
+    "joined": "Mon May 25 18:14:41 +0000 2020",
+    "protected": false,
+    "website": null,
+    "verification": {
+     "verified": false,
+     "verified_at": null,
+     "type": null
+    },
+    "avatar_color": null
+   },
+   "replies": 0,
+   "retweets": 0,
+   "likes": 4,
+   "bookmarks": 0,
+   "quotes": 0,
+   "created_at": "Thu Nov 12 16:12:39 +0000 2026",
+   "created_timestamp": 1794499959,
+   "views": 601,
+   "is_note_tweet": false,
+   "community_note": null,
+   "lang": "ar",
+   "replying_to": null,
+   "replying_to_status": null,
+   "twitter_card": "tweet",
+   "color": null,
+   "provider": "twitter",
+   "reposted_by": null
+  },
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

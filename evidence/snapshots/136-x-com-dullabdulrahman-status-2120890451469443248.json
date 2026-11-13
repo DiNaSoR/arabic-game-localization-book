@@ -1,0 +1,71 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/dullAbdulrahman/status/2120890451469443248",
+  "id": "2120890451469443248",
+  "text": "@Arabic_Hesham قريت كلامك وكلام الناس بالمنشن وعندي نقطتين\n\n١. اتهام الترجمة بانها سيئة لانك تفضل تقديم ابسط ومفردات اسهل غبي. تقدر تفضل اسلوب اخر بالترجمة لكن ترجمة الفريق مو سيئة ابدا بالعكس\n\n٢. قولك ان الالعاب مو مكان لمصطلحات عميقة وشاعرية يقلل من قيمة الالعاب كمجال فني ويبين نظرتك لها",
+  "raw_text": {
+   "text": "@Arabic_Hesham قريت كلامك وكلام الناس بالمنشن وعندي نقطتين\n\n١. اتهام الترجمة بانها سيئة لانك تفضل تقديم ابسط ومفردات اسهل غبي. تقدر تفضل اسلوب اخر بالترجمة لكن ترجمة الفريق مو سيئة ابدا بالعكس\n\n٢. قولك ان الالعاب مو مكان لمصطلحات عميقة وشاعرية يقلل من قيمة الالعاب كمجال فني ويبين نظرتك لها",
+   "display_text_range": [
+    15,
+    290
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      14
+     ],
+     "original": "Arabic_Hesham",
+     "id": "2051213281419751424"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "dullAbdulrahman",
+   "url": "https://x.com/dullAbdulrahman",
+   "id": "1272768328155742209",
+   "followers": 47,
+   "following": 87,
+   "likes": 12469,
+   "media_count": 178,
+   "name": "دحوم",
+   "description": "This account is dedicated to the brave mujahideen fighters of afghanistan",
+   "raw_description": {
+    "text": "This account is dedicated to the brave mujahideen fighters of afghanistan",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1272768328155742209/1789219704",
+   "avatar_url": "https://pbs.twimg.com/profile_images/2099072659170488321/ZtUiI8B3_200x200.jpg",
+   "joined": "Tue Jun 16 05:49:59 +0000 2020",
+   "protected": false,
+   "website": null,
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 2,
+  "retweets": 0,
+  "likes": 1,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Thu Nov 12 14:44:22 +0000 2026",
+  "created_timestamp": 1794494662,
+  "views": 309,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": "Arabic_Hesham",
+  "replying_to_status": "2120803455220551757",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

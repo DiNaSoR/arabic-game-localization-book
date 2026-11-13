@@ -1,0 +1,131 @@
+URL: http://web.archive.org/web/20250125124455/https://wowvo.co/
+Final: https://web.archive.org/web/20250125124455/https://wowvo.co/
+Title: World of Warcraft Voice Lector Addon
+HTTP: 200
+
+ English
+العربية 
+Polski
+World of Warcraft Voice Lector Addon
+
+Welcome to the World of Warcraft Voice Lector Addon, an innovative tool designed to enhance your gaming experience by bringing game quests to life with dynamic voice overs. Dive deeper into the rich lore and immersive storytelling of World of Warcraft as you hear the quests narrated to you, making your adventures more engaging and enjoyable.
+
+Features of the Addon
+Immersive Voice Narration
+Enjoy high-quality voice overs for all your quests, making the game more interactive and engaging.
+Seamless Integration
+The addon integrates smoothly with the game, providing a hassle-free experience.
+Customizable Settings
+Adjust the voiceover settings to your preferences, including automatic text reading after opening a conversation window with an NPC, text reading multiple times, visibility of the NPC's head or interaction with other voices spoken by the NPC.
+Enhanced Accessibility
+Ideal for players who prefer listening over reading or have visual impairments.
+Screenshots
+Videos
+Pricing for Voice Pack
+
+We commissioned voice cloning to a specialized company called ElevenLabs. The sounds of the voices correspond perfectly with the voices of specific NPCs. But such a service is paid, which is why we introduced licenses for voice packages to recover at least part of the invested money. To create more voices for in-game tasks, we need your help. Payments are possible via PayPal in USD, EUR and PLN. Details can be found in the user panel (after logging in to your account):
+
+1 Month
+$3.99
+Get
+3 Months
+$9.99
+Get
+6 Months
+$19.99
+Get
+12 Months
+$39.99
+Get
+Get Started
+
+To start using the WoWvo Addon, simply download and install it from our website. The add-on will work in the game, but you still need a voice pack for the NPC's statements to be played. Follow the easy setup instructions, then you'll be ready to experience World of Warcraft like never before.
+
+Download Addon Download from CurseForge User Panel
+List of supported lands
+
+Below is a list of the game lands where our NPC voices currently work.
+
+STARTING LOCATION Exile's Reach:
+- The North Sea
+- Exile's Reach
+KHAZ ALGAR (The War Within):
+- Isle of Dorn
+- Dornogal
+- Azj-Kathet
+- The Ringing Deeps
+- Hallowfall
+- Hall of Awakening (Earthen)
+ZONES OF HUMAN RACE:
+- Northshire Valley
+- Elwynn Forest
+- Stormwind City
+ZONES OF NIGHT ELF RACE:
+- Shadowglen
+- Shadowthread Cave
+- Ban'enthil Barrow Den
+- Teldrassil
+- Darnassus
+ZONES OF DRAENEI RACE:
+- Ammen Vale
+- Azuremyst Isle
+- The Exodar
+ZONES OF WORGEN RACE:
+- Gilneas City
+- Gilneas
+- Greymane Manor
+ZONES OF DWARF AND GNOME RACES:
+- Coldridge Valley
+- Gnomegeran
+- New Tinkertown
+- Dun Morogh
+- Ironforge
+ZONES OF TAUREN RACE:
+- Red Cloud Mesa
+- Mulgore
+- Thunder Bluff
+ZONES OF BLOOD ELF RACE:
+- Sunstrider Isle
+- Eversong Woods
+- Silvermoon City
+ZONES UNDEAD RACE:
+- Deathknell
+- Tirisfal Glades
+- Undercity
+ZONES OF ORC AND TROLL RACES:
+- Valley of Trials
+- Echo Isles
+- Durotar
+- Orgrimmar
+ZONES OF GOBLIN RACE:
+- Bilgewater Port
+ZONES OF PANDAREN AND DRACTHYR RACES:
+- The Wandering Isle
+- The War Creche
+- The Forbidden Reach
+ZONES OF DEMON HUNTER CLASS:
+- Mardum-the Shattered Abys
+- Vault of the Wardens
+- Dalaran
+- The Violet Hold
+- Azsuna
+ZONES OF DEATH KNIGHT CLASS:
+- Plaguelands: The scarlet Enclave
+- Eastern Plaguelands
+ZONES OF SPECIAL RACES:
+- Mac'har Orc
+- Vulpera
+- Highmountain Tauren
+- Nightborne
+- Zandalari Troll
+- Lightforged Draenei
+- Void Elf
+- Kul Tiran
+- Datk Iron Dwarf
+- Mechagnome
+Join Our Community
+
+We invite you to join our community of World of Warcraft enthusiasts who are already enjoying the benefits of the Voice Lector Addon. Share your experiences, give feedback, and stay updated with the latest features and improvements.
+
+Join the Community
+©2024 World of Warcraft Voice Lector Addon [Platine & DragonArab]

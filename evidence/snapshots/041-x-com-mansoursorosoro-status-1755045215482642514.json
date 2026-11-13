@@ -1,0 +1,75 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/MansourSorosoro/status/1755045215482642514",
+  "id": "1755045215482642514",
+  "text": "@piewed هذا سارق تعريبات معروف.\nالحلم عمل وتعب على ترجمة بشر لدارك سولز 2 بما فيها ذلك الخط، ونشرناها قبل شهر.\n\nقام سرق ترجمتنا، نزل الترجمة لحاسبه، رسم اسمه فوق الخط، وصور فيديو يتهمنا أننا سرقناه.\nطبيعي أنك لم تفهم لأن الفيديو مقطع وأسماء الأدوات مخفية، وإلا لجربت ولم تلق نفس النتيجة🤭",
+  "raw_text": {
+   "text": "@piewed هذا سارق تعريبات معروف.\nالحلم عمل وتعب على ترجمة بشر لدارك سولز 2 بما فيها ذلك الخط، ونشرناها قبل شهر.\n\nقام سرق ترجمتنا، نزل الترجمة لحاسبه، رسم اسمه فوق الخط، وصور فيديو يتهمنا أننا سرقناه.\nطبيعي أنك لم تفهم لأن الفيديو مقطع وأسماء الأدوات مخفية، وإلا لجربت ولم تلق نفس النتيجة🤭",
+   "display_text_range": [
+    8,
+    287
+   ],
+   "facets": [
+    {
+     "type": "mention",
+     "indices": [
+      0,
+      7
+     ],
+     "original": "piewed",
+     "id": "1646934306420301837"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "MansourSorosoro",
+   "url": "https://x.com/MansourSorosoro",
+   "id": "1099354084245688321",
+   "followers": 4889,
+   "following": 688,
+   "likes": 9308,
+   "media_count": 1295,
+   "name": "TheMansour",
+   "description": "منصور. حساب شخصي.\nهواه العربية و تعديل الألعاب.\nمؤسس فريق @EternalDreamAR .\nEN/FR→AR Localization/Implementation Specialist ✍️👍\nContact: monta@translate.games",
+   "raw_description": {
+    "text": "منصور. حساب شخصي.\nهواه العربية و تعديل الألعاب.\nمؤسس فريق @EternalDreamAR .\nEN/FR→AR Localization/Implementation Specialist ✍️👍\nContact: monta@translate.games",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1099354084245688321/1682976154",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1883286833775136768/q3MvF_pp_200x200.jpg",
+   "joined": "Sat Feb 23 17:03:33 +0000 2019",
+   "protected": false,
+   "website": {
+    "url": "http://translate.games",
+    "display_url": "translate.games"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 1,
+  "retweets": 0,
+  "likes": 0,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Wed Feb 07 01:46:01 +0000 2024",
+  "created_timestamp": 1707270361,
+  "views": 319,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": "piewed",
+  "replying_to_status": "1754160538655863066",
+  "source": "Twitter Web App",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

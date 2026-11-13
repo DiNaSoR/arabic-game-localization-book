@@ -1,0 +1,189 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/athbistudio/status/2120418395657052319",
+  "id": "2120418395657052319",
+  "text": "ولد ينقذ العالم بمضرب بيسبول، ويتعافى بالهامبرغر... ويتصل بأبوه حتى يحفظ اللعبة! 😂☎️\n\nهذه Mother 2 (EarthBound)، وتعريبها صار مجانيًا للجميع بعد فترة الوصول المبكر للداعمين!\n\nحوارات وقوائم ومعارك، وأكثر من 10 آلاف سطر مترجم. 🎮\n\nhttps://athbistudio.pages.dev/projects/mother-2",
+  "raw_text": {
+   "text": "ولد ينقذ العالم بمضرب بيسبول، ويتعافى بالهامبرغر... ويتصل بأبوه حتى يحفظ اللعبة! 😂☎️\n\nهذه Mother 2 (EarthBound)، وتعريبها صار مجانيًا للجميع بعد فترة الوصول المبكر للداعمين!\n\nحوارات وقوائم ومعارك، وأكثر من 10 آلاف سطر مترجم. 🎮\n\nhttps://t.co/P0k9u4Y104 https://t.co/fKTZvLB75R",
+   "display_text_range": [
+    0,
+    251
+   ],
+   "facets": [
+    {
+     "type": "url",
+     "indices": [
+      228,
+      251
+     ],
+     "original": "https://t.co/P0k9u4Y104",
+     "replacement": "https://athbistudio.pages.dev/projects/mother-2",
+     "display": "athbistudio.pages.dev/projects/mothe…"
+    },
+    {
+     "type": "media",
+     "indices": [
+      252,
+      275
+     ],
+     "id": "2120417159465607168",
+     "display": "pic.x.com/fKTZvLB75R",
+     "original": "https://t.co/fKTZvLB75R",
+     "replacement": "https://x.com/athbistudio/status/2120418395657052319/photo/1"
+    },
+    {
+     "type": "media",
+     "indices": [
+      252,
+      275
+     ],
+     "id": "2120417185961041920",
+     "display": "pic.x.com/fKTZvLB75R",
+     "original": "https://t.co/fKTZvLB75R",
+     "replacement": "https://x.com/athbistudio/status/2120418395657052319/photo/1"
+    },
+    {
+     "type": "media",
+     "indices": [
+      252,
+      275
+     ],
+     "id": "2120417202486571008",
+     "display": "pic.x.com/fKTZvLB75R",
+     "original": "https://t.co/fKTZvLB75R",
+     "replacement": "https://x.com/athbistudio/status/2120418395657052319/photo/1"
+    },
+    {
+     "type": "media",
+     "indices": [
+      252,
+      275
+     ],
+     "id": "2120417268853022720",
+     "display": "pic.x.com/fKTZvLB75R",
+     "original": "https://t.co/fKTZvLB75R",
+     "replacement": "https://x.com/athbistudio/status/2120418395657052319/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "athbistudio",
+   "url": "https://x.com/athbistudio",
+   "id": "1294692795698089985",
+   "followers": 1595,
+   "following": 3,
+   "likes": 39,
+   "media_count": 98,
+   "name": "AthbiStudio",
+   "description": "منصة لتعريب الألعاب وتطويعها لتجربة عربية أصيلة.\nعرّبنا ٣٠+ لعبة مجانًا 🎮 فاينل فانتسي • بوكيمون • ماذر • كاسلفانيا • سوبر روبوت وورز. طبّق التعريب من المتصفح",
+   "raw_description": {
+    "text": "منصة لتعريب الألعاب وتطويعها لتجربة عربية أصيلة.\nعرّبنا ٣٠+ لعبة مجانًا 🎮 فاينل فانتسي • بوكيمون • ماذر • كاسلفانيا • سوبر روبوت وورز. طبّق التعريب من المتصفح",
+    "facets": []
+   },
+   "location": "خلف أفق الحدث",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1294692795698089985/1792260440",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1708880442546442241/c_lnF0dm_200x200.jpg",
+   "joined": "Sat Aug 15 17:50:03 +0000 2020",
+   "protected": false,
+   "website": {
+    "url": "https://athbistudio.pages.dev",
+    "display_url": "athbistudio.pages.dev"
+   },
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 7,
+  "retweets": 5,
+  "likes": 78,
+  "bookmarks": 51,
+  "quotes": 1,
+  "created_at": "Wed Nov 11 07:28:35 +0000 2026",
+  "created_timestamp": 1794382115,
+  "possibly_sensitive": false,
+  "views": 2324,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "2120417159465607168",
+     "url": "https://pbs.twimg.com/media/HW08LA2XIAAMzRR.png?name=orig",
+     "width": 1024,
+     "height": 896
+    },
+    {
+     "type": "photo",
+     "id": "2120417185961041920",
+     "url": "https://pbs.twimg.com/media/HW08MjjXYAAs44k.png?name=orig",
+     "width": 256,
+     "height": 224
+    },
+    {
+     "type": "photo",
+     "id": "2120417202486571008",
+     "url": "https://pbs.twimg.com/media/HW08NhHW8AAncWM.png?name=orig",
+     "width": 1024,
+     "height": 896
+    },
+    {
+     "type": "photo",
+     "id": "2120417268853022720",
+     "url": "https://pbs.twimg.com/media/HW08RYWWoAAwvdW.png?name=orig",
+     "width": 1024,
+     "height": 896
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "2120417159465607168",
+     "url": "https://pbs.twimg.com/media/HW08LA2XIAAMzRR.png?name=orig",
+     "width": 1024,
+     "height": 896
+    },
+    {
+     "type": "photo",
+     "id": "2120417185961041920",
+     "url": "https://pbs.twimg.com/media/HW08MjjXYAAs44k.png?name=orig",
+     "width": 256,
+     "height": 224
+    },
+    {
+     "type": "photo",
+     "id": "2120417202486571008",
+     "url": "https://pbs.twimg.com/media/HW08NhHW8AAncWM.png?name=orig",
+     "width": 1024,
+     "height": 896
+    },
+    {
+     "type": "photo",
+     "id": "2120417268853022720",
+     "url": "https://pbs.twimg.com/media/HW08RYWWoAAwvdW.png?name=orig",
+     "width": 1024,
+     "height": 896
+    }
+   ],
+   "mosaic": {
+    "type": "mosaic_photo",
+    "formats": {
+     "jpeg": "https://mosaic.fxtwitter.com/jpeg/2120418395657052319/HW08LA2XIAAMzRR/HW08MjjXYAAs44k/HW08NhHW8AAncWM/HW08RYWWoAAwvdW",
+     "webp": "https://mosaic.fxtwitter.com/webp/2120418395657052319/HW08LA2XIAAMzRR/HW08MjjXYAAs44k/HW08NhHW8AAncWM/HW08RYWWoAAwvdW"
+    }
+   }
+  },
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

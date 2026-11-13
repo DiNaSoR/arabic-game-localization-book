@@ -1,0 +1,64 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/MansourSorosoro/status/2120930817408921787",
+  "id": "2120930817408921787",
+  "text": "لا أهتم بتلك التقنية ولا أعتبرها أخلاقية ولا أنزه منشئيها عن السرقات ولا أوافق على إدعاء الأفضلية الأخلاقية لها، \nلكني سأوافق على جزء أن تحميل أنتروبيك ذنوب هؤلاء الزارفين هو تحامل وقسوة زائدة، ونقل أن ذلك الجزء \"سرقة عربية\".\n\nلكن هذه النقطة يا حضرة المحاور العزيز خارج مجال نقاشنا، وتدخل في مجال رأيي وما يريحني أن أعمل ولا أعمل به. فلن أثقل على وقتك وعلى وقتي بها.",
+  "raw_text": {
+   "text": "لا أهتم بتلك التقنية ولا أعتبرها أخلاقية ولا أنزه منشئيها عن السرقات ولا أوافق على إدعاء الأفضلية الأخلاقية لها، \nلكني سأوافق على جزء أن تحميل أنتروبيك ذنوب هؤلاء الزارفين هو تحامل وقسوة زائدة، ونقل أن ذلك الجزء \"سرقة عربية\".\n\nلكن هذه النقطة يا حضرة المحاور العزيز خارج مجال نقاشنا، وتدخل في مجال رأيي وما يريحني أن أعمل ولا أعمل به. فلن أثقل على وقتك وعلى وقتي بها.",
+   "display_text_range": [
+    0,
+    366
+   ],
+   "facets": []
+  },
+  "author": {
+   "screen_name": "MansourSorosoro",
+   "url": "https://x.com/MansourSorosoro",
+   "id": "1099354084245688321",
+   "followers": 4890,
+   "following": 688,
+   "likes": 9310,
+   "media_count": 1295,
+   "name": "TheMansour",
+   "description": "منصور. حساب شخصي.\nهواه العربية و تعديل الألعاب.\nمؤسس فريق @EternalDreamAR .\nEN/FR→AR Localization/Implementation Specialist ✍️👍\nContact: monta@translate.games",
+   "raw_description": {
+    "text": "منصور. حساب شخصي.\nهواه العربية و تعديل الألعاب.\nمؤسس فريق @EternalDreamAR .\nEN/FR→AR Localization/Implementation Specialist ✍️👍\nContact: monta@translate.games",
+    "facets": []
+   },
+   "location": "",
+   "banner_url": "https://pbs.twimg.com/profile_banners/1099354084245688321/1682976154",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1883286833775136768/q3MvF_pp_200x200.jpg",
+   "joined": "Sat Feb 23 17:03:33 +0000 2019",
+   "protected": false,
+   "website": {
+    "url": "http://translate.games",
+    "display_url": "translate.games"
+   },
+   "verification": {
+    "verified": true,
+    "verified_at": null,
+    "type": "individual"
+   },
+   "avatar_color": null
+  },
+  "replies": 1,
+  "retweets": 0,
+  "likes": 1,
+  "bookmarks": 0,
+  "quotes": 0,
+  "created_at": "Thu Nov 12 17:24:46 +0000 2026",
+  "created_timestamp": 1794504286,
+  "views": 38,
+  "is_note_tweet": true,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": "Kaniki33of",
+  "replying_to_status": "2120929160143003804",
+  "twitter_card": "tweet",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}

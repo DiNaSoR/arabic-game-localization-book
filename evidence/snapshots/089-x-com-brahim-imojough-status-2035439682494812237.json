@@ -1,0 +1,200 @@
+{
+ "code": 200,
+ "message": "OK",
+ "tweet": {
+  "url": "https://x.com/BRAHIM_IMOJOUGH/status/2035439682494812237",
+  "id": "2035439682494812237",
+  "text": "**هدية العيد** \n(تعريب: أسطورة زيلدا: أكرينة الزمن 3DS)\nنقدم لكم تعريبًا شاملاً للعبة \"أسطورة زيلدا: أكرينة الزمن 3DS\nستستمتع بتجربة غامرة مع نصوص مترجمة بعناية تضمن لك فهم كل تفاصيل القصة والشخصيات ودعم عكس سريان النص...\nرابط تحميل \nhttps://gaming-republic.blogspot.com/?m=1",
+  "raw_text": {
+   "text": "**هدية العيد** \n(تعريب: أسطورة زيلدا: أكرينة الزمن 3DS)\nنقدم لكم تعريبًا شاملاً للعبة \"أسطورة زيلدا: أكرينة الزمن 3DS\nستستمتع بتجربة غامرة مع نصوص مترجمة بعناية تضمن لك فهم كل تفاصيل القصة والشخصيات ودعم عكس سريان النص...\nرابط تحميل \nhttps://t.co/NPDt1SAWYG https://t.co/tgn3Fd2EVa",
+   "display_text_range": [
+    0,
+    257
+   ],
+   "facets": [
+    {
+     "type": "url",
+     "indices": [
+      234,
+      257
+     ],
+     "original": "https://t.co/NPDt1SAWYG",
+     "replacement": "https://gaming-republic.blogspot.com/?m=1",
+     "display": "gaming-republic.blogspot.com/?m=1"
+    },
+    {
+     "type": "media",
+     "indices": [
+      258,
+      281
+     ],
+     "id": "2035439565599907840",
+     "display": "pic.x.com/tgn3Fd2EVa",
+     "original": "https://t.co/tgn3Fd2EVa",
+     "replacement": "https://x.com/BRAHIM_IMOJOUGH/status/2035439682494812237/photo/1"
+    },
+    {
+     "type": "media",
+     "indices": [
+      258,
+      281
+     ],
+     "id": "2035439566979817472",
+     "display": "pic.x.com/tgn3Fd2EVa",
+     "original": "https://t.co/tgn3Fd2EVa",
+     "replacement": "https://x.com/BRAHIM_IMOJOUGH/status/2035439682494812237/photo/1"
+    },
+    {
+     "type": "media",
+     "indices": [
+      258,
+      281
+     ],
+     "id": "2035439596633497600",
+     "display": "pic.x.com/tgn3Fd2EVa",
+     "original": "https://t.co/tgn3Fd2EVa",
+     "replacement": "https://x.com/BRAHIM_IMOJOUGH/status/2035439682494812237/photo/1"
+    },
+    {
+     "type": "media",
+     "indices": [
+      258,
+      281
+     ],
+     "id": "2035439596855865344",
+     "display": "pic.x.com/tgn3Fd2EVa",
+     "original": "https://t.co/tgn3Fd2EVa",
+     "replacement": "https://x.com/BRAHIM_IMOJOUGH/status/2035439682494812237/photo/1"
+    }
+   ]
+  },
+  "author": {
+   "screen_name": "BRAHIM_IMOJOUGH",
+   "url": "https://x.com/BRAHIM_IMOJOUGH",
+   "id": "2194831194",
+   "followers": 976,
+   "following": 26,
+   "likes": 922,
+   "media_count": 163,
+   "name": "GAMING REPUBLIC",
+   "description": "مهتم بتعديل العاب و الترجمة\nرابط دعم ⬇️ لتحسين ترجمة...\nhttps://www.paypal.me/imojoughan",
+   "raw_description": {
+    "text": "مهتم بتعديل العاب و الترجمة\nرابط دعم ⬇️ لتحسين ترجمة...\nhttps://t.co/0sAoySct68",
+    "facets": [
+     {
+      "type": "url",
+      "indices": [
+       56,
+       79
+      ],
+      "original": "https://t.co/0sAoySct68",
+      "replacement": "https://www.paypal.me/imojoughan",
+      "display": "paypal.me/imojoughan"
+     }
+    ]
+   },
+   "location": "Tétouan, Royaume du Maroc",
+   "banner_url": "https://pbs.twimg.com/profile_banners/2194831194/1769300355",
+   "avatar_url": "https://pbs.twimg.com/profile_images/1973122325269626880/RQq7kS_L_200x200.jpg",
+   "joined": "Thu Nov 14 20:38:30 +0000 2013",
+   "protected": false,
+   "website": {
+    "url": "https://discord.gg/mFeCTE4zv2",
+    "display_url": "discord.gg/mFeCTE4zv2"
+   },
+   "verification": {
+    "verified": false,
+    "verified_at": null,
+    "type": null
+   },
+   "avatar_color": null
+  },
+  "replies": 2,
+  "retweets": 4,
+  "likes": 31,
+  "bookmarks": 14,
+  "quotes": 1,
+  "created_at": "Sat Mar 21 19:33:31 +0000 2026",
+  "created_timestamp": 1774121611,
+  "possibly_sensitive": true,
+  "views": 1956,
+  "is_note_tweet": false,
+  "community_note": null,
+  "lang": "ar",
+  "replying_to": null,
+  "replying_to_status": null,
+  "media": {
+   "all": [
+    {
+     "type": "photo",
+     "id": "2035439565599907840",
+     "url": "https://pbs.twimg.com/media/HD9VgC1boAA5qUD.jpg?name=orig",
+     "width": 1600,
+     "height": 966
+    },
+    {
+     "type": "photo",
+     "id": "2035439566979817472",
+     "url": "https://pbs.twimg.com/media/HD9VgH-bYAA4Ykc.jpg?name=orig",
+     "width": 1920,
+     "height": 1166
+    },
+    {
+     "type": "photo",
+     "id": "2035439596633497600",
+     "url": "https://pbs.twimg.com/media/HD9Vh2caoAAvz3P.jpg?name=orig",
+     "width": 1920,
+     "height": 1166
+    },
+    {
+     "type": "photo",
+     "id": "2035439596855865344",
+     "url": "https://pbs.twimg.com/media/HD9Vh3RbsAA5PEN.jpg?name=orig",
+     "width": 1920,
+     "height": 1166
+    }
+   ],
+   "photos": [
+    {
+     "type": "photo",
+     "id": "2035439565599907840",
+     "url": "https://pbs.twimg.com/media/HD9VgC1boAA5qUD.jpg?name=orig",
+     "width": 1600,
+     "height": 966
+    },
+    {
+     "type": "photo",
+     "id": "2035439566979817472",
+     "url": "https://pbs.twimg.com/media/HD9VgH-bYAA4Ykc.jpg?name=orig",
+     "width": 1920,
+     "height": 1166
+    },
+    {
+     "type": "photo",
+     "id": "2035439596633497600",
+     "url": "https://pbs.twimg.com/media/HD9Vh2caoAAvz3P.jpg?name=orig",
+     "width": 1920,
+     "height": 1166
+    },
+    {
+     "type": "photo",
+     "id": "2035439596855865344",
+     "url": "https://pbs.twimg.com/media/HD9Vh3RbsAA5PEN.jpg?name=orig",
+     "width": 1920,
+     "height": 1166
+    }
+   ],
+   "mosaic": {
+    "type": "mosaic_photo",
+    "formats": {
+     "jpeg": "https://mosaic.fxtwitter.com/jpeg/2035439682494812237/HD9VgC1boAA5qUD/HD9VgH-bYAA4Ykc/HD9Vh2caoAAvz3P/HD9Vh3RbsAA5PEN",
+     "webp": "https://mosaic.fxtwitter.com/webp/2035439682494812237/HD9VgC1boAA5qUD/HD9VgH-bYAA4Ykc/HD9Vh2caoAAvz3P/HD9Vh3RbsAA5PEN"
+    }
+   }
+  },
+  "twitter_card": "summary_large_image",
+  "color": null,
+  "provider": "twitter",
+  "reposted_by": null
+ }
+}
