@@ -13,6 +13,7 @@ match the old, wrong wording (regular expressions; tashkeel is ignored when matc
 
 from __future__ import annotations
 
+import hashlib
 import re
 import sys
 from pathlib import Path
@@ -90,6 +91,30 @@ FACTS = [
         ],
     },
     {
+        "id": "ح٩",
+        "fact": "خادم Ragnarok Online العربي وباتجه (dragonarab.com، 2004) من عمل «ص» باسم Dragonarab وهو موثّق في أرشيف الإنترنت؛ وتفصيل التعديل الست عشري يُنسب إلى إفادته.",
+        "forbidden": [
+            r"قبل ان يعرف باسم `?DragonArab",          # the Ragnarok work was done under that very name
+            r"لم نقف لتلك الترجمة على اثر",
+            r"فنثبتها بافادته وحدها",
+            r"تذكر \*\*بافادته وحدها\*\*",
+            r"لم يعثر لها على اثر في البحث ولا في الارشيف",
+        ],
+    },
+    {
+        "id": "ح١٠",
+        "fact": "لا يُذكر الاسم الحقيقي لـ«ص» ولا بريده الشخصي في الكتاب ولا ملفاته، ولا يُحال إلى صفحات تُظهر اسمه.",
+        # The protected words live only in a private, git-ignored file (see PRIVATE_NAMES below), one
+        # SHA-256 per line, so neither the name nor a hash of it is published. Where that file is
+        # missing (a fresh clone) only the patterns below are checked.
+        "forbidden": [
+            r"(?i)dragonarab@",
+            r"(?i)github\.com/DiNaSoR/alm3rb",          # its commit metadata shows the name; cite q8fft/Alm3rb
+        ],
+        "private_hashes": True,
+        "sources": SOURCES + ["FACTS.md", "evidence/screenshots/INDEX.md", "evidence/screenshots/index.json", "scripts/*.css"],
+    },
+    {
         "id": "ح٤",
         "fact": "لا يُسمّى الكتاب ولا ملفاته ولا مستودعه بكلمة disputes.",
         "forbidden": [r"disputes"],
@@ -104,6 +129,28 @@ def _plain(text: str) -> str:
     """Drops tashkeel and unifies alef/hamza forms so a pattern matches however the line is vocalised."""
     text = _TASHKEEL.sub("", text)
     return text.translate(str.maketrans("أإآ", "ااا"))
+
+
+PRIVATE_NAMES = ROOT / ".local" / "protected-names.sha256"
+_WORD = re.compile(r"[0-9A-Za-zء-ي]+")
+
+
+def _private_hashes() -> set[str]:
+    if not PRIVATE_NAMES.exists():
+        return set()
+    return {line.strip() for line in PRIVATE_NAMES.read_text(encoding="utf-8").splitlines() if len(line.strip()) == 64}
+
+
+def _hashed_word_hit(plain: str, hashes: set[str]) -> bool:
+    """True when a word of the line (lower-cased, also joined with the next word, and without a
+    leading و/ب/ل) hashes to one of the protected words."""
+    words = [w.lower() for w in _WORD.findall(plain)]
+    for i, w in enumerate(words):
+        forms = {w, w + words[i + 1] if i + 1 < len(words) else w}
+        forms |= {f[1:] for f in forms if len(f) > 3 and f[0] in "وبل"}
+        if any(hashlib.sha256(f.encode()).hexdigest() in hashes for f in forms):
+            return True
+    return False
 
 
 def check_reference_count() -> list[str]:
@@ -128,11 +175,17 @@ def run_checks() -> list[str]:
     for fact in FACTS:
         files = sorted({p for g in fact.get("sources", SOURCES) for p in ROOT.glob(g)})
         patterns = [re.compile(_plain(pat)) for pat in fact["forbidden"]]
+        hashes = _private_hashes() if fact.get("private_hashes") else set()
         for path in files:
             if path.name == "check_facts.py":
                 continue
             for no, line in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
                 plain = _plain(line)
+                if hashes and _hashed_word_hit(plain, hashes):
+                    problems.append(
+                        f"{path.relative_to(ROOT)}:{no}  يخالف {fact['id']}: «اسم أو بريد محجوب»\n"
+                        f"      الحقيقة المعتمدة: {fact['fact']}"
+                    )
                 for pat in patterns:
                     m = pat.search(plain)
                     if m:
@@ -148,4 +201,5 @@ if __name__ == "__main__":
     if found:
         print("\n".join(found))
         sys.exit(f"\n{len(found)} موضع يخالف سجل الحقائق (FACTS.md).")
-    print(f"سجل الحقائق: {len(FACTS) + 1} حقائق، لا مخالفات.")
+    guard = "مفعَّل" if _private_hashes() else "غير مفعَّل (الملف المحلي غير موجود)"
+    print(f"سجل الحقائق: {len(FACTS) + 1} حقائق، لا مخالفات. فحص الاسم المحجوب: {guard}.")

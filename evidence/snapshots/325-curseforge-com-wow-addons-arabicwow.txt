@@ -1,0 +1,225 @@
+URL: https://www.curseforge.com/wow/addons/arabicwow
+Captured: 2026-11-13 22:27 (Asia/Kuwait)
+HTTP: 200
+
+Browse
+BROWSE ALL (130)
+Minecraft
+The Sims 4
+World of Warcraft
+Minecraft Bedrock
+Ark Survival Ascended
+Hytale
+inZOI
+StarCraft II
+Kerbal Space Program
+Stardew Valley
+American Truck Simulator
+Hogwarts Legacy
+Terraria
+WildStar
+Palworld
+World of Tanks
+PUBG: BATTLEGROUNDS
+Runes of Magic
+ARKathon 2 - Submissions Open!
+Create
+MOD AUTHORS
+Become an Author
+Start a Project
+Project Submission Guide
+MODDING TOOL DEVELOPERS
+Apply for an API Key
+Documentation
+Terms & Conditions
+SOCIAL
+Join Our Discord!
+Authors Discord
+ARKathon 2 - Submissions Open!
+Studios
+GAME DEVELOPERS
+Unlock Modding for Your Game
+Documentation
+ARKathon 2 - Submissions Open!
+Go Premium
+Get CurseForge App
+Sign In
+Discover
+Browse All
+World of Warcraft
+Addons
+Aw
+By
+Dragonarab
+Translate World of Warcraft into Arabic language.
+Aw
+1
+Details
+Downloads
+1,307
+Created
+1 decade ago
+Updated
+1 decade ago
+Project ID
+82274
+License
+BSD License
+Class & Categories
+Addons
+Chat & Communication
+Quests & Leveling
+Buffs & Debuffs
+Tooltip
+Links
+Wiki
+Source
+Localization
+Report
+Description
+Comments (2)
+Files
+Gallery (5)
+Relations
+
+Spells Tooltips
+
+Spells Tooltips2
+
+Items tooltips
+
+Questlog2
+
+Questlog
+
+Description
+
+Original code credit to : Milaisan
+
+إضافة والد أوف وار كرافت العربية هي إضافة لإضافة اللغة العربية على المهام, الأدوات, المهارات و الإنجازات
+
+ 
+
+ 
+
+Translate the following into Arabic language:
+
+Items (parts of needs a lot of works)
+quests (not yet)
+spells  (not yet)
+Achievements  (not yet)
+
+ 
+
+Project HP: https://sites.google.com/site/dragonarab/
+
+Twitter : https://twitter.com/dragonarab
+
+Aw Team
+Dragonarab
+Owner
+2
+Followers
+8
+Projects
+19.2K
+Downloads
+Donate
+Follow
+More from Dragonarab
+View all
+WoWAR - Forever
+By
+Dragonarab
+37
+Addons
+
+Arabic translation of quests, NPC dialogue, books, tooltips, chat and the game interface, shown right-to-left with per-content on/off settings.
+
+37
+November 5, 2026
+Addons
++4
+View
+Install
+WoWAr - Arabic
+By
+Dragonarab
+4.6K
+Addons
+
+WoWAr - Arabic - واركرافت بالعربي
+
+4.6K
+May 9, 2026
+Addons
++3
+View
+Install
+WoW Voice Lector
+By
+platine1
+8.0K
+Addons
+
+The AddOn reads the translated quest texts aloud
+
+8.0K
+August 23, 2025
+Addons
++3
+View
+Install
+WoW in Arabic - Chat [OLD]
+By
+Dragonarab
+2.2K
+Addons
+
+Allow players to type Arabic in Chat
+
+2.2K
+December 18, 2023
+Addons
++1
+View
+Install
+CurseForge - a world of endless gaming possibilities for modders and gamers alike.
+Download the best mods and addons!
+Games
+All games
+Minecraft
+World of Warcraft
+The Sims 4
+Starcraft II
+Kerbal Space Program
+Minecraft Dungeons
+World of Tanks
+Create
+Start a project
+Project submission guide
+Author Rewards Program
+Apply for an API Key
+3rd Party API T&C
+Community
+Join Our Discord!
+Ideas Portal
+CF blog
+Newsletter
+Roadmap
+Bukkit forums
+CurseForge Servers
+Support
+Knowledge base
+Troubleshooting
+Contact us
+Companions
+Overwolf
+CurseForge for Studios
+Tebex
+Nitro
+Terms of Service
+Privacy Policy
+Licenses
+Mod Author Terms
+© 2026 Overwolf. All rights reserved.

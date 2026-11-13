@@ -1,0 +1,211 @@
+URL: https://www.wowinterface.com/downloads/info26532-WoWinArabic-Quests.html
+Captured: 2026-11-13 22:42 (Asia/Kuwait)
+HTTP: 200
+
+AddOns
+ AddOn Manager
+ Latest 200
+ Browse
+ Upload AddOn
+ 
+ Search AddOns
+ 
+ Projects
+ Author Portals
+ 
+ Git Repositories
+ 
+ SVN Repositories
+ 
+ Options
+ Email Feeds
+ 
+ Preference
+ 
+ Download History
+ 
+ News 
+ Forums
+ New posts
+ 
+ Today's Posts
+ 
+ Search Forum
+ 
+ Categories
+ General
+ 
+ AddOns, Comps, Macros
+ 
+ Featured Projects
+ 
+ Developer
+ 
+ Site Forums
+ 
+ Mark Forums Read
+ 
+ Subscribed Threads
+ 
+ Open Buddy List
+ 
+ Members List
+ 
+ Help 
+  Login 
+Sign up
+ 
+ 
+ World of Warcraft AddOns » Stand-Alone Addons » Character Advancement » WoWinArabic-Quests
+Addon Info.
+Other Files
+Comments (0)
+(8MB)
+Download
+Updated: 01-25-23 05:10 PM
+Add Favorite
+Install Help
+Pictures
+File Info
+View 3 Screenshots
+WoWinArabic-Quests
+Version: 0.3
+by: Dragonarab, Platine
+
+WoW in Arabic
+
+Introducing the first-ever World of Warcraft addon that brings the Arabic language to the game - the WoW Arabic Translation Addon!
+
+This addon is a game changer for Arabic-speaking players of World of Warcraft. It seamlessly integrates the Arabic language into the game, making it easy for players to understand and complete quests in their native language.
+
+The WoW Arabic Translation Addon is an essential tool for all Arabic-speaking players looking to fully immerse themselves in the game. With the help of this addon, players will be able to understand and complete quests with ease, without the need to rely on translation tools or external resources.
+
+The addon uses a custom-built Arabic Reshaping Library, which ensures that the Arabic text is displayed correctly and legibly in-game. This library was developed specifically for this addon and has been rigorously tested to ensure its compatibility with the game.
+
+
+
+Working on the addon took a lot of work, so if you would like to respect our work and contribute to the further development of the project - support the project with a donation. How much is this addon worth to you? You will find the donation button on the right.
+
+
+
+اقدم بين يديكم أول الملحق(ادون) للعبة ولد اوف واركرافت على الإطلاق يسمح باللغة العربية في اللعبة.
+
+هذا الملحق هو تاريخ سوف يغيير قواعد اللعبة للاعبين الناطقين باللغة العربية في لعبة ولد اوف واركرافت. إنه يدمج اللغة العربية بسلاسة في اللعبة ، مما يسهل على اللاعبين فهم المهام وإكمالها بلغتهم الأم.
+
+يعد الملحق لترجمة العربية أداة أساسية لجميع اللاعبين الناطقين باللغة العربية الذين يتطلعون إلى الانغماس الكامل في اللعبة. بمساعدة هذا الملحق ، سيتمكن اللاعبون من فهم المهام وإكمالها بسهولة ، دون الحاجة إلى الاعتماد على أدوات الترجمة أو الموارد الخارجية.
+
+يستخدم الملحق مكتبة إعادة تشكيل اللغة العربية المصممة خصيصًا ، والتي تضمن عرض النص العربي بشكل صحيح ومقروء في اللعبة. تم تطوير هذه المكتبة خصيصًا لهذا الملحق وتم اختبارها بدقة لضمان توافقها مع اللعبة.
+
+هذه الإضافة اخذت وقتاً طويلاً منا لإعداداها وبرمجتها إذا كنت تتمنى ان نستكمل تطوير مثل هذه الإضافات للاعب العربي الرجاء التبرع. شكراً
+
+
+
+ Report this File
+
+
+Category Jump:
+
+Addons for WoW Classic
+- Cataclysm Classic
+- The Burning Crusade Classic
+- Classic - General
+- WOTLK Classic
+Stand-Alone Addons
+- Action Bar Mods
+- Auction House & Vendors
+- Carbonite
+- Bags, Bank, Inventory
+- Buff, Debuff, Spell
+- Casting Bars, Cooldowns
+- Character Advancement
+- Chat Mods
+- Class & Role Specific
+-- Death Knight
+-- Demon Hunter
+-- Druid
+-- Hunter
+-- Mage
+-- Monk
+-- Paladin
+-- Priest
+-- Rogue
+-- Shaman
+-- Warlock
+-- Warrior
+-- DPS
+-- Healers
+-- Tank
+- oUF
+-- oUF: Core
+-- oUF: Layouts
+-- oUF: Plugins
+- Combat Mods
+- Data Mods
+- Garrisons
+- Graphic UI Mods
+- Group, Guild & Friends
+- Info, Plug-in Bars
+-- Data Broker
+-- FuBar
+-- Titan Panel
+-- Other
+- Map, Coords, Compasses
+- Mail
+- Mini Games, ROFL
+- Mounts & Pets
+- PvP, Arena, BattleGrounds
+- Raid Mods
+- RolePlay, Music Mods
+- Suites
+- TradeSkill Mods
+- ToolTip
+- UI Media
+- Unit Mods
+- Miscellaneous
+- Utility Mods
+Compilations
+- Graphical Compilations
+- Minimalistic Compilations
+- Class Compilations
+- Guild Compilations
+- DPS Compilations
+- Healer Compilations
+- Tank Compilations
+- Generic Compilations
+- nUI
+-- nUI: Core
+-- nUI+ Full Version
+-- nUI: Art
+-- nUI: Enhancements
+-- nUI: Layouts
+-- nUI: HUD Designs
+-- nUI: Unit Frame Panels
+-- nUI: Info Panel Plugins
+Utilities
+- Libraries
+- Developer Utilities
+- WoW Tools & Utilities
+Optional
+- Beta-version AddOns
+- Plug-Ins & Patches
+- Discontinued and Outdated Mods
+
+
+WoWInterface
+Home
+Contact WoWInterface
+Terms of Service
+Privacy Statement
+Top
+AddOn Sites
+Cube World Mods
+ESOUI
+EQInterface
+EQ2Interface
+LotROInterface
+Riftui
+SecretUI
+Swtorui
+WoWInterface
+
+© 2004 - 2025 MMOUI

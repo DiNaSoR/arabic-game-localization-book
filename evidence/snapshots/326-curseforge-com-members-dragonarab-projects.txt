@@ -1,0 +1,252 @@
+URL: https://www.curseforge.com/members/dragonarab/projects
+Captured: 2026-11-13 22:27 (Asia/Kuwait)
+HTTP: 200
+
+Browse
+BROWSE ALL (130)
+Minecraft
+The Sims 4
+World of Warcraft
+Minecraft Bedrock
+Ark Survival Ascended
+Hytale
+inZOI
+StarCraft II
+Kerbal Space Program
+Stardew Valley
+American Truck Simulator
+Hogwarts Legacy
+Terraria
+WildStar
+Palworld
+World of Tanks
+PUBG: BATTLEGROUNDS
+Runes of Magic
+ARKathon 2 - Submissions Open!
+Create
+MOD AUTHORS
+Become an Author
+Start a Project
+Project Submission Guide
+MODDING TOOL DEVELOPERS
+Apply for an API Key
+Documentation
+Terms & Conditions
+SOCIAL
+Join Our Discord!
+Authors Discord
+ARKathon 2 - Submissions Open!
+Studios
+GAME DEVELOPERS
+Unlock Modding for Your Game
+Documentation
+ARKathon 2 - Submissions Open!
+Go Premium
+Get CurseForge App
+Sign In
+Dragonarab
+Author
+2 Followers
+19.2K Downloads
+Member Since 1 Decade Ago
+Last Active 7 Days Ago
+Follow
+Message
+Projects
+Favorites
+Followers
+9 Projects
+Sort by
+Release Date
+
+Release Date
+
+Release Date
+Popularity
+Filter by
+All
+Owner
+WoWAR - Forever
+By
+Dragonarab
+37
+Nov 5, 2026
+Nov 5, 2026
+
+Arabic translation of quests, NPC dialogue, books, tooltips, chat and the game interface, shown right-to-left with per-content on/off settings.
+
+Download
+Install
+Addons
+Quests & Leveling
+Unit Frames
+Map & Minimap
+Tooltip
+Chat & Communication
+Owner
+WoWAr - Arabic
+By
+Dragonarab
+4.6K
+May 9, 2026
+Aug 25, 2024
+
+WoWAr - Arabic - واركرافت بالعربي
+
+Download
+Install
+Addons
+Quests & Leveling
+Chat & Communication
+Tooltip
+HUDs
+WoW Voice Lector
+By
+platine1
+8.0K
+Aug 23, 2025
+Jun 30, 2024
+
+The AddOn reads the translated quest texts aloud
+
+Download
+Install
+Addons
+Quests & Leveling
+Audio & Video
+Miscellaneous
+Chat & Communication
+Owner
+WoW in Arabic - Chat [OLD]
+By
+Dragonarab
+2.2K
+Dec 18, 2023
+Feb 20, 2023
+
+Allow players to type Arabic in Chat
+
+Download
+Install
+Addons
+Chat & Communication
+Class
+Owner
+WoW in Arabic - Bubbles [OLD]
+By
+Dragonarab
+1.8K
+Nov 27, 2023
+Feb 9, 2023
+
+addon displays in-game speech bubbles in the Arabic language
+
+Download
+Install
+Addons
+Quests & Leveling
+Tooltip
+Owner
+WoW in Arabic - Quests [OLD]
+By
+Dragonarab
+6.0K
+Nov 26, 2023
+Jan 25, 2023
+
+addon displays quests in Arabic
+
+Download
+Install
+Addons
+Quests & Leveling
+Tooltip
+Owner
+WoW in Arabic - Movies [OLD]
+By
+Dragonarab
+1.5K
+Nov 25, 2023
+Feb 9, 2023
+
+addon displays in Arabic translated subtitles in movies and cinematics
+
+Download
+Install
+Addons
+Quests & Leveling
+Tooltip
+Owner
+Lib Arabic Reshaper [OLD]
+By
+Dragonarab
+1.6K
+Feb 22, 2023
+Jan 25, 2023
+
+Arabic Text Reshaper
+
+Download
+Install
+Addons
+Libraries
+Owner
+Aw
+By
+Dragonarab
+1.3K
+Jul 7, 2014
+Jul 7, 2014
+
+Translate World of Warcraft into Arabic language.
+
+Download
+Install
+Addons
+Chat & Communication
+Quests & Leveling
+Buffs & Debuffs
+Tooltip
+1
+CurseForge - a world of endless gaming possibilities for modders and gamers alike.
+Download the best mods and addons!
+Games
+All games
+Minecraft
+World of Warcraft
+The Sims 4
+Starcraft II
+Kerbal Space Program
+Minecraft Dungeons
+World of Tanks
+Create
+Start a project
+Project submission guide
+Author Rewards Program
+Apply for an API Key
+3rd Party API T&C
+Community
+Join Our Discord!
+Ideas Portal
+CF blog
+Newsletter
+Roadmap
+Bukkit forums
+CurseForge Servers
+Support
+Knowledge base
+Troubleshooting
+Contact us
+Companions
+Overwolf
+CurseForge for Studios
+Tebex
+Nitro
+Terms of Service
+Privacy Policy
+Licenses
+Mod Author Terms
+© 2026 Overwolf. All rights reserved.
+We use cookies to improve your experience and increase the relevancy of content when using CurseForge. Our cookies are used for analytics,
+optimization, and advertising operations. View our Cookies Policy
+Got it
