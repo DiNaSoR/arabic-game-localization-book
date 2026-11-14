@@ -30,7 +30,7 @@
 
 ---
 
-## ثالثاً: أرشيف الصور ولقطات الشاشة الأولية (`evidence/media/` — 26 وثيقة مصوَّرة)
+## ثالثاً: أرشيف الصور ولقطات الشاشة الأولية (`evidence/media/` — 27 وثيقة مصوَّرة)
 
 | الملف | الوصف والمصدر |
 | --- | --- |
@@ -55,6 +55,7 @@
 | `media/hesham-may31-greek-modder-credit.jpg` | لقطة شاشة نشرها `@Arabic_Hesham` في 31 مايو 2026 لرسالة المترجم اليوناني `Yiannis` الذي استأذنه في استخدام أدواته مفتوحة المصدر. |
 | `media/dragonarab-2004-arabic-ragnarok-installer.jpg` | نافذة برنامج تثبيت «Arabic R G N A R O K online» من صفحة التحميل؛ من أرشيف الإنترنت لموقع `dragonarab.com` (لقطة سبتمبر 2004؛ التفصيل والروابط في `pages/2003-2024-dragonarab-record.md`). |
 | `media/dragonarab-2004-login-id-dragonarab.jpg` | نافذة الدخول إلى *Ragnarok Online* وفي خانة المعرّف `Dragonarab`، من صفحة التحميل؛ من أرشيف الإنترنت لموقع `dragonarab.com` (لقطة سبتمبر 2004؛ التفصيل والروابط في `pages/2003-2024-dragonarab-record.md`). |
+| `media/dragonarab-2004-login-id-dragonarab-m.jpg` | نافذة الدخول نفسها والمعرّف `Dragonarab_M` (مثال التسجيل في صفحة التحميل)؛ من أرشيف الإنترنت لموقع `dragonarab.com` (لقطة سبتمبر 2004؛ التفصيل والروابط في `pages/2003-2024-dragonarab-record.md`). |
 | `media/dragonarab-2004-korean-setup-icon.jpg` | أيقونة ملف تثبيت النسخة الكورية (`RAG_SETUP0401.exe`) من صفحة التحميل؛ من أرشيف الإنترنت لموقع `dragonarab.com` (لقطة سبتمبر 2004؛ التفصيل والروابط في `pages/2003-2024-dragonarab-record.md`). |
 | `media/dragonarab-2004-korean-patch-client.jpg` | نافذة تحديث النسخة الكورية (`Patch client`) من صفحة التحميل؛ من أرشيف الإنترنت لموقع `dragonarab.com` (لقطة سبتمبر 2004؛ التفصيل والروابط في `pages/2003-2024-dragonarab-record.md`). |
 | `media/dragonarab-2004-aropatch-step1-regional-options.jpg` | الخطوة الأولى في شرح صفحة «باتج رجناروك العربي الكامل»: ضبط `Regional Options` على «Arabic (Kuwait)»، والتاريخ الظاهر «٠٦ سبتمبر، ٢٠٠٤»؛ من أرشيف الإنترنت لموقع `dragonarab.com` (لقطة سبتمبر 2004؛ التفصيل والروابط في `pages/2003-2024-dragonarab-record.md`). |
